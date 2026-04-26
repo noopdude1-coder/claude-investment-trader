@@ -1,0 +1,29 @@
+name: Auto-merge claude bot PRs
+
+# Why this exists: Claude Code Cloud routines push to claude/* feature branches
+# and open PRs by design — there is no setting to push directly to main. For an
+# autonomous bot whose memory IS the main branch, every routine's work must land
+# on main within seconds or the next routine reads stale state. This workflow
+# squash-merges any PR opened from a claude/* branch immediately.
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  merge:
+    if: startsWith(github.head_ref, 'claude/')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Squash-merge the PR
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh pr merge "${{ github.event.pull_request.number }}" \
+            --repo "${{ github.repository }}" \
+            --squash \
+            --delete-branch
