@@ -35,7 +35,7 @@ Friday reviews appended here. Template for each entry:
 - Time-to-stop-placement after fill: median X seconds
 - Research-log completeness: X / Y trades had pre-documented catalyst
 - Routine push success rate: X / Y runs persisted to main
-- Notification delivery: X / Y expected ClickUp messages arrived
+- Notification delivery: X / Y expected Discord messages arrived
 
 ### What Worked
 - ...

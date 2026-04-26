@@ -5,7 +5,7 @@ Autonomous Claude Code trading agent running on a Traditional IRA at Alpaca. Bui
 ## Quickstart
 
 1. Push this repo to GitHub (private to start, can flip to public for the dashboard later).
-2. Sign up: Alpaca (paper first), Perplexity, ClickUp. Note workspace + channel IDs.
+2. Sign up: Alpaca (paper first), Perplexity (API access — not Pro), Discord (create a webhook on a channel).
 3. `cp env.template .env`, fill in credentials. **Never commit `.env`.**
 4. Local smoke test: open this directory in Claude Code, run `/portfolio`. Should print account + positions cleanly.
 5. Install the Claude GitHub App on this repo.
@@ -31,7 +31,7 @@ routines/                      # Cloud routine prompts (production)
 scripts/                       # API wrappers — only path to the outside world
   alpaca.sh                    # Trading
   perplexity.sh                # Research
-  clickup.sh                   # Notifications
+  discord.sh                   # Notifications (Discord webhook)
 docs/                          # Public GitHub Pages dashboard
   index.html                   # Single-page dashboard (Chart.js + marked.js via CDN)
   equity.json                  # EOD snapshot history — appended to daily by daily-summary

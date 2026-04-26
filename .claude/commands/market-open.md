@@ -36,4 +36,4 @@ PDT does NOT apply on this IRA cash account — every stop is a real GTC trailin
 
 STEP 6 — Append each trade to memory/TRADE-LOG.md (date, ticker, side, shares, entry, stop, thesis, target, R:R).
 
-STEP 7 — bash scripts/clickup.sh "<tickers, shares, fill prices, one-line why>" if any trade fired.
+STEP 7 — bash scripts/discord.sh "<tickers, shares, fill prices, one-line why>" if any trade fired.

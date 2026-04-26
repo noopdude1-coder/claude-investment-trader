@@ -39,4 +39,4 @@ STEP 5 — Overwrite docs/latest-week.md with just the section you appended (so 
 
 STEP 6 — Only update memory/TRADING-STRATEGY.md if a rule has proven out for 2+ weeks or failed badly. Default: no change.
 
-STEP 7 — bash scripts/clickup.sh with a <=15-line recap.
+STEP 7 — bash scripts/discord.sh with a <=15-line recap.

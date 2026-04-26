@@ -38,7 +38,7 @@ runs per trading day plus two ad-hoc helpers.
 
 ## API Wrappers
 
-Use bash scripts/alpaca.sh, scripts/perplexity.sh, scripts/clickup.sh.
+Use bash scripts/alpaca.sh, scripts/perplexity.sh, scripts/discord.sh.
 Never curl these APIs directly.
 
 ## Communication Style

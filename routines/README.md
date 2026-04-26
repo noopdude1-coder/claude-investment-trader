@@ -10,7 +10,7 @@ Each `.md` file in this directory is the prompt for one Claude Code cloud routin
    - `ALPACA_API_KEY`, `ALPACA_SECRET_KEY`
    - `ALPACA_ENDPOINT` (optional), `ALPACA_DATA_ENDPOINT` (optional)
    - `PERPLEXITY_API_KEY`, `PERPLEXITY_MODEL` (optional, defaults to `sonar`)
-   - `CLICKUP_API_KEY`, `CLICKUP_WORKSPACE_ID`, `CLICKUP_CHANNEL_ID`
+   - `DISCORD_WEBHOOK_URL` (one URL is the entire credential)
 
 ## Cron schedules (America/Chicago — adjust if your timezone differs)
 

@@ -29,4 +29,4 @@ STEP 5 — Thesis check. If a thesis broke intraday, cut even if not at -7%.
 
 STEP 6 — Optional intraday research via Perplexity if anything is moving sharply with no obvious cause. Append to RESEARCH-LOG.
 
-STEP 7 — bash scripts/clickup.sh "<action summary>" if action was taken.
+STEP 7 — bash scripts/discord.sh "<action summary>" if action was taken.

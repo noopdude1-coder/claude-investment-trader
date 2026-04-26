@@ -7,15 +7,14 @@ DATE=$(date +%Y-%m-%d).
 IMPORTANT — ENVIRONMENT VARIABLES:
 - Every API key is ALREADY exported as a process env var: ALPACA_API_KEY,
   ALPACA_SECRET_KEY, ALPACA_ENDPOINT, ALPACA_DATA_ENDPOINT,
-  PERPLEXITY_API_KEY, PERPLEXITY_MODEL, CLICKUP_API_KEY,
-  CLICKUP_WORKSPACE_ID, CLICKUP_CHANNEL_ID.
+  PERPLEXITY_API_KEY, PERPLEXITY_MODEL, DISCORD_WEBHOOK_URL.
 - There is NO .env file in this repo and you MUST NOT create, write, or
   source one. The wrapper scripts read directly from the process env.
 - If a wrapper prints "KEY not set in environment" -> STOP, send one
-  ClickUp alert naming the missing var, and exit.
+  Discord alert naming the missing var, and exit.
 - Verify env vars BEFORE any wrapper call:
     for v in ALPACA_API_KEY ALPACA_SECRET_KEY PERPLEXITY_API_KEY \
-             CLICKUP_API_KEY CLICKUP_WORKSPACE_ID CLICKUP_CHANNEL_ID; do
+             DISCORD_WEBHOOK_URL; do
       [[ -n "${!v:-}" ]] && echo "$v: set" || echo "$v: MISSING"
     done
 
@@ -54,7 +53,7 @@ STEP 4 — Write a dated entry to memory/RESEARCH-LOG.md:
 - Decision: trade or HOLD (default HOLD — patience > activity)
 
 STEP 5 — Notification: silent unless urgent.
-  bash scripts/clickup.sh "<one line>"
+  bash scripts/discord.sh "<one line>"
 
 STEP 6 — COMMIT AND PUSH (mandatory):
   git add memory/RESEARCH-LOG.md

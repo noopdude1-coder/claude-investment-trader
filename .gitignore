@@ -2,8 +2,10 @@
 .env.*
 !env.template
 
-# Local-only ClickUp fallback file written when notification credentials are unset
-DAILY-SUMMARY.md
+# Local-only notification fallback files (root-only — leading slash matters: without
+# it, Windows case-insensitive matching ate routines/daily-summary.md silently)
+/NOTIFICATIONS.md
+/DAILY-SUMMARY.md
 
 # OS junk
 .DS_Store

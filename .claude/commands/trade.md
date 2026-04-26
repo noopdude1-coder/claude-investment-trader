@@ -23,4 +23,4 @@ Args: SYMBOL SHARES SIDE (buy or sell). If missing, ask.
    bash scripts/alpaca.sh order '{"symbol":"SYM","qty":"N","side":"buy|sell","type":"market","time_in_force":"day"}'
 6. For BUYs, immediately place 10% trailing stop GTC (same flow as market-open).
 7. Log to memory/TRADE-LOG.md with full thesis, entry, stop, target, R:R.
-8. bash scripts/clickup.sh with trade details.
+8. bash scripts/discord.sh with trade details.
