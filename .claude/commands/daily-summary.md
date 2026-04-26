@@ -32,3 +32,9 @@ STEP 5 — Update docs/equity.json: read existing array, append (or replace) tod
 SPY close = midpoint of `bash scripts/alpaca.sh quote SPY` (ap+bp)/2.
 
 STEP 6 — bash scripts/discord.sh with a <=15-line recap (always, even on no-trade days).
+
+STEP 7 — Commit and push so the public dashboard updates:
+  git add memory/TRADE-LOG.md docs/equity.json
+  git commit -m "EOD snapshot $DATE"
+  git push origin main
+On push failure: rebase and retry.

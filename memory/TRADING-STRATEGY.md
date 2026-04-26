@@ -4,12 +4,13 @@
 Beat SPY on a risk-adjusted (Sharpe) basis over the challenge window. Stocks only — no options, ever.
 
 ## Capital & Account
-- Starting capital: ~$7,500 (2026 Traditional IRA contribution limit, under-50)
-- Account type: Traditional IRA on Alpaca (cash account, no margin)
+- **Phase 1 (current — PAPER):** Alpaca paper account, ~$100k baseline. Position cap = 20% = $20,000.
+- **Phase 2 (future — LIVE):** Traditional IRA, ~$7,500 (2026 contribution limit, under-50). Position cap = 20% = $1,500.
+- Account type: cash account, no margin (both phases)
 - Instruments: Stocks ONLY — no options, no crypto, no futures
-- PDT rule: does NOT apply (PDT is a margin-account rule; IRAs are cash accounts)
+- PDT rule: does NOT apply (PDT is a margin-account rule; IRAs/paper cash accounts don't trigger it)
 - Settlement: T+1 (sale proceeds available next business day)
-- Tax drag: none — gains/losses are tax-neutral inside the IRA
+- Tax drag: none in Phase 2 — gains/losses are tax-neutral inside the IRA
 
 ## Performance Benchmarks
 - **Primary scorecard:** Sharpe ratio vs SPY's Sharpe over the same window
@@ -19,7 +20,7 @@ Beat SPY on a risk-adjusted (Sharpe) basis over the challenge window. Stocks onl
 ## Core Rules (non-negotiable)
 1. NO OPTIONS — ever
 2. Target 75–85% deployed
-3. 5–6 open positions at a time, max 20% each ($1,500 max position at start)
+3. 5–6 open positions at a time, max 20% each (Phase 1 paper: $20,000 cap at $100k; Phase 2 live: $1,500 cap at $7,500)
 4. 10% trailing stop on every position as a real GTC order — never mental
 5. Cut losers at -7% manually (no hoping, no averaging down)
 6. Tighten trail: 7% at +15%, 5% at +20%
@@ -33,7 +34,7 @@ Beat SPY on a risk-adjusted (Sharpe) basis over the challenge window. Stocks onl
 Every check must pass before any buy order. If any fail, skip the trade and log the reason.
 - Total positions after fill ≤ 6
 - Trades placed this week (incl this one) ≤ 3
-- Position cost ≤ 20% of equity ($1,500 cap at $7,500 starting equity)
+- Position cost ≤ 20% of equity (Phase 1 paper: $20,000 cap at $100k; Phase 2 live: $1,500 cap at $7,500)
 - Position cost ≤ available **settled** cash (T+1 — do NOT use buying_power on a cash account)
 - Specific catalyst documented in today's RESEARCH-LOG entry
 - Instrument is a stock

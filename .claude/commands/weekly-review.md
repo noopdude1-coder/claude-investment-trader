@@ -40,3 +40,10 @@ STEP 5 — Overwrite docs/latest-week.md with just the section you appended (so 
 STEP 6 — Only update memory/TRADING-STRATEGY.md if a rule has proven out for 2+ weeks or failed badly. Default: no change.
 
 STEP 7 — bash scripts/discord.sh with a <=15-line recap.
+
+STEP 8 — Commit and push so the public dashboard updates:
+  git add memory/WEEKLY-REVIEW.md docs/latest-week.md
+  git commit -m "weekly review $DATE"
+  git push origin main
+If TRADING-STRATEGY.md changed in STEP 6, also git add memory/TRADING-STRATEGY.md.
+On push failure: rebase and retry.

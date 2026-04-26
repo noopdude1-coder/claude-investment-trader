@@ -2,11 +2,15 @@
 
 ## Overview
 - **What:** Autonomous AI trading bot — Traditional IRA, swing trading
-- **Starting capital:** ~$7,500 (2026 IRA contribution limit, under-50)
-- **Platform:** Alpaca (Traditional IRA, cash account, no margin)
+- **Platform:** Alpaca (cash account, no margin)
 - **Duration:** open-ended; honest verdict requires 3+ years
 - **Strategy:** Swing trading stocks, no options, no crypto, no futures
 - **Primary scorecard:** Sharpe vs SPY's Sharpe over the same window
+
+## Mode
+- **Phase 1 — PAPER (current):** Alpaca paper account, ~$100k baseline. Position cap $20k (20%). Goal: validate mechanics — cron firing, commits persisting, stops placed as GTC orders, Discord notifications arriving. Treat dollar amounts as proportional, not absolute.
+- **Phase 2 — LIVE (future):** Real Traditional IRA, ~$7,500 (2026 contribution limit, under-50). Position cap $1,500 (20%). Switch happens when Phase 1 has demonstrated rule-adherence and reliable workflow execution.
+- **At Phase 2 cutover:** reset `docs/equity.json` to a fresh $7,500 baseline, update CLAUDE.md / TRADING-STRATEGY.md position caps, update `ALPACA_ENDPOINT` to `https://api.alpaca.markets/v2`, swap to live API keys.
 
 ## Calibration Reminder
 6 months of swing-trading data is mostly noise. The first 30–90 days validates SYSTEM mechanics
