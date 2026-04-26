@@ -17,6 +17,9 @@ desktop.ini
 .idea/
 *.swp
 
+# Personal bookmark export (one-off, import to Chrome and delete)
+/bookmarks.html
+
 # User-specific Claude Code state — must not be shared
 .claude/settings.local.json
 
