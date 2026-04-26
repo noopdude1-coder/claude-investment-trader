@@ -50,3 +50,21 @@ Friday reviews appended here. Template for each entry:
 - ...
 
 ### Overall Grade: X
+
+## Week ending 2026-04-26
+
+**REVIEW BLOCKED — environment not provisioned.**
+
+All required secrets missing from process env: `ALPACA_API_KEY`,
+`ALPACA_SECRET_KEY`, `PERPLEXITY_API_KEY`, `DISCORD_WEBHOOK_URL`.
+
+- Could not pull account/positions (alpaca.sh failed: `ALPACA_API_KEY not set in environment`).
+- Could not fetch SPY/RSP benchmark returns (perplexity unavailable).
+- Discord alert about the missing vars fell through to local
+  NOTIFICATIONS.md (gitignored) — will not reach the user channel.
+
+### Action required
+- Re-export the four secrets in the cloud routine env before next scheduled run.
+- Verify `DISCORD_WEBHOOK_URL` first — without it, future failures will be silent.
+
+### Overall Grade: N/A — review not executable
