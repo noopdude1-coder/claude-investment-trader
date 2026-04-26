@@ -1,0 +1,8 @@
+# Default: auto-detect text files, normalize to LF in the repo
+* text=auto
+
+# Bash scripts MUST be LF — they run in a Linux cloud container and break with CRLF
+*.sh text eol=lf
+
+# Binary files
+*.pdf binary

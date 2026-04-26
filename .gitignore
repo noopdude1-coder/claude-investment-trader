@@ -1,0 +1,22 @@
+.env
+.env.*
+!env.template
+
+# Local-only ClickUp fallback file written when notification credentials are unset
+DAILY-SUMMARY.md
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+
+# User-specific Claude Code state — must not be shared
+.claude/settings.local.json
+
+# Don't redistribute Nate Herk's original Opus 4.7 Trading Bot setup guide
+Opus 4.7  Trading Bot — Setup Guide.docx.pdf

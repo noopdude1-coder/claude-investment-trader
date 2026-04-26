@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Claude Investment Trader</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg: #0d1117;
+    --bg-elevated: #161b22;
+    --border: #30363d;
+    --text: #c9d1d9;
+    --text-dim: #8b949e;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --red: #f85149;
+    --mono: ui-monospace, "SF Mono", Menlo, Monaco, Consolas, monospace;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+  }
+  main { max-width: 960px; margin: 0 auto; padding: 24px 16px 48px; }
+  header { border-bottom: 1px solid var(--border); padding-bottom: 16px; margin-bottom: 24px; }
+  header h1 { margin: 0 0 4px; font-size: 24px; }
+  .subtitle { margin: 0 0 8px; color: var(--text-dim); font-size: 14px; }
+  .disclaimer {
+    margin: 8px 0 0;
+    padding: 8px 12px;
+    background: rgba(248, 81, 73, 0.1);
+    border-left: 3px solid var(--red);
+    color: var(--text);
+    font-size: 13px;
+    border-radius: 4px;
+  }
+  .hero {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    gap: 12px;
+    margin-bottom: 24px;
+  }
+  .stat {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 14px 16px;
+  }
+  .stat .label { display: block; font-size: 12px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px; }
+  .stat .value { display: block; font-size: 24px; font-family: var(--mono); margin-top: 2px; }
+  .stat .sub { display: block; font-size: 12px; color: var(--text-dim); margin-top: 2px; }
+  .pos { color: var(--green); }
+  .neg { color: var(--red); }
+  section.panel {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 16px;
+    margin-bottom: 16px;
+  }
+  section.panel h2 {
+    margin: 0 0 12px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    color: var(--text-dim);
+  }
+  table { width: 100%; border-collapse: collapse; font-family: var(--mono); font-size: 13px; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--border); }
+  th { color: var(--text-dim); font-weight: 500; text-transform: uppercase; font-size: 11px; letter-spacing: 0.5px; }
+  td.num { text-align: right; }
+  #chart-wrap { position: relative; height: 320px; }
+  #empty-msg, #review-empty { color: var(--text-dim); font-style: italic; padding: 16px 0; text-align: center; }
+  .review-content { font-size: 14px; }
+  .review-content h2 { font-size: 18px; margin-top: 0; color: var(--text); text-transform: none; letter-spacing: 0; }
+  .review-content h3 { font-size: 14px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 0.5px; margin: 16px 0 6px; }
+  .review-content table { background: var(--bg); }
+  .review-content code { background: var(--bg); padding: 2px 4px; border-radius: 3px; font-size: 12px; }
+  footer { margin-top: 32px; padding-top: 16px; border-top: 1px solid var(--border); color: var(--text-dim); font-size: 13px; }
+  footer a { color: var(--accent); text-decoration: none; }
+  footer a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Claude Investment Trader</h1>
+    <p class="subtitle">Autonomous AI swing trader · Traditional IRA · Stocks only · Updates daily after market close</p>
+    <p class="disclaimer">
+      <strong>Not financial advice.</strong> An experimental AI agent trading a small Traditional IRA. Do not copy these trades. The agent has hard rules but no guarantees.
+    </p>
+  </header>
+
+  <section class="hero">
+    <div class="stat">
+      <span class="label">Portfolio</span>
+      <span class="value" id="portfolio-value">$—</span>
+      <span class="sub" id="portfolio-change">since inception</span>
+    </div>
+    <div class="stat">
+      <span class="label">vs SPY</span>
+      <span class="value" id="vs-spy">—</span>
+      <span class="sub">since inception</span>
+    </div>
+    <div class="stat">
+      <span class="label">Day P&amp;L</span>
+      <span class="value" id="day-pl">—</span>
+      <span class="sub" id="day-pl-date">last EOD</span>
+    </div>
+    <div class="stat">
+      <span class="label">Last update</span>
+      <span class="value" id="last-update">—</span>
+      <span class="sub">EOD daily</span>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Equity curve (normalized to 100)</h2>
+    <div id="chart-wrap">
+      <canvas id="equity-chart"></canvas>
+    </div>
+    <p id="empty-msg" style="display:none;">Bot has not posted any EOD snapshots yet. The chart will appear after the first daily-summary routine fires.</p>
+  </section>
+
+  <section class="panel">
+    <h2>Open positions</h2>
+    <div id="positions-wrap">
+      <table>
+        <thead>
+          <tr>
+            <th>Symbol</th>
+            <th class="num">Shares</th>
+            <th class="num">Entry</th>
+            <th class="num">Current</th>
+            <th class="num">Stop</th>
+            <th class="num">Unrealized</th>
+          </tr>
+        </thead>
+        <tbody id="positions-body"></tbody>
+      </table>
+      <p id="positions-empty" style="display:none; color: var(--text-dim); font-style: italic; padding: 12px 0;">No open positions.</p>
+    </div>
+  </section>
+
+  <section class="panel">
+    <h2>Latest weekly review</h2>
+    <div id="weekly-review-content" class="review-content"></div>
+    <p id="review-empty" style="display:none;">First weekly review posts Friday afternoon.</p>
+  </section>
+
+  <footer>
+    <p>
+      Source &amp; full audit trail: <a id="repo-link" href="#">GitHub repo</a> ·
+      Built on <a href="https://www.claude.com/claude-code">Claude Code</a> ·
+      Strategy adapted from <a href="https://www.youtube.com/@nateherk">Nate Herk's Opus 4.7 Trading Bot</a>
+    </p>
+  </footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/marked@11.1.0/marked.min.js"></script>
+<script>
+(async function () {
+  const fmtMoney = (n) => n == null ? '—' : '$' + n.toLocaleString(undefined, { minimumFractionDigits: 2, maximumFractionDigits: 2 });
+  const fmtPct = (n, digits = 2) => n == null ? '—' : (n >= 0 ? '+' : '') + n.toFixed(digits) + '%';
+  const signClass = (n) => n == null ? '' : (n >= 0 ? 'pos' : 'neg');
+
+  // Set the GitHub repo link from the page URL when on github.io
+  const host = location.hostname;
+  if (host.endsWith('.github.io')) {
+    const user = host.split('.')[0];
+    const repo = location.pathname.split('/').filter(Boolean)[0] || '';
+    document.getElementById('repo-link').href = `https://github.com/${user}/${repo}`;
+  } else {
+    document.getElementById('repo-link').href = '#';
+  }
+
+  let snapshots = [];
+  try {
+    const res = await fetch('equity.json', { cache: 'no-cache' });
+    snapshots = await res.json();
+  } catch (e) {
+    console.error('Failed to load equity.json', e);
+  }
+
+  if (!Array.isArray(snapshots) || snapshots.length === 0) {
+    document.getElementById('empty-msg').style.display = 'block';
+    document.getElementById('positions-empty').style.display = 'block';
+  } else {
+    const last = snapshots[snapshots.length - 1];
+    const first = snapshots[0];
+    const phasePct = ((last.equity / first.equity) - 1) * 100;
+    let spyPct = null;
+    if (first.spy_close && last.spy_close) {
+      spyPct = ((last.spy_close / first.spy_close) - 1) * 100;
+    }
+
+    const portfolioEl = document.getElementById('portfolio-value');
+    portfolioEl.textContent = fmtMoney(last.equity);
+    const changeEl = document.getElementById('portfolio-change');
+    changeEl.textContent = fmtPct(phasePct) + ' since inception';
+    changeEl.className = 'sub ' + signClass(phasePct);
+
+    const vsSpyEl = document.getElementById('vs-spy');
+    if (spyPct != null) {
+      const diff = phasePct - spyPct;
+      vsSpyEl.textContent = fmtPct(diff) + 'pp';
+      vsSpyEl.className = 'value ' + signClass(diff);
+    } else {
+      vsSpyEl.textContent = '—';
+    }
+
+    const dayEl = document.getElementById('day-pl');
+    dayEl.textContent = fmtPct(last.day_pl_pct);
+    dayEl.className = 'value ' + signClass(last.day_pl_pct);
+    document.getElementById('day-pl-date').textContent = last.date;
+
+    document.getElementById('last-update').textContent = last.date;
+
+    // Positions table
+    const body = document.getElementById('positions-body');
+    if (!last.open_positions || last.open_positions.length === 0) {
+      document.getElementById('positions-empty').style.display = 'block';
+    } else {
+      for (const p of last.open_positions) {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${p.symbol}</td>
+          <td class="num">${p.shares}</td>
+          <td class="num">${fmtMoney(p.entry)}</td>
+          <td class="num">${fmtMoney(p.current)}</td>
+          <td class="num">${fmtMoney(p.stop)}</td>
+          <td class="num ${signClass(p.unrealized_pct)}">${fmtPct(p.unrealized_pct)}</td>
+        `;
+        body.appendChild(tr);
+      }
+    }
+
+    // Equity chart — normalize bot and SPY to 100 on first snapshot
+    if (snapshots.length >= 2) {
+      const labels = snapshots.map(s => s.date);
+      const botBase = snapshots[0].equity;
+      const botSeries = snapshots.map(s => (s.equity / botBase) * 100);
+      const spyBase = snapshots[0].spy_close;
+      const spySeries = spyBase ? snapshots.map(s => s.spy_close ? (s.spy_close / spyBase) * 100 : null) : null;
+
+      const datasets = [
+        {
+          label: 'Bot',
+          data: botSeries,
+          borderColor: '#58a6ff',
+          backgroundColor: 'rgba(88, 166, 255, 0.1)',
+          fill: true,
+          tension: 0.2,
+          pointRadius: 2,
+        }
+      ];
+      if (spySeries) {
+        datasets.push({
+          label: 'SPY',
+          data: spySeries,
+          borderColor: '#8b949e',
+          borderDash: [4, 4],
+          fill: false,
+          tension: 0.2,
+          pointRadius: 0,
+        });
+      }
+
+      new Chart(document.getElementById('equity-chart'), {
+        type: 'line',
+        data: { labels, datasets },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: { labels: { color: '#c9d1d9' } },
+            tooltip: { callbacks: { label: (c) => `${c.dataset.label}: ${c.parsed.y.toFixed(2)}` } }
+          },
+          scales: {
+            x: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } },
+            y: { ticks: { color: '#8b949e' }, grid: { color: '#21262d' } }
+          }
+        }
+      });
+    } else {
+      document.getElementById('empty-msg').style.display = 'block';
+      document.getElementById('empty-msg').textContent = 'Need at least 2 EOD snapshots to draw the chart.';
+    }
+  }
+
+  // Latest weekly review
+  try {
+    const res = await fetch('latest-week.md', { cache: 'no-cache' });
+    if (res.ok) {
+      const md = await res.text();
+      const trimmed = md.trim();
+      if (trimmed.length === 0 || trimmed.startsWith('First weekly review')) {
+        document.getElementById('review-empty').style.display = 'block';
+      } else {
+        document.getElementById('weekly-review-content').innerHTML = marked.parse(trimmed);
+      }
+    } else {
+      document.getElementById('review-empty').style.display = 'block';
+    }
+  } catch (e) {
+    document.getElementById('review-empty').style.display = 'block';
+  }
+})();
+</script>
+</body>
+</html>
