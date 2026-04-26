@@ -1,29 +1,56 @@
-name: Auto-merge claude bot PRs
+name: Auto-merge claude bot branches
 
 # Why this exists: Claude Code Cloud routines push to claude/* feature branches
-# and open PRs by design — there is no setting to push directly to main. For an
-# autonomous bot whose memory IS the main branch, every routine's work must land
-# on main within seconds or the next routine reads stale state. This workflow
-# squash-merges any PR opened from a claude/* branch immediately.
+# and don't open PRs (the "Create PR" button is a manual user action). For an
+# autonomous bot whose memory IS the main branch, every routine's work must
+# land on main within seconds or the next routine reads stale state. This
+# workflow squash-merges any push to a claude/* branch directly into main and
+# deletes the branch.
 
 on:
-  pull_request:
-    types: [opened, reopened, synchronize]
+  push:
+    branches:
+      - 'claude/**'
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   merge:
-    if: startsWith(github.head_ref, 'claude/')
     runs-on: ubuntu-latest
     steps:
-      - name: Squash-merge the PR
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Squash-merge bot branch into main
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BOT_BRANCH: ${{ github.ref_name }}
         run: |
-          gh pr merge "${{ github.event.pull_request.number }}" \
-            --repo "${{ github.repository }}" \
-            --squash \
-            --delete-branch
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions[bot]"
+
+          git fetch origin "$BOT_BRANCH"
+
+          # Use the bot's most recent commit message as the squash commit message
+          # so main's history reads naturally (e.g. "pre-market research 2026-04-27").
+          SQUASH_MSG=$(git log -1 --pretty=%s "origin/$BOT_BRANCH")
+
+          if ! git merge --squash "origin/$BOT_BRANCH"; then
+            echo "Merge conflict on $BOT_BRANCH — leaving branch open for manual review."
+            exit 1
+          fi
+
+          # If squash had no effect (already merged, etc.), exit cleanly.
+          if git diff --cached --quiet; then
+            echo "No changes to merge from $BOT_BRANCH (already on main)."
+            git push origin --delete "$BOT_BRANCH" || true
+            exit 0
+          fi
+
+          git commit -m "$SQUASH_MSG"
+          git push origin main
+          git push origin --delete "$BOT_BRANCH"
