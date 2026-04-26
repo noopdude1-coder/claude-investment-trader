@@ -66,3 +66,45 @@ None today — Sunday + FOMC week is wrong moment to deploy fresh risk pre-event
 
 ### Decision
 **HOLD.** No positions, no trades. Patience > activity. Do not deploy capital ahead of FOMC + GDP/PCE. Re-evaluate Thu PM after PCE print; book ideas above into Friday's plan if regime stays risk-on.
+
+## 2026-04-26 — Pre-market Research (refresh, for Mon 4/27 open)
+
+_Note: Perplexity API returned 503; data sourced via WebSearch fallback._
+
+### Account
+- Equity: $100,000.00 (paper account; sizing scales to actual equity)
+- Settled cash: $100,000.00
+- Buying power: $200,000 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3
+
+### Market Context
+- WTI / Brent: $94.40 / $105.33 close 4/24 — pulled back on US-Iran talk hopes (Pakistan venue)
+- S&P 500: closed Fri 4/24 at **7,165.08 (+0.80%, fresh record high)**; Nasdaq also at record; semis +18 straight days; futures not yet open Sun
+- VIX: **18.71–18.85 close 4/24** (sub-19, complacent)
+- Today's catalysts: none (Sunday, US markets closed)
+- Earnings before open Mon 4/27: thin BMO; mega-cap tech concentrated Wed/Thu (verify pre-open Mon)
+- Economic calendar (week 4/27–5/1):
+  - Mon: Dallas Fed Mfg 10:30am
+  - Tue: Case-Shiller HPI, CB Consumer Confidence
+  - **Wed 4/29: FOMC decision 2pm + Powell presser 2:30pm** (~85% hold odds, funds rate 3.50–3.75%)
+  - **Wed AMC: MSFT, GOOGL, META, AMZN earnings**
+  - **Thu 4/30: Q1 advance GDP + March Core PCE + ECI 8:30am**, jobless claims
+  - **Thu AMC: AAPL earnings** (note: Tim Cook → John Ternus CEO transition headline)
+  - Fri: ISM Manufacturing PMI
+- Sector momentum YTD: **Energy leader (+20-39%, XOM ~+42%)**; Tech/Comm Svcs/Consumer Disc lagging YTD though MSFT/GOOGL/META/AMZN each +10%+ in April; rotation from "pure growth" → "quality value" theme
+
+### Trade Ideas
+None for Mon 4/27 open. Triple-binary week: FOMC Wed + Big Tech earnings Wed AMC + GDP/PCE Thu AM. Deploying fresh risk into this is asymmetric to the downside. Post-event watchlist:
+1. **XLE** — YTD leader, Brent firm; entry on post-FOMC pullback toward 50dma, 10% trailing stop, target +15-20% (R:R ≥2:1)
+2. **XLI** — industrials momentum; only enter if Powell stays dovish + ISM Fri >50
+3. **SMH** — 18-day semis streak risks mean-reversion; pass unless it bases for 2-3 sessions post-earnings
+
+### Risk Factors
+- FOMC Wed = binary; Powell presser headline risk (final as chair if confirmed)
+- Big Tech AMC Wed = ±5-8% gap risk in MSFT/GOOGL/META/AMZN; AAPL Thu adds CEO-transition overhang
+- Core PCE Thu — hot print w/ Brent $105 = repricing risk
+- SPX at all-time highs + VIX <19 = no cushion for negative surprise
+- Energy/tech rotation unresolved; chasing either side pre-event = bad spot
+
+### Decision
+**HOLD.** Confirms prior entry. Zero new risk. Re-assess Thu PM post-PCE; size ideas for Fri/following-Mon if regime intact.
