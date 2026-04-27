@@ -108,3 +108,44 @@ None for Mon 4/27 open. Triple-binary week: FOMC Wed + Big Tech earnings Wed AMC
 
 ### Decision
 **HOLD.** Confirms prior entry. Zero new risk. Re-assess Thu PM post-PCE; size ideas for Fri/following-Mon if regime intact.
+
+## 2026-04-27 — Pre-market Research (Mon open)
+
+### Account
+- Equity: $100,000.00 (paper account; strategy doc references $7,500 IRA, sizing scales to actual equity per Phase 1 paper rules)
+- Settled cash: $100,000.00
+- Buying power: $200,000 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3
+
+### Market Context
+- WTI / Brent: **~$96.29 / ~$101.56** (WTI +2%, Brent +1.8% on Strait of Hormuz / Iran-talks tension)
+- S&P 500 futures (ES Jun): last seen **~7,201.50** Sun aft (+0.09%); SPX cash 7,165.08 record close Fri
+- VIX: last close 4/23 **19.31** (sub-20, complacent — no cushion into FOMC week)
+- Today's catalysts: Dallas Fed Mfg 10:30am, oil/Iran headlines; positioning ahead of FOMC + Big Tech AMC Wed
+- Earnings BMO Mon 4/27: **VZ** (cons EPS $1.21, rev $34.8B), **KFRC**; thin overall — mega-cap tech concentrated Wed/Thu AMC
+- Economic calendar (week 4/27–5/1):
+  - Mon: Dallas Fed Mfg 10:30am
+  - Tue: Case-Shiller HPI, CB Consumer Confidence
+  - **Wed 4/29: FOMC decision 2pm + Powell presser 2:30pm** (hold expected, ~85%)
+  - **Wed AMC: MSFT, GOOGL, META, AMZN earnings**
+  - **Thu 4/30: Q1 advance GDP + March Core PCE 8:30am** (cons headline ~3.5% YoY, core ~3.2%), jobless claims, Mfg PMI
+  - **Thu AMC: AAPL earnings**
+  - Fri: ISM Manufacturing PMI
+- Sector momentum (4/24 session): **XLK +1.78%** leader (semis/AI), XLY +0.45%, XLI +0.26%; **XLE −0.19%, XLF −0.73%, XLV −1.03%** laggards. YTD: Energy still the leader; tech rallying late-April into record highs
+
+### Trade Ideas
+None for Mon open. Triple-binary setup intact: FOMC Wed + 4 mega-cap AMC Wed + GDP/PCE Thu AM (+ AAPL Thu AMC). Deploying fresh risk pre-event = bad asymmetry. Post-event watchlist (carry from 4/26):
+1. **XLE** — YTD leader, oil bid on Hormuz; entry on post-FOMC pullback toward 50dma, 10% trailing stop, target +15-20% (R:R ≥2:1)
+2. **XLI** — momentum continuation; only enter if Powell stays dovish + ISM Fri >50
+3. **SMH** — semi-led tech leadership; need 2-3-day base post-MSFT/GOOGL prints before adding
+
+### Risk Factors
+- FOMC Wed = binary; Powell's last presser as chair amplifies headline risk
+- 4 mega-cap AMC Wed → ±5-8% gap risk in MSFT/GOOGL/META/AMZN; AAPL Thu adds CEO-transition overhang
+- Core PCE Thu w/ Brent $101+ = hot-print repricing risk
+- SPX at ATH + VIX <20 = no cushion for negative surprise
+- Strait of Hormuz / Iran headline risk = oil spike could stoke inflation print
+- Energy vs tech rotation unresolved — chasing either side pre-event = poor spot
+
+### Decision
+**HOLD.** Default holds. Patience > activity. Zero new risk into FOMC + Big Tech earnings + GDP/PCE. Re-assess Thu PM post-PCE; queue XLE/XLI/SMH for Fri or following Mon if regime risk-on.
