@@ -149,3 +149,42 @@ None for Mon open. Triple-binary setup intact: FOMC Wed + 4 mega-cap AMC Wed + G
 
 ### Decision
 **HOLD.** Default holds. Patience > activity. Zero new risk into FOMC + Big Tech earnings + GDP/PCE. Re-assess Thu PM post-PCE; queue XLE/XLI/SMH for Fri or following Mon if regime risk-on.
+
+## 2026-04-28 — Pre-market Research (Tue open, FOMC Day 1)
+
+### Account
+- Equity: $100,000.00 (paper account; sizing scales to actual equity per Phase 1 paper rules)
+- Settled cash: $100,000.00
+- Buying power: $200,000 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3 — `last_equity` $100,000 → Day P&L 0.00%
+
+### Market Context
+- WTI / Brent: WTI Jun (CLM26) up ~+2% on 4/27 close on stalled US-Iran talks; Brent reference ~$96 (Q1 close $118 → since pulled back). Spot tape thin pre-open; oil bid into FOMC.
+- S&P 500 futures: ESM26 last ~7,201–7,222 area (Mon close 7,217); SPX cash made fresh ATH 7,138–7,165 area Fri/Mon. Modest +0.10% premarket bias.
+- VIX: ~21.8 (futures-implied), nudging back above 20 ahead of FOMC — modest cushion vs prior <19 print
+- Today's catalysts: **FOMC two-day meeting begins** (announcement Wed 2pm); ADP private payrolls 8:15am; Case-Shiller HPI + FHFA HPI 9:00am; Dallas Fed mfg data trail; Iran/Hormuz oil headlines
+- Earnings BMO Tue 4/28: **KMB** (Kimberly-Clark), **JBLU** (JetBlue), **LGIH**, **MLI** (Mueller Industries), **TXN** AMC; mega-cap tech still concentrated Wed/Thu AMC (MSFT/GOOGL/META/AMZN Wed, AAPL Thu)
+- Economic calendar (rest of week 4/28–5/1):
+  - **Wed 4/29: FOMC decision 2pm + Powell presser 2:30pm**
+  - **Wed AMC: MSFT, GOOGL, META, AMZN earnings**
+  - **Thu 4/30: Q1 advance GDP + March Core PCE 8:30am**, jobless claims
+  - **Thu AMC: AAPL earnings**
+  - Fri: ISM Manufacturing PMI
+- Sector momentum: **XLK reasserts leadership in April** (only sector materially outperforming SPX MTD, +2.2% mid-month); **XLE still YTD leader (~+38% YTD)** but rotated out of late-April; XLY/XLI mid-pack; XLF/XLV laggards. April rotation = energy → tech.
+
+### Trade Ideas
+None for Tue open. **FOMC Day 1 + 4 mega-cap AMC tomorrow + GDP/PCE Thu = stacked binary risk through Thu morning.** Deploying fresh capital today is bad asymmetry — any pre-FOMC move can be unwound in 30 min by Powell's statement. Watchlist (carry from 4/26–4/27, refined):
+1. **XLE** — YTD sector leader, oil bid on Hormuz/Iran-talks stall; entry on post-FOMC pullback toward 50dma, 10% trailing stop, target +15-20% (R:R ≥2:1). $20k cap.
+2. **XLK / SMH** — April momentum reasserted in tech; need a clean read post-MSFT/GOOGL/META/AMZN Wed AMC before sizing. Consider Thu/Fri entry if 2-3-day post-print base holds. $20k cap.
+3. **XLI** — momentum continuation only if Powell stays dovish + ISM Fri >50; otherwise pass.
+
+### Risk Factors
+- FOMC binary tomorrow 2pm (Powell's presumed-final presser amplifies headline risk)
+- 4 mega-cap AMC Wed → ±5-8% gap risk in indices via MSFT/GOOGL/META/AMZN; AAPL Thu adds CEO-transition overhang
+- Core PCE Thu w/ Brent in mid-$90s and WTI bid = hot-print repricing risk (consensus headline ~3.5%, core ~3.2% YoY)
+- SPX at all-time highs + VIX creeping toward 22 = market starting to price event risk; gap risk both ways
+- Strait of Hormuz / Iran headline risk = oil spike could stoke inflation print + complicate Fed message
+- Tue's tape often quiet/drift on FOMC Day 1 — easy to overtrade noise
+
+### Decision
+**HOLD.** Third consecutive HOLD. Patience > activity, especially with stacked binary events Wed+Thu. Zero positions, zero trades. Re-evaluate **Thu post-PCE / Fri pre-open**; if SPX holds ATH + VIX <22 + Big Tech doesn't break, queue XLE and XLK/SMH for Fri or Mon 5/4. Trades-this-week budget remains 3/3 untouched.
