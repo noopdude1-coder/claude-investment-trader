@@ -188,3 +188,46 @@ None for Tue open. **FOMC Day 1 + 4 mega-cap AMC tomorrow + GDP/PCE Thu = stacke
 
 ### Decision
 **HOLD.** Third consecutive HOLD. Patience > activity, especially with stacked binary events Wed+Thu. Zero positions, zero trades. Re-evaluate **Thu post-PCE / Fri pre-open**; if SPX holds ATH + VIX <22 + Big Tech doesn't break, queue XLE and XLK/SMH for Fri or Mon 5/4. Trades-this-week budget remains 3/3 untouched.
+
+## 2026-04-29 — Pre-market Research (Wed open, FOMC Decision Day)
+
+### Account
+- Equity: $100,000.00 (paper account; sizing scales to actual equity per Phase 1 paper rules)
+- Settled cash: $100,000.00 | Buying power: $200,000 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3 — `last_equity` $100,000 → Day P&L 0.00%
+- Cumulative through Day 3 (Apr 26→28): bot flat 0 bps, SPY -34 bps → bot ahead ~34 bps on cash drag avoiding the dip
+
+### Market Context
+- WTI / Brent: **WTI ~$102.22** close 4/28 (+2.95% on day, 3-week high); Brent ~$108–110 area (Brent-WTI spread ~$8–11). Bid on stalled US-Iran talks + Hormuz tension.
+- S&P 500 futures: ESM26 ~7,181–7,189 area, modestly green premarket; SPX cash held ATH ~7,165–7,180 area into FOMC
+- VIX: **18.36 close 4/28** (down from 19.31 Wed prior) — complacent into Fed; market un-pricing some event premium (no cushion if hawkish/disappointment)
+- **Today's catalysts (binary stack):**
+  - **FOMC decision 2:00pm ET** + **Powell presser 2:30pm ET** (rates expected hold 3.50–3.75%, ~85% odds; Powell's presumed-final presser as chair — Kevin Walsh succession headline)
+  - **AMC: MSFT, GOOGL, META, AMZN earnings** (hyperscaler capex / AI monetization is the question — 2026 capex ~$645B, fading AI hype tolerance)
+  - 10:00am: BLS Metro Area Employment + Quarterly Census of Employment (low-impact)
+- Earnings BMO Wed 4/29: **none confirmed pre-open** (Capyfin/Nasdaq/EW all show empty BMO slate). CBZ AMC.
+- Rest of week:
+  - **Thu 4/30 8:30am: Q1 advance GDP** (Atlanta GDPNow 2.7%, FOMC SEP 2.4%) + **March Core PCE** (consensus ~2.7% YoY) + **Q1 ECI** (>0.8% q/q would push out cuts) + jobless claims
+  - **Thu AMC: AAPL** (Cook→Ternus transition headline)
+  - Fri 5/1: ISM Manufacturing PMI
+- Sector momentum YTD: **XLE dominant leader (+27.6% YTD as of 4/28, +14.55% 3M, classified "Leading")**; XLP/XLI/XLB also leading; **XLK lagging YTD** despite April rally; XLY/XLC/XLF lagging; XLV weakening; XLU/XLRE improving. SPX YTD price ~-4.6% per Q1 close → recovered to ATH late April. S&P Momentum Index +17.78% QTD/YTD.
+
+### Trade Ideas
+None for Wed open. **Today is the densest binary node of the year so far:** FOMC 2pm + 4 hyperscalers AMC + GDP/PCE Thu AM = 3 sequential coin flips. Buying anything today gets either repriced by Powell at 2:30pm or by MSFT/GOOGL/META/AMZN guidance at 4pm. Asymmetry is awful. Watchlist (carry from 4/26–4/28, no change in conviction):
+1. **XLE** — YTD leader (+27.6%), oil bid on Hormuz; entry on **post-FOMC pullback toward 50dma**, 10% trailing stop, target +15-20% (R:R ≥2:1). $20k cap. Best risk-adjusted setup IF FOMC doesn't crush oil via dollar surge.
+2. **XLK / SMH** — April momentum reasserted but YTD laggard; need clean read post-MSFT/GOOGL/META/AMZN AMC + 2-3 day base before sizing. Earliest Fri 5/1 if all 4 prints are clean. $20k cap.
+3. **XLI** — momentum continuation only if Powell stays dovish + ISM Fri >50; else pass.
+4. Pass on XLY/XLC/XLF — laggard quadrant + earnings overhang.
+
+### Risk Factors
+- **Triple binary today**: FOMC 2pm → Powell 2:30pm → 4 mega-cap AMC at 4pm. Indices can gap ±2-3% overnight on tech tape alone.
+- VIX 18.36 = market UN-pricing event risk — no cushion for a hawkish Powell or a missed hyperscaler print
+- SPX at ATH + Powell's final-as-chair presser = headline-risk amplifier (Walsh policy-pivot speculation, balance-sheet runoff signal)
+- WTI $102 + Brent ~$108 = hot Core PCE risk Thu; Fed talking dovish into rising oil = credibility tension
+- "12 straight up sessions" / overbought tape = mean-reversion risk if any leg disappoints
+- Hyperscaler $645B 2026 capex demand for monetization proof = high bar, asymmetric to downside on miss
+- Iran/Hormuz headline risk could spike oil intraday and overwhelm Fed signal
+- Consensus is "hold + slightly dovish" — most-priced-in outcome means biggest move comes from the surprise direction (hawkish surprise = risk-off)
+
+### Decision
+**HOLD.** Fourth consecutive HOLD. Default holds. Zero positions, zero trades. Trades-this-week budget remains 3/3 untouched. Plan: monitor FOMC + Powell + 4 hyperscaler prints AMC; tomorrow (Thu) AM read GDP/PCE/ECI; **earliest fresh-risk window = Fri 5/1 pre-open or Mon 5/4 open** if regime intact (SPX > 7,100, VIX < 22, no hyperscaler crater, PCE ≤ 2.8%). Top-of-list = XLE on post-FOMC pullback to 50dma; XLK/SMH only if hyperscalers print clean. Patience > activity.
