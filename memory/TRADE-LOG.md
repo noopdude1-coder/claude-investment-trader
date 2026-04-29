@@ -25,3 +25,10 @@ No open positions.
 No open positions.
 
 **Notes:** Second straight no-trade day. Buy gate did not pass at market-open; full $100k still parked in settled cash. SPY mid at EOD = $711.555 (-$3.34 vs yesterday's $714.895, ~-0.47%) — we're flat so we beat SPY by ~47 bps on the day. 0 trades today, 0 trades this week (cap 3/wk untouched). Cumulative through Day 3 from Apr 26 baseline: bot flat (0 bps), SPY -34 bps ($714.005 → $711.555) — bot ahead by ~34 bps purely on cash drag avoiding the dip. Patience > activity holding, but capital is still 100% idle three sessions in. Tomorrow (Wed Apr 29): pre-market scan should look harder at sector momentum; if any name passes buy gate, deploy first position sized ≤20% ($20k) with mandatory 10% trailing stop as GTC.
+
+### Apr 29 — EOD Snapshot (Day 4, Wednesday)
+**Portfolio:** $100,000.00 | **Settled cash:** $100,000.00 | **Unsettled:** $0.00 | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
+
+No open positions.
+
+**Notes:** Third consecutive no-trade day. Buy gate did not pass at market-open; full $100k still parked in settled cash. SPY post-close quote returned ap=0 (stale ask), bid $689.60 — using bid as proxy close. If the bid is representative, SPY fell ~3.1% today vs yesterday's $711.555 mid; bot flat means we beat SPY by ~310 bps on the day, but treat the SPY number with caution given the one-sided quote. 0 trades today, 0 trades this week (cap 3/wk untouched). Cumulative through Day 4 from Apr 26 baseline: bot flat (0 bps); SPY (using today's bid proxy) ~-3.4% from $714.005 — bot ahead by ~340 bps on cash drag during a possible market drop. Capital still 100% idle four sessions in — patience is paying right now, but the buy gate needs to fire eventually to actually generate alpha rather than just avoid drawdown. Tomorrow (Thu Apr 30): pre-market scan; if SPY drop is real, look for sector leaders that held up (relative strength) for first deployment ≤20% ($20k) with mandatory 10% trailing stop as GTC.
