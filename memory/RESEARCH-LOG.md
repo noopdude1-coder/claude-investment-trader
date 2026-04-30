@@ -231,3 +231,59 @@ None for Wed open. **Today is the densest binary node of the year so far:** FOMC
 
 ### Decision
 **HOLD.** Fourth consecutive HOLD. Default holds. Zero positions, zero trades. Trades-this-week budget remains 3/3 untouched. Plan: monitor FOMC + Powell + 4 hyperscaler prints AMC; tomorrow (Thu) AM read GDP/PCE/ECI; **earliest fresh-risk window = Fri 5/1 pre-open or Mon 5/4 open** if regime intact (SPX > 7,100, VIX < 22, no hyperscaler crater, PCE ≤ 2.8%). Top-of-list = XLE on post-FOMC pullback to 50dma; XLK/SMH only if hyperscalers print clean. Patience > activity.
+
+## 2026-04-30 — Pre-market Research (Thu open, GDP/PCE Day, market-open run)
+
+### Account
+- Equity: $100,000.00 | Settled cash: $100,000.00 | Buying power: $200,000 (informational only)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3 — `last_equity` $100,000 → Day P&L 0.00%
+- Cumulative through Day 4 (Apr 26→29): bot flat; SPY ~flat-to-down (Wed EOD bid $689.60 likely stale; today's open $711.74 suggests SPY held ~$711 area)
+
+### Market Context
+- WTI / Brent: Brent ~$108 area; WTI ~$102 area (Mid-East/Hormuz risk persists)
+- S&P 500 / SPY: **SPY $711.74 at 9:41am ET** (cash open ~$712); QQQ $660.49; IWM $273.44 — flat-to-mildly-soft post-FOMC + tech earnings
+- VIX: ~18.4 close 4/28; nudging higher post-FOMC, exact print TBD (still complacent)
+- **FOMC outcome (Wed 4/29, 2pm):** held **3.50–3.75%**; vote **11-1** (Miran dissent for cut); statement flagged **"elevated inflation"** + Mid-East energy uncertainty. **4 dissents most since 1992** — hawkish-leaning hold. Powell: data-dependent, no rush, monitoring both mandate sides.
+- **Big Tech AMC reactions (Wed 4/29):**
+  - **MSFT:** EPS $4.27 vs $4.06, rev $82.9B vs $81.39B, Azure +29%; AH **-1.76%** to ~$417
+  - **GOOGL:** rev $109.9B vs $107.2B (+20%), EPS $2.62 vs $2.63 (slight adj miss), **Cloud +63%** to $20.0B, Q1 capex $35.7B, **2026 capex raised to $180-190B** (from $175-185B), 2027 "significantly increase". AH UP.
+  - **META:** rev $56.31B vs $55.45B (+33%), EPS $7.31 vs $6.79 beat, **Q1 capex $19.84B (light vs $27.6B est)**, **2026 capex raised to $125-145B** (from $115-135B), DAU 3.56B (slight q/q decline). AH **-7%** on capex raise + DAU softness.
+  - **AMZN:** rev $181.5B (+17%), EPS $2.78 vs $1.63 huge beat, **AWS +28%** to $37.59B (15-quarter high), Q1 capex $44.2B, **2026 full-year ~$200B**. AH **-3%** on capex digestion.
+  - Aggregate: hyperscaler **2026 capex $500B+ confirmed** (vs prior ~$645B Mag7 estimate already priced) — ROI/monetization timing remains the question. Net AH: 3 of 4 negative.
+- **Today AM 8:30 prints (Thu 4/30):**
+  - **Q1 advance GDP +2.0% vs +2.3% consensus** → growth MISS (softer)
+  - **March Core PCE 3.2% YoY** (in line, accelerated from 3.0%); **+0.3% MoM**
+  - Read = **stagflation-light**: weaker growth + sticky inflation = no near-term cut + earnings risk
+- Earnings still ahead today: **AAPL Thu AMC** (Cook→Ternus CEO transition headline)
+- Tomorrow (Fri 5/1): ISM Manufacturing PMI
+- Sector momentum: XLE YTD leader (+27.6% as of 4/28); XLK lagging YTD; defensives (XLP/XLU) likely benefiting on stagflation read; semis/AI infra capex names face overhang
+
+### Live Quotes (9:41am ET)
+- SPY $711.74, QQQ $660.49, IWM $273.44
+- XLE $58.97, XLK $158.27, XLI $172.62, XLP $83.88, XLF $51.76, XLV $144.35, XLY $116.55, XLU $46.34, XLB $51.00, XLC $114.93, SMH $499.23
+- META $602/$614.88 (~2.1% spread — wide, earnings vol; SKIP), MSFT ~$410, GOOGL ~$368, AMZN ~$261, AAPL ~$269
+
+### Trade Ideas
+None today. Yesterday's documented re-entry rule: **"earliest fresh-risk window = Fri 5/1 or Mon 5/4 if regime intact (SPX > 7,100, VIX < 22, no hyperscaler crater, PCE ≤ 2.8%)."**
+- PCE 3.2% > 2.8% → **FAIL**
+- META -7% AH = hyperscaler crater → **FAIL**
+- GDP miss 2.0% adds growth concern → adverse
+- AAPL still tonight AMC → another binary unresolved
+- Hawkish-leaning FOMC + sticky core PCE = no rate-cut tailwind near-term
+
+Watchlist (deferred to post-AAPL / post-ISM read):
+1. **XLE** $58.97 — YTD leader, oil bid; need to confirm 50dma still rising and no demand-destruction read from soft GDP. Earliest entry Fri 5/1 PM or Mon 5/4 if XLE holds 50dma.
+2. **XLP / XLU** — defensives benefiting from stagflation tilt; lower beta = lower R:R, only consider if growth names continue rolling.
+3. **XLK / SMH** — capex-overhang trade; stand aside until hyperscaler ROI debate resolves; earliest 1-2 weeks out.
+4. **XLI / XLF** — pass; XLI needs dovish Fed (didn't get it) + ISM > 50; XLF lagging.
+
+### Risk Factors
+- **AAPL Thu AMC** = today's last binary; results crater + Cook→Ternus headline could amp QQQ gap risk overnight
+- **Stagflation-light** read (soft GDP + sticky PCE) = bad regime for both stocks and bonds; cuts pushed out
+- Hyperscaler $500B+ 2026 capex = ROI overhang on XLK/XLC/SMH leaders
+- VIX ~18 still complacent vs post-FOMC + earnings + macro stack — no cushion
+- Mid-East / Hormuz oil headlines could spike Brent and re-stoke inflation
+- Friday ISM PMI < 50 would compound growth-slowdown narrative
+
+### Decision
+**HOLD.** Fifth consecutive HOLD. Zero positions, zero trades. Documented re-entry rule explicitly fails on PCE > 2.8% and META AH ≤ -7%. Trades-this-week budget remains 3/3 untouched. Re-evaluate Fri 5/1 pre-open after AAPL print + ISM Manufacturing PMI; if SPX holds > 7,100, VIX < 22, AAPL doesn't crater, and ISM > 50, queue **XLE** as top entry (post-pullback to 50dma, 10% trailing stop, target +15-20%, R:R ≥ 2:1, $20k cap). Patience > activity — capital still 100% idle but 5-day cash drag has us flat-to-ahead vs SPY heading into AAPL.
