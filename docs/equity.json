@@ -34,5 +34,14 @@
     "phase_pl_pct": 0,
     "trades_today": 0,
     "open_positions": []
+  },
+  {
+    "date": "2026-04-30",
+    "equity": 100000,
+    "spy_close": 693.23,
+    "day_pl_pct": 0,
+    "phase_pl_pct": 0,
+    "trades_today": 0,
+    "open_positions": []
   }
 ]
