@@ -287,3 +287,58 @@ Watchlist (deferred to post-AAPL / post-ISM read):
 
 ### Decision
 **HOLD.** Fifth consecutive HOLD. Zero positions, zero trades. Documented re-entry rule explicitly fails on PCE > 2.8% and META AH ≤ -7%. Trades-this-week budget remains 3/3 untouched. Re-evaluate Fri 5/1 pre-open after AAPL print + ISM Manufacturing PMI; if SPX holds > 7,100, VIX < 22, AAPL doesn't crater, and ISM > 50, queue **XLE** as top entry (post-pullback to 50dma, 10% trailing stop, target +15-20%, R:R ≥ 2:1, $20k cap). Patience > activity — capital still 100% idle but 5-day cash drag has us flat-to-ahead vs SPY heading into AAPL.
+
+## 2026-05-01 — Pre-market Research (Fri open, weekly-review day, post-AAPL/pre-ISM)
+
+### Account
+- Equity: $100,000.00 | Settled cash: $100,000.00 | Buying power: $200,000 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 0 / 6 — Open orders: 0 — Trades this week: 0 / 3 — `last_equity` $100,000 → Day P&L 0.00%
+- Cumulative through Day 5 (Apr 26→30): bot flat 0 bps; SPY (yesterday's bid proxy $693.23) ~-2.91% from $714.005 baseline → bot ahead ~291 bps purely on cash drag
+
+### Market Context
+- WTI / Brent: **WTI ~$105**, **Brent ~$110-111** (Hormuz tensions + UAE OPEC+ withdrawal pricing supply disruption); WTI prediction markets clustered $104-105
+- S&P 500 futures: **ESM26 ~7,255-7,259** (+0.21% / +15.5pts), modestly green premarket; ES > 7,100 threshold ✓
+- VIX: **16.89 close 4/30** (Cboe), down from ~18.4 post-FOMC; May VIX futures (VIK26) 20.25 — backwardation easing; VIX < 22 ✓
+- **AAPL Thu AMC (4/30) — CLEAN PRINT:** Rev $80.2B (+17% YoY beat), EPS $21 (+22%), iPhone $57B (+22%, March-quarter record), net income $29.6B record; **Cook → Ternus CEO transition Sep 1, 2026** (announced); AH **+0.44% to ~$271.35** — "muted/flat reaction" = no crater ✓
+- **Today 10:00am ET: ISM Manufacturing PMI** — forecast **53.1** (vs 52.7 prior, expansion territory); ISM Mfg Employment forecast 49.0 (vs 48.7); print > 50 would lift growth narrative, < 50 would compound stagflation read
+- BMO earnings 5/1: **CVX (Chevron, $372B)**, **XOM (Exxon, $615B)**, **TLK**, **SFM** — energy heavyweights = direct read on XLE thesis pre-open
+- **Sector momentum YTD (through 4/29):**
+  - **XLE +32.89% — DOMINANT LEADER** (Energy; oil bid, UAE OPEC+ withdrawal, Hormuz risk premium)
+  - **XLK +10.65%** (Tech, classified "Lagging" YTD despite April rally + hyperscaler capex overhang)
+  - **XLP +7.35%** (Staples, defensive flight-to-safety, "Leading")
+  - **XLI +9.86%** ("Leading")
+  - SPX +4.63% YTD benchmark
+  - Lagging quadrant: XLC, XLY, XLF, XLK
+- Macro state: **stagflation-light persists** (Q1 GDP 2.0% miss vs 2.3% est; March Core PCE 3.2% YoY sticky; FOMC 11-1 hold w/ 4 dissents = hawkish-leaning; Walsh succession ahead)
+
+### Live Quotes (4:00pm ET stale-quote close 4/30 — premarket data not yet available)
+- SPY bid $693.23 (ap=0 stale), QQQ TBD, IWM TBD
+- XLE bid $57.68 / ask $61.37 (wide post-close), XLK $154.68/$164.58, XLP $81.40/$86.83
+- AAPL bid $271 (post-earnings AH ~$271.35)
+
+### Re-entry Rule Check (from yesterday's entry)
+"Earliest fresh-risk window = Fri 5/1 if SPX > 7,100, VIX < 22, AAPL doesn't crater, ISM > 50."
+- SPX (ES proxy) 7,255 > 7,100 ✓
+- VIX 16.89 < 22 ✓
+- AAPL +0.44% AH = no crater ✓
+- ISM 53.1 forecast > 50 ✓ (but unreleased until 10am ET — wait for actual)
+- **Three of four passed pre-open; fourth resolves at 10am.** Conditional green light for one position post-ISM IF actual ≥ 50.
+
+### Trade Ideas
+1. **XLE — top candidate, conditional on ISM ≥ 50.** YTD leader +32.89%, oil bid, UAE OPEC+ supply disruption, Hormuz risk premium, Brent $110+. CVX/XOM BMO prints today = direct sector confirmation. **Catalyst:** sustained energy momentum + supply-disruption headlines + earnings tailwind. **Entry:** $58-59 area (XLE ~$57-58 mid 4/30; need live open print). **Stop:** 10% trailing GTC. **Target:** +15-20% (R:R ≥ 2:1). **Size:** $20k cap. **Risk:** oil already extended; demand destruction from soft GDP; diplomatic-breakthrough headline could whipsaw -3-5%. Skip if oil gaps down >2% premarket on Iran/Saudi headline.
+2. **XLP — secondary, lower-conviction.** Defensive +7.35% YTD, benefits from stagflation tilt; lower beta = lower upside. Only consider if XLE is uninvestable today. Entry near $83-84, 10% trailing stop, target +10-15%.
+3. **XLI — pass.** Needs ISM > 53 + dovish Fed; got hawkish-leaning Fed Wed.
+4. **XLK / SMH — defer 1-2 weeks.** Hyperscaler $500B+ 2026 capex digestion + META -7% AH still fresh; need 2-3-day base post-prints. Earliest mid-May.
+5. **CVX/XOM individual — pass.** Single-name earnings risk; XLE captures sector beta with diversification.
+
+### Risk Factors
+- ISM print at 10am could miss (< 50) → growth-slowdown narrative compounds, hits energy via demand destruction
+- Friday weekend Mid-East headline risk (Hormuz, Iran, OPEC+) — oil can gap ±5% Sunday night
+- WTI $105 already extended; geopolitical premium baked in; mean-reversion risk on any de-escalation headline
+- Hyperscaler capex overhang unresolved (META -7%, AMZN -3%, MSFT -2%) — XLK leadership uncertain
+- Stagflation-light regime = bad for both growth AND defensives; XLE is the only leader with clean macro
+- VIX 16.89 = market UN-pricing risk — no cushion if ISM disappoints or weekend headline hits
+- "Patience > activity" — 5 straight HOLDs but cash drag on bounce days starting to leak alpha; don't force a trade just to deploy
+
+### Decision
+**HOLD into ISM 10am print; conditional re-evaluate post-ISM.** Sixth consecutive HOLD at the open. **If ISM ≥ 50 AND CVX/XOM print clean AND oil holds $103+ AND XLE doesn't gap >2%,** market-open routine should deploy **XLE $20k @ market with 10% GTC trailing stop, target +15-20%**. **If ISM < 50 OR oil gaps down >2% OR weekend headline risk spikes,** stay flat into weekend and queue Mon 5/4 re-eval. Trades-this-week budget 0/3 untouched. Today is also weekly-review day — run the Sharpe vs SPY / vs RSP / max-DD math after close regardless of trade. Patience > activity, but the 5-day cash drag is no longer cost-free on rallies — XLE is the cleanest macro setup we've seen in the window and warrants action if the gate confirms post-ISM.
