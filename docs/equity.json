@@ -43,5 +43,23 @@
     "phase_pl_pct": 0,
     "trades_today": 0,
     "open_positions": []
+  },
+  {
+    "date": "2026-05-01",
+    "equity": 100109.34,
+    "spy_close": 720.555,
+    "day_pl_pct": 0.11,
+    "phase_pl_pct": 0.11,
+    "trades_today": 1,
+    "open_positions": [
+      {
+        "symbol": "XLE",
+        "shares": 340,
+        "entry": 58.5084,
+        "current": 58.83,
+        "stop": 53.1945,
+        "unrealized_pct": 0.55
+      }
+    ]
   }
 ]
