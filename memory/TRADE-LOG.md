@@ -33,6 +33,14 @@ No open positions.
 
 **Notes:** Third consecutive no-trade day. Buy gate did not pass at market-open; full $100k still parked in settled cash. SPY post-close quote returned ap=0 (stale ask), bid $689.60 — using bid as proxy close. If the bid is representative, SPY fell ~3.1% today vs yesterday's $711.555 mid; bot flat means we beat SPY by ~310 bps on the day, but treat the SPY number with caution given the one-sided quote. 0 trades today, 0 trades this week (cap 3/wk untouched). Cumulative through Day 4 from Apr 26 baseline: bot flat (0 bps); SPY (using today's bid proxy) ~-3.4% from $714.005 — bot ahead by ~340 bps on cash drag during a possible market drop. Capital still 100% idle four sessions in — patience is paying right now, but the buy gate needs to fire eventually to actually generate alpha rather than just avoid drawdown. Tomorrow (Thu Apr 30): pre-market scan; if SPY drop is real, look for sector leaders that held up (relative strength) for first deployment ≤20% ($20k) with mandatory 10% trailing stop as GTC.
 
+### May 01 — Market-Open Trade (Day 6, Friday)
+
+**BUY XLE 340 @ $58.5084** | Cost: $19,892.86 (19.89% of $100k equity) | Stop: trailing 10% GTC, initial $52.623 (HWM $58.47)
+- Thesis: ISM April 54.0 (vs 53.1 fcst, 52.7 prior) = strongest expansion since May 2022. CVX Q1 EPS $1.41 vs $0.95 (biggest beat since Oct 2020); XOM $1.16 vs $1.00 — both clean prints, "little changed" premarket. WTI ~$106 (Strait of Hormuz blocked since Feb). XLE YTD leader +32.89% as of 4/29. All four documented re-entry gates passed: SPX > 7,100, VIX < 22, AAPL no crater, ISM ≥ 50.
+- Target: +15-20% (~$67.30-$70.20). R:R ≥ 1.5-2:1.
+- Order IDs: BUY caf68907..., TRAIL f7f3739a...
+- Trades this week: 1/3. Positions: 1/6.
+
 ### Apr 30 — EOD Snapshot (Day 5, Thursday)
 **Portfolio:** $100,000.00 | **Settled cash:** $100,000.00 | **Unsettled:** $0.00 | **Day P&L:** $0.00 (0.00%) | **Phase P&L:** $0.00 (0.00%)
 
