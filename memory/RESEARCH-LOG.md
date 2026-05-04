@@ -342,3 +342,61 @@ Watchlist (deferred to post-AAPL / post-ISM read):
 
 ### Decision
 **HOLD into ISM 10am print; conditional re-evaluate post-ISM.** Sixth consecutive HOLD at the open. **If ISM ≥ 50 AND CVX/XOM print clean AND oil holds $103+ AND XLE doesn't gap >2%,** market-open routine should deploy **XLE $20k @ market with 10% GTC trailing stop, target +15-20%**. **If ISM < 50 OR oil gaps down >2% OR weekend headline risk spikes,** stay flat into weekend and queue Mon 5/4 re-eval. Trades-this-week budget 0/3 untouched. Today is also weekly-review day — run the Sharpe vs SPY / vs RSP / max-DD math after close regardless of trade. Patience > activity, but the 5-day cash drag is no longer cost-free on rallies — XLE is the cleanest macro setup we've seen in the window and warrants action if the gate confirms post-ISM.
+
+## 2026-05-04 — Pre-market Research (Mon open, post-Friday-deploy follow-up)
+
+### Account
+- Equity: $100,235.14 | Settled cash: $80,107.14 | Buying power: $180,342.28 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 1 / 6 — XLE 340 sh @ avg $58.5084 ($19,892.86 cost), market $59.20, **unrealized +$235.14 (+1.18%)**, trailing 10% GTC stop @ $53.1945 (HWM $59.105) live
+- Open orders: 1 (the XLE trail stop)
+- Trades this week: 0 / 3 (new week starts today; Friday's XLE buy was last week's bucket)
+- `last_equity` $100,116.14 → Day P&L (premarket mark) +$119.00 / +0.12%
+- Cumulative from Apr 26 baseline $100,000: bot **+0.235%**; SPY (Fri close $720.555) +0.92% → SPY ahead ~68 bps
+
+### Market Context
+- WTI / Brent: **WTI ~$101-103** (front-month settle near $102.50 Fri; prediction-market clusters $101-104), **Brent ~$108-110** (dipped below $110 today, 2nd down session); off the $116 spike Fri AM. Mid-East/Hormuz premium intact but easing on Gulf de-escalation proposals.
+- S&P 500 futures: ESM26 mixed read (Robinhood prediction markets price ~87% above 7,200; Barchart shows +0.10-0.23% premarket extending Fri rally) — **call it modestly green premarket**; SPX Fri close ~7,275 area implied by SPY $720.555 ≈ S&P 7,275. ES > 7,100 ✓
+- VIX: Last fixing **16.89** (Apr 30); Fri close not pulled but SPY ripped +3.94% so VIX likely sub-16. VIX < 22 ✓
+- Today's catalysts:
+  - **No FOMC, no CPI, no PPI, no payrolls today** — quiet macro day
+  - **10:00am ET — JOLTS (March)** — labor demand read; soft print = stagflation extension, hot print = no-cut conviction
+  - Macro week ahead per Kiplinger: jobs theme (JOLTS Tue, ADP, Challenger, NFP later week)
+  - No major Fed speakers confirmed pre-open
+- Earnings before open: **None confirmed BMO** (CapyFin/Nasdaq/EarningsWhispers all dry for May 4 BMO). Small caps NFE/NESR/MGTX intraday only. Light week post-Mag7 / post-CVX/XOM.
+- AAPL Fri AMC was clean: rev $80.2B beat, EPS $21 +22%, iPhone $57B Mar-qtr record, Cook→Ternus transition Sep 1; AH +0.44% — no crater ✓
+- Sector momentum YTD (through May 1):
+  - **XLE +32.49% — DOMINANT LEADER** (we own it)
+  - **XLK +12.57%** — Tech recovering despite hyperscaler capex overhang
+  - **XLP +8.96%** — Staples (defensive, stagflation hedge)
+  - SPY +5.97% benchmark
+  - Lagging: XLY, XLC, XLF still weak
+
+### Live Quotes (premarket, prior to open)
+- XLE $59.20 (current price from Alpaca, +0.60% vs Fri close $58.85)
+- Held position is up — no buy-gate trigger needed for existing trail stop, just ride it
+
+### Trade Ideas
+With XLE working (+1.18% unrealized) and 19.99% deployed vs 75-85% target, we're under-deployed by 55-65%. Trades-this-week reset to 0/3, so room for 1-2 adds. But: do NOT double-down on energy (concentration risk + XLE already extended +32% YTD, oil rolling over from $116→$108).
+
+1. **XLP — top candidate for diversification.** Defensive +8.96% YTD, classified "Leading", benefits from stagflation-light regime (sticky PCE 3.2%, soft GDP 2.0%, hawkish-leaning Fed). Lower beta than XLE so smaller drawdown if tape rolls. **Catalyst:** sector rotation into defensives + Fed reluctance to cut + JOLTS soft print would amplify. **Entry:** ~$84 area (last bid $83.88 Thu, would need live open print). **Stop:** 10% trailing GTC = ~$75.60. **Target:** +10-15% (~$92-97). **Size:** $20k cap, R:R ~1.5-2:1 (modest but clean). Pass if XLP gaps up >1% premarket (chase risk).
+2. **XLK — secondary, conditional.** +12.57% YTD, hyperscaler capex digestion 1 week old (META -7%, AMZN -3%, MSFT -2% AH last Wed), but Fri tape ripped suggesting capex overhang absorbed. **Entry:** only if XLK opens above Fri close with momentum confirm; ~$160 area. **Stop:** 10% trail = ~$144. **Target:** +15% (~$184). **Risk:** if any hyperscaler revisits the capex story this week, XLK rolls. Skip unless clean breakout.
+3. **Add to XLE — PASS.** Already 19.99% in single sector; adding violates spirit of sector concentration discipline even if single-position cap allows it. Oil rolling from $116→$108 is the tell.
+4. **Single-name energy (CVX/XOM/PARR) — PASS.** XLE already captures sector beta with diversification; single-name risk not warranted.
+5. **XLI / XLF — PASS.** Both lagging or marginal; need dovish Fed + ISM > 53; got hawkish Fed.
+
+### Risk Factors
+- **Oil rolling over** — WTI $116 (Fri AM) → ~$102 (today), Brent $116 → <$110; if Gulf de-escalation accelerates, XLE gives back to entry quickly. The 10% trail at $53.19 protects but a fast unwind to ~$56 area = -5% from entry, not stopped out, and we lose the gain.
+- **JOLTS at 10am** — soft print extends growth-slowdown narrative, hits cyclicals (XLE included via demand-destruction); hot print = no-cut conviction = bad for duration/tech (XLK).
+- **Stagflation-light regime intact** — XLE benefits less if oil rolls, XLP benefits more — favors the diversification trade.
+- **Light catalyst day** = thin volume, choppy tape; bad day to chase a breakout. Better to wait for confirmation or sit.
+- **Hyperscaler capex overhang** unresolved — XLK / SMH still risky.
+- **Concentration risk** — running just 1 position at 20% means single-name event risk dominates; bot is essentially long XLE only.
+- **5-day cash drag** — bot still ~68 bps behind SPY cumulative; under-deployment leaking alpha on rallies.
+
+### Decision
+**HOLD existing XLE; CONDITIONAL on XLP for second position at market-open.** Default plan today:
+- Let XLE ride — no thesis break, +1.18% unrealized, trail stop active at $53.1945 (10% from HWM $59.105). No tighten needed (not yet at +15%).
+- **Market-open routine should evaluate XLP buy at the open.** Buy-gate criteria to confirm pre-trade: (a) XLP opens within $83-$85 range (not gapping up >1%), (b) WTI holds > $100 (no demand-destruction crash), (c) ESM26 not down >0.5% premarket, (d) JOLTS not yet released or print not catastrophic. If all four pass: **BUY XLP $20k @ market with 10% GTC trailing stop, target +10-15%.**
+- **If XLP gaps or oil/futures roll**, stay flat second slot, re-evaluate post-JOLTS. Trades-this-week budget 0/3 — room to wait.
+- Patience > activity, but with 1 sector exposure and 80% cash, adding a diversifying defensive sleeve aligns with strategy more than continued idle cash drag does.
+
