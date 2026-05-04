@@ -48,6 +48,14 @@ No open positions.
 
 **Notes:** Fourth consecutive no-trade trading day; first full week ends with zero deployments. Buy gate did not pass at market-open again — full $100k still parked in settled cash. SPY post-close quote again one-sided (ap=0 stale ask, bid $693.23) — using bid as proxy close. vs yesterday's $689.60 bid proxy, ~+0.53% on the day; bot flat means SPY beat us by ~53 bps today. Cumulative through Day 5 from Apr 26 baseline: bot flat (0 bps); SPY (today's bid proxy) ~-2.91% from $714.005 — bot still ahead by ~291 bps purely on cash drag avoiding the Apr 29 leg down. 0 trades today, 0 trades this week (cap 3/wk fully unused). Five sessions in, capital 100% idle — gate is doing its job in a falling tape but we're now leaving alpha on the table on bounce days. Tomorrow (Fri May 1): weekly-review (Sharpe vs SPY, max DD, vs RSP, process metrics) plus pre-market scan; if any sector leader with relative strength clears the gate, deploy first ≤20% ($20k) position with mandatory 10% GTC trailing stop. Worth a re-examination of the buy-gate thresholds given five straight skips.
 
+### May 04 — Market-Open Trade (Day 7, Monday)
+
+**BUY XLP 238 @ $83.851513** | Cost: $19,956.66 (19.93% of $100,124.64 equity) | Stop: trailing 10% GTC, initial $75.474 (HWM $83.86)
+- Thesis: Diversification from XLE single-sector concentration. XLP +8.96% YTD ("Leading"), defensive sleeve fits stagflation-light regime (sticky core PCE 3.2%, soft Q1 GDP 2.0%, hawkish-leaning FOMC 11-1 hold). All four documented buy-gate criteria passed at open: (a) XLP $83.88/$83.90 inside $83-$85 band, no >1% gap; (b) WTI ~$102 holds >$100; (c) SPY $720.27 vs Fri close $720.555 = flat, ESM26 not down >0.5%; (d) JOLTS 10am ET not yet released.
+- Target: +10-15% ($92-$97). R:R ~1.5-2:1.
+- Order IDs: BUY 5f9fac9f..., TRAIL aa46ecf2...
+- Trades this week: 1/3. Positions: 2/6. Deployed: ~39.92% (XLE $20,017 + XLP $19,956 = $39,973 / $100,124).
+
 ### May 01 — EOD Snapshot (Day 6, Friday)
 **Portfolio:** $100,109.34 | **Settled cash:** $80,107.14 | **Unsettled:** $0.00 | **Day P&L:** +$109.34 (+0.11%) | **Phase P&L:** +$109.34 (+0.11%)
 
