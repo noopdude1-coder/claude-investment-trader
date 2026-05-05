@@ -400,3 +400,68 @@ With XLE working (+1.18% unrealized) and 19.99% deployed vs 75-85% target, we're
 - **If XLP gaps or oil/futures roll**, stay flat second slot, re-evaluate post-JOLTS. Trades-this-week budget 0/3 — room to wait.
 - Patience > activity, but with 1 sector exposure and 80% cash, adding a diversifying defensive sleeve aligns with strategy more than continued idle cash drag does.
 
+## 2026-05-05 — Pre-market Research (Tue open, post-XLP-deploy follow-up)
+
+### Account
+- Equity: $100,290.54 | Settled cash: $60,150.48 | Buying power: $160,441.02 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 2 / 6
+  - XLE 340 sh @ avg $58.5084 ($19,892.86 cost), market $59.56, **unrealized +$357.54 (+1.80%)**, trailing 10% GTC stop @ $53.622 (HWM $59.58) live
+  - XLP 238 sh @ avg $83.8515 ($19,956.66 cost), market $83.57, **unrealized -$67.00 (-0.34%)**, trailing 10% GTC stop @ $75.915 (HWM $84.35) live
+- Open orders: 2 (both trailing stops)
+- Trades this week (Mon-Fri): 1 / 3 (XLP Mon 5/4) — 2 left
+- `last_equity` $100,116.14 → Day P&L (premarket mark) +$174.40 / +0.17%
+- Cumulative from Apr 26 baseline $100,000: bot **+0.29%**; SPY (Mon bid proxy $717.71) +0.52% → SPY ahead ~23 bps (gap narrowed from 68 bps Friday)
+- Deployed: 40.02% ($40,140 / $100,290) — still under 75-85% target
+
+### Market Context
+- WTI / Brent: **WTI ~$105** (May 4 peak $106.42, profit-taking back to $105 today; pulled back from May 1 $116 spike); **Brent last cited $116.10 May 1 8:45am** but has come off with WTI. Mid-East/Hormuz premium intact (stalled Iran peace talks, Strait of Hormuz threat). WTI > $100 ✓
+- S&P 500 futures: **ESM26 ~7,227.50, -2.75 / -0.04% premarket** (modestly red, light volume 12,590); SPX implied ~7,275 from Mon SPY $717.71. ES > 7,100 ✓
+- VIX: **18.51 close 5/4 (+8.95%)** — first vol pop of the week, up from 16.99 Fri close. VIK26 May futures 19.45 (-6.70% vs prior). Still < 22 ✓ but trend reversed.
+- Today's catalysts:
+  - **8:15am ET — ADP Employment Report** (private payrolls preview to NFP Fri)
+  - **8:30am ET — Treasury Refunding Announcement**
+  - **10:00am ET — JOLTS (March)** — labor demand read; soft = stagflation extension, hot = no-cut conviction
+  - No FOMC, no CPI, no PPI today
+  - This week: NFP Friday 5/8; CPI next Tue 5/12; PPI Wed 5/13
+- Earnings BMO 5/5: **CMI ($5.63)**, **DUK ($1.87)**, **DD ($0.48)**, **CCJ (-$0.10)**, **DOCN ($0.26)**, **BNTX (-$2.20)**, BRBR, CIFR, CIGI. Industrials/utilities focus — no Mag7, no XLE/XLP direct read. CMI/DD = XLI bellwethers; DUK = XLU read.
+- **Sector momentum YTD (through 5/4):**
+  - **XLE +32.49% — DOMINANT LEADER** (we own it)
+  - **XLK +12.57%** — Tech recovering (XLK closed $161.83 5/4, -0.14%); "Lagging" classification but positive YTD
+  - **XLP +8.96-11.89%** (we own it; broke above $84 resistance last week, +6% last week per BofA report; record inflows during tech selloff)
+  - SPY +5.97% benchmark
+  - **XLF -8.13% YTD — laggard**; XLY/XLC also weak
+- Macro state: **stagflation-light persists**; oil profit-taking Tue but supply/geopolitical premium intact
+
+### Live Quotes (premarket)
+- XLE $59.56 (+0.29% vs Mon $59.39 lastday) — held position grinding higher
+- XLP $83.57 (-0.04% vs Mon $83.54) — flat
+- ESM26 7,227.50 (-0.04%)
+- VIX 18.51 (last close)
+
+### Trade Ideas
+With 2 positions at 40% deployment, 1/3 trades used this week, and trailing stops both live, room exists for a third diversifying position (target deployment 75-85%). But VIX spike +8.95% Mon = caution — wait for confirmation.
+
+1. **XLK — top candidate for 3rd sleeve, conditional.** Tech +12.57% YTD, second-best performer, hyperscaler capex digestion 1+ week stale (META -7%, AMZN -3%, MSFT -2% AH on Apr 30 — absorbed by Fri rally). XLK $161.83 close 5/4. **Catalyst:** Mag7 capex overhang resolved + AI infra demand intact + broadening leadership. **Entry:** $160-163 area at open if no gap. **Stop:** 10% trailing GTC ~$145.65. **Target:** +12-15% (~$181-186). **Size:** $20k cap (~123 sh @ $162). **R:R ~1.5:1** (modest). **Skip if:** ESM26 down >0.5% premarket, VIX >20, or XLK gaps up >1% (chase risk).
+2. **XLV — secondary defensive, conditional.** Healthcare; not pulled but typically defensive. Pass unless XLK gates fail and need lower-beta diversification.
+3. **Add to XLE — PASS.** Already 20% single-sector concentration. Oil pulled back from spike — entry would be against momentum unwind.
+4. **XLF / XLY / XLC — PASS.** All laggards (-8.13% XLF YTD); fighting tape.
+5. **Single-name (CMI, DD on earnings) — PASS.** Single-name event risk; ETF beta with diversification preferred.
+
+### Risk Factors
+- **VIX +8.95% spike Mon** — first sign of vol regime shift; could compound if JOLTS soft or weekend spillover
+- **Oil rolling** — WTI $116 → $105, Brent following; XLE could give back if de-escalation accelerates (10% trail at $53.622 protects)
+- **JOLTS at 10am** — soft print extends growth slowdown (hits XLE via demand destruction); hot print kills rate-cut hope (hits XLK via duration)
+- **Friday NFP** — week's marquee macro print; positions held into NFP carry binary risk
+- **CPI next Tue 5/12** — sticky core PCE 3.2% suggests CPI risk; XLP defensive helps, XLK vulnerable to upside surprise
+- **Hyperscaler capex overhang** — partially absorbed but not fully repriced; XLK entry today carries tail risk
+- **Concentration easing but still real** — 2 positions = idiosyncratic risk per name
+- **Earnings density** — CMI/DD/DUK BMO could whip XLI/XLU and bleed into XLP (Costco/Walmart/PG correlation)
+
+### Decision
+**HOLD both positions; CONDITIONAL XLK at market-open as 3rd sleeve.** Default plan today:
+- Let XLE ride — +1.80% unrealized, no thesis break, trail @ $53.622 (HWM $59.58). No tighten needed (not at +15%).
+- Let XLP ride — -0.34% (within first-week chop), trail @ $75.915 (HWM $84.35). No action; thesis intact.
+- **Market-open routine should evaluate XLK buy at the open.** Buy-gate criteria pre-trade: (a) XLK opens within $160-164 (not gapping up >1%, no >1% gap down), (b) ESM26 not down >0.5% premarket, (c) VIX prints < 20 at open, (d) no XLE/XLP overnight gap-down >1%, (e) JOLTS not yet released. If all five pass: **BUY XLK ~$20k @ market with 10% GTC trailing stop, target +12-15%.** This pushes deployment to ~60%, still under target but adds tech leadership exposure.
+- **If VIX > 20 OR ESM26 < -0.5% OR XLK gaps**, stay flat 3rd slot, re-evaluate post-JOLTS or skip to Wed. Trades budget 1/3 used — room to wait.
+- Patience > activity remains primary; 0.29% bot vs 0.52% SPY YTD = 23 bps behind, gap closing. VIX spike Mon argues for caution over chase.
+
