@@ -65,6 +65,17 @@ No open positions.
 
 **Notes:** First trade of the phase fired today — XLE 340 @ $58.5084 ($19,892.86, 19.89% of equity) on the energy thesis (ISM 54.0, CVX/XOM clean Q1 beats, WTI ~$106 Hormuz, XLE YTD +32.89%). All four documented re-entry gates passed pre-open. Trailing 10% GTC stop live at $53.1945 with HWM $59.105 (XLE printed higher intraday before fading). XLE closed -1.38% on the day (lastday $59.65 → $58.83) but we entered below the lastday so we're still +0.55% on cost. SPY mid at EOD = $720.555 vs yesterday's bid proxy $693.23 → SPY ripped ~+3.94% on the day; with one position at 20% weight up only +0.55%, bot's day return ~+0.11% lagged SPY by ~383 bps. Cumulative from Apr 26 baseline: bot +0.11%, SPY +0.92% ($714.005 → $720.555) — SPY now ahead by ~81 bps as the cash-drag alpha got eaten on the bounce. 1 trade today, 1 trade this week (cap 3/wk; 2 left). Settled cash $80,107.14 fully available Monday (no sales pending T+1). Positions 1/6, capital 19.99% deployed (well below the 75-85% target — gate was conservative on a day SPY ripped +3.94%). Monday (May 4): pre-market scan; energy still leader, look for a second sector to diversify (financials/tech relative-strength check) — deploy second ≤20% position if gate passes. Watch XLE — if it gives back toward the $53.19 stop that's a -10% from HWM and a clean exit; if it closes >$58.50 entry consistently, hold.
 
+### May 06 — Market-Open Trade (Day 9, Wednesday)
+
+**SELL XLE 340 @ $57.821176** | Proceeds: $19,659.20 | Realized P&L: **-$233.66 (-1.17%)** vs cost $19,892.86
+- Thesis broken: Axios reported possible US-Iran accord easing Strait of Hormuz risk; WTI sliced from $116 (May 1) → $91 intraday (-21.6% in 5 sessions); XLE -5.28% intraday vs lastday $59.45 at premarket pull. Pillar (a) of original thesis (geopolitical premium sustaining oil > $100) directly invalidated.
+- Strategy rule applied: "Thesis broken (catalyst invalidated, sector rolling, news event) → close, even if not at -7%." Cut on thesis break, not stop ($53.784 trail still 7%+ away).
+- Sequence: cancelled trail stop f7f3739a..., market sell bddaf911... filled 340/340 @ avg $57.821176 at 13:33:59 UTC. XLE rallied off premarket low $56.31 → fill ~$57.82 (better than feared).
+- Order IDs: SELL bddaf911-3e2d-4790-b477-19054d8d7c4c (filled), CANCELLED trail f7f3739a...
+- New trades count this week: **2/3** (XLP buy Mon + XLE sell today). 1 buy slot remaining for Thu/Fri.
+- Positions post-trade: 1/6 (XLP 238 sh only). Settled cash unchanged today; XLE proceeds settle T+1 = Thu 5/7.
+- No new buys today: FOMC announcement Thu 5/7 = binary risk; defer fresh deployment to post-FOMC Thu PM or Fri.
+
 ### May 04 — EOD Snapshot (Day 7, Monday)
 **Portfolio:** $100,216.39 | **Settled cash:** $60,150.48 | **Unsettled:** $0.00 | **Day P&L:** +$100.25 (+0.10%) | **Phase P&L:** +$216.39 (+0.22%)
 
