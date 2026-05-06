@@ -465,3 +465,81 @@ With 2 positions at 40% deployment, 1/3 trades used this week, and trailing stop
 - **If VIX > 20 OR ESM26 < -0.5% OR XLK gaps**, stay flat 3rd slot, re-evaluate post-JOLTS or skip to Wed. Trades budget 1/3 used — room to wait.
 - Patience > activity remains primary; 0.29% bot vs 0.52% SPY YTD = 23 bps behind, gap closing. VIX spike Mon argues for caution over chase.
 
+
+## 2026-05-06 — Pre-market Research (Wed open, XLE thesis-break alert)
+
+### Account
+- Equity: $99,292.64 | Settled cash: $60,150.48 | Buying power: $159,443.12 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 2 / 6
+  - XLE 340 sh @ avg $58.5084 ($19,892.86 cost), market $56.31, **unrealized -$747.46 (-3.76%)**, intraday -5.28% from lastday $59.45, trailing 10% GTC stop @ $53.784 (HWM $59.76) live
+  - XLP 238 sh @ avg $83.8515 ($19,956.66 cost), market $84.02, **unrealized +$40.10 (+0.20%)**, trailing 10% GTC stop @ $76.014 (HWM $84.46) live
+- Open orders: 2 (both trailing stops active)
+- Trades this week (Mon-Fri): 1 / 3 (XLP Mon 5/4) — 2 left
+- `last_equity` $100,369.76 → Day P&L (premarket mark) -$1,077.12 / **-1.07%**
+- Cumulative from Apr 26 baseline $100,000: bot **-0.71%**; SPY needs check (Tue close was record per Saxo) — we're now LAGGING after gap-down on XLE
+- Deployed: 39.42% ($39,142 / $99,292) — still under 75-85% target
+
+### Market Context
+- **WTI / Brent: WTI ~$91 (-8.91% intraday) on Axios report of possible US-Iran accord easing Strait of Hormuz risk.** Earlier $98.07 (-4.11%) before deeper plunge. Brent presumably following. May 5 close: WTI $100.30. **THE GEOPOLITICAL PREMIUM THAT BUILT THE XLE TRADE IS BEING UNWOUND IN REAL TIME.** WTI now well BELOW the $100 threshold used in the XLP buy gate.
+- S&P 500 futures: ESM6 quoted 7,303.25 +16.00 (+0.22%) May 5 morning; intraday range 7,304.75-7,314.50 today. **SPX at fresh record close Tue (per Saxo).** ES > 7,100 ✓
+- VIX: May 5 close **17.38 (-4.98%)** — vol unwound after Mon spike; one source cites 16.67 today, three-month low. Risk-on tone. < 22 ✓
+- Today's catalysts:
+  - **FOMC meeting May 6-7 — policy decision announcement Thursday May 7** (per Guggenheim calendar). **MISSED in yesterday's research.** Holding any position into FOMC = binary risk.
+  - 10:00am ET — State Employment & Unemployment (March), monthly (not market-moving)
+  - No CPI, PPI, or jobs print today
+  - This week: FOMC decision Thu 5/7; **NFP Fri 5/8**; CPI Tue 5/12; PPI Wed 5/13
+- Earnings BMO 5/6: FFIV, RITM, ISNPY noted on Digrin — no major XLE/XLP-direct movers; no Mag7
+- **Sector momentum (early May 2026):** Per Schwab/sector tracker —
+  - **Leading:** XLP (Staples), XLI (Industrials), XLB (Materials), XLE (Energy) — though XLE leadership now in question with oil break
+  - **Lagging:** XLK (Tech), XLC, XLY, XLF
+  - **Improving:** XLRE, XLU
+  - 6-mo trailing: Energy +30.3%, Materials +17.2%, Industrials +11.4%, Staples +7.2%, SPX +5.0%
+- Macro: **stagflation-light unwinding fast** — oil collapse + record SPX close + VIX 3-mo low = risk-on regime shift. Defensives (XLP) may underperform if rotation back to cyclicals.
+
+### Live Quotes (from Alpaca, premarket / current)
+- XLE $56.31 (-5.28% vs lastday $59.45) — broken
+- XLP $84.02 (-0.05% vs lastday $84.06) — flat
+- ESM6 ~7,303 (+0.22%)
+- VIX 17.38 (Tue close), 16.67 cited today
+
+### Trade Ideas
+
+**PRIMARY DECISION: XLE THESIS BROKEN. CLOSE AT MARKET-OPEN.**
+- Original thesis pillars: (a) Hormuz blockade / Iran tensions sustaining oil > $100, (b) ISM 54 expansion, (c) CVX/XOM clean Q1 beats, (d) XLE YTD leadership.
+- Pillar (a) is **directly invalidated** by today's US-Iran accord report. WTI sliced from $116 → $91 in 5 sessions (-21.6%). XLE -5.28% intraday confirms market is repricing.
+- Strategy sell-side rule: "Thesis broken (catalyst invalidated, sector rolling, news event) → close, even if not at -7%." We are at -3.76%, but the catalyst is dead.
+- Stop at $53.784 will protect downside to ~-8.1% from cost — but waiting for stop = letting -3.76% slide further while thesis is gone. **Discipline says exit on thesis break, not stop.**
+- Action for market-open routine: **CANCEL trailing stop f7f3739a..., MARKET SELL XLE 340 sh.** Realize ~-$750 loss. Frees ~$19,145 settled cash by Thu T+1.
+
+**SECONDARY: HOLD XLP, monitor.**
+- XLP +0.20% unrealized, thesis (defensive sleeve, +11.89% YTD, low vol) intact for now.
+- Risk: if rotation goes back to cyclicals/tech post-oil-crash, XLP underperforms. Forward P/E 26 vs 5y avg 22.7 = stretched.
+- No action; trail stop $76.014 protects.
+
+**NEW TRADE — DEFER until post-FOMC.**
+- FOMC announcement TOMORROW (Thu 5/7). Adding any position today = holding into binary event 24hr later. **Do not enter new positions today.**
+- Possible Friday/next-week candidates after FOMC clears: XLI (industrials leading, no oil dependency), XLB (materials), or — if dovish surprise — re-entry into XLK (-12.57% YTD recovering, hyperscaler capex digested).
+- Single-name skip: too much idiosyncratic risk vs ETF beta in this regime.
+
+### Risk Factors
+- **FOMC tomorrow** — hawkish surprise = SPX fades record, defensives wobble; dovish = staples lag rotation. Either way, holding XLE through this with broken thesis is reckless.
+- **Oil cascade risk** — if US-Iran accord materializes, WTI could see $80-handle; XLE could slice through stop @ $53.78 in days, gap risk on Hormuz official de-escalation headline.
+- **NFP Friday** — week's marquee macro print. Hot = Fed hold conviction extends; soft = recession whisper, all sectors chop.
+- **CPI Tue 5/12** — sticky-inflation print would re-anchor stagflation regime.
+- **XLP valuation stretched** — Forward P/E 26 vs 5y 22.7; if cyclical rotation accelerates, XLP gives back.
+- **Concentration easing if XLE exits** — post-close: XLP only @ 20% deployed, 80% cash. Cash drag returns until post-FOMC re-deploy.
+- **Underperformance gap widening** — bot ~-0.71% vs SPX record close → behind by ~150-200 bps. Cutting XLE locks ~75 bps of loss but stops the bleed.
+
+### Decision
+**SELL XLE at market-open (thesis broken). HOLD XLP. NO new trades today (FOMC tomorrow).**
+
+Action plan for market-open routine:
+1. Cancel trailing stop order f7f3739a-bc4e-49a0-b73f-a18cfb0bbc74 (XLE)
+2. MARKET SELL XLE 340 shares (~$19,145 proceeds, locks ~-$750 / -3.76% loss)
+3. Leave XLP 238 sh + trail stop $76.014 (HWM $84.46) untouched
+4. Do NOT initiate any new buy today — wait for post-FOMC clarity Thursday afternoon
+5. Post-sale state: 1 position (XLP, 20% deployed), settled cash ~$60k available, XLE proceeds settle T+1 = Thursday
+6. Trades this week post-action: 2/3 used (XLP buy + XLE sell); 1 buy slot remaining for Thu/Fri
+7. Friday weekly review will assess re-deployment options post-FOMC + post-NFP
+
+Patience > activity. Cutting a broken thesis is not activity — it's discipline. Re-entry to risk waits on the Fed.
