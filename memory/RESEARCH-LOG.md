@@ -342,3 +342,55 @@ Watchlist (deferred to post-AAPL / post-ISM read):
 
 ### Decision
 **HOLD into ISM 10am print; conditional re-evaluate post-ISM.** Sixth consecutive HOLD at the open. **If ISM ≥ 50 AND CVX/XOM print clean AND oil holds $103+ AND XLE doesn't gap >2%,** market-open routine should deploy **XLE $20k @ market with 10% GTC trailing stop, target +15-20%**. **If ISM < 50 OR oil gaps down >2% OR weekend headline risk spikes,** stay flat into weekend and queue Mon 5/4 re-eval. Trades-this-week budget 0/3 untouched. Today is also weekly-review day — run the Sharpe vs SPY / vs RSP / max-DD math after close regardless of trade. Patience > activity, but the 5-day cash drag is no longer cost-free on rallies — XLE is the cleanest macro setup we've seen in the window and warrants action if the gate confirms post-ISM.
+
+## 2026-05-07 — Pre-market Research (Thu open, inline — no separate pre-market run)
+
+### Account
+- Equity: $99,765.92 | Settled cash: $79,809.62 | Buying power: $179,575.54 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 1 / 6 (XLP 238 @ $83.85, mkt $19,953.92, ~flat) — Open orders: 1 (XLP trailing stop GTC @ $76.0545, HWM $84.505) — Trades this week: 1 / 3 (XLP buy 5/4) — `last_equity` $99,858.74 → Day P&L -$92.82 (-0.09%)
+- Realized YTD: XLE 5/1→5/6 round-trip closed at -$233.55 (-1.17% on cost; manual exit 5/6 on Iran de-escalation thesis break)
+
+### Market Context (live ~9:33am ET)
+- WTI / Brent: WTI ~$99–102 (down from $105–106 last week on US-Iran peace progress); Brent ~$110-116 area; Gulf proposals stabilizing supply premium
+- S&P 500: SPY $734.59/$734.64 (vs 5/1 close $720.555 → +1.95% week); ESM26 ~7,401 (+0.16%); SPX cash printing fresh ATH ~7,380+
+- VIX: ~16.74 (sub-17 — most complacent reading of the window)
+- Today's catalysts: continuation of tech-led rally; US-Iran peace-deal hopes; jobless claims 8:30am; consumer credit 3pm
+- Earnings BMO Thu 5/7: thin slate; AMC mega-caps mostly behind us (MSFT/GOOGL/META/AMZN done 4/29 AMC, AAPL 4/30 AMC)
+- Sector momentum (1-week, 4/30 → 5/7 bid mids):
+  - **SMH +9.0%** ($499.23 → $543.47) — STRONGEST
+  - **XLK +7.4%** ($158.27 → $169.94)
+  - **XLY +3.4%** ($116.55 → $120.53)
+  - **XLB +3.2%** ($51.00 → $52.62)
+  - **XLI +2.5%** ($172.62 → $176.87)
+  - **XLC +2.3%** ($114.93 → $117.57)
+  - XLV +0.8%, XLF +0.3%
+  - **XLU −1.8%** ($46.34 → $45.51) — defensives weak
+  - **XLE −5.4%** ($58.97 → $55.81) — Iran-talks de-escalation broke the thesis; XLE rotated from leader to laggard week-over-week
+- YTD leadership pivot: late-April XLE dominance has rolled into early-May tech/semi reassertion. Hyperscaler $500B+ 2026 capex digestion appears largely absorbed (1-week post-prints).
+
+### Re-entry Rule Check (XLK/SMH deferral from 5/1 entry)
+"XLK / SMH — defer 1-2 weeks. Hyperscaler $500B+ 2026 capex digestion + META -7% AH still fresh; need 2-3-day base post-prints. Earliest mid-May."
+- 1 week post-prints (5/7 vs 4/29 AMC): ✓
+- META -7% reaction faded; SMH now 1-week leader: ✓
+- VIX 16.74 < 22: ✓
+- SPX > 7,100: ✓ (printing 7,380+ ATH)
+- AAPL clean: ✓ (5/1 entry already verified)
+**Mid-May deferral resolved → XLK/SMH eligible.**
+
+### Trade Ideas
+1. **XLK — top candidate, conditional GREEN.** Tech leader 1-week +7.4%; broad-cap exposure (less single-name risk than SMH); hyperscaler capex digested clean; risk-on tape (VIX 16.74, SPX ATH); diversifies the XLP defensive position. Entry: market ~$170; stop: 10% trailing GTC; target: +15–20% (~$195–204); R:R ≥ 2:1. Size: 117 shares × $170 ≈ $19,890 (≤20% cap of $19,953).
+2. **SMH — pass.** +9% in 1 week is extended; chase risk; XLK captures sector momentum with lower beta.
+3. **XLE — pass.** Thesis broke 5/6; -5.4% week; Iran de-escalation removes the supply premium catalyst.
+4. **XLI — secondary, defer.** Solid +2.5% but waiting on next ISM read; XLK is the cleaner setup.
+5. **XLY/XLC/XLB — pass.** Decent participation but no specific catalyst; XLK is the leadership trade.
+
+### Risk Factors
+- 1-week XLK +7.4% is extended → mean-reversion risk on any negative tech headline
+- Hyperscaler capex overhang technically unresolved long-term (ROI proof-points 2-3 quarters out)
+- VIX 16.74 = market UN-pricing risk; no cushion for surprise (geopolitical reversal, hot Fed-speak, China headline)
+- Concentration risk: XLP (defensive) + XLK (offensive tech) = barbell with macro mismatch if regime shifts; mitigated by hard 10% trailing on each
+- Iran peace-deal optimism could reverse on any Hormuz incident → XLE rebound, growth-tech rotation back to value/energy
+- Trades-this-week budget after this fill: 2/3; one slot held in reserve for tomorrow if a new sector confirms
+
+### Decision
+**TRADE — BUY XLK 117 @ market with 10% trailing GTC stop.** Documented mid-May deferral resolved; tech-led leadership confirmed by 1-week sector tape; gate passes (cash $79.8k > $19.9k cost, equity 20% cap respected, position 2/6, weekly trades 2/3 after fill, stock instrument, catalyst documented above). Holds XLP for defensive ballast. Capital deployment goes 20% → ~40% (still below 75-85% target — leaves room for 1-2 more entries this week if confirming sectors emerge). Patience held for 5 sessions; gate now firing on a clean catalyst, not on capital-deployment pressure.
