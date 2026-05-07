@@ -543,3 +543,84 @@ Action plan for market-open routine:
 7. Friday weekly review will assess re-deployment options post-FOMC + post-NFP
 
 Patience > activity. Cutting a broken thesis is not activity — it's discipline. Re-entry to risk waits on the Fed.
+
+
+## 2026-05-07 — Pre-market Research (Thu, post-XLE-cut, NFP tomorrow)
+
+### Account
+- Equity: $99,992.02 | Cash: $79,809.62 (all settled today — XLE proceeds $19,659.20 from Wed sale settled T+1) | Buying power: $179,801.64 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 1 / 6
+  - XLP 238 sh @ avg $83.8515 ($19,956.66 cost), current $84.80, **unrealized +$225.74 (+1.13%)**, intraday +0.66% vs lastday $84.24, trailing 10% GTC stop @ $76.0545 (HWM $84.505) live
+- Open orders: 1 (XLP trail stop)
+- Trades this week (Mon–Fri): 2 / 3 used (XLP buy Mon 5/4 + XLE sell Wed 5/6) — **1 buy slot remaining**
+- `last_equity` $99,858.74 → premarket Day P&L mark +$133.28 (+0.13%) — XLP intraday tick from yesterday's close
+- Cumulative from Apr 26 baseline $100,000: bot **-0.01%** (essentially flat after XLE thesis-break -1.17%); SPY $733.97 (5/6 close bid proxy via stale ap) vs $714.005 baseline = +2.79% — **SPY ahead by ~280 bps**
+- Deployed: 20.18% ($20,182 / $99,992) — well below 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI ~$102/bbl (spot 5/6 close $102.56, range $99.57-$104.36); rebounded from Wed intraday low ~$91 on US-Iran accord report. Brent quoted $116 (5/1 stale). May futures (CLM26) $91.94. **Geopolitical premium partially restored but volatile** — oil swung -21.6% over 5 sessions then rebounded. Not back above the $100 threshold cleanly.
+- **S&P 500 futures:** ESM6 stale quote ~7,382 (-0.10% on 5/6 7:25 ET); SPX cash +1.46% on 5/6 (record territory). No firm 5/7 premarket quote available pre-open.
+- **VIX:** 17.39 spot 5/6 close (-1.27%); 52-wk range 13.38-35.30. **Vol regime calm.**
+- **FOMC reality check:** Yesterday's log assumed "FOMC May 6-7." Perplexity confirms most recent FOMC was **Apr 29** (held 3.50-3.75%, 8-4 vote with 4 dissenters — most since 1990s). **Next meeting Jun 15-17.** No FOMC today. Hike odds rose to ~10% on stagflation-light fears; market-implied next cut pushed to late 2027.
+- **Today's catalysts (5/7):**
+  - 8:30am ET — Initial Jobless Claims (weekly, secondary read)
+  - 10:00am ET — State Employment & Unemployment (March, monthly, low impact)
+  - **NO FOMC today** (correction to yesterday's log)
+- **This week ahead:** NFP Friday 5/8 (week's marquee print); CPI Tue 5/12; PPI Wed 5/13
+- **Earnings BMO 5/7:** XXII (22nd Century Group), PRAX (Praxis Precision) — both microcap, no XLP/XLK/XLE-direct read; no Mag7
+- **Sector momentum YTD (through 5/5):**
+  - **XLK +15.19%** — Tech recovery extending; outpacing SPY +6.43% YTD; software (IGV) lagging -18% YTD
+  - **XLP +8.82%** — "Leading" quadrant; defensive sticky-inflation hedge (we own it)
+  - **XLE — small-cap energy (PSCE) +45% YTD; large-cap XLE leadership in question** post-oil collapse
+  - **XLI / XLB** — Industrials, Materials still in leading group per Dorsey Wright
+  - **XLV — "Weakening"** quadrant per momentum analysis
+  - SPY +5.58-6.43% YTD
+- Macro: oil cascade arrested but not reversed; SPX at record close 5/6 (+1.46%); VIX at 3-mo low; rate-cut path pushed back; **stagflation-light persists with sticky CPI 3.3%.**
+
+### Live Quotes (post-close 5/6, premarket data not yet available)
+- XLP $84.80 (intraday +0.66% vs lastday $84.24; bid $81.48 stale)
+- XLK ~$174.72/$164.43 wide stale spread (5/6 close)
+- XLI bid $170.99 (stale)
+- SPY $733.90/$733.97 (5/6 close)
+- XLE $55.47 bid (stale; sold)
+- VIX 17.39 (5/6 close)
+
+### Trade Ideas
+
+**PRIMARY: HOLD XLP. NO new buys today.**
+
+Rationale for no-buy:
+1. **NFP tomorrow** (Fri 5/8) = the week's marquee binary catalyst. Adding any position today = holding into NFP whipsaw with 24hr hold; same logic that kept us out yesterday.
+2. **CPI Tuesday 5/12** = back-to-back binary risk; sticky 3.3% YoY could re-anchor stagflation regime and roll the cyclicals back.
+3. **1 buy slot left for week** — better preserved for Mon if post-NFP tape gives a clean read, or skipped entirely (week with 1 buy + 1 sell + cash drag is acceptable; patience > activity).
+4. **XLP intact, no action required** — +1.13% unrealized, trail $76.0545 / HWM $84.505 in place; not at +15% so no tighten; thesis (defensive sticky-inflation hedge, +8.82% YTD, leading quadrant) intact.
+
+Watchlist for Mon 5/11 (post-NFP) — WHAT TO BUY IF GATE PASSES:
+1. **XLK — top candidate.** +15.19% YTD, recovery momentum, hyperscaler capex digested. Entry: ~$165-170 area. Stop: 10% trail. Target: +12-15%. Size: ~$19.5k cap (~115-118 sh @ $165-170). R:R ~1.5:1. **Skip if:** XLK gaps >1%, ESM6 down >0.5%, VIX >20, hot CPI surprise.
+2. **XLI — secondary.** Industrials still in leading group, no oil dependency. Entry: $168-172. Same 10% trail / target structure.
+3. **XLB — tertiary.** Materials leadership intact. Lower priority vs XLK/XLI.
+4. **Re-add XLE — PASS.** Sector exit triggered by thesis break Wed; rule says exit a sector after 2 failed trades — this is 1 failed trade, but oil thesis remains compromised.
+5. **Single-name plays — PASS.** XXII/PRAX microcap earnings = idiosyncratic event risk; ETF beta preferred.
+
+### Risk Factors
+- **NFP Friday** — hot print = Fed-hold conviction extends, growth-name multiples compress; soft = recession whisper, defensives outperform, cyclicals roll. Either way binary.
+- **CPI Tuesday 5/12** — sticky 3.3% YoY; upside surprise re-anchors stagflation, hits XLK / boosts XLP; downside surprise catalyzes rotation back to growth.
+- **Oil regime ambiguity** — WTI bounced from $91 → $102 but well below $116 spike; further geopolitical headlines (US-Iran, Hormuz) can move ±10% on a single tweet; XLE still sliding even at higher beta.
+- **XLP valuation stretched** — Forward P/E 26 vs 5y avg 22.7; cyclical rotation back to growth could reverse Q1 outperformance; trail stop at $76.0545 protects -9.4% from current.
+- **Concentration risk persists** — 1 position = full idiosyncratic exposure to a single ETF; sector-rotation dislocation could move XLP -3-5% on a single rotation day with no offset.
+- **Cash drag** — 80% cash in a +6% YTD SPY tape is costing us ~5 bps/day; underperformance vs SPY currently ~280 bps cumulative. Discipline cost is real, but adding wrong position is more costly.
+- **Rate hike tail risk** — odds at ~10% per market pricing; surprise hawkish FOMC minutes (released ~3 weeks post-meeting) could whipsaw both XLK (duration) and XLP (yield comp).
+
+### Decision
+
+**HOLD XLP (no action). NO new trades today. Re-evaluate Mon 5/11 post-NFP.**
+
+Action plan for market-open routine 5/7:
+1. **No buy / no sell.** Confirm XLP trail stop aa46ecf2... still live at $76.0545 (HWM $84.505) — no movement needed.
+2. Monitor 8:30am Initial Jobless Claims (weekly) for any tape jolt; XLP defensive should be insensitive.
+3. Watch XLP intraday — if it tags $76.0545 the GTC trail handles it automatically; if it breaks $80 (-4.6% from current $84.80) without a stop trip, treat as warning of cyclical rotation.
+4. Post-close: log EOD snapshot, flag NFP tomorrow as binary risk.
+5. Friday: weekly review + pre-market reads NFP digestion; defer any new buy to Mon 5/11 unless NFP delivers an exceptionally clean signal AND a leader sector clears all gate criteria.
+6. Trades budget end of week: 2 used / 1 remaining; plan to roll the unused slot to next week (cap resets Mon).
+
+Patience > activity. Day 10 of phase, 1 position, 80% cash is suboptimal vs a +6% SPY tape — but adding a 3rd-best candidate hours before NFP is exactly the kind of forced trade the rulebook exists to prevent. Wait for the setup.
