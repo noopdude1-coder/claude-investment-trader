@@ -624,3 +624,93 @@ Action plan for market-open routine 5/7:
 6. Trades budget end of week: 2 used / 1 remaining; plan to roll the unused slot to next week (cap resets Mon).
 
 Patience > activity. Day 10 of phase, 1 position, 80% cash is suboptimal vs a +6% SPY tape — but adding a 3rd-best candidate hours before NFP is exactly the kind of forced trade the rulebook exists to prevent. Wait for the setup.
+
+
+## 2026-05-08 — Pre-market Research (Fri, NFP day, week-cap maxed, weekly review later)
+
+### Account
+- Equity: $99,941.50 | Cash (settled): $59,899.73 | Buying power $159,841 (informational only — cash account, T+1, do NOT size against this)
+- Positions: 2 / 6
+  - XLK 117 sh @ avg $170.17 ($19,909.89 cost), current $171.32, **unrealized +$135.12 (+0.68%)**, intraday +0.96% vs lastday $169.69, trail 10% GTC stop @ $154.755 (HWM $171.95) live
+  - XLP 238 sh @ avg $83.8515 ($19,956.66 cost), current $84.02, **unrealized +$40.10 (+0.20%)**, intraday +0.05% vs lastday $83.98, trail 10% GTC stop @ $76.0545 (HWM $84.505) live
+- Open orders: 2 (both trail stops, both NEW status)
+- Trades this week (Mon–Fri): **3 / 3 MAXED** (XLP buy Mon 5/4 + XLE sell Wed 5/6 + XLK buy Thu 5/7) — **0 buy slots remaining; sells still allowed if thesis breaks**
+- `last_equity` $99,740.70 → premarket Day P&L mark +$200.80 (+0.20%) — small positive carry from XLK/XLP marks vs Thu close
+- Cumulative from Apr 26 baseline $100,000: bot **-0.06%**; SPY $713.02 (5/7 close bid proxy via stale ap) vs $714.005 baseline = -0.14% — bot **ahead by ~8 bps** after FOMC selloff collapsed the gap
+- Deployed: 40.07% ($40,041.77 / $99,941.50) — still below 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI ~$94-97/bbl (May 7 close $94.81; May 8 range $94.21-$97.28; spot consensus ~$96). **Below the $100 threshold cleanly.** Geopolitical premium fully deflated post-Iran accord chatter; OPEC+ +206k bpd hike absorbed. Brent stale $116 (May 1).
+- **S&P 500 futures:** ESM26 close 5/7 = 7,362.75 (down from 5/6 close 7,389.50, ~-0.36% on FOMC reaction); 5/5 close 7,287.25. Saxo prediction-market consensus ~7,350 settle. SPX cash 5/7 close $713.02 bid proxy (≈SPY) — record-area Tue eroded by FOMC hawkish vote tape Wed-Thu.
+- **VIX:** 17.39 close 5/7 (down from 18.29 on 5/4); 3-mo low regime, **<22 ✓**. No vol shock priced ahead of NFP.
+- **FOMC reality check:** Most recent FOMC was Apr 29 (held 3.50-3.75%, 8-4 vote, 4 dissenters — most since 1990s). Next meeting Jun 15-17. **No FOMC today.** Hike odds ~10%; market-implied next cut pushed late 2027.
+- **Today's catalysts (5/8):**
+  - **8:30am ET — NFP April 2026** (the marquee print): forecast **+65K** vs prior **+178K** (March, strongest since Dec '24) — projected **massive deceleration**. UR forecast 4.4% (unchanged); AHE +0.3% m/m / +3.7% y/y.
+  - 10:00am ET — Wholesale Inventories (low impact)
+  - **No CPI / no FOMC today.** CPI Tue 5/12, PPI Wed 5/13.
+- **Earnings BMO 5/8:** GRVY (Gravity Co — microcap gaming, EPS $2.81 / rev $107.6M, no XLP/XLK read); no Mag7, no S&P 500 majors before open.
+- **Sector momentum YTD (through 5/6):**
+  - **XLE +28.32%** (we sold; thesis broken; sector exit on 1 failed trade still standing)
+  - **XLP +9.06%** (we own; "Leading" quadrant; defensive sticky-inflation hedge)
+  - **XLK +7.91%** (we own; recovery trend; earnings revisions positive)
+  - **XLU +7.82%** | **SPY ~+5.58-7.91%** (depending on vendor)
+  - **XLI / XLB** still in leading group per Dorsey Wright (no fresh quote)
+  - **Valuation note:** XLK fwd P/E ~23 vs XLP ~21 — near parity, unusual (tech historically commands growth premium).
+- Macro: oil break locks in disinflation tailwind; if NFP prints soft (<65K) → recession-whisper rotation back to growth/duration; if hot (>120K) → stagflation-light reanchors, cyclicals/staples bid.
+
+### Live Quotes (post-close 5/7, premarket data not yet available)
+- XLK $173.86 ask / $165.03 bid (wide stale spread); current_price from position $171.32 (intraday +0.96%)
+- XLP $86.68 ask / $81.43 bid (wide stale spread); current_price from position $84.02 (flat intraday)
+- SPY $713.02 bid (stale ap=0)
+- ESM26 ~7,362 (5/7 close)
+- VIX 17.39 (5/7 close)
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. NO TRADES TODAY (BUY CAP MAXED).**
+
+Rationale:
+1. **Buy cap fully used** (3/3): no buy is permissible today regardless of setup quality. Strategy rule is non-negotiable; cap resets Mon 5/11.
+2. **Sells only allowed on thesis break.** Both positions intact:
+   - XLK: tech recovery momentum, +0.68% on cost, intraday green; thesis (hyperscaler capex digested, +7.91% YTD, positive revisions) intact. No action unless XLK breaks $158.26 (-7% manual cut) or rolls hard intraday on hot NFP.
+   - XLP: defensive sticky-inflation hedge, +0.20% on cost, +9.06% YTD, "Leading" quadrant. No action unless cyclical rotation slams it through $80 without trail trigger.
+3. **NFP at 8:30am is the day's binary** — both positions structured to absorb either outcome:
+   - Soft NFP (<50K): duration bid, XLK rallies on rate-cut re-pricing; XLP slightly lags but holds.
+   - Hot NFP (>120K): cyclicals/staples bid, XLP outperforms; XLK chops on duration sell-off.
+   - In-line (~65K): muted reaction; no trigger for action.
+4. **Friday weekly-review will run after EOD** — first review with actual position data; computes Sharpe vs SPY, max DD, vs RSP, process metrics. Defer any deeper position adjustments to that review.
+
+Watchlist for Mon 5/11 (post-NFP, fresh buy cap) — IF GATE PASSES:
+1. **XLI (Industrials)** — leading group, no oil dependency, complements XLK growth + XLP defense. Entry ~$168-172. 10% trail. Target +12-15%. Size ~$19.5k.
+2. **XLB (Materials)** — leading group, similar profile. Lower priority vs XLI.
+3. **Re-add XLK / XLP** — PASS, already at full position size on each.
+4. **Re-add XLE** — PASS (1 failed trade in sector; not yet at the 2-trade exit but oil thesis remains compromised).
+5. **Single names (HIMS earnings 5/11, etc.)** — PASS; ETF beta preferred in this regime.
+
+### Risk Factors
+- **NFP whipsaw** — 8:30am print is binary; expect 0.5-1.5% intraday swing in SPY. Both positions sized at 20% each = combined ~40% gross beta exposure. Trail stops protect downside (~10% room each); no margin call risk on cash account.
+- **Hot-NFP duration sell-off** — XLK could give back recent gains if 10Y rips on stagflation reanchor; trail at $154.755 still ~10% away, manual cut at $158.26 (-7% from cost) gives buffer.
+- **Soft-NFP recession signal** — XLP could see modest pullback if rotation back to growth accelerates; trail at $76.0545 (-9.4% from current) protects.
+- **CPI Tuesday 5/12** — back-to-back binary; sticky 3.3% YoY surprise re-anchors stagflation, hits XLK / boosts XLP. Hold both through CPI unless one breaks first.
+- **Oil regime ambiguity** — WTI bounced to $96 from $91 low; another headline (US-Iran fallout, OPEC+ surprise cut) could spike or crash; we have no XLE exposure but cross-asset vol propagates.
+- **Concentration risk** — only 2 positions, ~40% deployed; 60% cash drag in a +6% YTD SPY tape costs ~5 bps/day. Buy cap blocks remediation today.
+- **Underperformance vs SPY** — gap collapsed from ~280 bps Wed to ~8 bps in our favor today on FOMC selloff; sustainable only if defensive/light deployment continues to alpha.
+- **GRVY-style single-name catalyst** — none in our holdings; no idiosyncratic surprise risk on the books.
+
+### Decision
+
+**HOLD XLK + XLP. NO trades today (week buy cap 3/3 maxed). Run weekly review post-EOD.**
+
+Action plan for market-open routine 5/8:
+1. **No buy / no sell.** Confirm both trail stops still live (XLK f68c12ea... at $154.755, HWM $171.95; XLP aa46ecf2... at $76.0545, HWM $84.505). No movement needed.
+2. **8:30am NFP** — observe tape but do NOT react with new orders (cap maxed); only act if a position trips its sell rule:
+   - XLK breaks $158.26 (-7% manual cut) → market sell, cancel trail
+   - XLP breaks $77.96 (-7% manual cut) → market sell, cancel trail
+   - Either thesis explicitly invalidated by NFP regime shift (not just price chop)
+3. **Intraday monitoring** — let trail stops do their job; manual intervention only on rule-triggered exit.
+4. **Post-close (3pm CT):**
+   - Run daily-summary skill → log EOD snapshot to TRADE-LOG.md
+   - Run weekly-review skill → first full review with actual position data; append to WEEKLY-REVIEW.md
+5. **Mon 5/11:** fresh buy cap; if NFP digestion and CPI Tue setup are constructive, deploy 3rd position (XLI or XLB) toward 60% deployed. Otherwise hold 2 positions and wait.
+
+Patience > activity. Day 11 of phase, 2 positions at 40% deployed, week-cap exhausted — exactly the constraint the rulebook designed for. Friday's job is to NOT trade, log discipline, and let the weekly review tell us what we actually learned in week 2.
