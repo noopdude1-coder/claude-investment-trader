@@ -809,3 +809,94 @@ Action plan for market-open routine 5/11:
 8. **Trade budget end of week:** target 1-2 buys used, 1-2 slots conserved.
 
 Patience > activity. Week 3 opens with fresh cap, 2 positions printing, CPI 24 hours out — exactly the setup where the rulebook says wait for the signal. XLK at 52-wk high already earned this week's growth alpha; don't give it back by forcing a 3rd trade before the macro print.
+
+
+## 2026-05-12 — Pre-market Research (Tue, CPI day)
+
+### Account
+- Equity: **$100,364.65** | Cash (settled): **$59,899.73** | Buying power $160,264 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $176.04, **unrealized +$686.79 (+3.45%)**, intraday -1.03% vs lastday $177.88, trail 10% GTC stop @ $160.47 (HWM $178.30) live
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $83.48, **unrealized -$88.42 (-0.44%)**, intraday +0.13% vs lastday $83.37, trail 10% GTC stop @ $76.32 (HWM $84.80) live
+- Open orders: 2 (both trail stops, both NEW)
+- Trades this week (Mon-Fri): **0 / 3** (fresh cap)
+- `last_equity` $100,553.75 → premarket Day P&L mark **-$189.10 (-0.19%)**
+- Cumulative from Apr 26 baseline $100,000: bot **+0.36%**; SPY 5/11 close $739.035 vs $714.005 baseline = **+3.51%** — SPY ahead by **~315 bps**
+- Deployed: **40.32%** ($40,464.92 / $100,364.65) — still well below 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$99-100/bbl** crept back above $99 (May 8 close $99.47); CLM26 +2.78% Mon on inventory draw + Iran tension. Brent ~$2-5 premium (~$101-104). Geopolitical premium re-inflating. Note: the May 6 XLE exit on a "Iran accord" headline now looks early — oil bounced from $91 → $100 in 5 sessions. Sector exit gate still applies (1 failed XLE trade).
+- **S&P 500 futures:** ESM26 ~**7,434.25** (-0.03% premarket, near-flat); SPX cash 5/11 close $739.035. Tape parked at record-high zone awaiting CPI; bears need daily close <7,230.
+- **VIX:** **17.19** (5/8 close, last FRED print); calm regime, no vol shock priced ahead of CPI. **<22 ✓**
+- **Today's catalysts (5/12):**
+  - **April CPI (8:30am ET) — THE binary.** Consensus per XTB / multiple desks: **Headline +0.6% MoM / +3.7% YoY**; **Core +0.4% MoM / +2.7% YoY**. Note: core MoM cons of 0.4% is HOT vs the trailing trend (+0.2-0.3%) — bar is already raised; an in-line print still keeps stagflation reanchor risk on the table. Soft = <0.3% core MoM.
+  - 8:30am Real Earnings (April) — secondary
+  - 4:30pm API Crude inventories
+  - WASDE 12pm ET
+  - No major US BMO earnings (ONON AMC; CEG/B reported yesterday)
+- **This week ahead:**
+  - **Wed 5/13 — April PPI (8:30am ET)** validates producer pressure
+  - **Thu 5/14 — Retail Sales** + start of Trump-Xi summit (AI guardrails tail risk for semis)
+  - **Fri 5/15 — Powell term ends; Warsh confirmation in motion; UMich Sentiment prelim**
+- **Sector momentum YTD (through 5/8):**
+  - Absolute YTD: XLE +25.40%, XLK +22.07% (52-wk HIGH Fri), XLI +11.97%, XLP +8.98%, XLU +5.49%, XLF -5.96%, XLC -0.53%
+  - Dorsey Wright quadrants: **Leading** = XLP, XLI, XLB, XLE; **Lagging** = XLK, XLC, XLY, XLF (relative-trend read — conflicts with XLK price leadership; treat as rotation signal, not exit)
+- **XLK news:** Hit fresh 52-wk high $178.30 intraday Mon; AI capex + Big Tech earnings; Zacks #1 Strong Buy; weighted alpha +59.18; Q1 sector EPS growth ~40%. Risk: rate-sensitive — hot CPI prints punish duration. **Thesis intact.**
+- **XLP news:** Quiet; 5/11 range $82.83-$84.29 close $83.37; AUM $16.5B; defensive sleeve. **Thesis intact** as inflation hedge if CPI hot.
+
+### Live Quotes (premarket, stale post-close)
+- XLK current_price $176.04 (intraday -1.03%); lastday $177.88
+- XLP current_price $83.48 (intraday +0.13%); lastday $83.37
+- SPY ESM26 ~7,434 (-0.03%)
+- WTI ~$99-100
+- VIX 17.19
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. NO trades today (CPI binary, defer to Wed).**
+
+Rationale:
+1. **CPI 8:30am is binary.** Core MoM cons 0.4% is already hot; even an in-line print can squeeze duration if shelter doesn't crack. Buying premarket = leveraged guess on a coin flip. Strategy rule: don't force a trade on a known catalyst day.
+2. **Buy cap fresh (3/3), no urgency.** Patience > activity. Deploy with a clean signal post-CPI Wed/Thu, not into the print.
+3. **Both positions thesis-intact.** XLK +3.45% on cost despite Mon's intraday give-back (-1.03% off HWM $178.30); XLP -0.44% on cost but trail stop $76.32 ~8.6% away. No -7% breach, no thesis break, no sell trigger.
+4. **40% deployed suboptimal vs 75-85% target** — true — but adding into a known macro print is the textbook bad-discipline trade the rulebook prevents.
+
+Watchlist for **Wed 5/13** (post-CPI; conditional on the print):
+1. **XLI (Industrials) — TOP CANDIDATE.** Dorsey Wright Leading; +11.97% YTD; no oil dependency; complements XLK growth + XLP defense for a clean 3-sector spread. Entry ~$170-173. 10% trail GTC. Target +12-15%. Size ~$19.5k (~113-115 sh). R:R ~1.5:1. **Skip if:** Hot CPI (core >0.4%) → cyclicals roll on rate-cut delay; or XLI gaps >1% on the print.
+2. **XLB (Materials) — SECONDARY.** Same Leading quadrant; commodity tailwind on weaker dollar. Lower priority vs XLI.
+3. **XLU (Utilities) — TERTIARY.** Improving quadrant; AI-power thesis (CEG's $110B utility earnings yesterday). Lower beta.
+4. **Adding to XLK / XLP — PASS.** Already at full 20% caps.
+5. **Re-add XLE — PASS.** Sector exit gate still applies; oil bouncing back to $100 vindicates the original thesis but we already took 1 failed trade — wait for a clean second-attempt signal post-CPI.
+6. **Single names (ONON AMC, etc.) — PASS.** Single-stock idiosyncratic risk dominates in CPI week.
+
+**Soft-CPI scenario (core <0.3% MoM):** rotation to growth/duration → XLI cyclical + XLU duration both work; XLK already at HWM, no add.
+**In-line CPI (core 0.3-0.4% MoM):** XLI is the cleanest add — sector momentum, no concentration overlap.
+**Hot-CPI scenario (core ≥0.5% MoM):** stagflation reanchor → defensives bid (XLP we own); XLI/XLB pull back; defer all buys; watch XLK trail stop ($160.47, ~9.1% below current $176.04).
+
+### Risk Factors
+- **CPI 8:30am ET — THE binary.** Expect 0.5-1.5% SPY intraday swing. Hot core hits XLK duration / boosts XLP sticky inflation; soft core boosts XLK / modest XLP pullback. Combined ~40% gross beta; trail stops protect (~9-10% room).
+- **Oil-back-above-$100 ambiguity** — WTI bouncing $91→$100 in a week reanimates the original XLE thesis but we have no energy exposure and sector exit gate still applies. Cross-asset vol propagates: stagflation-hot CPI + sticky $100 oil = double headwind for XLK.
+- **XLK at 52-wk high, -1.03% intraday Mon** — first daily pullback off the HWM; manual -7% cut level $158.26, trail $160.47 (~9.1% below). A hot CPI gap-down >3% is fully in the menu.
+- **Cap-weight vs equal-weight divergence** — narrow rally; concentrated-mega-cap reversion hurts XLK disproportionately.
+- **Trump-Xi summit Thu-Fri** — AI guardrails tail risk for semis (~48% of XLK). Headline-driven 2-3% air pockets possible.
+- **Powell→Warsh transition (Fri)** — confirmation soundbites could move XLK ±2%.
+- **Cash drag** — 60% cash in a +3.5% YTD SPY tape; cumulative gap to SPY now ~315 bps. Adding the wrong trade is still more costly, but the gap is widening, not narrowing — Wed redeploy is the structural fix.
+- **Concentration risk** — only 2 positions; a single-sector blow has no offset.
+
+### Decision
+
+**HOLD XLK + XLP. NO trades today. Re-evaluate Wed 5/13 post-CPI for XLI deployment.**
+
+Action plan for market-open routine 5/12:
+1. **No buy / no sell.** Confirm both trail stops live (XLK f68c12ea... at $160.47, HWM $178.30; XLP aa46ecf2... at $76.32, HWM $84.80).
+2. **8:30am ET CPI** — observe tape but do NOT react with new orders. Only act if a position trips its sell rule:
+   - XLK breaks $158.26 (-7% manual cut from $170.17 entry) → market sell, cancel trail
+   - XLP breaks $77.96 (-7% manual cut from $83.85 entry) → market sell, cancel trail
+   - Or explicit thesis-break headline (AI-bubble pop / chip export shock for XLK; cyclical rotation slam for XLP)
+3. **Intraday monitoring** — let trail stops do their job; manual intervention only on rule-triggered exit. Watch XLK gap reaction to CPI: if it gaps >2% down on a hot print, expect the trail to ratchet; if it gaps up on a soft print, HWM moves and the stop tightens.
+4. **Midday:** /midday skill — verify positions, confirm stops, no thesis change.
+5. **Post-close:** /daily-summary skill → EOD snapshot to TRADE-LOG.md.
+6. **Wed 5/13:** Pre-market reads CPI digestion. If tape constructive (SPY > 5/12 close, VIX <22, XLI not gapping >1%), deploy **XLI ~$19,500** as 3rd position with 10% trail GTC. Pushes deployment to ~60%, leaves 2 buy slots.
+7. **Trade budget end of week:** target 1-2 buys used, 1-2 slots conserved.
+
+Patience > activity. Week 3 Day 2, 2 positions printing net green, CPI 90 minutes from this entry — exactly the setup where the rulebook says wait for the signal. The 315-bps gap to SPY is real but not fixable by gambling on a macro print.
