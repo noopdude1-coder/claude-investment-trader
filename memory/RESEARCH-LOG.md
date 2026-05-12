@@ -900,3 +900,10 @@ Action plan for market-open routine 5/12:
 7. **Trade budget end of week:** target 1-2 buys used, 1-2 slots conserved.
 
 Patience > activity. Week 3 Day 2, 2 positions printing net green, CPI 90 minutes from this entry — exactly the setup where the rulebook says wait for the signal. The 315-bps gap to SPY is real but not fixable by gambling on a macro print.
+
+### Midday addendum (5/12)
+- **No action.** Neither position triggered a rule.
+- **XLK** $171.99 intraday -3.31% (post-CPI duration hit; HWM $178.30 → -3.55% off peak). On cost +1.07%. Trail $160.47 holds firm (auto-trail had no HWM advance). Manual cut $158.26 ~8% cushion. **Hold.**
+- **XLP** $84.935 intraday +1.88% (defensive bid working). On cost +1.29%. Trail ratcheted up $76.32 → **$76.518** as HWM advanced $84.80 → $85.02. **Hold.**
+- **Tape read:** Hot-ish CPI inferred from XLK -3.31% / XLP +1.88% divergence + cap-weighted duration sell. Watch the 4pm tape and FRED VIX print for the constructive-vs-stagflation signal that gates the Wed XLI deploy.
+- **Plan unchanged:** Wed pre-market → if SPY > 5/12 close and VIX <22 and XLI not gapping >1%, deploy XLI ~$19,500 with 10% trail. Otherwise defer.
