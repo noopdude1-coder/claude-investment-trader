@@ -1011,3 +1011,10 @@ Action plan for market-open routine 5/13:
 8. **Trade budget end of week:** target 1 buy used, 2 slots conserved (low-conviction macro week). Better outcome than forcing 2-3 on hot-PPI day.
 
 Patience > activity. Week 3 Day 3, 2 positions printing net green, PPI 90 minutes from this entry — same setup as Tuesday: wait for the signal. The 263-bps gap to SPY narrowed 52 bps Tue purely on the XLP defensive bid as Nasdaq -0.87% — the rulebook IS earning alpha right now. Don't gamble it on PPI.
+
+### Midday addendum (5/13)
+- **No action.** Neither position triggered a rule.
+- **XLK** $177.085 intraday +1.08%; HWM $178.30 unchanged. On cost +4.06% (+$809). Trail $160.47 (~9.4% cushion). Manual cut $158.26. **Hold.**
+- **XLP** $84.21 intraday -0.27% (defensive bid easing as tape rebounds). On cost +0.43% (+$85). HWM ratcheted Tue close → today: $85.02 → **$85.255**; trail auto-stepped $76.518 → **$76.7295**. **Hold.**
+- **Tape read:** Post-PPI digestion benign — XLK recovering Tue's CPI hit; XLP soft as duration-bid unwinds slightly. Consistent with in-line/non-shock PPI. No thesis break either side.
+- **Plan unchanged:** Thu pre-market → if PPI YoY <+5.0% confirmed and tape constructive (SPY > today close, VIX <22, XLI/XLU not gapping >1%), deploy **XLI or XLU ~$19,500** as 3rd position with 10% trail. Otherwise defer to Fri.
