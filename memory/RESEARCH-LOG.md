@@ -1125,3 +1125,10 @@ Action plan for market-open routine 5/14:
 8. **Trade budget end of week:** target 0-1 buys used. Hot-PPI scenario explicitly says "defer ALL buys this week" — strictest reading is 0 buys; conditional Friday relief at the upper end if multiple gates pass.
 
 Patience > activity. Week 3 Day 4, 2 positions printing net green, three macro binaries already navigated without portfolio damage. The 308-bps SPY gap is real but reversible on the right entry; getting whipsawed Thursday on a Retail Sales + Trump-Xi headline cluster would be a much bigger gap. Pre-committed rule trumps live tape — that's the entire reason rules are written ex-ante.
+
+### Midday addendum (5/14)
+- **No action.** Neither position triggered a rule.
+- **XLK** $179.73 intraday +1.63% vs lastday $176.85; on cost **+5.62% (+$1,118.52)**. **Fresh HWM $180.215** (up from $178.30); trail auto-stepped $160.47 → **$162.1935** (~9.8% cushion). Manual cut $158.26. Not at +15% tighten gate. **Hold.**
+- **XLP** $85.09 intraday +0.44% vs lastday $84.72; on cost **+1.48% (+$294.76)**. HWM $85.255 unchanged; trail $76.7295 (~9.8% cushion). **Hold.**
+- **Tape read:** Retail Sales digestion benign — XLK ripping to fresh HWM consistent with consumer-resilient print read constructively (rate-cut hopes / Warsh-Fed bid). XLP defensive bid holding. No Trump-Xi AI-guardrail shock observed. Hot-PPI defer-buys rule still in force; 0/3 trades used this week.
+- **Plan unchanged:** Fri 5/15 → if five gates pass (Retail Sales benign confirmed, summit no-shock, SPY > 5/14 close, VIX <22, Warsh not hawkish), deploy **XLU ~$19,500** (preferred) or **XLI** as 3rd position with 10% trail GTC.
