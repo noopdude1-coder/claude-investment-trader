@@ -1132,3 +1132,78 @@ Patience > activity. Week 3 Day 4, 2 positions printing net green, three macro b
 - **XLP** $85.09 intraday +0.44% vs lastday $84.72; on cost **+1.48% (+$294.76)**. HWM $85.255 unchanged; trail $76.7295 (~9.8% cushion). **Hold.**
 - **Tape read:** Retail Sales digestion benign — XLK ripping to fresh HWM consistent with consumer-resilient print read constructively (rate-cut hopes / Warsh-Fed bid). XLP defensive bid holding. No Trump-Xi AI-guardrail shock observed. Hot-PPI defer-buys rule still in force; 0/3 trades used this week.
 - **Plan unchanged:** Fri 5/15 → if five gates pass (Retail Sales benign confirmed, summit no-shock, SPY > 5/14 close, VIX <22, Warsh not hawkish), deploy **XLU ~$19,500** (preferred) or **XLI** as 3rd position with 10% trail GTC.
+
+## 2026-05-15 — Pre-market Research (Fri, weekly-review day, last buy slot of week)
+
+### Account
+- Equity: **$100,857.08** (premarket mark) | Cash (settled): **$59,899.73** | Buying power $160,756.81 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $176.70, **unrealized +$764.01 (+3.84%)**, intraday **-1.56%** vs lastday $179.50, trail 10% GTC stop @ $162.1935 (HWM $180.215) live
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $85.2246, **unrealized +$326.79 (+1.64%)**, intraday +0.29% vs lastday $84.98, trail 10% GTC stop @ $76.734 (HWM $85.26) live
+- Open orders: 2 (both trail stops, both NEW — IDs XLK f68c12ea / XLP aa46ecf2)
+- Trades this week (Mon-Fri): **0 / 3** (1 buy slot remaining, Fri only — sells unrestricted)
+- `last_equity` $101,126.47 (5/14 close) → premarket Day P&L mark **-$269.39 (-0.27%)** (XLK gapping down premarket)
+- Cumulative from Apr 26 baseline $100,000: bot **+0.86%** (premarket mark) / **+1.13%** at 5/14 close; SPY 5/14 close mid $748.365 vs $714.005 baseline = **+4.81%** — SPY ahead by **~368-395 bps**
+- Deployed: **40.61%** ($40,957.35 / $100,857.08) — fifth straight session below the 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$102/bbl** (CME 5/14 8:27pm CT $102.15, +0.97%); Brent ~$110+ (Fortune 5/1 $116, stale). Oil elevated/firm — a live inflation-pipeline headwind. Sector exit gate still applies to XLE (1 failed trade, no re-entry).
+- **S&P 500 futures:** ESM26 **~7,516 (-0.13%)** premarket (CME 5/14 8pm). Slightly soft; tape sitting near all-time highs after a +4.81% phase run. (Markets Insider's 6,657 quote is stale/erroneous — disregarded.)
+- **VIX:** **17.87** (FRED 5/13 close, last hard print). Premarket calm, well under the 22 gate.
+- **YESTERDAY'S RETAIL SALES (April 2026, released 5/14 8:30am ET) — RESILIENT:**
+  - Headline MoM **+0.5%** (in line); ex-autos **+0.7%**; **Control group +0.46%** vs +0.2% consensus (beat); YoY +4.9% (strongest since Aug 2025)
+  - Read: consumer-resilient, NOT a stagflation hard-landing. Within the pre-committed benign band (-0.2% to +0.5% control). Reinforces sticky-inflation reanchor more than recession fear.
+- **Warsh confirmation:** Senate confirmed Warsh to the Fed **Board 51-45**; chair vote expected this week. Coverage frames him as **institutionally independent / hawkish-centrist — "has not committed" to cuts**, NOT explicitly dovish. A rate-sensitive headwind, not a dovish tailwind.
+- **Trump-Xi summit:** No AI-guardrail / semis-export shock surfaced (Perplexity returned no results; SPY rose +0.84% Thu with no shock observed midday). Tail risk for XLK semis (~49% weight) remains but unrealized.
+- **Today's catalysts (5/15):** Empire State Manufacturing (8:30am), Import/Export Prices (8:30am), UMich Consumer Sentiment prelim, Trump-Xi summit Day 2. No major earnings BMO affecting our sleeves. Market-mover commentary flags **AI-momentum strength vs renewed inflation / higher energy / rising long-end rates** as the two competing forces.
+- **Sector momentum YTD (through 5/14):** Energy strongest; Industrials **Leading** (AI capex/defense); Consumer Staples Leading-defensive; **Utilities Improving** (rate-sensitive, AI-power demand); **Technology in the LAGGING quadrant** despite price leadership — rotation signal persists.
+- **XLK news:** Premarket $176.70, **-1.56%** vs lastday $179.50 — pulling back off the $180.215 HWM. 52-wk-high regime intact; thesis intact (+3.84% on cost). Semis ~49% weight = summit headline beta. Trail $162.1935 (~9.5% cushion); manual -7% cut $158.26.
+- **XLP news:** Premarket $85.2246, +0.29% — defensive sleeve still firm near HWM $85.26. Thesis intact (+1.64% on cost). Trail $76.734 (~10% cushion).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. NO trades today. Defer the last buy slot — honor the pre-committed Hot-PPI rule (0 buys this week).**
+
+Friday five-gate scorecard (set 5/14 for a conditional XLU/XLI 3rd-position deploy):
+- (a) Retail Sales benign — **PASS** (control +0.46%, resilient, within band)
+- (b) Trump-Xi summit no semis shock — **PASS** (no shock surfaced)
+- (c) SPY 5/14 close > $742 — **PASS** ($748.365)
+- (d) VIX < 22 — **PASS** (17.87)
+- (e) Warsh not hawkish — **FAIL/MARGINAL** (confirmed; framed hawkish-centrist, "has not committed" to cuts — not a clean pass)
+
+Why HOLD despite 4 of 5 gates clearing:
+1. **Hot-PPI rule's strictest reading = 0 buys this week.** Wed's PPI was triple-hot (+6.0% YoY, +1.4% MoM). The rule was pre-committed precisely to remove Friday discretion. Conditional relief required ALL five gates; gate (e) did not cleanly pass.
+2. **Warsh hawkish-centrist directly undercuts the XLU thesis.** XLU was the preferred 3rd position on a "rate-cut-delay-resistant" rotation. A hawkish-leaning Fed chair = higher financing costs for rate-sensitive utilities — the rotation rationale weakens, not strengthens.
+3. **No specific TODAY catalyst for XLU.** Entry checklist requires a same-day catalyst; XLU's case is thematic (AI-power demand, Improving quadrant) — fails the checklist.
+4. **Tape backdrop is the exact stagflation setup the rule guards.** Oil ~$102 firm, rising long-end rates, hawkish Fed chair, XLK gapping -1.56% in a lagging tech quadrant. Forcing a 3rd cyclical/rate-sensitive position into that on the week's last slot is the overtrade the rules exist to block.
+5. **Clean reset Monday is the better path.** Weekly-review day today; Monday 5/18 opens a fresh 3-trade budget with no hot-PPI overhang — deploy capital then, deliberately, with a live quote and same-day catalyst.
+
+Watchlist for **Mon 5/18** (capital deployment = top priority — push 40.6% toward 60-80%):
+1. **XLU (Utilities)** — re-assess once Warsh chair vote / rate path is clearer; rate-sensitivity is the swing factor. Entry on a live quote, ~$19,500 size, 10% trail GTC.
+2. **XLI (Industrials)** — Leading quadrant, +12-13% YTD, AI-capex/defense tailwind. Cleaner momentum than XLU if the tape stays cyclical-bid; cyclical beta is the risk if stagflation fear builds.
+3. **XLB (Materials)** — Leading; commodity tailwind. Tertiary.
+4. **XLE re-entry** — STILL DEFER (sector exit gate; no fresh catalyst beyond price).
+5. **Adding to XLK / XLP** — PASS, both at 20% caps.
+
+### Risk Factors
+- **Concentration / cash drag** — 40.6% deployed, 2 single-sector sleeves; SPY gap widened to ~368-395 bps. Fifth straight skip. The discipline cost is real and visible — Monday's deployment is the structural fix.
+- **XLK semis headline beta** — Trump-Xi summit Day 2; any AI-guardrail / chip-export-license shock gaps XLK -3-5%. Thesis-break cut applies even absent a -7% / trail trigger.
+- **Stagflation reanchor** — oil ~$102, hot PPI, hawkish-centrist Warsh, rising long rates. Pressures XLK duration; XLP defensive bid likely holds.
+- **XLK premarket -1.56%** — pullback off HWM. Not near any sell trigger (manual cut $158.26, trail $162.1935) but watch for a >3% intraday tech breakdown.
+- **Narrow-rally reversion** — AI-momentum-concentrated tape; mega-cap reversion hits XLK disproportionately.
+
+### Decision
+
+**HOLD XLK + XLP. NO trades today (0/3 week budget used — last slot deliberately left unused, honoring the pre-committed Hot-PPI defer-all-buys rule).** Re-evaluate Mon 5/18 with a fresh 3-trade budget and capital deployment as the top priority.
+
+Action plan for market-open routine 5/15:
+1. **No buy / no sell.** Confirm both trail stops live (XLK f68c12ea @ $162.1935, HWM $180.215; XLP aa46ecf2 @ $76.734, HWM $85.26).
+2. **Intraday monitoring** — let trail stops work; manual action only on a rule trigger:
+   - XLK breaks $158.26 (-7% manual cut from $170.17 entry) → market sell, cancel trail
+   - XLP breaks $77.96 (-7% manual cut from $83.85 entry) → market sell, cancel trail
+   - Trump-Xi AI-guardrail / chip-export headline → immediate XLK thesis-break review
+3. **Midday:** /midday — verify positions, confirm stops, no thesis change.
+4. **Post-close:** /daily-summary → EOD snapshot to TRADE-LOG.md; then **/weekly-review** (Sharpe vs SPY, max DD, vs RSP, process metrics — Week 3).
+5. **Mon 5/18:** Pre-market scan — fresh buy cap, no hot-PPI overhang. Deploy XLU or XLI as a 3rd position IF the buy gate clears on a live quote with a same-day catalyst.
+
+Patience > activity. Week 3 closes 2/2 positions net green, three macro binaries + a Fed-chair transition navigated without portfolio damage, 0 trades. The 5-skip / 40% deployment is the visible cost — but forcing a rate-sensitive 3rd position on the week's last slot, into a hawkish-Warsh + firm-oil tape, with no same-day catalyst, is exactly the trade the rulebook is written to prevent. Monday resets clean.
