@@ -1207,3 +1207,75 @@ Action plan for market-open routine 5/15:
 5. **Mon 5/18:** Pre-market scan — fresh buy cap, no hot-PPI overhang. Deploy XLU or XLI as a 3rd position IF the buy gate clears on a live quote with a same-day catalyst.
 
 Patience > activity. Week 3 closes 2/2 positions net green, three macro binaries + a Fed-chair transition navigated without portfolio damage, 0 trades. The 5-skip / 40% deployment is the visible cost — but forcing a rate-sensitive 3rd position on the week's last slot, into a hawkish-Warsh + firm-oil tape, with no same-day catalyst, is exactly the trade the rulebook is written to prevent. Monday resets clean.
+
+## 2026-05-18 — Pre-market Research (Mon, Week 4 open, fresh 3-trade budget)
+
+### Account
+- Equity: **$100,560.89** (premarket mark) | Cash (settled): **$59,899.73** | Buying power $160,460.62 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $175.50, **unrealized +$623.61 (+3.13%)**, intraday **-0.43%** vs lastday $176.26, trail 10% GTC stop @ $162.1935 (HWM $180.215) live — order f68c12ea
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $84.57, **unrealized +$171.00 (+0.86%)**, intraday **-0.08%** vs lastday $84.64, trail 10% GTC stop @ $77.013 (HWM $85.57) live — order aa46ecf2
+- Open orders: 2 (both trail stops, both NEW/working)
+- Trades this week (Mon-Fri): **0 / 3** (all 3 buy slots open — week reset)
+- `last_equity` $100,666.47 (5/15 close) → premarket Day P&L mark **-$105.58 (-0.10%)**
+- Cumulative from Apr 26 baseline $100,000: bot **+0.56%**; SPY 5/15 close mid $738.55 vs $714.005 baseline = **+3.44%** — SPY ahead by **~288 bps**
+- Deployed: **40.43%** ($40,661.16 / $100,560.89) — sixth straight session below the 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$107.5/bbl** (Oilprice $107.69, Markets Insider $107.45); Brent **~$110.9/bbl** (Trading Economics, +1.46% d/d, +16% over the month). Oil **spiking** — up from ~$102 last week; a live and intensifying stagflation/inflation-pipeline headwind. XLE sector exit gate still applies (no re-entry).
+- **S&P 500 futures:** ESM26 sold off **-1.26% Friday** (Barchart — "stock indexes sold off sharply Friday"). Today's premarket quote unreliable across sources (Markets Insider's 6,657.50 is stale/erroneous — disregarded; Investing.com 7,390.50 with no delta). Net read: tape **soft / risk-off-leaning** into Week 4 after a 6-week S&P winning streak.
+- **VIX:** **~18.4** (Markets Insider live, +6.8% d/d); FRED last hard close 17.26 (5/14). Ticking up but still well under the 22 gate.
+- **This week's binaries:** **NVDA earnings** (biggest single AI/semis catalyst of the week) and **FOMC minutes** (first set since Warsh took over as chair — markets gauging hawkishness after the hot April PPI). Walmart + Home Depot retail earnings also on deck. Multiple sources flag the market as **extended after a 6-week streak** with correction warnings.
+- **Today's calendar (5/18):** No top-tier release. Philly Fed sub-indices (Employment, New Orders) on the Trading Economics calendar. CPI/PPI/jobs all June dates — no fresh print today. Hot April PPI (+6.0% YoY, +1.4% MoM) overhang persists.
+- **Earnings BMO today:** ~61 companies reporting on the day; none specific to XLK/XLP sleeves.
+- **Sector momentum YTD:** **Energy** the clear leader (+26%+); **Consumer Staples** and **Industrials** next strongest (rotation away from tech toward Energy/Staples/Industrials/Materials); Technology still +20% YTD on price but leadership broadening away from it; Healthcare weakest.
+- **XLK news:** Premarket $175.50, -0.43% — drifting off the $180.215 HWM. No thesis-breaking headline. **NVDA earnings this week = significant semis-beta event** for XLK; a post-earnings reaction (either way) gaps the sleeve. Thesis intact (+3.13% on cost). Trail $162.1935 (~7.6% cushion); manual -7% cut $158.26.
+- **XLP news:** Premarket $84.57, -0.08% — defensive sleeve flat near HWM $85.57. No specific news. Thesis intact (+0.86% on cost). Trail $77.013 (~8.9% cushion).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. NO trades today.** Defer a 3rd-position deploy until after this week's two binaries clear.
+
+Buy-gate / entry-checklist scan for a 3rd position (XLI / XLU):
+- Positions after fill ≤ 6 — PASS (would be 3)
+- Trades this week ≤ 3 — PASS (0/3)
+- Cost ≤ 20% equity ($20,112) — PASS at ~$19,500 sizing
+- Cost ≤ settled cash ($59,899.73) — PASS
+- **Specific same-day catalyst — FAIL.** XLI/XLU theses are thematic (sector rotation, Improving/Leading quadrants). No 5/18-specific catalyst. Entry checklist not satisfied.
+- Instrument is a stock/ETF — PASS
+
+Why HOLD despite the fresh 3-trade budget:
+1. **No same-day catalyst** for XLU or XLI — the entry checklist's hard requirement fails.
+2. **Two unhedged binaries this week** — NVDA earnings and the first post-Warsh FOMC minutes. Deploying a fresh cyclical/rate-sensitive position *before* both clear is the overtrade the rulebook guards against.
+3. **Oil spiking to ~$107.5** (from ~$102 last week) — stagflation-pipeline pressure intensifying. A rate-sensitive XLU add is directly undercut; a cyclical XLI add carries higher beta if stagflation fear builds.
+4. **Tape extended + soft** — 6-week S&P streak, ES -1.26% Friday, VIX ticking up, correction warnings. Not a confirmed-strength day to add risk.
+
+Watchlist for **post-binary deployment (Wed-Fri this week)** — capital deployment remains the structural priority (40.4% vs 75-85% target, sixth straight skip):
+1. **XLI (Industrials)** — Leading quadrant, AI-capex/defense tailwind. Preferred 3rd position; deploy ~$19,500 / 10% trail GTC **on a confirmed up-day after FOMC minutes**, if the tape holds and oil/VIX don't break risk-off.
+2. **XLU (Utilities)** — rate-sensitivity is the swing factor; weaker case with oil spiking and rate pressure. Secondary.
+3. **XLB (Materials)** — Leading, commodity tailwind. Tertiary.
+4. **XLE re-entry** — STILL DEFER (sector exit gate).
+5. **Adding to XLK / XLP** — PASS, both at ~20% caps.
+
+### Risk Factors
+- **NVDA earnings (semis beta)** — a sharp post-earnings move gaps XLK regardless of direction; ~half the sleeve is semis-adjacent. Thesis-break review applies even absent a -7%/trail trigger.
+- **FOMC minutes** — first post-Warsh set; a hawkish read on the hot-PPI backdrop pressures duration-sensitive XLK and any rate-sensitive add.
+- **Oil spike** — WTI ~$107.5 and climbing; stagflation reanchor pressures equities broadly, XLK duration in particular. XLP defensive bid likely holds better.
+- **Extended tape** — 6-week streak, ES soft Friday, VIX rising; reversion/correction risk is elevated — the only silver lining of 40% deployment.
+- **Concentration / cash drag** — 40.4% deployed, 2 single-sector sleeves, SPY ahead ~288 bps. The under-deployment cost is real; the fix is a deliberate post-binary deploy, not a forced Monday entry.
+
+### Decision
+
+**HOLD XLK + XLP. NO trades today (0/3 week budget used).** Re-evaluate a 3rd-position deploy (XLI preferred) mid-week, *after* FOMC minutes and NVDA earnings clear, on a confirmed-strength day with a documented catalyst.
+
+Action plan for market-open routine 5/18:
+1. **No buy / no sell.** Confirm both trail stops live (XLK f68c12ea @ $162.1935, HWM $180.215; XLP aa46ecf2 @ $77.013, HWM $85.57).
+2. **Intraday monitoring** — let trail stops work; manual action only on a rule trigger:
+   - XLK breaks $158.26 (-7% manual cut from $170.17 entry) → market sell, cancel trail
+   - XLP breaks $77.96 (-7% manual cut from $83.85 entry) → market sell, cancel trail
+   - Oil-shock / inflation headline → XLK thesis-break review
+3. **Midday:** /midday — verify positions, confirm stops, no thesis change.
+4. **Post-close:** /daily-summary → EOD snapshot to TRADE-LOG.md.
+5. **Wed-Fri:** Watch FOMC minutes + NVDA earnings; deploy XLI as 3rd position on a confirmed up-day if the buy gate clears with a documented catalyst.
+
+Patience > activity. Week 4 opens with a clean 3-trade budget but no same-day catalyst and two unhedged binaries (NVDA, FOMC minutes) ahead — forcing a 3rd position into that, with oil spiking and the tape extended, is the exact overtrade the rulebook prevents. Deploy deliberately mid-week once the binaries clear.
