@@ -1350,3 +1350,79 @@ Action plan for market-open routine 5/19:
 5. **Wed-Fri:** NVDA earnings 5/20 AMC; deploy XLI as 3rd position Thu-Fri on a confirmed up-day if the buy gate clears with a documented catalyst.
 
 Patience > activity. Day 2 of Week 4: still no same-day catalyst, and the week's biggest binary (NVDA) lands tomorrow after close. Forcing a 3rd position into that — with a soft tape and an unreliable futures quote — is the exact overtrade the rulebook prevents. Deploy deliberately Thu-Fri once NVDA clears.
+
+## 2026-05-20 — Pre-market Research (Wed, Week 4, day 3 — 3-trade budget still 0/3; NVDA earnings AMC + FOMC minutes 2pm)
+
+### Account
+- Equity: **$100,868.69** (premarket mark) | Cash (settled): **$59,899.73** | Buying power $160,768.42 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $175.0388, **unrealized +$569.65 (+2.86%)**, intraday **+1.04%** vs lastday $173.24, trail 10% GTC stop @ $162.1935 (HWM $180.215) live — order f68c12ea (~7.4% cushion)
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $86.09, **unrealized +$532.76 (+2.67%)**, intraday **0.00%** vs lastday $86.09, trail 10% GTC stop @ $78.0255 (HWM $86.695) live — order aa46ecf2 (~9.4% cushion)
+- Open orders: 2 (both trail stops, both NEW/working)
+- Trades this week (Mon-Fri): **0 / 3** (all 3 buy slots open)
+- `last_equity` $100,658.23 (5/19 close — note: bot's logged 5/19 EOD $100,643.02 vs Alpaca $100,658.23 = $15.21 quote-timing variance) → premarket Day P&L mark **+$210.46 (+0.21%)**
+- Cumulative from Apr 26 baseline $100,000: bot **+0.87%**; SPY 5/19 close mid (stale wide quote) ~$734.69 vs $714.005 baseline = **~+2.90%** — SPY ahead by **~203 bps** (gap narrowed sharply on yesterday's risk-off tape)
+- Deployed: **40.62%** ($40,968.96 / $100,868.69) — eighth straight session below the 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$103.94/bbl** (CME CLN6 last 5/19 7:04 PM CT, −0.20% d/d); Brent **~$110.08/bbl** (Fortune 5/18). Oil **eased further from last week's WTI ~$107.5 spike → ~$103.5–104**, still elevated but cooling. Inflation-pipeline headwind softening; stagflation re-anchor de-escalating. XLE exit gate still applies (no re-entry).
+- **S&P 500 futures:** ESM26 **7,379.25** (+1.25, +0.02%) per CME 5/19 8:24 PM CT — essentially flat/quiet into the FOMC-minutes session.
+- **VIX:** **17.08** (FRED May 2026 reading); 5/18 close 17.82; trending down slightly. Well under the 22 gate.
+- **TODAY'S BINARIES (both confirmed):**
+  - **FOMC Minutes 2:00 PM ET** — minutes from the **April 28–29, 2026 meeting** (Fed held funds rate 3.50%–3.75%, cited elevated inflation from energy prices + Middle East uncertainty). First post-Warsh-transition minutes set; the market reads it for hawkishness on the hot April PPI backdrop.
+  - **NVIDIA Q1 FY27 Earnings 5:00 PM ET (AMC, 2:00 PM PT)** — the week's single biggest AI/semis catalyst. NVDA = **~15.2% of XLK** and semis are XLK's largest sleeve (~47%) — any gap reaction directly hits XLK.
+- **Today's calendar (5/20):** Beyond the 2pm FOMC minutes, no other top-tier scheduled release.
+- **Earnings BMO today:** Tuesday-Wednesday calendar populated; no specific reporter in XLK/XLP sleeves of consequence. NVDA AMC (5pm) is the only event that matters today.
+- **Sector momentum YTD:** **Consumer Staples (XLP), Industrials (XLI), Materials (XLB), Energy (XLE) all in Leading quadrant** per Investing.com sector rotation map; **Utilities (XLU) in Improving**; **Technology (XLK) in Lagging** despite recent +8.31% weekly bounce. Schwab sector outlook 6/12mo: Industrials +11.4%/+35.5%, Staples +7.2%/+7.1%, Tech +4.7%/+52.7%, Utilities +2.3%/+21.5%. XLP cited as a YTD 2026 leader at ~+22% in some sources; "AI-hedge / safe-haven ETF" framing now showing up in commentary (5/18 24/7 Wall St). Rotation away from tech persists.
+- **XLK news:** Premarket $175.0388, +1.04% — bouncing off the $180.215 HWM. Tech still flagged "Lagging" but the bounce is constructive. **NVDA earnings tonight = gap event**. Thesis intact (+2.86% on cost). Trail $162.1935 (~7.4% cushion); manual −7% cut $158.26.
+- **XLP news:** Premarket $86.09, flat — defensive sleeve at order HWM $86.695. No specific news; "defensive AI-hedge" framing continues to support the bid. Thesis intact (+2.67% on cost). Trail $78.0255 (~9.4% cushion).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. NO trades today.** Defer a 3rd-position deploy until Thu-Fri, AFTER both binaries (FOMC minutes 2pm + NVDA earnings 5pm) clear.
+
+Buy-gate / entry-checklist scan for a 3rd position (XLI / XLU / XLB):
+- Positions after fill ≤ 6 — PASS (would be 3)
+- Trades this week ≤ 3 — PASS (0/3)
+- Cost ≤ 20% equity ($20,174) — PASS at ~$19,500 sizing
+- Cost ≤ settled cash ($59,899.73) — PASS
+- **Specific same-day catalyst — FAIL.** XLI/XLU/XLB theses remain thematic (sector rotation, Leading-quadrant momentum). The two same-day events are macro binaries, not sector catalysts. Entry checklist not satisfied.
+- Instrument is a stock/ETF — PASS
+
+Why HOLD despite the fresh budget and clear under-deployment:
+1. **No same-day catalyst** for XLI / XLU / XLB — entry checklist's hard requirement fails (now 3rd straight session this week).
+2. **TWO unhedged binaries TODAY** — FOMC minutes 2pm (first post-Warsh set, hawkish-risk into hot April PPI) and NVDA earnings 5pm (single biggest semis/AI catalyst of the quarter). Deploying a fresh cyclical/rate-sensitive position into a back-to-back binary session is the exact overtrade the rulebook prevents.
+3. **Tape flat/quiet** — ES +0.02%, no confirmed-strength signal. Not the day to add risk.
+4. **Existing XLK exposure is already the AI/semis bet** — adding any tech-adjacent or AI-capex-adjacent (XLI defense/data-center build) sleeve before NVDA prints doubles down on the same factor.
+
+Watchlist for **post-binary deployment (Thu 5/21 or Fri 5/22)** — capital deployment remains the structural priority (40.6% vs 75-85% target, eighth straight skip):
+1. **XLI (Industrials)** — Leading quadrant, AI-capex/defense tailwind. Preferred 3rd position; deploy ~$19,500 / 10% trail GTC on a confirmed up-day after NVDA earnings clear AND if NVDA print + FOMC minutes don't break tape.
+2. **XLU (Utilities)** — Improving quadrant; rate-sensitivity is the swing factor; oil easing slightly improves the marginal case. Secondary.
+3. **XLB (Materials)** — Leading, commodity tailwind. Tertiary.
+4. **XLE re-entry** — STILL DEFER (sector exit gate, 2-failed-trades rule applies).
+5. **Adding to XLK / XLP** — PASS, both at ~20% caps.
+
+### Risk Factors
+- **FOMC minutes 2pm** — first post-Warsh release; a hawkish read on the hot-PPI backdrop pressures duration-sensitive XLK and any rate-sensitive add.
+- **NVDA earnings 5pm AMC** — sharp post-earnings move gaps XLK regardless of direction (~half the sleeve is semis-adjacent, NVDA ~15% of XLK). Thesis-break review applies even absent a −7%/trail trigger.
+- **Tech still flagged Lagging** — even with this week's bounce, leadership remains weak; XLK rally depends on a NVDA beat to extend.
+- **Oil cooling but elevated** — WTI ~$103.94, Brent ~$110; the easing helps modestly but inflation pressure not gone.
+- **Concentration / cash drag** — 40.6% deployed, 2 single-sector sleeves, SPY ahead ~203 bps. The under-deployment cost is real; the fix is a deliberate post-binary deploy Thu-Fri, not a forced Wednesday entry into back-to-back binaries.
+
+### Decision
+
+**HOLD XLK + XLP. NO trades today (0/3 week budget used).** Re-evaluate a 3rd-position deploy (XLI preferred) Thu 5/21 or Fri 5/22, AFTER both today's binaries clear, on a confirmed-strength day with a documented catalyst.
+
+Action plan for market-open routine 5/20:
+1. **No buy / no sell.** Confirm both trail stops live (XLK f68c12ea @ $162.1935, HWM $180.215; XLP aa46ecf2 @ $78.0255, HWM $86.695).
+2. **Intraday monitoring** — let trail stops work; manual action only on a rule trigger:
+   - XLK breaks $158.26 (−7% manual cut from $170.17 entry) → market sell, cancel trail
+   - XLP breaks $77.96 (−7% manual cut from $83.85 entry) → market sell, cancel trail
+   - Hawkish FOMC-minutes surprise → XLK thesis-break review (duration sensitivity)
+   - NVDA earnings disaster (AMC, decision Thu morning) → XLK thesis-break review
+3. **Midday:** /midday — verify positions, confirm stops, no thesis change pre-FOMC.
+4. **2 PM ET:** monitor FOMC minutes release; if hawkish-surprise drives XLK >3% intraday breakdown or breach of −7% manual cut, execute thesis-break sell.
+5. **Post-close:** /daily-summary → EOD snapshot to TRADE-LOG.md; note NVDA AMC reaction (will land after our EOD log; capture in Thu pre-market).
+6. **Thu 5/21:** pre-market reads NVDA reaction tape; if constructive AND XLI/XLU passes buy gate with a documented catalyst, deploy 3rd position. If NVDA disaster, full thesis-break review on XLK.
+
+Patience > activity. Day 3 of Week 4: NVDA + FOMC minutes both today is the single largest binary cluster of the month. Forcing a 3rd position into that, with the entry checklist's same-day-catalyst requirement failing, is the exact overtrade the rulebook prevents. Deploy deliberately Thu-Fri once the binaries clear.
