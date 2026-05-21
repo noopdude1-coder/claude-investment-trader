@@ -1426,3 +1426,91 @@ Action plan for market-open routine 5/20:
 6. **Thu 5/21:** pre-market reads NVDA reaction tape; if constructive AND XLI/XLU passes buy gate with a documented catalyst, deploy 3rd position. If NVDA disaster, full thesis-break review on XLK.
 
 Patience > activity. Day 3 of Week 4: NVDA + FOMC minutes both today is the single largest binary cluster of the month. Forcing a 3rd position into that, with the entry checklist's same-day-catalyst requirement failing, is the exact overtrade the rulebook prevents. Deploy deliberately Thu-Fri once the binaries clear.
+
+## 2026-05-21 — Pre-market Research (Thu, Week 4, day 4 — 3-trade budget still 0/3; post-NVDA + post-FOMC-minutes session)
+
+### Account
+- Equity: **$100,723.46** (premarket mark) | Cash (settled): **$59,899.73** | Buying power $160,623.19 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $176.0555, **unrealized +$688.60 (+3.46%)**, intraday **−0.61%** vs lastday $177.14, trail 10% GTC stop @ $162.1935 (HWM $180.215) live — order f68c12ea (~7.9% cushion)
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $84.98, **unrealized +$268.58 (+1.35%)**, intraday **−0.63%** vs lastday $85.52, trail 10% GTC stop @ $78.0255 (HWM $86.695) live — order aa46ecf2 (~8.2% cushion)
+- Open orders: 2 (both trail stops, both NEW/working)
+- Trades this week (Mon-Fri): **0 / 3** (2 buy slots remain Thu-Fri)
+- `last_equity` $100,978.87 (5/20 close — note: bot's logged 5/20 EOD $100,943.69 vs Alpaca $100,978.87 = $35.18 quote-timing variance) → premarket Day P&L mark **−$255.41 (−0.25%)**
+- Cumulative from Apr 26 baseline $100,000: bot **+0.72%**; SPY 5/20 close stale bid proxy ~$713.48 vs $714.005 baseline = **~−0.07%** (proxy unreliable, ap=0). Using yesterday's ES print +0.96% on the session, SPY tracking ~$745 area; treat SPY-vs-bot delta as **roughly bot +0.72% vs SPY ~+3.5% (≈−280 bps)**.
+- Deployed: **40.53%** ($40,823.73 / $100,723.46) — ninth straight pre-market scan with capital below the 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$98.99/bbl** (CME CLN6 last 5/20 9:55 PM CT, +0.74% d/d) — **cracked below $100 for the first time this phase**, easing further from yesterday's $103.94 and last week's $107.5 spike. Brent **~$110.08/bbl** (Fortune 5/18, stale). Inflation-pipeline headwind cooling materially; stagflation re-anchor continuing to de-escalate. XLE exit gate still applies (no re-entry).
+- **S&P 500 futures:** Mixed reads — ESM26 quoted in the 6,400s area (Barchart) and 7,379 area in other feeds (scale convention varies). Net signal: ES **+0.96% on yesterday's session** (Barchart wrap-up), constructive Wednesday close into the NVDA print. Premarket tape direction will be set by the NVDA AH reaction (NVDA −3% AH despite beat — see catalysts below).
+- **VIX:** **18.06** (YCharts 5/20, up from 17.82 prior day, +1.35%); well under the 22 buy-gate ceiling. Vol creeping but tame.
+- **Today's catalysts:**
+  - **NVDA POST-EARNINGS DAY ONE** — Q1 FY27 print after the close 5/20: **$81.62B rev** (+85% YoY, +20% q/q) vs $79.2B consensus; **EPS $1.87** vs $1.78 est; **Data Center $75.2B**; raised quarterly dividend to $0.25; added **$80B to buyback**; **guided Q2 FY27 to $91.0B ±2% vs $87.36B consensus**. Beat across the board with a meaningful guide-raise. BUT stock **−3% in extended trading** post-print (sell-the-news / no shock-and-awe positive surprise). NVDA ~15% of XLK and semis ~47% of XLK → mechanical ~45 bps drag on XLK open.
+  - **FOMC minutes (April 28-29 meeting)** — released yesterday 2pm. Tone read as **cautious-to-hawkish, not outright hawkish**: Fed held 3.50-3.75%, cited elevated inflation from energy + Middle East uncertainty, Powell "wait-and-see," some hawkish dissents on forward guidance. No major rate-cut tailwind for tech.
+  - **Initial Jobless Claims 8:30 AM ET** — consensus **~210K** vs prior 211K (week ending 5/9). Macro print, not a sector catalyst.
+- **Earnings before open:** No top-tier reporters affecting current sleeves. BMO not reporting today (next 5/27). NVDA AH is the only event that matters for XLK direction today.
+- **Economic calendar:** Initial Jobless Claims 8:30 AM ET (consensus 210K). No CPI/PPI/FOMC/jobs.
+- **Sector momentum YTD:** Leading quadrant — **XLI (Industrials), XLB (Materials), XLE (Energy), XLP (Consumer Staples)**. Improving — **XLU (Utilities), XLRE**. Lagging — **XLK (Technology)** despite recent bounce. Schwab 6/12mo: Industrials +11.4%/+35.5%, Energy +30.3% 6mo, Materials +17.2%, Staples ~+9.3% YTD (defensive bid), Tech +4.7%/+52.7%. Rotation away from tech persists; NVDA Q2 guide reinforces AI-capex tailwind that bleeds into **XLI (data center build, defense, electrification)**.
+- **XLK news:** Premarket $176.0555, −0.61% vs $177.14. NVDA −3% AH = mechanical drag at open. Thesis: NVDA's BEAT + STRONG GUIDE is bullish for the AI-capex cycle even if the stock prints red day one; **not a thesis-break** for XLK. Trail $162.1935 (~7.9% cushion); manual −7% cut $158.26.
+- **XLP news:** Premarket $84.98, −0.63% vs $85.52. No specific news; "defensive AI-hedge" framing intact, +9.3% YTD per SSGA tracking. Thesis intact. Trail $78.0255 (~8.2% cushion).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD existing sleeves. CONDITIONAL deploy of XLI as 3rd position IF tape confirms strength post-open.** This is the long-awaited "post-binary confirmed up-day" window the plan has been pointing to since 5/19.
+
+Buy-gate / entry-checklist scan for **XLI (Industrials)** as a 3rd position:
+- Positions after fill ≤ 6 — PASS (would be 3)
+- Trades this week ≤ 3 — PASS (0/3)
+- Cost ≤ 20% equity ($20,144) — PASS at ~$19,500 sizing
+- Cost ≤ settled cash ($59,899.73) — PASS
+- **Specific same-day catalyst** — CONDITIONAL PASS: "Post-NVDA AI-capex Q2-guide confirmation ($91B guide vs $87.4B est = $3.6B beat at the most important forward-data-center customer signal) supports XLI's data-center-build / electrification / AI-capex tailwind, on a leading-quadrant rotation thesis, *contingent on the tape holding green by 11 AM ET despite NVDA −3% AH*."
+- Instrument is a stock/ETF — PASS
+
+Why CONDITIONAL (not unconditional):
+1. **NVDA −3% AH is a known XLK headwind at open** — if the tech selloff bleeds broader (SPY breaches yesterday's low, ES breaks down >0.5%), defer the XLI add to Friday.
+2. **VIX 18.06 trending up** — tame but not buoyant; wait for confirmed strength, not chase a soft open.
+3. **First trade off an 8-session streak of "skip" calls** — make sure the gate actually clears before the deploy, don't anchor on FOMO from missed upside.
+
+Deploy mechanics (if tape confirms by 11 AM ET):
+- Symbol: **XLI**
+- Sizing: ~$19,500 (≈100-105 shares at ~$185-195 range; cap at $20,144 / 20% of equity)
+- Order: market BUY at market-open routine, then **trailing 10% GTC stop** as a real order immediately after fill (per strategy rule 4).
+- Stop placement: trail_percent=10; HWM auto-set on fill.
+- Same-day catalyst doc: "NVDA Q2 guide $91B (+$3.6B above consensus) confirms AI-capex acceleration → XLI data-center build / electrification / defense tailwind on a Leading-quadrant rotation."
+
+Watchlist for **Friday 5/22 (if Thu skipped):**
+1. **XLI** — primary if Thu defers and Friday opens stronger.
+2. **XLU (Utilities)** — Improving; rate-sensitivity flips bullish if FOMC-minutes-driven yields ease; oil cooling helps. Secondary.
+3. **XLB (Materials)** — Leading, commodity-cycle tailwind. Tertiary.
+4. **XLE re-entry** — STILL DEFER (sector exit gate).
+5. **Adding to XLK / XLP** — PASS (both ~20% capped).
+
+### Risk Factors
+- **NVDA −3% AH drag on XLK open** — a clean −1% to −2% intraday for XLK is in range; absorb. Only a >3% intraday breakdown or breach of $158.26 manual cut triggers thesis-break sell.
+- **Sell-the-news contagion risk** — if mega-cap tech (NVDA + semis adjacent) leads broader-tape weakness, defer XLI deploy. The plan is to ADD on confirmed strength, not catch a falling knife.
+- **Hawkish-tilt FOMC-minutes hangover** — duration-sensitive XLK marginally pressured; doesn't break thesis but adds chop.
+- **Capital drag** — bot +0.72% vs SPY ~+3.5% baseline = ≈−280 bps from under-deployment (40.5% vs 75-85% target). Ninth straight skipped session. Today/Friday is the window to close the gap; don't skip mechanically if the gate genuinely clears.
+- **Single-name binary cleared, but mechanical XLK drag is real** — even a "beat + guide-up" can ship a −2-4% reaction.
+
+### Decision
+
+**HOLD XLK + XLP. CONDITIONAL BUY XLI on confirmed strength at the open** (0/3 → 1/3 if executed). Decision gate at 11 AM ET in the market-open routine: if SPY > yesterday's close AND VIX < 20 AND XLK > $174 (no >−1.2% breakdown) AND no jobless-claims shocker, deploy XLI ~$19,500 with 10% trail GTC. Otherwise SKIP and re-evaluate Friday.
+
+Action plan for market-open routine 5/21:
+1. **At open:** confirm both trail stops live (XLK f68c12ea @ $162.1935 / HWM $180.215; XLP aa46ecf2 @ $78.0255 / HWM $86.695). No pre-open buy.
+2. **8:30 AM ET:** absorb Initial Jobless Claims print. >225K = soft labor signal (mild risk-off); <200K = hot (yields up, tech pressure). Consensus 210K is the no-news case.
+3. **9:30-10:00 AM ET:** observe XLK NVDA-reaction range. If XLK opens >−1.5% and stabilizes, gate is on track; if XLK opens <−2% and breaks lower, gate fails — skip XLI today.
+4. **10:00-11:00 AM ET tape-confirmation check:**
+   - SPY above 5/20 close? (proxy for broad-tape direction)
+   - VIX < 20?
+   - XLK > $174 (no >−1.2% intraday breakdown)?
+   - All three YES → deploy XLI ~$19,500 with 10% trail GTC. Trade #1 of week (1/3).
+   - Any NO → skip, re-evaluate Friday.
+5. **Intraday monitoring (regardless of XLI decision):**
+   - XLK breaks $158.26 (−7% manual cut) → market sell, cancel trail.
+   - XLP breaks $77.96 (−7% manual cut) → market sell, cancel trail.
+   - Any 3% intraday breakdown in XLK → thesis-break review.
+6. **Midday:** /midday — verify positions, confirm stops, no thesis change.
+7. **Post-close:** /daily-summary → EOD snapshot to TRADE-LOG.md.
+
+Patience > activity, BUT the post-binary deploy window is exactly what the plan was waiting for. NVDA cleared with a BEAT and a guide-up — the AI-capex tailwind that justifies XLI is structurally intact. The only question is whether the tape gives a confirmed-strength open or a sell-the-news fade. Trust the gate, don't force the entry.
