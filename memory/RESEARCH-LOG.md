@@ -1514,3 +1514,85 @@ Action plan for market-open routine 5/21:
 7. **Post-close:** /daily-summary → EOD snapshot to TRADE-LOG.md.
 
 Patience > activity, BUT the post-binary deploy window is exactly what the plan was waiting for. NVDA cleared with a BEAT and a guide-up — the AI-capex tailwind that justifies XLI is structurally intact. The only question is whether the tape gives a confirmed-strength open or a sell-the-news fade. Trust the gate, don't force the entry.
+
+## 2026-05-22 — Pre-market Research (Fri, Week 4, day 5 — last buy slot of week; weekly-review day)
+
+### Account
+- Equity: **$101,058.97** (premarket mark) | Cash (settled): **$59,899.73** | Buying power $160,958.70 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), current $179.1468, **unrealized +$1,050.29 (+5.28%)**, intraday +0.31% vs lastday $178.60, trail 10% GTC stop @ $162.1935 (HWM $180.215) live
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), current $84.87, **unrealized +$242.40 (+1.22%)**, intraday +0.25% vs lastday $84.66, trail 10% GTC stop @ $78.0255 (HWM $86.695) live
+- Open orders: 2 (both trail stops, both NEW — IDs XLK f68c12ea / XLP aa46ecf2)
+- Trades this week (Mon-Fri): **0 / 3** (1 buy slot remaining, Fri only — sells unrestricted; week resets Monday)
+- `last_equity` $100,945.01 (5/21 close) → premarket Day P&L mark **+$113.96 (+0.11%)**
+- Cumulative from Apr 26 baseline $100,000: bot **+1.06%** (premarket mark); SPY 5/21 close bid proxy $716.42 vs $714.005 baseline = **~+0.34%** (mid proxy $738.61 = ~+3.45%; ap stale all week — SPY delta remains roughly bot +1.06% vs SPY ~+3.5%, ≈−240 bps)
+- Deployed: **40.73%** ($41,159.24 / $101,058.97) — tenth straight pre-market scan below the 75-85% target
+
+### Market Context
+- **WTI / Brent:** WTI **~$98/bbl** (Barchart CLN26 $98.08; Investing.com 5/21 $97.73). Continuing to ease — third week of cooling off the $107–108 mid-May spike, holding below $100. Inflation-pipeline headwind materially de-escalating. Brent quote stale ($106.52, 5/6 — disregarded). XLE sector exit gate still applies (no re-entry).
+- **S&P 500 futures:** Mixed/noisy feeds — ESM26 last ~7,482 (CME 5/21); one feed flagged futures −0.40% premarket. Net: roughly flat-to-slightly-soft open. Morningstar headline: **Dow closed at a record high** on Mideast-progress hopes — constructive backdrop.
+- **VIX:** **16.76** (Investing.com 5/21 close, −3.90% on the day) — calm, drifting lower, well under the 22 buy-gate ceiling. Improved from the 18.06 level a week ago.
+- **Today's catalysts (5/22):** Light Friday. No CPI/PPI/FOMC. State Employment & Unemployment 10:00am ET (low-impact). **Fed Waller speech 3:00pm ET** (rate-path soundbite risk). Initial Jobless Claims printed ~209K vs 212K consensus (in line / slightly soft — no surprise). A data feed showed **Philly Fed Manufacturing −0.4 vs 26.7 consensus** — large miss IF accurate, but the feed's timestamps were garbled (claims mis-labeled 12:30pm) so treat as low-confidence; watch for confirmation.
+- **Earnings BMO:** No top-tier reporters affecting XLK/XLP sleeves (Richemont, BJ's Wholesale, New Fortress Energy — none material to holdings).
+- **Sector momentum YTD:** **XLI (Industrials) + XLP (Consumer Staples) in the Leading quadrant**; XLU Improving; **XLK (Technology) cooling / Lagging** despite price leadership. Schwab trailing: Industrials +11.4% (6mo) / +35.5% (12mo); Staples +7.2% / +7.1%; Tech +4.7% / +52.7%. AI-capex / data-center-build tailwind continues to favor XLI.
+- **XLK news:** Current $179.1468, +0.31% premarket; semis ~48% weight, NVDA ~15% — strongly bullish sourced flow on AI/semis. Thesis intact (+5.28% on cost). Trail $162.1935 (~9.5% cushion); manual −7% cut $158.26.
+- **XLP news:** Current $84.87, +0.25% premarket. No specific news; defensive-sleeve thesis intact (+1.22% on cost). Trail $78.0255 (~8.1% cushion); manual −7% cut $77.98.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD XLK + XLP. CONDITIONAL BUY XLI as 3rd position on confirmed open strength — last buy slot of the week.** The XLI deploy has been the pending plan since 5/19; ten straight sessions at ~40% deployment vs the 75-85% target is the dominant drag. VIX calm, oil cooling, XLI in the Leading quadrant — the setup is cleaner than any session this week. Default remains HOLD if the tape does not confirm.
+
+Buy-gate / entry-checklist scan for **XLI (Industrials)** as 3rd position:
+- Positions after fill ≤ 6 — PASS (would be 3)
+- Trades this week ≤ 3 — PASS (0/3; this would be 1/3)
+- Cost ≤ 20% equity ($20,212 cap) — PASS at ~$19,300 sizing
+- Cost ≤ settled cash ($59,899.73) — PASS
+- **Specific catalyst** — PASS: "AI-capex / data-center-build / defense / electrification tailwind on a Leading-quadrant rotation; NVDA Q2 guide ($91B, +$3.6B above consensus) confirms the capex acceleration that bleeds into industrials. Oil sub-$100 and VIX 16.76 reduce macro risk to the cyclical add."
+- Instrument is a stock/ETF — PASS
+
+Deploy mechanics (if tape confirms by 11am ET):
+- Symbol: **XLI** — ~$166–168 reference (Barchart 5/21 close area; stale ap)
+- Sizing: **~115 shares (~$19,300)**; hard cap 116 sh / $20,212 (20% of equity)
+- Order: market BUY in market-open routine, then **trailing 10% GTC stop** as a real order immediately after fill (strategy rule 4); HWM auto-set on fill
+- Stop: 10% trail (≈ −10% from fill); manual −7% cut ≈ fill × 0.93
+- Target: minimum 2:1 R/R → ~+20% (trail tightens to 7% at +15%, 5% at +20% per rules)
+
+Watchlist (if XLI defers — week resets Monday):
+1. **XLI** — primary, carries to Monday's fresh 3-trade budget if skipped today.
+2. **XLU (Utilities)** — Improving quadrant; rate-sensitive, AI-power-demand tailwind, helped by cooling oil. Secondary.
+3. **XLB (Materials)** — Leading, commodity-cycle. Tertiary.
+4. **XLE** — STILL DEFER (sector exit gate).
+5. **Adding to XLK / XLP** — PASS (both ~20%-capped already).
+
+### Risk Factors
+- **Soft-data risk** — the unconfirmed Philly Fed −0.4 print, if real, signals manufacturing weakness that would directly undercut an XLI add. Confirm the actual number before deploying; a genuine deep miss = SKIP XLI.
+- **Slightly-soft futures** — one feed showed ES −0.40%. The XLI add requires a *confirmed-strength* tape, not a flat/red drift; don't chase a soft open.
+- **Fed Waller 3:00pm ET** — hawkish soundbite could pressure rate-sensitive cyclicals and tech intraday; deploy before the speech, monitor after.
+- **Capital drag** — bot +1.06% vs SPY ~+3.5% baseline ≈ −240 bps from under-deployment (40.7% vs target). Tenth straight skipped session; today is the last buy slot before Monday's reset.
+- **XLK single-name beta** — semis ~48% weight; any AI/chip headline shock gaps XLK. Thesis-break cut applies even absent a −7%/trail trigger.
+
+### Decision
+
+**HOLD XLK + XLP. CONDITIONAL BUY XLI ~$19,300 on confirmed open strength** (0/3 → 1/3 if executed). Decision gate at 11am ET in the market-open routine — deploy XLI only if ALL pass:
+1. SPY > 5/21 close (broad-tape green)
+2. VIX < 20
+3. XLI not breaking down (no >−1% intraday)
+4. Philly Fed deep-miss NOT confirmed as a genuine manufacturing shock
+5. No jobless-claims / macro shocker
+Any NO → SKIP, carry XLI to Monday's fresh budget.
+
+Action plan for market-open routine 5/22:
+1. **At open:** confirm both trail stops live (XLK f68c12ea @ $162.1935 / HWM $180.215; XLP aa46ecf2 @ $78.0255 / HWM $86.695). No pre-open buy.
+2. **8:30–10:00am ET:** confirm jobless-claims (~209K) and check the Philly Fed actual; absorb State Employment 10am.
+3. **10:00–11:00am ET tape-confirmation check:** run the 5-point gate above.
+   - All YES → market BUY XLI ~115 sh (~$19,300), then 10% trail GTC stop immediately after fill. Trade #1 of week (1/3).
+   - Any NO → skip, re-evaluate Monday.
+4. **Intraday monitoring (regardless of XLI decision):**
+   - XLK breaks $158.26 (−7% manual cut) → market sell, cancel trail.
+   - XLP breaks $77.98 (−7% manual cut) → market sell, cancel trail.
+   - Any 3% intraday breakdown in XLK → thesis-break review.
+   - If XLK trades > $180.215 → HWM advances, trail stop ratchets up.
+5. **Midday:** /midday — verify positions, confirm stops, no thesis change.
+6. **Post-close:** /weekly-review (Sharpe vs SPY, max DD, vs RSP, process metrics) + /daily-summary EOD snapshot to TRADE-LOG.md.
+
+Patience > activity — but ten straight sessions at 40% deployment is itself a risk, and the rulebook's 75-85% target is not optional. The XLI thesis is intact and the macro backdrop (VIX 16.76, oil sub-$100, Dow record high) is the most supportive it has been this week. Deploy on a confirmed-strength open; do not force it onto a soft tape.
