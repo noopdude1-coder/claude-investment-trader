@@ -1,25 +1,25 @@
-## Week ending 2026-05-15
+## Week ending 2026-05-22
 
-Third full trading week. Zero trades — five sequential HOLDs through a triple-binary macro stack (CPI Tue, PPI Wed, Retail Sales Thu) plus the Powell→Warsh Fed-chair transition. Wed's triple-hot PPI (+6.0% YoY) tripped the pre-committed "defer-all-buys" rule; Friday's last buy slot was deliberately left unused despite 4 of 5 conditional gates clearing. Both carried positions (XLK, XLP) net green at week end. Capital ~40.5% deployed — fifth straight week below target.
+Fourth full trading week. Second consecutive zero-trade week — five sequential HOLDs through NVDA earnings (Wed AMC) and the first post-Warsh FOMC minutes (Wed 2pm). The pending XLI 3rd-position deploy was scored buy-gate PASS (catalyst included) by Thu and Fri, yet blocked both days by the bot's own "confirmed-strength tape by 11am" conditional — a gate not written in the rulebook. Both carried positions (XLK, XLP) net green; XLK printed a fresh phase high +6.01%. Capital ~40.8% deployed — tenth straight session below the 75-85% target.
 
 ### Stats
 | Metric | Value |
 |--------|-------|
-| Starting portfolio | $100,470.41 |
-| Ending portfolio | $100,629.11 |
-| Week return | +$158.70 (+0.16%) |
-| SPY week return | +0.16% ($737.395 → $738.55, bot-logged EOD mids) |
-| RSP week return | N/A — Perplexity returned only intraday snapshots ($203.40 5/14), no clean week-ending closes |
-| Bot vs SPY | ~+0.00% (essentially flat — first non-lagging week of the phase) |
+| Starting portfolio | $100,629.11 |
+| Ending portfolio | $101,187.76 |
+| Week return | +$558.65 (+0.56%) |
+| SPY week return | ~+1.2% ($738.55 5/15 → $747.47 5/22, Investing.com clean close; Perplexity cross-check ~+1.0%) |
+| RSP week return | N/A — Perplexity returned only Monday/intraday snapshots ($202.80 5/18), no clean Fri 5/15 or 5/22 close |
+| Bot vs SPY | -0.65% |
 | Bot vs RSP | N/A |
-| Rolling 20d Sharpe (bot) | N/A — insufficient data (~14 EOD snapshots) |
-| Rolling 20d Sharpe (SPY) | N/A — insufficient data |
-| Max drawdown (week) | -0.53% (Thu close $101,163.65 → Fri close $100,629.11) |
-| Information ratio (vs SPY, rolling) | N/A — insufficient data |
+| Rolling 20d Sharpe (bot) | ~3.4 annualized — FIRST computation (20 trading days just reached); small-sample noise, May 5 EOD snapshot reconstructed from Alpaca last_equity. Do not read edge into it. |
+| Rolling 20d Sharpe (SPY) | N/A — phase-long stale/wide SPY EOD quotes (ap=0) prevent a clean daily return series |
+| Max drawdown (week) | -0.09% (Mon close $100,737.03 → Tue close $100,643.02) |
+| Information ratio (vs SPY, rolling) | N/A — no clean SPY daily series |
 | Trades | 0 (W:0 / L:0 / open:2 carried) |
 | Win rate (closed) | N/A — no closed trades |
-| Best trade | XLK +3.37% (open) |
-| Worst trade | N/A — no closed/losing trades (XLP +0.96% open is the laggard) |
+| Best trade | XLK +6.01% (open) |
+| Worst trade | N/A — no closed/losing trades (XLP +1.13% open is the laggard) |
 | Profit factor | N/A — no closed trades |
 
 ### Closed Trades
@@ -28,43 +28,45 @@ Third full trading week. Zero trades — five sequential HOLDs through a triple-
 
 ### Open Positions at Week End
 | Ticker | Entry | Close | Unrealized | Stop |
-| XLK | $170.17 (117 sh, 5/7) | $175.90 | +$670.41 (+3.37%) | $162.1935 (trail 10%, HWM $180.215) |
-| XLP | $83.8515 (238 sh, 5/4) | $84.66 | +$192.42 (+0.96%) | $77.013 (trail 10%, HWM $85.57) |
+| XLK | $170.17 (117 sh, 5/7) | $180.39 | +$1,195.74 (+6.01%) | $163.557 (trail 10%, HWM $181.73) |
+| XLP | $83.8515 (238 sh, 5/4) | $84.80 | +$225.74 (+1.13%) | $78.0255 (trail 10%, HWM $86.695) |
 
 ### Process Metrics (mechanics validation — first 30–90 days)
-- Rule-adherence: buy-gate considered 5/5 sessions, 0 trades placed — all 5 HOLDs rule-correct (CPI-eve Mon defer; CPI Tue defer; Wed PPI printed triple-hot +6.0% YoY / +1.4% MoM, tripping the pre-committed "Hot-PPI → defer ALL buys this week" rule; Thu honored it; Fri's five-gate scorecard cleared 4/5 — gate (e) Warsh-not-hawkish failed — so the last slot was left unused). 0 rule violations.
+- Rule-adherence: buy-gate considered 5/5 sessions, 0 trades placed. Mon–Wed HOLDs rule-correct (no same-day catalyst for XLI/XLU + two unhedged binaries — NVDA earnings, FOMC minutes — ahead). Thu & Fri: XLI scored buy-gate PASS on all six checks (catalyst included), but the bot's self-added "confirmed-strength tape by 11am" conditional did not clear — skips were defensible but driven by an unwritten gate, not the documented rules. 0 documented-rule violations.
 - Time-to-stop-placement after fill: N/A — no fills this week.
-- Research-log completeness: N/A — 0 executed trades; 5/5 sessions had a fully pre-documented HOLD decision with rationale and conditional watchlist.
-- Routine push success rate: 13 / 15 expected commits pushed (5 pre-market ✓ Mon-Fri, 5 EOD ✓ Mon-Fri, 3/5 midday ✓ — Tue/Wed/Thu logged; Mon 5/11 and Fri 5/15 midday produced no commit); no merge conflicts; auto-merge clean.
+- Research-log completeness: N/A — 0 executed trades; 5/5 sessions had a fully pre-documented decision (HOLD Mon–Wed, conditional-deploy plan Thu–Fri with explicit gates).
+- Routine push success rate: 10 / 15 expected commits pushed (5 pre-market ✓ Mon–Fri, 5 EOD ✓ Mon–Fri, 0/5 midday — no midday commits all week); no merge conflicts; auto-merge clean.
 - Notification delivery: Discord webhook live; pre-market + EOD recaps delivered each day, no failures observed.
 
 ### What Worked
-- Pre-committed "Hot-PPI → defer all buys" rule fired exactly as written. Wed's PPI breached both thresholds (+6.0% YoY vs +5.0% trigger; +1.4% MoM vs +0.5%); the rule removed Friday discretion and the bot honored it even with 4 of 5 conditional gates clearing — textbook ex-ante discipline.
-- Navigated a triple-binary week (CPI / PPI / Retail Sales) plus a Fed-chair transition with zero portfolio damage and zero forced trades — patience > activity executed cleanly five days running.
-- First non-lagging week of the phase: bot tracked SPY dead even (~+0.00%) vs ~-80 to -190 bps gaps in Weeks 1-2; XLP's defensive bid absorbed the CPI/PPI heat while XLK held its 52-wk-high regime.
-- Both positions stayed thesis-intact and net green through three hot inflation prints — no -7% breach, no thesis-break, trail stops ratcheted (XLK HWM → $180.215, XLP HWM → $85.57) with no manual intervention.
-- Every entry decision pre-documented in RESEARCH-LOG with explicit conditional gates set the prior day — the Friday five-gate scorecard was scored against criteria written Thursday, not invented same-day.
+- Five HOLDs through NVDA earnings + the first post-Warsh FOMC minutes — both binaries cleared with zero portfolio damage; XLK absorbed NVDA's -3% AH (a beat across the board plus a $91B Q2 guide, +$3.6B above consensus) without a thesis-break.
+- XLK rode to a fresh phase high — +6.01% on cost, fresh HWM $181.73 Friday, trail ratcheted to $163.557 with no manual intervention.
+- Both sleeves stayed thesis-intact and net green all week; the XLP defensive sleeve cushioned the two down sessions.
+- Bot beat SPY on the week's risk-off days — defensive XLP sleeve + light deployment doing their job on a soft tape.
+- Every session's decision pre-documented in RESEARCH-LOG with explicit conditional gates set the prior day.
 
 ### What Didn't Work
-- Capital still ~40.5% deployed vs the 75-85% target — fifth straight week under-deployed; the gate has now skipped a third position for 10+ consecutive sessions. Rule-compliant, but the structural gap is real.
-- SPY pulled further ahead on the phase scoreboard: +3.44% vs bot +0.63% (~281 bps gap) — the under-deployment cost is cumulative even in a flat week.
-- Two midday routine commits missed (Mon 5/11, Fri 5/15) — 13/15 push success, a minor persistence slip mirroring last week's Tue 5/5 gap.
-- RSP benchmark unavailable for the third review running — Perplexity returns only intraday snapshots, no clean Friday closes; vs-RSP scoring still blocked.
-- Funding mismatch ($7,500 IRA in strategy doc vs $100k paper account) is in week 4 unreconciled — still a pending user decision.
+- Second consecutive zero-trade week; capital ~40.8% deployed — tenth straight session below target. Core Rule 2 ("target 75–85% deployed") has now been unmet for two full weeks.
+- The XLI deploy was scored buy-gate PASS (all six checks, catalyst included) by Thu and Fri, yet blocked both days by an unwritten "confirmed-strength tape by 11am" conditional the bot layered on top of the rulebook. The binding constraint is now a self-imposed discretionary gate, not the documented rules.
+- SPY pulled ~65 bps ahead on the week (+1.2% vs +0.56%); the phase gap to SPY persists (~240–280 bps depending on SPY proxy).
+- Midday routine produced zero commits all week (10/15 push success, down from 13/15 last week) — a persistence regression.
+- RSP benchmark unavailable for the fourth review running — Perplexity returns only Monday/intraday snapshots, no clean Friday closes.
+- Funding mismatch ($7,500 IRA in strategy doc vs $100k paper account) is in week 5 unreconciled — still a pending user decision.
 
 ### Key Lessons
-- A pre-committed, threshold-based rule ("Hot-PPI YoY ≥+5.0% → defer all buys") is far more robust than same-day discretion: it fired on Wednesday and made Friday's decision automatic despite a tempting 4/5 gate clear. Write the rule before the catalyst, not during it.
-- A constructive tape on a hot print (SPY +0.64% on +6.0% PPI) is suspicious, not confirmatory — looking through it would have been a discretionary override of a working rule.
-- The buy-gate's conservatism is genuinely costly on a multi-week rally, but five straight HOLDs across three macro binaries is the gate doing its job — the fix is deliberate Monday deployment on a clean tape, not loosening the gate from a 4-week sample.
-- Defensive/growth sleeve pairing (XLP + XLK) is doing its diversification job: XLP caught the inflation-print bid, XLK held the AI-momentum regime — the two-sector mix tracked SPY flat through a noisy week.
+- Gold-plating the rulebook is itself a process failure. The written six-check buy-gate cleared Friday; an extra, undocumented "confirmed-strength tape" gate is what blocked the deploy. Either codify a discretionary tape filter into TRADING-STRATEGY.md or drop it — running an unwritten gate that silently overrides a core rule (75–85% deployment) is the worst of both.
+- "Patience > activity" (Rule 11) permits zero-trade weeks, but it does not override Core Rule 2's deployment target indefinitely. Two consecutive empty weeks at ~40% is the rulebook fighting itself — patience is being stretched to excuse non-deployment.
+- Sector-ETF rotation theses are inherently thematic, not same-day-news-driven; demanding a "specific same-day catalyst" for an ETF in a Leading quadrant structurally blocks deployment. The 5/22 entry resolved this by scoring the NVDA-guide AI-capex readthrough as a valid documented catalyst — that interpretation should be the standard going forward.
+- 20 trading days reached: the first rolling Sharpe is computable (~3.4 indicative) but it is small-sample noise — the calibration reminder applies, do not infer edge.
 
 ### Adjustments for Next Week
-- NO strategy-rule changes (4-week sample; small samples lie — PROJECT-CONTEXT.md calibration reminder). The hot-PPI rule and buy-gate both performed as designed.
-- Mon 5/18 pre-market: capital deployment is the top priority — fresh 3-trade budget, no hot-PPI overhang. Deploy a 3rd position (XLU or XLI) at ~$19.5k with 10% trail GTC IF the buy-gate clears on a live quote with a same-day catalyst; target pushing 40% → 60%.
-- Re-assess XLU once the Warsh chair vote / rate path is clearer — rate-sensitivity is the swing factor; XLI (Leading quadrant, AI-capex/defense) is the cleaner momentum alternative if the tape stays cyclical-bid.
-- Watch XLK: +3.37% on cost, HWM $180.215, trail $162.1935; no stop-tighten trigger met (+15% threshold is $195.70). Semis ~49% weight = Trump-Xi summit headline beta — thesis-break cut applies on any chip-export shock.
-- Ensure midday routine persists Mon-Fri — two missed commits this week (Mon/Fri); midday is part of the 5-run daily cadence.
-- Funding reconciliation ($7,500 vs $100k) — week 4 pending; user decision, do not change docs autonomously.
+- NO strategy-rule changes this week (calibration discipline). But the deployment gap is now formally on the clock: if a third week passes without a deploy on a clearing gate, the buy-gate's catalyst wording — or the unwritten tape filter — needs an explicit revision, not continued discretion.
+- Mon 5/25 is Memorial Day — US markets closed. First session Tue 5/26: deploy XLI as the 3rd position at ~$19,500 / 10% trail GTC IF the written six-check buy-gate clears — do NOT add an unwritten tape-confirmation gate on top. The Leading-quadrant rotation + NVDA $91B-guide AI-capex readthrough is a documented catalyst.
+- Target: push deployment from ~41% toward 60% with the XLI add; consider a 4th sleeve (XLU or XLB) later in the week if the gate clears, working toward the 75–85% band.
+- Restore the midday routine commit cadence — zero midday commits this week.
+- Watch XLK: +6.01% on cost, fresh HWM $181.73, trail $163.557; no stop-tighten trigger met (+15% threshold $195.70). Hold unconditionally absent a >3% intraday breakdown.
+- Watch XLP: +1.13% on cost, trail $78.0255 (~8% cushion). Hold unconditionally.
+- Funding reconciliation ($7,500 vs $100k) — week 5 pending; user decision, do not change docs autonomously.
 
-### Overall Grade: A-
-Strongest process week of the phase. Every one of five HOLD decisions was rule-correct; the pre-committed Hot-PPI defer-all-buys rule fired flawlessly and made Friday's last-slot decision automatic despite 4/5 conditional gates clearing — exactly why rules are written ex-ante. Three macro binaries plus a Fed-chair transition navigated with zero forced trades and zero portfolio damage; both positions thesis-intact and net green; bot tracked SPY dead even for the first time in the phase. Capped at A- (not A) because (a) two midday routine commits were missed — a recurring minor persistence slip, (b) capital is ~40.5% deployed for the fifth straight week — rule-compliant but the structural under-deployment gap to SPY keeps compounding, (c) the funding mismatch is week 4 unreconciled. P&L (flat) not penalized — grade reflects process adherence in the first 90 days, and this week's adherence was near-perfect.
+### Overall Grade: B
+Zero documented-rule violations and five rule-defensible HOLDs through two binaries; both positions thesis-intact and net green; XLK at a fresh phase high. The grade drops from last week's A- because (a) the binding constraint on deployment is now an unwritten discretionary gate the bot layered on top of its own rulebook — process drift, not process discipline; (b) Core Rule 2's 75–85% deployment target has gone unmet for two full weeks / ten sessions, with "patience" stretched to excuse it; (c) the midday routine produced zero commits all week (10/15 push success, down from 13/15); (d) the funding mismatch is week 5 unreconciled. P&L (-65 bps vs SPY) not penalized — the grade reflects process, and the process this week revealed a real gap between the written rules and the bot's actual behavior.
