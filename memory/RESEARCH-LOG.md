@@ -1596,3 +1596,95 @@ Action plan for market-open routine 5/22:
 6. **Post-close:** /weekly-review (Sharpe vs SPY, max DD, vs RSP, process metrics) + /daily-summary EOD snapshot to TRADE-LOG.md.
 
 Patience > activity — but ten straight sessions at 40% deployment is itself a risk, and the rulebook's 75-85% target is not optional. The XLI thesis is intact and the macro backdrop (VIX 16.76, oil sub-$100, Dow record high) is the most supportive it has been this week. Deploy on a confirmed-strength open; do not force it onto a soft tape.
+
+## 2026-05-25 — Pre-market Research (Mon, Week 5, day 1 — **MEMORIAL DAY: US EQUITY MARKETS CLOSED**; week resets, 3/3 buy slots open Tue-Fri)
+
+### Account
+- Equity: **$101,187.76** (5/22 close, unchanged — markets closed today) | Cash (settled): **$59,899.73** | Buying power $161,087.49 (informational only — cash account, T+1, do NOT size against)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17 ($19,909.89 cost), last close $180.39, **unrealized +$1,195.74 (+6.01%)**, trail 10% GTC stop @ **$163.557 (HWM $181.73)** live — order f68c12ea (~9.3% cushion)
+  - **XLP 238 sh** @ avg $83.851513 ($19,956.66 cost), last close $84.80, **unrealized +$225.74 (+1.13%)**, trail 10% GTC stop @ $78.0255 (HWM $86.695) live — order aa46ecf2 (~8.0% cushion)
+- Open orders: 2 (both trail stops, both NEW/working)
+- Trades this week (Tue-Fri only — Mon closed): **0 / 3** (full budget available)
+- `last_equity` $101,187.76 (5/22 close) → no mark-to-market today (closed)
+- Cumulative from Apr 26 baseline $100,000: bot **+1.19%** (phase high held from 5/22); SPY 5/22 bid proxy ~$723.82 vs $714.005 baseline = ~+1.37%; SPY mid proxy ~$746.235 vs $714.005 = ~+4.51% (ap stale all phase — bid proxy more conservative). Net: bot **roughly tied with SPY on bid proxy, ~−330 bps on mid proxy**.
+- Deployed: **40.80%** ($41,288.03 / $101,187.76) — eleventh straight session below the 75-85% target
+
+### Market Context
+- **US EQUITY MARKETS CLOSED TODAY** — Memorial Day observance. NYSE, Nasdaq, ARCA all closed; reopen Tue 5/26 normal hours. No fills, no order modifications will execute; trail stops remain logically armed at the broker. Bond market also closed (SIFMA recommended close).
+- **WTI / Brent:** WTI **~$91.65–91.90/bbl** (Investing.com CL 5/25 historical $91.65 last; CME CLN6 5/24 9:51 PM CT $91.90, **−$4.70 (−4.87%) d/d**) — major leg lower; **broke below $95 for the first time this phase**, down from $97-98 area at Friday's close, down from the $107-108 mid-May spike. Brent quote stale ($106.52, 5/6). Inflation-pipeline headwind continuing to de-escalate materially. XLE sector exit gate still applies.
+- **S&P 500 futures:** ESM26 quoted around **6,657.50 (+6.50, +0.10%)** late-Sunday/early-Monday holiday session (Business Insider premarket). CME futures trade with shortened holiday hours today (close 12:00pm CT per CME holiday schedule). Net: roughly flat-to-very-slightly-firm, off Friday's strong close. Tuesday open will set the real tone.
+- **VIX:** **16.70** (5/22 close, −0.36% d/d, down from 16.76 5/21) — well under the 22 buy-gate ceiling; calm and drifting lower. No VIX update today (cash session closed).
+- **Today's catalysts:** None — federal holiday. Watch this evening / Tuesday premarket for any weekend geopolitical headlines (Middle East, China-Taiwan, EU summit takeaways).
+- **Week-ahead calendar (Tue-Fri):**
+  - **Tue 5/26:** May Consumer Confidence (10am ET); **earnings AMC: AutoZone (AZO), Zscaler (ZS)**
+  - **Wed 5/27:** April New Home Sales; **earnings AMC: Salesforce (CRM), Marvell (MRVL), Snowflake (SNOW), Synopsys (SNPS), Dick's Sporting Goods (DKS)** — CRM/MRVL/SNOW/SNPS all material to **XLK** (semis + software ≈70% of XLK weight)
+  - **Thu 5/28:** **April PCE Price Index (8:30am ET) — Fed's preferred inflation gauge, key macro print of the week**; **Q1 GDP 2nd estimate (8:30am ET)**; weekly jobless claims; **earnings AMC: Dell (DELL), Costco (COST), Autodesk (ADSK), MongoDB (MDB), Best Buy (BBY), Dollar Tree (DLTR), Gap (GAP)** — DELL/ADSK/MDB material to XLK
+  - **Fri 5/29:** Chicago PMI, Final May Michigan Sentiment; light earnings. Month-end rebalancing flows.
+- **Earnings backdrop:** NVDA cleared last week with a beat + guide-up. Wed-Thu brings the **second-tier AI/software cluster** (CRM, SNOW, MRVL, SNPS, DELL, ADSK) — collectively a meaningful directional event for XLK.
+- **Sector momentum YTD (last refresh 5/22):** **Leading — XLI (Industrials, +11.4%/+35.5% 6m/12m), XLP (Consumer Staples, all-time highs), XLB (Materials), XLE (Energy)**. Improving — XLU (Utilities). **Lagging — XLK (Tech, +4.7%/+52.7% 6m/12m despite price leadership), XLF (Financials, −2.0%/+9.5%)**. Rotation away from Tech into cyclicals/defensives is the dominant 2026 theme per Morningstar/Schwab; XLI is the cleanest deploy candidate for the third sector slot.
+- **XLK news:** Last $180.39 (5/22 close, fresh phase HWM $181.73). 52-wk high tagged 5/8 per Zacks; AI/Big-Tech-spend tailwind intact. Wed 5/27 CRM/MRVL/SNOW/SNPS + Thu 5/28 DELL/ADSK are the week's idiosyncratic XLK events. Thesis intact; +6.01% on cost. Trail $163.557 (~9.3% cushion); manual −7% cut $158.26.
+- **XLP news:** Last $84.80 (5/22 close). Defensive sleeve, no specific news; Investing.com cites Staples in the Leading quadrant at all-time highs. Thesis intact; +1.13% on cost. Trail $78.0255 (~8.0% cushion); manual −7% cut $77.98.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — markets closed.** No buy/sell actions possible today. Set up the week's plan for Tue-Fri execution.
+
+**Pre-positioning for Tuesday 5/26 — XLI as 3rd-position candidate (carry from last Tue-Fri):**
+Buy-gate / entry-checklist scan (preliminary, to re-verify Tuesday):
+- Positions after fill ≤ 6 — PASS (would be 3)
+- Trades this week ≤ 3 — PASS (0/3, fresh week)
+- Cost ≤ 20% equity ($20,238 cap at $101,188) — PASS at ~$19,300 sizing
+- Cost ≤ settled cash ($59,899.73) — PASS
+- **Specific same-day catalyst** — TBD Tuesday morning: re-confirm AI-capex / data-center-build / electrification thesis; check for any weekend geopolitical or oil-price shock that would alter the cyclical case
+- Instrument is a stock/ETF — PASS
+
+Tuesday deploy mechanics (if tape confirms):
+- Symbol: **XLI** (~$185-195 reference area, awaiting fresh quote Tue open)
+- Sizing: ~100-105 shares (~$19,300-19,500); hard cap $20,238 (20% of $101,188)
+- Order: market BUY in market-open routine, then **trailing 10% GTC stop** immediately after fill (strategy rule 4); HWM auto-set on fill
+- Target: minimum 2:1 R/R → ~+20% (trail tightens per rules at +15% and +20%)
+
+Tuesday tape-confirmation gate (must clear ALL before XLI deploy):
+1. SPY > 5/22 close (broad-tape green or flat-firm)
+2. VIX < 20
+3. XLI not breaking down (no >−1% intraday after first 30 min)
+4. No Sun/Mon weekend geopolitical shock altering the cyclical case
+5. WTI not back above $100 (cooling-oil thesis intact)
+Any NO → SKIP Tuesday, re-evaluate Wed-Fri.
+
+**Wednesday/Thursday risk awareness:** Wed AMC brings CRM/MRVL/SNOW/SNPS (XLK-heavy); Thu AM brings April PCE (Fed's preferred gauge — the binary macro event of the week). A clean XLI deploy Tuesday is preferable to chasing into the Wed-Thu binary window. If XLI defers to mid-week, the entry checklist's same-day-catalyst requirement gets harder around those events.
+
+**Watchlist (alternates if XLI defers or is rejected by tape):**
+1. **XLI** — primary, deploy as early in the week as the gate clears.
+2. **XLU (Utilities)** — Improving quadrant; cooling-oil + rate-sensitive AI-power-demand thesis. Secondary.
+3. **XLB (Materials)** — Leading, commodity-cycle. Tertiary.
+4. **XLE** — STILL DEFER (sector exit gate from 2 failed Energy trades).
+5. **Adding to XLK / XLP** — PASS (both ≈20%-capped).
+
+### Risk Factors
+- **Thursday April PCE (8:30am ET)** — Fed's preferred inflation gauge; March printed +3.50% headline / +3.20% core. A hot April print (>3.30% core) re-anchors stagflation fears, pressures duration-sensitive XLK and any rate-sensitive add (XLU). A cool print (<3.10% core) is the rate-cut tailwind. **This is the binary event of the week.**
+- **Wednesday AMC tech cluster (CRM/MRVL/SNOW/SNPS)** — collectively material to XLK at ~70% (semis + software). A broad miss-and-guide-down gaps XLK at Thu open; manual −7% cut still $158.26, trail $163.557.
+- **Weekend headline risk** — Memorial Day weekend is a known window for surprise geopolitical news (Middle East, Russia/Ukraine, China-Taiwan). Tuesday open can gap meaningfully off Friday's tape.
+- **Oil collapse risk** — WTI broke $95 to ~$91-92. Disinflationary tailwind for staples and rate-cut narrative, but a continued cascade signals demand destruction / global slowdown fears that would weigh on cyclicals (XLI thesis weakens) and benefit duration plays (XLK marginally).
+- **Capital drag (chronic)** — bot +1.19% vs SPY ~+1.4% bid / ~+4.5% mid baseline. Eleventh straight session at ≈40.8% deployment vs 75-85% target. Two empty weeks in a row makes the third-position deploy a real priority for this week. Flag for next weekly review: is the gate too restrictive, or is the tape genuinely failing the gate?
+- **Trailing stop gap risk on holiday-week reopen** — Tuesday could gap through the trail stops on a major weekend shock; manual cut levels still apply at $158.26 (XLK) / $77.98 (XLP) if filled below.
+
+### Decision
+
+**HOLD all positions. No trades possible — US equity markets CLOSED for Memorial Day.** 0/3 weekly buy budget unchanged (week resets Tue-Fri).
+
+Action plan for week 5 (Tue 5/26 – Fri 5/29):
+1. **Tonight / Tue pre-market:** scan weekend headlines (geopolitics, oil, China). If clean, run the standard pre-market routine Tue 5/26.
+2. **Tue 5/26 market-open routine:** verify trail stops still live (XLK f68c12ea @ $163.557 / HWM $181.73; XLP aa46ecf2 @ $78.0255 / HWM $86.695). Run 5-point XLI confirmation gate at 10:00–11:00 AM ET. If ALL pass, market BUY XLI ~100-105 sh (~$19,300-19,500) + 10% trail GTC immediately after fill. Trade #1 of week (1/3). Otherwise SKIP, carry to Wed.
+3. **Wed 5/27:** if Tue skipped, re-run XLI gate at open. AVOID a new buy after 1pm ET (CRM/MRVL/SNOW/SNPS AMC binary). If XLI fills Wed, that's 1/3.
+4. **Thu 5/28:** **NO buys before 10am ET** (8:30 AM PCE + GDP prints). After PCE absorbs (~10am), if dovish surprise (core ≤3.10%) and tape confirms, consider XLI as last deploy window. Hot PCE (>3.30% core) → SKIP all buys, monitor XLK for thesis-break (semis duration-sensitive).
+5. **Fri 5/29:** month-end rebalancing; only deploy if specific catalyst + tape both clear. Run /weekly-review post-close.
+6. **Intraday monitoring (all week):**
+   - XLK breaks $158.26 (−7% manual cut) → market sell, cancel trail.
+   - XLP breaks $77.98 (−7% manual cut) → market sell, cancel trail.
+   - Any >3% intraday breakdown in XLK → thesis-break review.
+   - XLK > $181.73 → HWM advances, trail ratchets up.
+7. **No /midday or /market-open today (5/25)** — markets closed. Resume normal cadence Tue.
+
+Patience > activity, but eleven straight sessions at ~40% deployment is itself a measurable risk that's now cost the bot ~330 bps vs SPY mid proxy. The week ahead has a clean Tue entry window before the Wed-Thu binary cluster (tech earnings + PCE). Deploy XLI deliberately on Tuesday if the gate clears; if not, accept the under-deployment and document for weekly review.
