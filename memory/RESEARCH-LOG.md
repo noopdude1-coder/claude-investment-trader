@@ -1688,3 +1688,80 @@ Action plan for week 5 (Tue 5/26 – Fri 5/29):
 7. **No /midday or /market-open today (5/25)** — markets closed. Resume normal cadence Tue.
 
 Patience > activity, but eleven straight sessions at ~40% deployment is itself a measurable risk that's now cost the bot ~330 bps vs SPY mid proxy. The week ahead has a clean Tue entry window before the Wed-Thu binary cluster (tech earnings + PCE). Deploy XLI deliberately on Tuesday if the gate clears; if not, accept the under-deployment and document for weekly review.
+
+## 2026-05-26 — Pre-market Research (Tue open, post-Memorial-Day, XLI deploy window)
+
+### Account
+- Equity: **$101,523.87** (premarket mark; +$336.11 vs Fri last_equity $101,187.76 on XLK gap-up) | Settled cash: **$59,899.73** | Buying power: $161,423.60 (informational only — cash account, T+1, do NOT size against this)
+- Positions: **2 / 6**
+  - **XLK** 117 sh @ avg $170.17 ($19,909.89 cost), market **$183.10** (+1.50% vs Fri $180.39), **unrealized +$1,512.81 (+7.60%)**, trailing 10% GTC stop @ $163.557 (HWM $181.73 — fresh print likely advances HWM at open)
+  - **XLP** 238 sh @ avg $83.8515 ($19,956.66 cost), market **$84.88** (+0.09%), **unrealized +$244.78 (+1.23%)**, trailing 10% GTC stop @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trailing stops, GTC, status `new`)
+- **Trades this week: 0 / 3** (fresh week; short week Tue-Fri)
+- Deployed: ~41.0% ($41,624.14 / $101,523.87) — still well under 75-85% target; **12th straight session sub-50%**
+
+### Market Context
+- **WTI: ~$91.94** (front-month) — **rolled hard** from May 1 $116 spike; sub-$92 implies geopolitical premium fully drained + possible demand-destruction signal. Brent live quote unavailable; trailing reference ~$95-98 area.
+- **S&P 500 futures: ESM26 ~7,548.25, +57.25 / +0.76%** premarket (per CME). Modestly green Memorial Day weekend reopen. ES > 7,100 ✓
+- **VIX: 16.85** close 5/22, last fixing ~16.85-16.94 range. VIX < 20 ✓ (sub-17, complacent — no cushion if Iran headlines or PCE shock)
+- **Today's catalysts:**
+  - **10:00am ET — May Consumer Confidence (CB)** — read on consumer sentiment vs 90-mark
+  - **10:00am ET — JOLTS (April)** (per NY Fed calendar — labor demand)
+  - **AMC: AutoZone (AZO), Zscaler (ZS)** — minor for XLK/XLP
+  - Fed speakers light pre-Thursday PCE
+- Rest of week (clean read):
+  - **Wed 5/27** New Home Sales 10am; **AMC: CRM, MRVL, SNOW, SNPS, DKS** — XLK-heavy
+  - **Thu 5/28 8:30am: April PCE + Q1 GDP 2nd + Durable Goods + jobless claims** — **binary macro event of week**
+  - Thu AMC: DELL, COST, ADSK, MDB, BBY, DLTR, GAP
+  - **Fri 5/29:** Chicago PMI, Michigan Sentiment final, month-end rebalancing flows
+- **Weekend headline — caution:** CBS News (5/22) reported the Trump administration preparing for fresh US strikes against Iran; no final decision. Market response: **WTI DOWN $3-4 to $91.94** (NOT pricing escalation premium) → either market discounts the headline or already absorbed it from prior April ceasefire reference. ESM26 +0.76% green confirms market not in fear mode at open.
+- **Sector momentum YTD (Total Real Returns / SSGA, through 5/22-5/25):**
+  - **XLE +33.93%** — leader (Energy; sector exit gate from 2 failed trades → DEFER)
+  - **XLK +25.45%** — Tech (we own; semis-heavy 47%, NVDA 15% / AAPL 13% / MSFT 10%)
+  - **XLP +9.78%** — Staples (we own; defensive sleeve at ATHs)
+  - XLI ~+11.4% (Industrials per Schwab/Morningstar "Leading" quadrant)
+  - **XLV −2.77% / XLF −4.68%** — laggards (PASS)
+- **XLK news:** "rebound mode, on track to fresh highs"; AI tailwind intact. Current $183.10 = fresh all-time high above HWM $181.73 → trail stop will ratchet up at open.
+- **XLP news:** Staples "back in focus"; at all-time highs cluster; defensive sleeve thesis intact.
+- **XLI news:** Last $170.42-$172.88 range 5/22; 52-wk high $179.31. Wide bid/ask post-close $166.53/$177.16 (stale). Implied vol 20.76%, IV percentile 76% (elevated). Cooling-oil disinflation tailwind for industrials.
+
+### Tuesday 5-Point XLI Entry Gate (from 5/25 plan)
+1. SPY > 5/22 close (broad-tape green or flat-firm) — **PASS** premarket (ESM26 +0.76%); confirm at 9:30 open
+2. VIX < 20 — **PASS** (16.85, sub-17)
+3. XLI not breaking down (no >−1% intraday after first 30 min) — **PENDING** open print
+4. No Sun/Mon weekend geopolitical shock altering cyclical case — **MIXED.** Iran-strike preparation headline exists, but **oil DOWN sharply ($-3-4 to $91.94)** and ES futures GREEN (+0.76%) → market not pricing escalation. **Conditional PASS;** monitor first-30-min tape for surprise gap-down on any fresh Iran headline.
+5. WTI not back above $100 (cooling-oil thesis intact) — **PASS strongly** ($91.94 < $100)
+
+**Result: 4 PASS, 1 PENDING (XLI tape), 1 CONDITIONAL (geopolitics).** Gate is largely cleared pre-open; market-open routine should execute IF first-30-min tape confirms (XLI not breaking down, no Iran/oil shock headline).
+
+### Trade Ideas
+1. **XLI — PRIMARY DEPLOY (3rd sector sleeve).** Cyclical industrials, "Leading" quadrant, +11.4% YTD. Cooling-oil disinflation tailwind + electrification / data-center build-out thesis. **Catalyst (today):** week-resets buy cap (0/3 used), gate clears 4-of-5 pre-open, Tue is the cleanest entry window before Wed-Thu binary stack (CRM/MRVL/SNOW/SNPS AMC Wed + PCE/GDP Thu AM).
+   - **Entry:** ~$171-173 area at open (no chase >$175); **size ~115 sh @ $172 ≈ $19,780** (~19.5% of $101,524 equity; hard cap $20,304)
+   - **Stop:** 10% trailing GTC immediately after fill (mandatory rule 4); manual −7% cut at fill × 0.93
+   - **Target:** +15-20% (~$197-207) for 1.5-2:1 R:R
+   - **Skip if:** XLI gaps >1.5% above Fri close at open (chase), or first 30 min prints >−1% intraday (gate fail #3), or fresh Iran strike headline gaps oil/futures
+2. **XLU (Utilities) — alternate if XLI rejects.** Improving quadrant; cooling-oil + rate-sensitive AI-power-demand thesis. Lower beta.
+3. **XLB (Materials) — tertiary.** Leading, commodity-cycle; oil-collapse is a mixed signal (lower input cost vs demand fear).
+4. **Adding to XLK** — PASS. Already 20%-capped; concentration risk despite +7.60% on cost.
+5. **Adding to XLP** — PASS. Same cap reason.
+6. **XLE / XLV / XLF / single names** — PASS (sector exit gate / laggards / single-name event risk).
+
+### Risk Factors
+- **Iran-strike headline risk (CBS 5/22)** — fresh US strikes could gap oil +5-10% and crater cyclicals (XLI thesis weakens); offset = oil already collapsed pre-news, market not pricing escalation. Monitor first-30-min tape for surprise gap.
+- **WTI $91.94 oil collapse** — disinflationary tailwind for staples and rate-cut narrative (XLP, XLK marginally), but a continued cascade signals **demand destruction / global slowdown**, which weighs cyclicals (XLI thesis weakens). The pivot point is whether oil holds $90 or breaks lower.
+- **Wed 5/27 AMC tech cluster (CRM/MRVL/SNOW/SNPS)** — collectively material to XLK at ~70% (semis + software). A broad miss-and-guide-down gaps XLK at Thu open; manual −7% cut at $158.26, trail $163.557 (will ratchet up today on fresh HWM).
+- **Thu 5/28 April PCE (8:30am ET)** — **binary macro event of week.** Hot >3.30% core re-anchors stagflation, pressures duration-sensitive XLK and any rate-sensitive add; cool <3.10% core is rate-cut tailwind.
+- **Consumer Confidence + JOLTS today 10am** — soft prints extend stagflation read (weighs cyclicals like XLI); hot prints add no-cut conviction (mildly bearish for XLK duration).
+- **VIX 16.85** — market UN-pricing risk into PCE + earnings + Iran headlines; no cushion for downside surprise.
+- **Capital drag (chronic)** — 12 straight sessions at ~41% deployment vs 75-85% target; ~330 bps cumulative gap vs SPY mid proxy. Tue's XLI deploy is the cleanest shot to close the deployment gap before the Wed-Thu binary window.
+- **Trailing stop gap risk** — Tue reopen could gap through trail stops if Iran headline breaks pre-open; manual cut levels $158.26 (XLK) / $77.98 (XLP).
+
+### Decision
+**TRADE (conditional) — XLI BUY at market-open IF the 5-point gate clears in real time.** Tenth consecutive HOLD ends conditionally; gate is 4-PASS / 1-PENDING / 1-CONDITIONAL pre-open. Execute via /market-open routine:
+- Verify ESM26/SPY positive at 9:30, VIX < 20, no fresh Iran headline, XLI first-print not gapped >+1.5%.
+- If clean: **BUY XLI ~115 sh @ market** (~$19,780, ≤20% cap), immediately place 10% trail GTC.
+- If first 30 min prints XLI <−1% intraday OR Iran headline hits OR oil gaps >+3%: **SKIP, carry to Wed pre-binary.**
+- Existing holdings: HOLD XLK / XLP unconditionally; XLK trail will auto-advance on fresh HWM above $181.73. No stop-tighten triggers met (XLK +7.60% < +15% threshold). Manual cut levels unchanged ($158.26 / $77.98).
+- **Hard floor:** trades-this-week stays at ≤3; if XLI fills today, that's 1/3 with Wed/Thu/Fri reserved for sells or post-PCE adds only.
+
+The setup is the cleanest pre-PCE entry window we've had; the gate works the way it should, the deployment gap is now structural risk, and XLI captures the cyclical sleeve we've been queueing for two weeks.
