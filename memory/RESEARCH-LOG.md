@@ -1688,3 +1688,70 @@ Action plan for week 5 (Tue 5/26 – Fri 5/29):
 7. **No /midday or /market-open today (5/25)** — markets closed. Resume normal cadence Tue.
 
 Patience > activity, but eleven straight sessions at ~40% deployment is itself a measurable risk that's now cost the bot ~330 bps vs SPY mid proxy. The week ahead has a clean Tue entry window before the Wed-Thu binary cluster (tech earnings + PCE). Deploy XLI deliberately on Tuesday if the gate clears; if not, accept the under-deployment and document for weekly review.
+
+## 2026-05-26 — Pre-market Research (Tue, Week 5, day 1 — XLI deploy gate, 3/3 buy slots open)
+
+### Account (live, 9:31am ET)
+- Equity: **$101,458.56** | Settled cash: **$59,899.73** | Buying power $161,358.29 (info only — cash account, T+1)
+- Positions: 2 / 6
+  - **XLK 117 sh** @ avg $170.17, current $183.05, **unrealized +$1,506.96 (+7.57%)**, trail 10% GTC stop @ $163.557 (HWM $181.73 — current > HWM, broker will ratchet)
+  - **XLP 238 sh** @ avg $83.851513, current $84.64, **unrealized +$187.66 (+0.94%)**, trail 10% GTC stop @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trail stops)
+- Trades this week: **0 / 3** (Tue-Fri only — Mon was Memorial Day holiday)
+- Deployed: 40.96% pre-trade → ~60.6% post-XLI
+
+### Market Context (9:31am ET tape)
+- **VIX:** **16.85** (5/26 open/proxy) — well below 20 gate ceiling ✓
+- **WTI:** ~$91 (Mon ref $91.65, perplexity confirms no oil shock weekend); Iran-peace-deal hopes = continued disinflationary pressure on oil ✓
+- **SPY:** $749.58/$749.62 (tight 4¢ spread, +0.45% vs Fri mid $746.235) ✓
+- **ESM26:** firm green pre/at-open
+- **Weekend headlines:** Iran-peace-deal progress = risk-on tailwind for cyclicals/industrials; no Mid-East/Russia/China shocks
+- **Today's catalysts:** May Consumer Confidence 10am ET; AZO/ZS earnings AMC (not material to XLI)
+- **XLI quotes:** $172.83 bid / $173.19 ask (21¢ spread, ~0.20% — clean); Fri close $171.77 → +0.6% open (no breakdown)
+
+### Live Sector Quotes (9:31am ET)
+- XLI $172.83/$173.19 — primary target
+- XLK $183.01/$183.06 (held; fresh HWM territory)
+- XLP $84.61/$84.64 (held)
+- XLF $51.96/$51.98 — laggard, skip
+- XLV $149.39/$149.47 — alternate
+- XLU $45.36/$45.38 — alternate
+- XLB $50.68/$50.69 — tertiary alternate
+
+### Trade Idea — XLI BUY
+
+**5-Point Tape-Confirmation Gate (from 5/25 plan):**
+1. SPY > 5/22 close → SPY $749.58 > $746.235 ✓
+2. VIX < 20 → 16.85 ✓
+3. XLI not breaking down (no >−1% open) → +0.6% open ✓
+4. No weekend geopolitical shock → Iran-peace-deal = risk-on ✓
+5. WTI not back above $100 → ~$91 ✓
+**ALL 5 PASS.**
+
+**Buy-Side Gate:**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,291.71 cap) ✓
+- Cost ≤ settled cash ($59,899.73) ✓
+- Catalyst documented (here) ✓
+- Stock/ETF ✓
+**ALL PASS.**
+
+**Order Spec:**
+- Symbol: **XLI**
+- Sizing: **115 sh × $173.19 ask = $19,916.85** (19.63% of $101,458.56, $375 buffer to cap)
+- Order: market BUY day TIF; then 10% trailing GTC sell stop immediately on fill
+- Catalyst: Industrials leading sector YTD (+11.4% / +35.5% 12m); rotation away from Tech into cyclicals/defensives; cooling oil (-$91 WTI) tailwind for transports/manufacturers; Iran-peace risk-on weekend; AI-capex + data-center-build + electrification thesis intact
+- Stop: 10% trailing GTC (~$155.87 from ask); manual −7% cut at ~$161.07
+- Target: +15-20% (~$199-208), R:R ≥ 2:1 with the trail
+- Risk awareness: Wed AMC tech cluster (CRM/MRVL/SNOW/SNPS), Thu 8:30am April PCE (binary). XLI is least exposed to those binaries vs XLK; if PCE hot >3.30% core, cyclicals may roll — manual cut at -7% still applies.
+
+### Risk Factors
+- Thu PCE binary (April core; hot >3.30% reanchors stagflation, pressures cyclicals)
+- Wed AMC tech cluster gaps XLK (held position, not XLI), but broad-tape risk-off would still hit XLI
+- Oil collapse continuation could shift narrative from disinflation tailwind to demand-destruction warning, hitting cyclicals
+- Consumer Confidence 10am could disappoint (rate-cut tailwind argument cuts both ways)
+
+### Decision
+
+**EXECUTE — BUY XLI 115 sh @ market, then 10% trail GTC.** Twelfth-session gate skip is over; all confirmation gates clear and the standing plan is unambiguous. Trade 1/3 of week; positions 3/6; deployment moves from ~40.8% to ~60.6% (still under target but inside the 75-85% band's lower neighborhood, much improved). Hold XLK and XLP unconditionally — no thesis breaks. No further buys today (preserve budget for Wed pre-tech-binary or Thu post-PCE).
