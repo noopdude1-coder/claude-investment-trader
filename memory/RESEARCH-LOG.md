@@ -1755,3 +1755,99 @@ Patience > activity, but eleven straight sessions at ~40% deployment is itself a
 ### Decision
 
 **EXECUTE — BUY XLI 115 sh @ market, then 10% trail GTC.** Twelfth-session gate skip is over; all confirmation gates clear and the standing plan is unambiguous. Trade 1/3 of week; positions 3/6; deployment moves from ~40.8% to ~60.6% (still under target but inside the 75-85% band's lower neighborhood, much improved). Hold XLK and XLP unconditionally — no thesis breaks. No further buys today (preserve budget for Wed pre-tech-binary or Thu post-PCE).
+
+## 2026-05-27 — Pre-market Research (Wed, Week 5, day 2 — Wed AMC tech binary, Thu PCE binary)
+
+### Account (live, pre-open)
+- Equity: **$101,821.68** | Settled cash: **$39,905.83** | Buying power $141,727.51 (info only — cash account, T+1; XLI's $19,993.90 spent Tue is settled today)
+- last_equity $101,515.65 (5/26 close) → Day P&L proxy +$306.03 (+0.30%) on the pre-open mark
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $186.91 (+0.96% vs $185.14 prev close), **unrealized +$1,958.58 (+9.84%)**, trail 10% GTC @ $167.40 (HWM $186.00 — current > HWM, broker will ratchet on next print)
+  - **XLI 115 sh** @ avg $173.86, current $175.08 (+0.45% vs $174.30 prev close), **unrealized +$140.02 (+0.70%)** (entry yesterday), trail 10% GTC @ $157.302 (HWM $174.78)
+  - **XLP 238 sh** @ avg $83.851513, current $83.67 (+0.05% vs $83.63 prev close), **unrealized −$43.20 (−0.22%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0 across all positions)
+- Trades this week: **1 / 3** (XLI Tue) — 2 buy slots open Wed-Fri
+- Deployed: **60.81%** ($61,915.85 / $101,821.68) — first full session in the 60%+ neighborhood, still ~14 pts below the 75-85% target band's lower edge
+
+### Market Context
+- **WTI:** **~$90.12/bbl, −4.01% d/d** (Trading Economics). Material continuation of the cooling trend (cracked below $95 Mon, now sub-$92). Disinflationary tailwind for staples and the rate-cut narrative; emerging two-edged read for cyclicals — supportive on margin tailwind, but a continued cascade signals demand-destruction risk that pressures XLI. Brent quote stale, no reliable read.
+- **S&P 500 futures (ESM26):** ~6,657.50 (+0.10%) overnight per Business Insider; June E-mini +0.61% Tue close per Barchart. Flat-to-slightly-firm into the cash open.
+- **VIX:** **~16.59 (5/25 close); May 2026 avg ~17.44.** Well below the 20 gate ceiling — no fear premium.
+- **SPY (pre-open):** quote wide/stale ($772.70 / $727.62 spread again, mid proxy $750.16). Treat as unreliable; rely on intraday mid once cash session opens.
+- **Today's catalysts (Wed 5/27):**
+  - **9am ET Richmond Fed Mfg Survey** (April had −22; consensus negative)
+  - **Powell / Fed-speaker watch** through the morning
+  - **AMC tonight: CRM, MRVL, SNOW, SNPS, DKS** — semis + software cluster, ≈70% of XLK weight. **Binary event for XLK** at Thursday's open.
+- **Earnings before open today:** BMO list not directly enumerated by Perplexity; nothing flagged as material to held tickers (XLK/XLI/XLP are sector ETFs — sensitivity is to the AMC tech cluster tonight, not BMO names today).
+- **Economic calendar week-ahead (rest of week):**
+  - **Thu 5/28:** **April PCE Price Index 8:30am ET (Fed's preferred inflation gauge — the binary macro event of the week);** Q1 GDP 2nd estimate 8:30am; weekly jobless claims; April New Home Sales 10am; AMC: DELL, COST, ADSK, MDB, BBY, DLTR, GAP (DELL/ADSK/MDB material to XLK).
+  - **Fri 5/29:** Chicago PMI, Final May Michigan Sentiment; light earnings; month-end rebalancing flows.
+- **Sector momentum YTD (Total Real Returns, 5/22 ref):** **Leading — XLE +33.93%, XLK +25.45%, XLI +11.04%, XLP +9.78%**. Improving — **XLU +6.97%**. Lagging — **XLB n/a, XLV −2.77%, XLF −4.68%**. Rotation framework (Investing.com): Leading quadrant XLP/XLI/XLB/XLE; Lagging XLK; Improving XLU. XLK YTD print is strong despite the rotation-framework "lagging" label (momentum vs RS terms — different lens).
+- **Live sector mid quotes (pre-open):** XLK $186.91 (current_price feed), XLI $175.08, XLP $83.67, XLU $44.13 (bid only), XLV $145.40/$153.62 (wide), XLB $49.59 (bid only), XLF $50.44/$53.66 (wide). Treat pre-open mid as unreliable.
+- **XLK news:** 52-wk high tagged 5/8 per Zacks; AI/Big-Tech-spend tailwind intact. Tonight's CRM/MRVL/SNOW/SNPS AMC = idiosyncratic Wed-night XLK binary. SSGA confirms sector mix: semis 47.4% + software ≈22% of XLK as of 5/22 → MRVL miss + CRM/SNOW miss = the worst-case Thu-open gap path.
+- **XLI news:** Fresh entry Tue 5/26 at $173.86; HWM already advanced to $174.78 → +0.45% open today. Thesis (AI-capex / data-center-build / electrification + cooling-oil margin tailwind + cyclical rotation) intact; oil at $90 supports the margin half.
+- **XLP news:** Defensive sleeve, no specific news; still flagged at all-time highs per Investing.com sector commentary. Thesis intact.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — do NOT add a 4th sector today.** Adding capital ahead of two consecutive binary events (Wed AMC tech earnings tonight + Thu 8:30am April PCE) is a poor R:R. Deployment at 60.8% is acceptable for one session; defer the next deploy to **Thu post-PCE (after 10am ET, once the print absorbs)** or **Fri** if the gate clears.
+
+**Watchlist for Thu-post-PCE or Fri deploy (4th sector candidate, ≤20% / $20.36k cap):**
+
+1. **XLU (Utilities) — primary candidate.**
+   - **Catalyst:** Improving quadrant in sector rotation; AI-power-demand thesis (datacenter electricity buildout) + rate-cut sensitivity (if PCE cools). Cooling-oil + dovish-PCE = best macro setup.
+   - **Entry:** market BUY only on a confirmed dovish PCE (core ≤3.10%) AND SPY green at 10am Thursday. Reference area $44-45 (pre-open).
+   - **Sizing:** ~440 sh × ~$45 = ~$19,800 (≤$20,364 cap at $101,822 equity).
+   - **Stop:** 10% trailing GTC immediately after fill; manual −7% cut at ~$41.85.
+   - **Target:** +15-20% (R:R ≥ 2:1 with the trail).
+
+2. **XLV (Health Care) — secondary candidate.**
+   - **Catalyst:** Deepest YTD laggard (−2.77%) of viable sectors; oversold value + defensive tilt. Best if PCE prints HOT (re-anchors defensive flow).
+   - **Entry:** only on PCE hot + clear XLV relative-strength turn; reference area ~$150 (wide pre-open quote).
+   - **Sizing:** ~130-135 sh × ~$150 = ~$19,500-19,700.
+   - **Stop / target:** 10% trail, +15-20% target.
+
+3. **XLB (Materials) — tertiary.**
+   - Leading quadrant per rotation framework, commodity-cycle. Less momentum than XLI; deploy only if XLU and XLV are both rejected.
+
+4. **XLF (Financials) — SKIP.** YTD −4.68%, still lagging.
+5. **XLE (Energy) — SKIP.** Sector exit gate still applies (2 failed Energy trades earlier in phase) + WTI down 4% today undermines a fresh long here.
+6. **Adding to XLK / XLP / XLI — PASS.** All at or near 20% cap.
+
+**Buy-Side Gate snapshot for any post-PCE 4th-sector deploy:**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 2/3 ≤ 3 ✓ (1 slot left even after deploy)
+- Cost ≤ 20% equity ($20,364 cap at $101,822) — must size at/under
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented (PCE outcome will be logged Thu pre-market) — TBD
+- Stock/ETF ✓
+
+### Risk Factors
+- **Wed AMC tech cluster (CRM/MRVL/SNOW/SNPS, ~70% of XLK exposure)** — broad miss-and-guide-down gaps XLK at Thu open. Manual −7% cut at $158.26 (entry $170.17); trail $167.40 → will be $168.22 on the XLK ratchet once today's $186.91 ticks past the broker's HWM. If XLK gaps below $158.26, market sell + cancel trail; if it gaps between $158.26 and trail, trail handles it.
+- **Thu 5/28 8:30am April PCE** — hot >3.30% core re-anchors stagflation, pressures cyclicals (XLI thesis weakens) and duration-sensitive XLK. Cool ≤3.10% core is the rate-cut tailwind (best for XLU / XLV). Last March print: 3.50% headline / 3.20% core.
+- **Oil cascade risk** — WTI down another 4% today to $90. Disinflationary at first, but a continued cascade signals demand destruction / global slowdown → cyclicals (XLI) and energy compress.
+- **XLP underwater** — first session in red on cost (−$43, −0.22%). Defensive sleeve thesis intact (low-beta dividend, sector at ATHs per Investing.com); trail $78.0255 sits ~6.4% below current — wide cushion. Do NOT cut. If it tags −7% manual at $77.98 it goes; otherwise hold.
+- **XLK at +9.84%** — closing in on the +15% tighten-trigger ($195.70). If today's +0.96% extends or AMC tech surprises to the upside Thu, +15% trigger is in range. Then trail tightens from 10% → 7%. Do NOT tighten manually yet — broker's HWM ratchet handles it on the +15% threshold per /midday routine.
+- **Capital drag** — 60.81% deployed vs 75-85% target. Two binaries this week make pushing to 75%+ before Thu 10am imprudent. Acceptable risk for one session.
+
+### Decision
+
+**HOLD all positions; NO new trades today.** Two consecutive binary events (Wed AMC tech tonight, Thu 8:30am PCE) make a fourth-sector deploy poor R:R until ≥10am Thursday. Trades this week stays 1/3; positions 3/6; deployment 60.8%.
+
+Action plan for the rest of week 5:
+1. **Today (Wed 5/27):** market-open routine — verify all three trail stops live (XLK f68c12ea / XLI 4e057726 / XLP aa46ecf2). XLK HWM ratchet expected on today's print > $186.00; new trail will be ~$168.22 (10% below today's HWM). NO new buys; NO manual stop changes unless −7% manual cut hit. Run /midday at ~12pm ET for thesis-check.
+2. **Tonight (post-AMC):** monitor CRM/MRVL/SNOW/SNPS prints in extended hours. Map to expected XLK gap at Thu open.
+3. **Thu 5/28 pre-market:** read PCE consensus, run scan, **do NOT place any orders before 8:30am ET print**. After 8:30am PCE + Q1 GDP:
+   - **Dovish PCE (core ≤3.10%) + SPY green at 10am:** consider XLU as 4th sector at market BUY + 10% trail. Trade 2/3 of week. Push deployment to ~80%.
+   - **In-line PCE (core 3.10-3.30%):** evaluate XLU/XLV on tape — borderline; default skip unless clean signal.
+   - **Hot PCE (>3.30% core):** SKIP 4th sector entirely. Monitor XLK for thesis-break (>3% intraday breakdown or close < $173 → review). Manual cut $158.26 still applies.
+4. **Fri 5/29:** if Thu skipped, last buy window. Month-end rebalance flows can distort the tape — only deploy on confirmed leadership.
+5. **Intraday triggers (today + rest of week):**
+   - XLK breaks $158.26 (−7% manual) → market sell, cancel trail.
+   - XLK > $195.70 (+15% on cost) → tighten trail to 7%.
+   - XLK > $204.20 (+20% on cost) → tighten trail to 5%.
+   - XLP breaks $77.98 (−7% manual) → market sell, cancel trail.
+   - XLI breaks $161.69 (−7% manual) → market sell, cancel trail.
+   - Any >3% intraday breakdown in XLK after Wed AMC reaction → thesis-break review at /midday.
+
+Patience > activity — second buy of the week earned on Thursday's print, not before. Default discipline beats a forced fourth-sector deploy ahead of two binaries.
