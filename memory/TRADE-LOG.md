@@ -226,6 +226,17 @@ No open positions.
 - Trades this week: 1/3. Positions: 3/6 (XLK, XLP, XLI).
 - Manual -7% cut level: $161.69.
 
+### May 27 — EOD Snapshot (Day 24, Wednesday)
+**Portfolio:** $101,674.03 | **Settled cash:** $39,905.83 | **Unsettled:** $0.00 | **Day P&L:** +$158.38 (+0.16%) | **Phase P&L:** +$1,674.03 (+1.67%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLI    | 115    | $173.86 | $174.4959 | +0.11% | +$73.13 (+0.37%) | $157.374 (trail 10%, HWM $174.86) |
+| XLK    | 117    | $170.17 | $184.45 | -0.37% | +$1,670.76 (+8.39%) | $167.6385 (trail 10%, HWM $186.265) |
+| XLP    | 238    | $83.851513 | $84.54 | +1.09% | +$163.86 (+0.82%) | $78.0255 (trail 10%, HWM $86.695) |
+
+**Notes:** Quiet grind-higher day — bot +0.16% on Alpaca's last_equity ($101,515.65 → $101,674.03, +$158.38), phase cumulative ekes to a fresh high $1,674.03 (+1.67%), now four consecutive green prints (Fri/Tue/Wed; Mon flat). Sleeve mix flipped today vs yesterday: **XLP** led +1.09% to $84.54 (+0.82% on cost, +$163.86) — defensives bid back after Tuesday's risk-on rotation hit; no new HWM (still $86.695 from May 19), stop unchanged $78.0255. **XLI** +0.11% to $174.4959 (+0.37% on cost, +$73.13) — fresh HWM $174.86 (+$0.08 vs yesterday's $174.78) edged trail stop $157.302 → $157.374. **XLK** -0.37% to $184.45 (+8.39% on cost, +$1,670.76) — mild give-back from Tuesday's $185.20 close but still posted a fresh HWM $186.265 (+$0.265 vs yesterday's $186.00, intraday spike) advancing trail stop $167.40 → $167.6385; +8.39% sits ~6.6 pts below the +15% tighten-to-7% trigger ($195.70) — no action. Combined positions $61,768.20 market value (+$1,907.75 vs $59,860.45 cost basis); deployment 60.75% (-0.01 pts vs yesterday's 60.7% — flat). SPY post-close quote one-sided again (ap=$0 stale / bp=$750.39) — using bid as proxy close; vs yesterday's $750.16 mid, SPY essentially flat (+0.03%); bot +0.16% beat the SPY proxy by ~13 bps today (first daily SPY beat of the week). Cumulative from Apr 26 baseline: bot +1.67%, SPY ~+5.10% on bid proxy ($714.005 → $750.39) — SPY ahead by ~343 bps, gap narrowed ~11 bps vs yesterday's ~354 bps as bot caught a partial tick on flat tape with 60.7% deployed. 0 trades today (no buy gate signal, pre-market scan flagged no clear-leader breakout to justify a fourth sleeve), **1 trade this week (cap 3/wk — XLI Tue; 2 buy slots remain Thu/Fri)**. Settled cash $39,905.83 unchanged; buying power $141,579.86 = 2x echo (IRA spends settled only). All three positions still locked by trail stops (qty_available=0 across XLI/XLK/XLP — held in GTC trails). Positions 3/6, capital ~60.75% deployed — second consecutive session in the deployment band but still ~14 pts shy of the 75-85% target's lower edge; pushing to one more sector at ≤20% ($20k) would clear it. Tomorrow (Thu May 28): pre-market scan — XLF/XLV the standing relative-strength candidates for a fourth deploy; only fire if a clear leader clears the buy gate (the bar is higher now that XLI is on day 2 of seasoning). XLK held unconditionally — fresh HWM $186.265 advanced trail today; no tighten action yet (+8.39%, ~6.6 pts from +15% trigger). XLP held unconditionally — defensive recovery print today, thesis intact. XLI held — day 2 of seasoning, +0.37%, manual -7% cut at $161.69.
+
 ### May 26 — EOD Snapshot (Day 23, Tuesday)
 **Portfolio:** $101,534.33 | **Settled cash:** $39,905.83 | **Unsettled:** $0.00 | **Day P&L:** +$346.57 (+0.34%) | **Phase P&L:** +$1,534.33 (+1.53%)
 
