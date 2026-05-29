@@ -1945,3 +1945,94 @@ Patience > activity — second buy of the week earned on Thursday's print, not b
 6. **Fri 5/29:** last buy window of the week. Month-end rebalancing flows can distort the tape — only deploy on confirmed leadership. If today's PCE skips deploy, Fri is the final opportunity to push deployment toward target.
 
 Patience > activity. The bot has held the line two-plus weeks under similar pressure; one more session of HOLD into PCE consensus AT the hot threshold is the right answer. The second buy slot of the week is earned by the print, not assumed by the calendar.
+
+## 2026-05-29 — Pre-market Research (Fri, Week 5, day 4 — post-PCE / month-end Friday)
+
+### Account (live, pre-open)
+- Equity: **$101,969.89** (fresh phase high) | Settled cash: **$39,905.83** | Buying power $141,875.72 (info only — cash account, T+1)
+- last_equity $101,848.62 (5/28 close) → Day P&L proxy +$121.27 (+0.12%) on pre-open marks
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $189.10 (+1.20% vs $186.85 prev close), **unrealized +$2,214.81 (+11.12%)**, trail 10% GTC @ $168.822 (HWM $187.58 — fresh HWM likely ratchets today on $189.10)
+  - **XLI 115 sh** @ avg $173.86, current $173.00 (−0.46% vs $173.80 prev close), **unrealized −$98.90 (−0.50%)**, trail 10% GTC @ $157.374 (HWM $174.86)
+  - **XLP 238 sh** @ avg $83.851513, current $84.22 (−0.25% vs $84.43 prev close), **unrealized +$87.70 (+0.44%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0 across all positions — locked by trails)
+- Trades this week: **1 / 3** (XLI Tue) — 2 buy slots remaining (last day Fri)
+- Deployed: **60.87%** ($62,064.06 / $101,969.89) — fifth consecutive session in the 60%+ band; ~14 pts shy of the 75-85% target's lower edge
+
+### Market Context
+- **WTI:** noisy print — FRED last observation $97.63 (5/26, stale) vs CME WTI futures CLN6 last $90.39 +1.93% (per CME quote May 27). Consistent with yesterday's $90.49 bounce off the prior collapse. **Structural cooling intact (off $95 line); intraday noise.**
+- **S&P 500 futures (ESM26):** mixed reads — Barchart showing **+0.36%** on AI optimism into Fri open; Markets Insider shows a +0.10% premarket tick. Net: **modestly green premarket; risk-on bias after Thursday's PCE absorption was constructive (bot +0.23%, XLK +1.50%).**
+- **VIX:** **16.29** (5/28 close, −4.23% d/d). Well below the 20 gate ceiling — fear premium drained post-PCE.
+- **SPY (pre-open):** quote stale/wide again all phase — no reliable read until cash session opens.
+- **Today's catalysts (Fri 5/29):** **Per Schwab calendar: "May 29: No major data or earnings expected."** Confirmed quiet day:
+  - **No BMO earnings of note** (Nasdaq calendar shows no reports for the date).
+  - **No major macro releases** — PCE already absorbed Thu (Core +3.3% in-line/hot per BEA); next PCE is June 25.
+  - **Month-end rebalancing flows** can distort the tape late-session (especially the close).
+  - **Tariff/geopolitical headlines** the only wildcard — Schwab cited Iran skirmishes as recent volatility driver.
+- **Thu 5/28 PCE outcome:** Core PCE **+3.3% y/y** for April (vs March +3.2%, consensus +3.3%) — **at the bot's "hot" 3.30% threshold but not above.** Standing plan said skip 4th sector at this print. Market digested it constructively (bot +0.23%, XLK ripped +1.50% to fresh HWM $187.58).
+- **Thu AMC tech cluster (DELL/ADSK/MDB):** Mixed; XLK premarket +1.20% suggests **net positive read-through** to today's open (XLK confirming the breakout). COST/DLTR/BBY also reported AMC; no clear XLP signal in the search results — XLP −0.25% pre-open is in-line noise.
+- **Sector momentum YTD (Total Real Returns / Investing.com hybrid):**
+  - **Leading (RS):** XLP, XLI, XLB, XLE
+  - **Improving:** XLU
+  - **Lagging:** XLK, XLF
+  - **Weakening:** XLV
+  - **YTD return rank:** XLK ~+28.3%, XLI (held in log ~+12.7%), XLP +9.5%, XLU +6.5%, XLV −3.5%, XLF −5.6%
+  - **Two-lens disagreement on XLK persists** — RS quadrant lagging (it's been overbought leadership), absolute return leading. Bot is correctly long XLK + XLI + XLP.
+- **Held-ticker news:**
+  - **XLK:** Fresh leg up post-PCE; $189.10 pre-open vs $186.85 close = +1.20%. If today's price > $187.58 HWM during cash session, trail stop ratchets to ~$170.19 (10% below new HWM = $189.10 × 0.9). +11.12% on cost, ~$6.60 below the +15% tighten-to-7% trigger ($195.70). Top holdings concentrated semis 47% + software 22% = 70%; AI/datacenter thesis intact.
+  - **XLI:** Day 4 of seasoning, −0.50% on cost (essentially flat); −0.46% pre-open. No new HWM. Manual −7% cut at $161.69, well below current. Cyclical/AI-capex/cooling-oil thesis intact; today's intraday WTI bounce blunts margin tailwind by one session.
+  - **XLP:** Defensive sleeve +0.44% on cost; pre-open −0.25%. COST (~9% of XLP weight) reported AMC last night — search results lacked clean signal. Trail $78.0255 sits ~7.4% below current $84.22, well-cushioned.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — no 4th-sector deploy today.** Two layered reasons:
+
+1. **PCE printed at the bot's 3.30% "hot" threshold yesterday** — the standing-plan condition for SKIP triggered. Market digested constructively but the rule said skip, and the bot followed it.
+2. **Friday before month-end with no catalysts, into a tape that just ripped XLK to fresh highs** — adding a fourth sector NOW means chasing strength on a day with rebalancing-flow distortion risk. Schwab calendar explicitly: "no major data or earnings."
+
+Trades this week stays 1/3; positions 3/6; deployment 60.87%. The 75-85% target will roll into Monday week-6 fresh.
+
+**Watchlist context for next week (not for today):**
+
+1. **XLU (Utilities) — primary 4th-sector candidate next week.** Improving quadrant, AI-power-demand thesis, rate-cut sensitivity. Reference $44-45 area. Sizing ~450 sh × ~$45 = ~$20,250 (≤$20,394 cap at $101,970 equity). Wait for a clean Monday print + SPY confirmation.
+2. **XLB (Materials) — tertiary.** Leading quadrant per RS framework. Less momentum than XLU.
+3. **XLF — SKIP** (YTD −5.63%, lagging). **XLE — SKIP** (sector exit gate: 2 prior failed trades). **XLV — SKIP** (weakening quadrant). **Add to existing XLK/XLP/XLI — PASS** (all at/near 20% cap).
+
+**Buy-Side Gate snapshot for any 4th-sector deploy (today or next):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 2/3 ≤ 3 ✓ (if today)
+- Cost ≤ 20% equity ($20,394 cap at $101,970)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TODAY: weak** ("no catalysts," chasing strength). Wait for Monday.
+- Stock/ETF ✓
+
+### Risk Factors
+- **Month-end rebalancing flows** (Fri close) can produce outsized late-session moves that don't repeat Monday — avoid chasing into the close.
+- **XLK at +11.12% on cost, fresh phase high** — needs ~$195.70 for the +15% tighten-trigger (7% trail). Currently ~$6.60 away. If today's print goes >$195.70 → tighten manually at /midday review. **Trail HWM advances automatically on any print > $187.58 in cash session.** Manual −7% cut at $158.26 still applies (well below current).
+- **XLI at −0.50% on cost** — first session red on cost since the +0.29% Tue print. Day 4 of seasoning; cyclical thesis intact (multi-week cooling-oil trend, AI-capex). No action unless −7% manual at $161.69 or thesis break.
+- **XLP −0.25% pre-open** — post-COST-AMC read unclear. Trail $78.0255 / manual cut $77.98 well below current; defensive thesis (low-beta dividend) intact.
+- **Tariff/Iran headlines** are the wildcard on a no-catalyst day — single tweet can move WTI ±3% which feeds into XLI cyclical thesis.
+- **Capital drag continues** — 60.87% deployed vs 75-85% target. Acceptable into the weekend; week-6 Monday plan is XLU at clean break.
+- **SPY proxy stale all phase** — can't reliably compute intraday beat vs SPY without clean mid quote; daily Sharpe calc deferred to weekly review (today's secondary workflow).
+- **Sixth no-trade Fri in pattern** — the gate has skipped a Fri deploy four of the prior five weeks. Pattern is data — feeds the weekly-review gate-threshold scrutiny.
+
+### Decision
+
+**HOLD all three positions; NO new trades today.** Trades this week stays 1/3; positions 3/6; deployment 60.87%. Friday weekly-review workflow runs this afternoon — Sharpe vs SPY, max DD, vs RSP, process metrics.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $168.822 / XLI $157.374 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; XLK HWM ratchet expected if cash print > $187.58 (likely on the $189.10 pre-open). New trail will be ~$170.19 (10% below new HWM).
+3. **/midday (~12pm ET) thesis check:** no buy signal expected; review intraday for stop triggers only.
+4. **Intraday triggers:**
+   - XLK breaks $158.26 (−7% manual) → market sell, cancel trail.
+   - XLK > $195.70 (+15% on cost) → tighten trail to 7%.
+   - XLK > $204.20 (+20% on cost) → tighten trail to 5%.
+   - XLI breaks $161.69 (−7% manual) → market sell, cancel trail.
+   - XLP breaks $77.98 (−7% manual) → market sell, cancel trail.
+   - Any >3% intraday breakdown in XLK or XLI → thesis review at /midday.
+5. **Late session (3:30-4:00pm):** ignore month-end rebalancing noise; do NOT chase any late-day move into the close.
+6. **EOD:** run daily-summary + weekly-review workflows. Weekly review must address: (a) two-plus weeks of Fri deploys skipped, (b) bot −319 bps vs SPY (Apr 26 baseline) on stale mid-proxy — is the gap real or a stale-quote artifact?, (c) is the buy-gate calibration too strict given third-sector entry only fired on day 22 of phase?
+
+Patience > activity. Closing week 5 with one new buy (XLI Tue) and three sleeves working (XLK +11.12% leadership, XLP defensive +0.44%, XLI flat day-4) is a respectable outcome. The fourth-sector deploy waits for a Monday clean print — not a Friday chase into rebalancing-flow noise on a no-catalyst tape.
