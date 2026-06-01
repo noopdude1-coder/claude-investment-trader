@@ -2036,3 +2036,109 @@ Action plan for today:
 6. **EOD:** run daily-summary + weekly-review workflows. Weekly review must address: (a) two-plus weeks of Fri deploys skipped, (b) bot −319 bps vs SPY (Apr 26 baseline) on stale mid-proxy — is the gap real or a stale-quote artifact?, (c) is the buy-gate calibration too strict given third-sector entry only fired on day 22 of phase?
 
 Patience > activity. Closing week 5 with one new buy (XLI Tue) and three sleeves working (XLK +11.12% leadership, XLP defensive +0.44%, XLI flat day-4) is a respectable outcome. The fourth-sector deploy waits for a Monday clean print — not a Friday chase into rebalancing-flow noise on a no-catalyst tape.
+
+## 2026-06-01 — Pre-market Research (Mon, Week 6, day 1 — week reset / ISM PMI Mon)
+
+### Account (live, pre-open)
+- Equity: **$102,150.78** (fresh phase high) | Settled cash: **$39,905.83** | Buying power $142,056.61 (info only — cash account, T+1)
+- last_equity $101,897.70 (5/29 close) → Day P&L proxy +$253.08 (+0.25%) on pre-open marks
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $193.40 (+1.25% vs $191.02 prev close), **unrealized +$2,717.91 (+13.65%)**, trail 10% GTC @ $172.467 (HWM $191.63 — fresh HWM likely on today's $193.40 print → trail ratchets to ~$174.06)
+  - **XLI 115 sh** @ avg $173.86, current $172.93 (-0.12% vs $173.13 prev close), **unrealized -$106.95 (-0.54%)**, trail 10% GTC @ $157.374 (HWM $174.86)
+  - **XLP 238 sh** @ avg $83.851513, current $82.90 (-0.01% vs $82.91 prev close), **unrealized -$226.46 (-1.14%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0 across all positions — locked by trails)
+- Trades this week: **0 / 3** (week reset Mon — full slate Mon–Fri)
+- Deployed: **60.93%** ($62,244.95 / $102,150.78) — sixth consecutive session in 60%+ band; ~14 pts shy of 75-85% target's lower edge
+
+### Market Context
+- **WTI:** ~$89.75/bbl spot (per twelvedata most recent close); WIM26 futures noted retreating after US–Iran tentative thaw chatter. **Structural cooling intact (off the $95 line); supportive of XLI margin tailwind into Mon open.**
+- **Brent:** ~$106/bbl (EIA proj range, no clean live quote).
+- **S&P 500 futures (ESM26):** ~7,590 area, **modestly green / near-flat premarket** (Markets Insider −0.07%, Barchart commentary up small). Constructive after Fri rip.
+- **VIX:** **15.74** (5/28 FRED close; next print today). Well below the 20 gate ceiling — fear premium drained.
+- **SPY (pre-open):** quote stale/wide all phase — broad-tape read deferred to cash open.
+- **Today's catalysts (Mon 6/1):**
+  - **🔴 ISM Manufacturing PMI 10:00am ET** — consensus 53.0–53.7 vs prior 52.7. **THE binary of the day.** Hot print (>53.5) confirms cyclical/AI-capex thesis (good for XLI/XLK); cool (<52.0) defensive bid (good for XLP/XLU); in-line muddies.
+  - **HPE earnings AMC** — minor read-through to XLK; XLK weight modest.
+  - **No major BMO earnings of note** (Nasdaq calendar empty; some calendars list HPE AMC only).
+  - **Seasonal tailwind:** SPY positive 9 of last 10 Jun-1→Jul-31 windows ("summer melt-up" setup); avg June return +0.6%, 64% hit rate (Equity Clock).
+- **Sector momentum YTD (TotalRealReturns / SSGA tracker hybrid, 5/28):**
+  - **Leaders:** XLK ~+28-33%, XLE ~+27%, XLI ~+12%
+  - **Defensives green:** XLP +7-9%, XLV +7%, XLU ~+5%
+  - **Laggard:** XLF −3 to −5% (still in exit zone)
+  - **Two-lens read still applies:** XLK is the absolute-return leader but the RS-quadrant framework flags it as "overbought leadership"; XLP defensive thesis intact; XLU "improving quadrant" the standing 4th-sector candidate.
+- **Held-ticker news:**
+  - **XLK:** $193.40 pre-open vs $191.02 close = +1.25%. **+13.65% on cost (+$2,717.91)** — closing in on the +15% tighten-to-7% trigger ($195.70 = entry $170.17 × 1.15); only **$2.30 / +1.19% away.** Fresh HWM expected today (>$191.63) → trail ratchets to ~10% below new HWM. Top holdings 47% semis + 22% software = 70% AI/datacenter; thesis intact. Manual −7% cut $158.26 well below current.
+  - **XLI:** −0.54% on cost; day 5 of seasoning. Cooling-oil + AI-capex thesis intact. Manual −7% cut $161.69 well below current. ISM PMI hot read would be a direct tailwind.
+  - **XLP:** −1.14% on cost; first time underwater post-COST AMC and Fri risk-on rotation. Defensive thesis (low-beta, dividend) intact. Trail $78.0255 sits ~5.9% below current — cushion thinning but still comfortable. Manual −7% cut $77.98 also well below.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — no orders before 10am ET ISM PMI absorption.** Two reasons:
+
+1. **ISM PMI at 10am is a binary regime check** — same playbook as PCE-day discipline: do NOT trade through the print window. Wait for absorption then re-assess at 10:30am.
+2. **XLK is +13.65% on cost, $2.30 from the +15% tighten-trigger** — the action item today is monitoring an EXISTING position for a potential trail-tighten, NOT chasing a fourth sleeve into a binary print.
+
+Trades this week 0/3; positions 3/6; deployment 60.93%. Full Mon-Fri buy slate.
+
+**Conditional watchlist for post-ISM 4th-sector deploy (≤20% / $20.43k cap at current equity):**
+
+1. **XLU (Utilities) — primary candidate IF cool ISM (<52.0) AND SPY green at 10:30am.**
+   - **Trigger:** ISM <52.0 (defensive bid) AND SPY green AND XLU relative-strength turn.
+   - **Catalyst:** Improving quadrant per RS framework; AI-power-demand thesis; rate-cut sensitivity if ISM cools.
+   - **Sizing:** ~450 sh × ~$45 = ~$20,250 (≤$20,430 cap at $102,151 equity).
+   - **Stop:** 10% trailing GTC immediately after fill; manual −7% cut at ~$41.85.
+   - **Target:** +15-20% (R:R ≥ 2:1 with the trail).
+
+2. **Add to XLI via XLB (Materials) sister-cyclical IF hot ISM (>53.5) AND XLI breakout.**
+   - **Trigger:** ISM >53.5 (cyclical confirmation) AND XLI >$175 (new HWM) AND SPY green.
+   - **Catalyst:** Leading quadrant per RS; hot-PMI confirms reflation/AI-capex.
+   - **Sizing:** ~390 sh × ~$52 ≈ $20,280 (≤$20,430 cap).
+   - **Stop:** 10% trail. Target: +15-20%.
+
+3. **XLV (Health Care) — tertiary.** Weakening quadrant; only fire on a clean oversold-bounce signal post-ISM. Lower priority.
+
+4. **XLF — SKIP** (YTD ~−3 to −5%, lagging). **XLE — SKIP** (sector exit gate, 2 prior failed Energy trades). **Add to XLK / XLP / XLI — PASS** (at/near 20% cap).
+
+**Buy-Side Gate snapshot for any post-ISM 4th-sector deploy:**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓ (2 slots remain Tue–Fri)
+- Cost ≤ 20% equity ($20,430 cap at $102,151)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TBD pending 10am print**
+- Stock/ETF ✓
+
+### Risk Factors
+- **ISM PMI 10am ET = binary regime test.** Hot >53.5 = cyclical/AI-capex confirmation (XLI/XLK tailwind); in-line 52.5–53.5 = no-edge muddle (default skip); cool <52.0 = stagflation whiff, defensive bid (XLP/XLU tailwind, XLI thesis weakened). **No orders during 9:30–10:15am window.**
+- **🔴 XLK approaching +15% tighten-trigger.** Current $193.40 vs trigger $195.70 = $2.30 / +1.19% away. If today's close >$195.70 → manually tighten trail from 10% to 7% (cancel current trail, place new 7% trail GTC). This is the most actionable rule-trigger of the day; flag for /midday review.
+- **XLK auto-ratchet today:** any cash-session print >$191.63 advances HWM and ratchets trail up automatically; expect new trail around $174.06 if $193.40 holds.
+- **XLP cushion thinning:** trail $78.0255 sits ~5.9% below current $82.90 (vs prior week's 7-8% cushion). Defensive sleeve under rotation pressure Fri; manual −7% cut $77.98 effectively co-located with trail. No action unless trail fires.
+- **WTI bounce risk:** Iran-thaw chatter pressuring crude (good for XLI/staples cost line). Single tweet could reverse the cooling thesis ±3% intraday.
+- **Capital drag continues:** 60.93% deployed vs 75-85% target. Acceptable into the binary; post-10am is the deploy window IF the print delivers a clean signal.
+- **Month-start positioning flows** (1st of month) can produce outsized early-session moves on inflows; don't conflate with conviction signals.
+- **SPY proxy stale all phase** — daily Sharpe comparison deferred to Fri weekly review.
+
+### Decision
+
+**HOLD all three positions; NO new trades before 10:00am ET.** Trades this week stays 0/3; positions 3/6; deployment 60.93%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $172.467 / XLI $157.374 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; XLK HWM auto-ratchet expected if cash print > $191.63 (likely on the $193.40 pre-open).
+3. **9:30–10:15am: monitor-only window.** NO orders during ISM print volatility.
+4. **10:30am ET decision point:**
+   - **Hot ISM (>53.5) + SPY green + XLI breakout >$175:** consider XLB deploy ~390 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **Cool ISM (<52.0) + SPY green + XLU RS turn:** consider XLU deploy ~450 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **In-line ISM (52.5–53.5):** default SKIP — no edge; revisit at /midday.
+5. **🔴 XLK tighten-trigger watch (CRITICAL):**
+   - If XLK closes >$195.70 today → **manually tighten trail to 7%** (cancel order f68c12ea, replace with trail_percent=7 GTC). Currently $2.30 away.
+   - If XLK closes >$204.20 (+20%) → tighten to 5%.
+6. **Intraday triggers (all positions):**
+   - XLK breaks $158.26 (−7% manual) → market sell, cancel trail. (Won't happen; current $193.40.)
+   - XLI breaks $161.69 (−7% manual) → market sell, cancel trail.
+   - XLP breaks $77.98 (−7% manual) → market sell, cancel trail. (Trail $78.0255 above the manual line — trail fires first.)
+   - Any >3% intraday breakdown in XLK or XLI on ISM reaction → thesis review at /midday.
+7. **/midday (~12pm ET) thesis check:** primary task today = XLK tighten-trigger evaluation; secondary = post-ISM deploy decision if not already actioned at 10:30am.
+8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity.
+
+Patience > activity, but **today has two specific actionable triggers** layered on the standing HOLD: (a) XLK tighten-to-7% if close >$195.70, (b) 4th-sector deploy if ISM delivers a clean directional signal at 10am. Both are rule-driven, neither is discretionary — execute mechanically per the playbook.
