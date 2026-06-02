@@ -2142,3 +2142,106 @@ Action plan for today:
 8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity.
 
 Patience > activity, but **today has two specific actionable triggers** layered on the standing HOLD: (a) XLK tighten-to-7% if close >$195.70, (b) 4th-sector deploy if ISM delivers a clean directional signal at 10am. Both are rule-driven, neither is discretionary — execute mechanically per the playbook.
+
+## 2026-06-02 — Pre-market Research (Tue, Week 6, day 2 — JOLTS Tue, jobs Fri)
+
+### Account (live, pre-open)
+- Equity: **$102,103.27** | Settled cash: **$39,905.83** | Buying power $142,009.10 (info only — cash account, T+1)
+- last_equity $102,158.89 → pre-open marks -$55.62 (-0.05%) on stale quotes
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $195.5694 (-0.10% vs $195.76 prev close), **unrealized +$2,971.73 (+14.93%)**, trail 7% GTC @ $182.7449 (HWM $196.4999, set Mon midday)
+  - **XLI 115 sh** @ avg $173.86, current $172.40 (flat vs $172.40 prev close), **unrealized -$167.90 (-0.84%)**, trail 10% GTC @ $157.374 (HWM $174.86)
+  - **XLP 238 sh** @ avg $83.851513, current $81.89 (-0.17% vs $82.03 prev close), **unrealized -$466.84 (-2.34%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0 — all positions locked by trails)
+- Trades this week: **0 / 3** (full slate Tue-Fri)
+- Deployed: **60.92%** ($62,197.44 / $102,103.27) — seventh consecutive session 60%+; ~14 pts shy of 75-85% target lower edge
+
+### Market Context
+- **WTI:** ~$91/bbl (cooling-oil thesis intact, off the $95 line). **Brent:** ~$103-106/bbl. Supportive for XLI margins / XLP cost line.
+- **S&P 500 futures (ESM26):** ~7,583-7,595, **modestly red premarket** (-0.24% per Markets Insider snapshot). Mild giveback after Mon's +0.31% mid proxy.
+- **VIX:** futures ~17.95, May close 16.29 (FRED). Well below 20 gate ceiling — fear premium drained.
+- **SPY (pre-open):** wide/stale all phase — broad-tape read deferred to cash open.
+- **Today's catalysts (Tue 6/2):**
+  - **🔴 JOLTS (Apr) 10:00am ET** — Job Openings + Labor Turnover Survey. Read-through to Fri jobs print. Hot openings = labor mkt tight (rate-cut deferred, defensive bid); cool = labor cooling (cyclical/AI-capex bid).
+  - **MDT (Medtronic) BMO** — health-care single name; minimal index read-through.
+  - **No FOMC, no CPI today.** CPI is Wed Jun 10; jobs report Fri Jun 5; FOMC not in the next 2 weeks.
+- **Sector momentum YTD (TotalRealReturns 5/28):**
+  - **Leaders:** XLK ~+32.85%, XLV ~+14.94%, XLI ~+11.92%
+  - **Defensives:** XLP ~+7.33%, XLU ~+4.78%
+  - **Laggard:** XLF still negative YTD
+  - Mon ISM PMI absorbed in line; no clean directional signal triggered a 4th-sector deploy.
+- **Held-ticker reads:**
+  - **XLK:** $195.57 pre-open vs $195.76 close = -0.10%. **+14.93% on cost (+$2,971.73)** — sits ~$0.13 below +15% tighten trigger ($195.6955); trail already at 7% from Mon midday action. Next trigger = +20% on cost = $204.20 → tighten to 5%. Top-holdings AI/datacenter thesis (47% semis + 23% software) intact.
+  - **XLI:** -0.84% on cost; day 6 of seasoning. WTI cooling + AI-capex thesis intact. Manual -7% cut $161.69 well below current $172.40.
+  - **XLP:** -2.34% on cost; defensive sleeve still under rotation pressure. Trail $78.0255 sits ~4.7% below current $81.89 (cushion thinning vs prior 6-8% range). Manual -7% cut $77.98 essentially co-located with trail.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — no orders before 10:00am ET JOLTS absorption.** Three reasons:
+
+1. **JOLTS at 10am is a binary regime check** for the Fri jobs setup — do NOT trade through the print window.
+2. **XLK is +14.93%, $0.13 from the +20% next-trigger path** — action item today is monitoring an EXISTING position for the +20% tighten ($204.20), NOT chasing a 4th sleeve into a binary print.
+3. **Mon ISM PMI was in-line — no breakout signal** for the standing XLU/XLB 4th-sector deploy. Bar remains: clean directional catalyst + sector RS confirmation.
+
+Trades this week 0/3; positions 3/6; deployment 60.92%. Full Tue-Fri buy slate.
+
+**Conditional watchlist for post-JOLTS 4th-sector deploy (≤20% / $20.42k cap at current equity):**
+
+1. **XLU (Utilities) — primary candidate IF cool JOLTS (<7.0M openings) AND SPY green at 10:30am.**
+   - **Trigger:** Cool JOLTS (labor softening = rate-cut bid) AND SPY green AND XLU RS turn.
+   - **Catalyst:** Improving quadrant per RS framework; AI-power-demand thesis; rate-cut sensitivity.
+   - **Sizing:** ~450 sh × ~$45 = ~$20,250 (≤$20,420 cap at $102,103 equity).
+   - **Stop:** 10% trailing GTC immediately after fill; manual -7% cut at ~$41.85.
+   - **Target:** +15-20% (R:R ≥ 2:1 with the trail).
+
+2. **XLB (Materials) — secondary IF hot JOLTS (>7.5M) AND XLI breakout >$175.**
+   - **Trigger:** Hot JOLTS (labor tight = cyclical/reflation bid) AND XLI new HWM AND SPY green.
+   - **Catalyst:** Leading quadrant per RS; hot openings confirms reflation/AI-capex.
+   - **Sizing:** ~390 sh × ~$52 ≈ $20,280.
+   - **Stop:** 10% trail. Target: +15-20%.
+
+3. **XLF — SKIP** (YTD still negative, lagging). **XLE — SKIP** (sector exit gate, 2 prior failed Energy trades). **XLV — SKIP** (weakening quadrant, MDT-day single-name noise). **Add to XLK/XLP/XLI — PASS** (all at/near 20% cap).
+
+**Buy-Side Gate snapshot for any post-JOLTS 4th-sector deploy:**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓ (2 slots remain Wed-Fri)
+- Cost ≤ 20% equity ($20,420 cap at $102,103)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TBD pending 10am print**
+- Stock/ETF ✓
+
+### Risk Factors
+- **JOLTS 10am = binary regime test for Fri jobs.** Hot >7.5M = cyclical/reflation bid (XLI/XLB tailwind); in-line 7.0-7.5M = no-edge muddle (default skip); cool <7.0M = rate-cut bid, defensives & utilities catch (XLP/XLU). **No orders during 9:30-10:15am window.**
+- **🔴 XLK at +14.93% on cost, $0.13 below the +15% line.** Trail already at 7% from Mon midday (stop $182.7449, HWM $196.4999). **Next trigger = +20% on cost = $204.20 → tighten to 5%.** Currently $8.63 / +4.41% away. Watch for ratchet at /midday if XLK prints new HWM today.
+- **XLK auto-ratchet:** any cash-session print >$196.4999 advances HWM and ratchets 7% trail up automatically (new stop ~$182.7449+).
+- **XLP cushion thinning:** trail $78.0255 sits ~4.7% below current $81.89 (vs prior week's 5.6-8% range). Defensive sleeve under sustained rotation pressure. If -2.34% widens past -4% on consecutive sessions or breaks $81.50, reassess thesis at /midday.
+- **WTI/Iran headlines wildcard:** single tweet could reverse cooling-oil ±3%; feeds XLI cyclical thesis & XLP cost line.
+- **Capital drag continues:** 60.92% deployed vs 75-85% target — sixth straight session in 60% band. Acceptable into JOLTS binary; post-10am is the deploy window IF clean signal.
+- **Month-start positioning flows already absorbed Mon** — Tue is the "real" week-1 tape.
+- **SPY proxy stale all phase** — daily Sharpe comparison deferred to Fri weekly review.
+
+### Decision
+
+**HOLD all three positions; NO new trades before 10:00am ET.** Trades this week stays 0/3; positions 3/6; deployment 60.92%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $182.7449 / XLI $157.374 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; XLK HWM ratchet possible if cash print > $196.4999.
+3. **9:30-10:15am: monitor-only window.** NO orders during JOLTS print volatility.
+4. **10:30am ET decision point:**
+   - **Cool JOLTS (<7.0M) + SPY green + XLU RS turn:** consider XLU deploy ~450 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **Hot JOLTS (>7.5M) + SPY green + XLI breakout >$175:** consider XLB deploy ~390 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **In-line JOLTS (7.0-7.5M):** default SKIP — no edge; revisit at /midday.
+5. **🔴 XLK tighten-trigger watch:**
+   - +15% trigger already actioned Mon (trail 10% → 7%).
+   - **Next: if XLK trades >$204.20 (+20%) intraday → tighten trail to 5%** (cancel order b3757bfc, replace with trail_percent=5 GTC). Currently $8.63 away.
+6. **Intraday triggers (all positions):**
+   - XLK breaks $158.26 (-7% manual) → market sell, cancel trail. (Won't happen; current $195.57.)
+   - XLI breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $77.98 (-7% manual) → market sell, cancel trail. (Trail $78.0255 above the manual line — trail fires first.)
+   - Any >3% intraday breakdown in XLK or XLI on JOLTS reaction → thesis review at /midday.
+7. **/midday (~12pm ET) thesis check:** primary = post-JOLTS 4th-sector deploy decision if not actioned at 10:30am; secondary = XLP cushion check (-2.34% → cut at -4% on consecutive sessions).
+8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity.
+
+Patience > activity. Today's two rule-driven action items: (a) 4th-sector deploy IF JOLTS delivers a clean directional signal AND a candidate clears the gate, (b) XLK tighten-to-5% IF intraday print >$204.20. Both mechanical, neither discretionary.
