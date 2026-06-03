@@ -2245,3 +2245,107 @@ Action plan for today:
 8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity.
 
 Patience > activity. Today's two rule-driven action items: (a) 4th-sector deploy IF JOLTS delivers a clean directional signal AND a candidate clears the gate, (b) XLK tighten-to-5% IF intraday print >$204.20. Both mechanical, neither discretionary.
+
+## 2026-06-03 — Pre-market Research (Wed, Week 6, day 3 — ADP Wed, ISM Svcs Wed, jobs Fri)
+
+### Account (live, pre-open)
+- Equity: **$102,514.83** | Settled cash: **$39,905.83** | Buying power $142,420.66 (info only — cash account, T+1)
+- last_equity $102,603.79 → pre-open marks -$88.96 (-0.09%) on stale quotes
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $198.50 (flat vs $198.21 prev close, +0.15%), **unrealized +$3,314.61 (+16.65%)**, trail 7% GTC @ $184.4097 (HWM $198.29, auto-ratcheted Tue)
+  - **XLI 115 sh** @ avg $173.86, current $173.08 (-0.64% vs $174.19 prev close), **unrealized -$89.70 (-0.45%)**, trail 10% GTC @ $157.374 (HWM $174.86)
+  - **XLP 238 sh** @ avg $83.851513, current $81.85 (+0.02% vs $81.83 prev close), **unrealized -$476.36 (-2.39%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0 — all positions locked by trails)
+- Trades this week: **0 / 3** (full slate Wed-Fri)
+- Deployed: **61.07%** ($62,609.00 / $102,514.83) — eighth consecutive session 60%+; ~14 pts shy of 75-85% target lower edge
+
+### Market Context
+- **WTI:** ~$89/bbl (CME Jul'26 $89.39, cooling-oil thesis intact). **Brent:** ~$103-106/bbl. Supportive for XLI margins / XLP cost line.
+- **S&P 500 futures (ESM26):** ~7,620, **modestly red premarket** (-0.05% Markets Insider / -0.14% Barchart). Mild giveback after Tue's +0.17% mid proxy.
+- **VIX:** Jun '26 futures ~17.84, May close 16.29. Well below 20 gate ceiling — fear premium drained.
+- **SPY (pre-open):** wide/stale all phase — broad-tape read deferred to cash open.
+- **Today's catalysts (Wed 6/3):**
+  - **🔴 ADP National Employment Report 8:15am ET** (May private payrolls). Consensus ~120k vs Apr 109k. Read-through to Fri NFP.
+  - **🔴 ISM Services PMI 10:00am ET** — services-sector regime test; the larger market mover today.
+  - **AVGO (Broadcom) AMC earnings** — AI/semis bellwether; key read-through for XLK semis weight (~47%). Reaction lands Thu open.
+  - **No FOMC, no CPI today.** CPI is Wed Jun 10; jobs report Fri Jun 5.
+- **Sector momentum YTD (latest June reads):**
+  - **Leaders:** XLK ~+36.14% (fresh 52-week high), XLE ~+29.03%, XLI ~+11.45%
+  - **Defensives:** XLP ~+6.19%, XLU ~+1.67%
+  - **Laggards:** XLV ~-2.13%, XLF still soft
+  - Tue JOLTS in-line/cool absorbed; no clean directional signal triggered a 4th-sector deploy.
+- **Held-ticker reads:**
+  - **XLK:** $198.50 pre-open vs $198.21 close = +0.15%. **+16.65% on cost (+$3,314.61)** — sits ~$5.70 / +2.87% below the +20% tighten-to-5% trigger ($204.20); trail at 7% (HWM $198.29 from Tue). Zacks #1 Strong Buy; AI/datacenter thesis intact, AVGO AMC the next single-name catalyst.
+  - **XLI:** -0.45% on cost; day 7 of seasoning. WTI cooling + AI-capex thesis intact. Manual -7% cut $161.69 well below current $173.08.
+  - **XLP:** -2.39% on cost; defensive sleeve still under rotation pressure. Trail $78.0255 sits ~4.67% below current $81.85 (cushion thinning vs prior 6-8% range). Manual -7% cut $77.98 essentially co-located with trail. Fourth consecutive red close on cost.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — no orders before 10:15am ET (post-ADP + post-ISM Services absorption).** Three reasons:
+
+1. **ADP 8:15am + ISM Services 10am = layered binary regime tests** for the Fri NFP setup — do NOT trade through the print window.
+2. **XLK is +16.65%, ~$5.70 from the +20% tighten-to-5% trigger** ($204.20) — action item today is monitoring an EXISTING position for the +20% tighten, NOT chasing a 4th sleeve into a binary print.
+3. **Tue JOLTS was in-line — no breakout signal** for the standing XLU/XLB 4th-sector deploy. Bar remains: clean directional catalyst + sector RS confirmation.
+
+Trades this week 0/3; positions 3/6; deployment 61.07%. Full Wed-Fri buy slate.
+
+**Conditional watchlist for post-ADP/ISM 4th-sector deploy (≤20% / $20,503 cap at current equity):**
+
+1. **XLU (Utilities) — primary candidate IF cool ADP (<100k) OR cool ISM Services (<52) AND SPY green at 10:30am.**
+   - **Trigger:** Cool labor/services (rate-cut bid) AND SPY green AND XLU RS turn.
+   - **Catalyst:** Rate-cut sensitivity; AI-power-demand thesis; defensive rotation if data softens.
+   - **Sizing:** ~450 sh × ~$45 ≈ $20,250 (≤$20,503 cap).
+   - **Stop:** 10% trailing GTC immediately after fill; manual -7% cut at fill × 0.93.
+   - **Target:** +15-20% (R:R ≥ 2:1 with the trail).
+
+2. **XLB (Materials) — secondary IF hot ADP (>140k) AND hot ISM Services (>55) AND XLI breakout >$175.**
+   - **Trigger:** Hot labor/services (cyclical/reflation bid) AND XLI new HWM AND SPY green.
+   - **Catalyst:** Leading quadrant; hot data confirms reflation/AI-capex.
+   - **Sizing:** ~390 sh × ~$52 ≈ $20,280.
+   - **Stop:** 10% trail. Target: +15-20%.
+
+3. **XLF — SKIP** (YTD still soft, lagging). **XLE — SKIP** (sector exit gate, 2 prior failed Energy trades). **XLV — SKIP** (weakening quadrant, -2.13% YTD). **Add to XLK/XLI/XLP — PASS** (all at/near 20% cap).
+
+**Buy-Side Gate snapshot for any post-print 4th-sector deploy:**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓ (2 slots remain Thu-Fri)
+- Cost ≤ 20% equity ($20,503 cap at $102,515)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TBD pending 8:15am + 10am prints**
+- Stock/ETF ✓
+
+### Risk Factors
+- **ADP 8:15am + ISM Services 10am = layered binary regime test.** Hot data (ADP >140k, ISM >55) = cyclical/reflation bid (XLI/XLB tailwind); in-line (ADP 100-140k, ISM 52-55) = no-edge muddle (default skip); cool (ADP <100k, ISM <52) = rate-cut bid (XLU/XLP tailwind, defensive). **No orders during 8:15-10:15am window.**
+- **🔴 XLK +16.65% on cost, ~$5.70 / +2.87% from +20% tighten-to-5% trigger ($204.20).** Trail at 7% (stop $184.4097, HWM $198.29). **A +2.9% session intraday would trigger the tighten** — flag for /midday review. Currently the most actionable rule-trigger on the book.
+- **XLK auto-ratchet:** any cash-session print >$198.29 advances HWM and ratchets 7% trail up automatically.
+- **AVGO (Broadcom) AMC earnings = Thu-open XLK gap risk.** Semis ~47% of XLK weight; an AVGO miss could compress XLK 2-4% at Thu open. Trail at $184.41 sits ~7.1% below current — well clear of typical AVGO gap, but worth flagging.
+- **XLP cushion thinning:** trail $78.0255 sits ~4.67% below current $81.85 (vs prior week's 5.6-8% range). Defensive sleeve under sustained rotation pressure (4 consecutive red closes on cost). If -2.39% widens past -4% on consecutive sessions or breaks $81.30, reassess thesis at /midday.
+- **WTI/Iran headlines wildcard:** single tweet could reverse cooling-oil ±3%; feeds XLI cyclical thesis & XLP cost line.
+- **Capital drag continues:** 61.07% deployed vs 75-85% target — eighth straight session in 60% band. Acceptable into the binary; post-10:15am is the deploy window IF clean signal.
+- **SPY proxy stale all phase** — daily Sharpe comparison deferred to Fri weekly review.
+
+### Decision
+
+**HOLD all three positions; NO new trades before 10:15am ET.** Trades this week stays 0/3; positions 3/6; deployment 61.07%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $184.4097 / XLI $157.374 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; XLK HWM auto-ratchet possible if cash print >$198.29.
+3. **8:15-10:15am: monitor-only window.** NO orders during ADP + ISM Services print volatility.
+4. **10:30am ET decision point:**
+   - **Cool ADP (<100k) or cool ISM (<52) + SPY green + XLU RS turn:** consider XLU deploy ~450 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **Hot ADP (>140k) + hot ISM (>55) + SPY green + XLI breakout >$175:** consider XLB deploy ~390 sh + 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **In-line prints (default):** SKIP — no edge; revisit at /midday.
+5. **🔴 XLK tighten-trigger watch (CRITICAL):**
+   - +15% trigger actioned Mon (trail 10% → 7%).
+   - **Next: if XLK trades >$204.20 (+20%) intraday → tighten trail to 5%** (cancel order b3757bfc, replace with trail_percent=5 GTC). Currently $5.70 / +2.87% away.
+6. **Intraday triggers (all positions):**
+   - XLK breaks $158.26 (-7% manual) → market sell, cancel trail. (Won't happen; current $198.50.)
+   - XLI breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $77.98 (-7% manual) → market sell, cancel trail. (Trail $78.0255 above the manual line — trail fires first.)
+   - Any >3% intraday breakdown in XLK or XLI on ADP/ISM reaction → thesis review at /midday.
+7. **/midday (~12pm ET) thesis check:** primary = XLK tighten-to-5% evaluation; secondary = post-print 4th-sector deploy decision if not actioned at 10:30am; tertiary = XLP cushion check (-2.39% → cut at -4% on consecutive sessions).
+8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity. Position for AVGO AMC earnings → Thu open XLK gap risk.
+
+Patience > activity. Today's two rule-driven action items: (a) 4th-sector deploy IF ADP+ISM deliver a clean directional signal AND a candidate clears the gate, (b) XLK tighten-to-5% IF intraday print >$204.20. Both mechanical, neither discretionary.
