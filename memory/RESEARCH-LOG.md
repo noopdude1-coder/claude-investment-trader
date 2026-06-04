@@ -2349,3 +2349,104 @@ Action plan for today:
 8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity. Position for AVGO AMC earnings → Thu open XLK gap risk.
 
 Patience > activity. Today's two rule-driven action items: (a) 4th-sector deploy IF ADP+ISM deliver a clean directional signal AND a candidate clears the gate, (b) XLK tighten-to-5% IF intraday print >$204.20. Both mechanical, neither discretionary.
+
+## 2026-06-04 — Pre-market Research (Thu, Week 6, day 4 — NFP Fri preview, AVGO selloff)
+
+### Account (live, pre-open)
+- Equity: **$102,218.29** | Settled cash: **$39,905.83** | Buying power $142,124.12 (info only — cash account, T+1)
+- last_equity $102,434.57 → pre-open marks **-$216.28 (-0.21%)** on AVGO-driven XLK premarket weakness
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $191.48 (**-2.42%** vs $196.23 prev close), **unrealized +$2,493.27 (+12.52%)**, trail 7% GTC @ $184.8189 (HWM $198.73)
+  - **XLI 115 sh** @ avg $173.86, current $175.00 (**+0.55%** vs $174.05 prev close), **unrealized +$131.10 (+0.66%)**, trail 10% GTC @ $158.4927 (HWM $176.103)
+  - **XLP 238 sh** @ avg $83.851513, current $83.1273 (**+1.18%** vs $82.16 prev close), **unrealized -$172.36 (-0.86%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (full slate Thu-Fri remains)
+- Deployed: **60.96%** ($62,312.46 / $102,218.29) — ninth consecutive session ~61%; gap to 75-85% target still ~14 pts
+
+### Market Context
+- **WTI:** ~$96/bbl, **Brent:** ~$103/bbl. 🔴 **Significant regime shift** vs last week's ~$89 WTI — cooling-oil thesis (XLI tailwind) **partially compromised**; supply-cut headlines (Middle East producers curtailing >10M bbl) reasserted oil floor. XLP cost-line pressure increases.
+- **S&P 500 futures (ESM26):** **-0.48% premarket** — meaningful red, broad risk-off into NFP Friday + AVGO drag.
+- **VIX:** **16.06** spot (vs 15.77 Tue close, +1.84%); Jun futures 17.85. Below 20 ceiling — fear premium still drained but bid into the print risk.
+- **🔴 AVGO Q2 2026 reaction:** Reported double-beat after Wed close (~$22.1B rev / ~$2.40 EPS), but stock **-6% to -10% premarket** ("post-earnings selloff extends" per multiple sources). AI guide-elevation likely underwhelmed positioning expectations. **Drags XLK -2.42% premarket** (AVGO is ~5.2% of XLK, semis 47.5% of XLK).
+- **Today's catalysts (Thu 6/4):**
+  - **🔴 BLS Productivity & Costs (Q1 revised) 8:30am ET** — secondary print
+  - **Weekly Initial Jobless Claims 8:30am ET** (per Investing.com calendar; BLS schedule may not list)
+  - **U.S. trade balance** report — minor
+  - **AVGO continuation** — the dominant intraday driver for XLK
+- **NFP preview (Fri 6/5 8:30am):** Consensus ~130k (Cap Econ); previous Apr +115k. NFP is the dominant catalyst tomorrow — Thu is positioning day, not deploy day.
+- **Sector momentum YTD 2026:**
+  - **Leaders:** XLK +36.47%, XLE +29.0%, XLI +12.52%
+  - **Defensives:** XLP +6.36%, XLU +3.11%
+  - **Laggards:** XLV -4.29%, XLF -6.64%
+  - **Rotation signal (Investing.com):** Leading = XLP/XLI/XLB/XLE; **Lagging = XLK/XLF**; Weakening = XLV; Improving = XLU. Tech-leadership pause beginning to show in framework reads despite still-positive YTD.
+- **Held-ticker reads:**
+  - **XLK:** -2.42% premarket on AVGO drag. **+12.52% on cost, back below the +15% threshold** (was +15.18% Wed close, +16.65% Tue close). Trail $184.8189 sits **~3.48% below current $191.48** — within the 3% floor zone if XLK drops another ~0.5%. Auto-trail does NOT advance on a down day (HWM static at $198.73). The +20% tighten-to-5% trigger ($204.20) is now **~$12.72 / +6.6% away** (further than yesterday).
+  - **XLI:** +0.55% premarket to $175.00, **possible fresh HWM** if breaks $176.103 cash; cooling-oil thesis half-broken (WTI ~$96 vs $89), but cyclical/AI-capex thesis intact. Day 8 of seasoning.
+  - **XLP:** +1.18% premarket on defensive rotation bid. **First green premarket in five sessions**, narrowing the unrealized loss to -0.86% (from -2.39% Wed close). Trail cushion ~6.1% — restored.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD — no orders before 10:15am ET (post-claims + AVGO-volatility absorption).** Four reasons:
+
+1. **AVGO-driven XLK selloff = high-volatility morning** — trading into binary single-name vol with the tech bellwether down 6-10% AMC is poor R/R.
+2. **NFP Friday = layered binary tomorrow** — Thu is positioning, not deploy. Initiating a 4th sleeve Thu means stopping into the print with no seasoning.
+3. **XLK trail cushion has tightened to ~3.48%** — within the rule's 3% floor zone. The book has an active risk-management priority (monitor for stop trigger or further weakness) that outranks new deploys.
+4. **WTI regime shift** (~$89 → ~$96) partially compromises the XLI cooling-oil thesis — re-evaluation needed before adding another cyclical sleeve. Reflation/AI-capex still intact, but the thesis is half-confirmed not full-confirmed.
+
+Trades this week 0/3; positions 3/6; deployment 60.96%. Two sessions left (Thu-Fri).
+
+**Conditional watchlist for any post-NFP 4th-sector deploy (≤20% / $20,444 cap, but Friday-only, not today):**
+
+1. **XLU (Utilities) — primary candidate IF cool NFP (<100k) AND SPY green AND XLU RS turn.**
+   - **Trigger:** Cool jobs (rate-cut bid) AND SPY green AND XLU breakout. NFP is **Friday** — not actionable today.
+   - **Catalyst:** Rate-cut sensitivity; AI-power-demand thesis; "Improving" quadrant in rotation framework.
+   - **Sizing:** ~440 sh × ~$46 ≈ $20,240 (≤$20,444 cap).
+   - **Stop:** 10% trail GTC immediately; manual -7% cut at fill × 0.93.
+
+2. **XLP add — SKIP (already at 20% cap).** Defensive bid today confirms thesis but no add room.
+
+3. **XLB (Materials) — secondary IF hot NFP (>150k) + XLI breakout >$176.10 + SPY green.**
+   - **Sizing:** ~380 sh × ~$53 ≈ $20,140. Stop: 10% trail. Target: +15-20%.
+
+4. **XLF — SKIP** (-6.64% YTD, weakest). **XLE — SKIP** (exit gate, 2 failed). **XLV — SKIP** (-4.29% YTD, weakening). **XLK add — SKIP** (already at cap + premarket weakness).
+
+**Buy-Side Gate snapshot (for any Friday post-NFP deploy):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓ (1 slot remains for Fri)
+- Cost ≤ 20% equity ($20,444 cap at $102,218)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TBD pending Fri 8:30am NFP**
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 XLK trail cushion ~3.48%** (stop $184.8189 / current $191.48). Any continuation of the AVGO selloff that breaches the 3% floor brings the trail into "imminent trigger" territory. Manual -7% cut at $158.26 well below; the trail fires first. **Hard rule check: "never within 3% of current price."** Cushion is currently 3.48% — within tolerance but on watch.
+- **🔴 AVGO continuation risk** — single-name post-earnings selloffs often extend through the morning. AVGO is 5.22% of XLK weight; another -5% AVGO move ≈ -0.26% XLK drag standalone, but semis sentiment contagion (47.5% of XLK) could amplify 2-3x.
+- **NFP Friday 8:30am = the binary** — consensus ~130k. Hot (>150k) = cyclical/reflation bid (XLI/XLB tailwind); cool (<100k) = rate-cut bid (XLU/XLP); in-line = default skip. **Today is positioning day, not deploy day.**
+- **WTI regime shift** (~$89 → ~$96) — Middle East supply curtailment headlines. Partially compromises the XLI cooling-oil thesis; if WTI sustains >$95, defensive cost-line pressure on XLP rises and XLI cyclical thesis pivots to AI-capex-only (still bullish but weaker setup).
+- **XLI possible fresh HWM** if it breaks $176.103 cash — auto-trail would advance. Watch for confirmation of cyclical bid despite the broader risk-off premarket.
+- **Capital drag continues:** 60.96% deployed vs 75-85% target — ninth straight session. The standing gate-threshold scrutiny remains overdue (XLF/XLV/XLU never cleared this week); deferred to Fri post-NFP at earliest.
+- **SPY proxy stale all phase** — daily Sharpe vs SPY comparison deferred to Friday weekly review.
+- **Productivity 8:30am print** — secondary catalyst, unlikely to move the tape alone but can reinforce/contradict NFP-eve positioning.
+
+### Decision
+
+**HOLD all three positions; NO new trades today.** Trades this week stays 0/3; positions 3/6; deployment 60.96%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $184.8189 / XLI $158.4927 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; **flag XLK trail cushion** (~3.48% — within tolerance but watched).
+3. **8:30-10:15am: monitor-only window.** NO orders during productivity/claims + AVGO-volatility window.
+4. **10:30am ET decision point:**
+   - **4th-sector deploy: SKIP today** regardless of data — NFP Friday is the binary; no advantage initiating Thu.
+   - **XLK trail-trigger watch:** If XLK drops below $184.82 cash, trail fires automatically (no manual intervention; -7% cushion well above the -7% manual cut at $158.26). On a trail hit, cancel residual GTC, log as exit, reassess at /midday.
+5. **🔴 XLK tighten-trigger watch (deprioritized today):** +20% trigger ($204.20) now ~$12.72 away — not in play.
+6. **Intraday triggers (all positions):**
+   - XLK breaks $184.82 → trail fires; if breaks $158.26 (-7% manual) → won't happen (already trail-protected).
+   - XLI breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $77.98 (-7% manual) → market sell, cancel trail.
+   - Any >3% intraday breakdown in XLI or XLP on data reaction → thesis review at /midday.
+7. **/midday (~12pm ET) thesis check:** primary = XLK cushion check (cut at -7% manual or trail-fire); secondary = XLP defensive thesis confirmation (today's +1.18% premarket reverses 4 red sessions); tertiary = XLI HWM-break check ($176.103 cash).
+8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity. Position for NFP Friday 8:30am — that's tomorrow's binary.
+
+Patience > activity. Today is a **defensive monitoring day**: protect the XLK winner through the AVGO storm, let XLP's defensive bid play out, let XLI seasoning continue. Friday post-NFP is the next discretionary action window.
