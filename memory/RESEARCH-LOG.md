@@ -2450,3 +2450,112 @@ Action plan for today:
 8. **EOD:** daily-summary workflow + reconcile vs Alpaca last_equity. Position for NFP Friday 8:30am — that's tomorrow's binary.
 
 Patience > activity. Today is a **defensive monitoring day**: protect the XLK winner through the AVGO storm, let XLP's defensive bid play out, let XLI seasoning continue. Friday post-NFP is the next discretionary action window.
+
+## 2026-06-05 — Pre-market Research (Fri, Week 6, day 5 — NFP 8:30am binary)
+
+### Account (live, pre-open)
+- Equity: **$101,949.78** | Settled cash: **$39,905.83** | Buying power $283,711.22 (info only — cash account, T+1)
+- last_equity $102,290.64 → pre-open marks **-$340.86 (-0.33%)** on continued AVGO/tech bleed and NFP positioning
+- Positions: **3 / 6**
+  - **XLK 117 sh** @ avg $170.17, current $190.84 (**-1.21%** vs $193.17 prev close), **unrealized +$2,418.39 (+12.15%)**, trail 7% GTC @ $184.8189 (HWM $198.73)
+  - **XLI 115 sh** @ avg $173.86, current $175.67 (**-0.28%** vs $176.16 prev close), **unrealized +$208.15 (+1.04%)**, trail 10% GTC @ $158.796 (HWM $176.44 — fresh, advanced from $176.103 yesterday)
+  - **XLP 238 sh** @ avg $83.851513, current $81.99 (**-0.06%** vs $82.04 prev close), **unrealized -$443.04 (-2.22%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 3 (all trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (Fri-only window remains)
+- Deployed: **60.86%** ($62,043.95 / $101,949.78) — tenth consecutive session ~61%; gap to 75-85% target still ~14 pts
+
+### Market Context
+- **WTI:** ~$93–94/bbl, **Brent:** ~$103–106/bbl. Cooled ~$2 from yesterday's ~$96 — **partial cooling-oil thesis restoration** vs Wed/Thu Middle East supply-cut spike. XLI cyclical/cooling-oil thesis half-confirmed again; XLP cost-line pressure eases marginally.
+- **S&P 500 futures (ESM26):** **-0.35% premarket** (~7,545.25) — risk-off ahead of NFP + AVGO continuation drag.
+- **VIX:** **~16.06** spot (flat vs Thu close); Jun futures ~17.85. Below 20 ceiling; fear premium still drained but bid into 8:30am print.
+- **🔴 NFP 8:30am ET (the binary):**
+  - **Consensus ~85k** (Trading Economics, FXStreet); range **62k (StoneX) → 150k (Cap Econ)**.
+  - **Prior:** Apr +115k. Unemployment expected 4.3% (unchanged). Wages ~3.4% y/y.
+  - **Reaction map:**
+    - **Cool (<85k):** rate-cut bid → XLU/XLP tailwind, USD weak, yields lower.
+    - **In-line (85–130k):** muddled tape — default skip, low-conviction direction.
+    - **Hot (>130k):** XLI/XLB cyclical/reflation bid, USD strong, yields up, modest equity drag from re-priced Fed.
+- **Other catalysts (Fri 6/5):** Wholesale inventories 10am (secondary), consumer credit 3pm (negligible). NFP swamps everything.
+- **🔴 AVGO continuation drag:** Stock continued bleeding Thu; XLK printed lower close. Semis (47.5% of XLK) under sustained sentiment pressure. Watch for AVGO opening-gap direction Fri AM.
+- **Sector momentum YTD 2026:**
+  - **Leaders:** XLK ~+36% (off recent highs), XLE +29–32%, XLI +12.52%
+  - **Defensives:** XLP +6.36%, XLU +3.11%
+  - **Laggards:** XLV -4.29%, XLF -6.64%
+  - Tech-leadership pause persisting; "Improving" quadrant = XLU; "Leading" = XLP/XLI/XLB/XLE.
+- **Held-ticker reads:**
+  - **XLK:** -1.21% premarket continuation of AVGO drag. **+12.15% on cost — below the +15% threshold.** 🔴 **Trail cushion now $190.84 / $184.8189 = 3.16%** — within the "never within 3%" rule's floor zone (was 3.48% Thu, 3.83% Wed). Auto-trail static (HWM $198.73). The +20% tighten-to-5% trigger ($204.20) now ~$13.36 / +7.0% away.
+  - **XLI:** -0.28% premarket; fresh **HWM $176.44** advanced trail $158.4927 → $158.796 (auto, no action). Cyclical/AI-capex thesis intact; cooling-oil thesis partially restored (WTI back to $93-94). Day 9 of seasoning.
+  - **XLP:** -0.06% premarket — flat. Trail cushion ~4.83% ($81.99 / $78.0255). Defensive sleeve still down -2.22% on cost; thesis = rate-cut beneficiary IF cool NFP. Today is the binary for XLP cushion thesis.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD pre-print; conditional Fri post-10:15am window for ONE 4th-sector deploy if NFP delivers clean signal.** Four reasons to default-HOLD:
+
+1. **NFP 8:30am is the layered binary** — pre-print orders are gambling. Post-10:15am only.
+2. **XLK trail cushion = 3.16%** — at the rule's 3% floor. Active risk-management priority on the book; this outranks new deploys. If NFP weak + AVGO continues → trail likely fires Fri AM.
+3. **Friday positioning into weekend** — any new sleeve opens with two days of overnight gap risk (Middle East, geopolitics) before next adjustment window. Setup discount required.
+4. **WTI partial cool** — improvement, but not full thesis restoration. Re-add cyclical exposure requires cleaner confirmation.
+
+Trades this week 0/3; positions 3/6; deployment 60.86%. **Last session of the week.**
+
+**Conditional watchlist for any 10:30am post-NFP 4th-sector deploy (≤20% / $20,389 cap):**
+
+1. **XLU (Utilities) — primary candidate IF cool NFP (<85k) + SPY green + XLU RS turn.**
+   - **Catalyst:** Rate-cut sensitivity (FOMC dovish bid); AI-power-demand structural thesis; "Improving" quadrant.
+   - **Sizing:** ~440 sh × ~$46 ≈ $20,240 (≤$20,389 cap).
+   - **Stop:** 10% trail GTC immediately; manual -7% cut at fill × 0.93.
+   - **Target:** +12-18% (3-6 month).
+   - **Friday risk:** weekend gap; size at cap not above.
+
+2. **XLB (Materials) — secondary IF hot NFP (>130k) + XLI breakout >$176.44 + SPY green + WTI stable.**
+   - **Catalyst:** Reflation/cyclical confirmation; AI-capex hardware demand; oil-stable backdrop.
+   - **Sizing:** ~380 sh × ~$53 ≈ $20,140. Stop: 10% trail. Target: +15-20%.
+
+3. **In-line NFP (85-130k) → SKIP all deploys.** Default to monitor-only weekend close.
+
+4. **XLF — SKIP** (-6.64% YTD, weakest). **XLE — SKIP** (sector exit gate, 2 failed). **XLV — SKIP** (-4.29% YTD, weakening). **XLK/XLI/XLP add — SKIP** (all at/near 20% cap).
+
+**Buy-Side Gate snapshot (for any Fri post-NFP deploy):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓ (last slot of week)
+- Cost ≤ 20% equity ($20,389 cap at $101,949)
+- Cost ≤ settled cash ($39,905.83) ✓
+- Catalyst documented — **TBD pending 8:30am NFP + AVGO open + sector RS**
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 XLK trail cushion TIGHTENED to 3.16%** (stop $184.8189 / current $190.84). At the rule's "never within 3% of current price" floor. Any continuation of -0.5% in XLK brings the trail into "imminent trigger" territory. Manual -7% cut at $158.26 well below; trail fires first. **Hard rule check on floor.** Status: within tolerance but on **critical watch**.
+- **🔴 NFP 8:30am ET = the binary:** Wide consensus range (62k–150k) reflects high uncertainty. Reactions amplified by post-AVGO tech vulnerability. Headline + unemployment + wages all matter; any 2-of-3 surprise drives the tape.
+- **🔴 AVGO continuation risk:** Single-name post-earnings selloffs often extend through Day 3. AVGO 5.22% of XLK; semis 47.5% of XLK. Another -5% AVGO move ≈ -0.26% XLK standalone but semis contagion amplifies 2-3x. Combined with NFP-day risk-off, XLK could test trail $184.82 intraday.
+- **WTI partial cool ($96 → $93-94):** Modest XLI thesis improvement; not yet full restoration. XLP cost-line pressure eases marginally.
+- **Weekend gap risk:** New Fri deploys carry 2-day overnight risk (Middle East oil headlines, geopolitical wildcards). Sizing at cap, not above; trail 10% mandatory.
+- **Capital drag continues:** 60.86% deployed vs 75-85% target — tenth straight session. If NFP delivers clean signal AND XLK trail holds, the 4th-sector deploy WOULD bring deployment to ~80%. Mechanical rule-triggered, not discretionary.
+- **SPY proxy stale all phase** — daily Sharpe deferred to Fri weekly review (today/EOD).
+
+### Decision
+
+**HOLD all three positions pre-print; conditional Fri post-10:30am 4th-sector deploy IF clean NFP signal.** Trades this week stays 0/3; positions 3/6; deployment 60.86%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLK $184.8189 / XLI $158.796 / XLP $78.0255). No manual changes. No new orders.
+2. **8:30am NFP print:** monitor-only. NO orders during volatility window.
+3. **Market-open routine (9:30am):** verify trail stops still active; flag XLK trail cushion = 3.16% (at the 3% floor).
+4. **8:30-10:15am: monitor-only window.** NO orders.
+5. **10:30am ET decision point (the deploy window):**
+   - **Cool NFP (<85k) + SPY green + XLU RS turn:** deploy XLU ~440 sh × ~$46 ≈ $20,240, 10% trail GTC immediately. Trades 1/3 week; deployment → ~80%.
+   - **Hot NFP (>130k) + XLI breakout >$176.44 + SPY green:** deploy XLB ~380 sh × ~$53 ≈ $20,140, 10% trail GTC. Trades 1/3 week; deployment → ~80%.
+   - **In-line NFP (85-130k):** SKIP — no edge into weekend. Trades stays 0/3; weekly review captures the gate-skip pattern (6 straight weeks at <3 trades).
+6. **🔴 XLK trail-trigger watch (CRITICAL):**
+   - If XLK breaks $184.82 cash → trail fires automatically. On fire: cancel residual GTC, log exit, reassess at /midday.
+   - If XLK rallies to >$198.73 cash → HWM auto-advances, trail ratchets up at 7%.
+   - **The +20% tighten-to-5% trigger ($204.20) — deprioritized**; ~$13.36 / +7.0% away, unlikely on NFP-day risk-off.
+7. **Intraday triggers (all positions):**
+   - XLK breaks $184.82 → trail fires.
+   - XLI breaks $161.69 (-7% manual) → market sell, cancel trail. (Very unlikely; current $175.67.)
+   - XLP breaks $77.98 (-7% manual) → market sell, cancel trail. (Trail $78.0255 above — trail fires first.)
+   - Any >3% intraday breakdown in XLI or XLP on NFP reaction → thesis review at /midday.
+8. **/midday (~12pm ET) thesis check:** primary = post-NFP 4th-sector deploy execution (if 10:30am signal was clean); secondary = XLK cushion (after NFP volatility); tertiary = XLP defensive thesis confirmation.
+9. **EOD (~4pm ET):** daily-summary + **weekly-review workflow** (Friday). Reconcile vs Alpaca last_equity; compute weekly Sharpe vs SPY, max DD, process metrics. Capture the "gate kept us out 6 straight weeks" pattern.
+
+Patience > activity. Today is a **binary-then-action day**: monitor through 8:30am, evaluate post-print at 10:30am, deploy IF signal is clean. The XLK trail cushion at 3.16% is the single most important rule-trigger on the book; protect that winner first, then consider the 4th sleeve. Friday EOD closes Week 6.
