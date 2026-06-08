@@ -2661,3 +2661,11 @@ Action plan for today:
 9. **Thu Jun 11:** PPI 8:30am + Initial Claims; second deploy opportunity if first slot filled and gate clears.
 
 Patience > activity. Today is a **defensive positioning day** ahead of the Tue/Wed double binary. The fresh week's 3-buy slots and the fully-settled $61,527 cash give maximum optionality for post-FOMC/CPI deployment. Defending XLI seasoning and XLP defensive thesis through the binary is the priority; the deploy window opens Wed PM at the earliest.
+
+### Midday addendum (6/8)
+- **No action.** Neither position triggered a rule; no new trades pre-FOMC per plan.
+- **Account:** equity $101,289.78 vs last_equity $101,416.82 → Day P&L **-$127.04 (-0.13%)**. Settled cash $61,527.40 unchanged. Positions market value $39,762.38; deployment **39.26%** (-0.07 pts vs pre-open 39.33%).
+- **XLI** $173.80 intraday **-0.22%** vs lastday $174.18; on cost **-0.035% (-$6.90)** essentially flat. HWM $176.44 unchanged; trail $158.796 (~8.6% cushion). Manual cut $161.69 (~6.8% cushion). Day 11 seasoning, still in noise band. **Hold.**
+- **XLP** $83.085 intraday **-0.43%** vs lastday $83.44; on cost **-0.914% (-$182.43)**. HWM $86.695 unchanged; trail $78.0255 (~6.1% cushion). Manual cut $77.98 (~6.1% cushion). Modest defensive fade pre-FOMC; cushion comfortable. **Hold.**
+- **Tape read:** Quiet Mon open as expected — light catalyst calendar (NY Fed Survey 11am secondary). No sharp moves on either sleeve; no Perplexity intraday research warranted. Pre-FOMC positioning observation: defensive (XLP) underperforming industrials (XLI) marginally — consistent with no fresh rate-cut bid, market in wait-and-see ahead of Tue 6pm decision. No thesis breaks; XLI AI-capex/industrials thesis intact, XLP defensive-rotation thesis intact (overbought-RSI flag still latent risk).
+- **Plan unchanged:** monitor-only through Tue FOMC; deploy window opens Wed PM post-CPI. XLU primary candidate ($20,240 sleeve) if dovish FOMC + cool CPI; XLB if hawkish + hot. Trades this week stays 0/3; positions 2/6.
