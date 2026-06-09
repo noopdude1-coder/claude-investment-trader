@@ -2669,3 +2669,97 @@ Patience > activity. Today is a **defensive positioning day** ahead of the Tue/W
 - **XLP** $83.085 intraday **-0.43%** vs lastday $83.44; on cost **-0.914% (-$182.43)**. HWM $86.695 unchanged; trail $78.0255 (~6.1% cushion). Manual cut $77.98 (~6.1% cushion). Modest defensive fade pre-FOMC; cushion comfortable. **Hold.**
 - **Tape read:** Quiet Mon open as expected — light catalyst calendar (NY Fed Survey 11am secondary). No sharp moves on either sleeve; no Perplexity intraday research warranted. Pre-FOMC positioning observation: defensive (XLP) underperforming industrials (XLI) marginally — consistent with no fresh rate-cut bid, market in wait-and-see ahead of Tue 6pm decision. No thesis breaks; XLI AI-capex/industrials thesis intact, XLP defensive-rotation thesis intact (overbought-RSI flag still latent risk).
 - **Plan unchanged:** monitor-only through Tue FOMC; deploy window opens Wed PM post-CPI. XLU primary candidate ($20,240 sleeve) if dovish FOMC + cool CPI; XLB if hawkish + hot. Trades this week stays 0/3; positions 2/6.
+
+## 2026-06-09 — Pre-market Research (Tue, Week 7, day 2 — FOMC decision 6pm ET)
+
+### Account (live, pre-open)
+- Equity: **$101,267.89** | Settled cash: **$61,527.40** | Buying power $357,382.97 (info only — cash account)
+- last_equity $101,265.51 → pre-open marks **+$2.38 (+0.002%)** essentially flat
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $173.63 (flat vs $173.63 prev close), **unrealized -$26.45 (-0.13%)**, trail 10% GTC @ $158.796 (HWM $176.44)
+  - **XLP 238 sh** @ avg $83.851513, current $83.08 (**+0.01%** vs $83.07 prev close), **unrealized -$183.62 (-0.92%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (Mon monitor-only by plan; cap fully open Tue–Fri)
+- Deployed: **$39,740.49 / $101,267.89 = 39.24%** — second straight session in sub-40% band; ~36 pts shy of 75% target floor
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+
+### Market Context
+- **WTI:** ~$88-92/bbl (Kalshi $92.99 strike for today Jun 9 contract; Robinhood thresholds $87.99-89.99). Continued cooling vs Wed/Thu's $96 spike — partial XLI thesis confirmation; XLP cost-line easing.
+- **Brent:** no clean quote in Perplexity, assume ~$100-105 based on recent trend.
+- **S&P 500 futures (ESM26):** **+0.18 to +0.25%** premarket (~7,434) — modest risk-on bid heading into FOMC.
+- **VIX spot 18.16** (Cboe, -4.02%); Jun futures 18.92. Calm but UP ~2 pts vs Mon — classic pre-FOMC fear premium adding back; expect intraday compression into 4pm cash close before Powell.
+- **🔴 TODAY = pre-FOMC day. Powell decision + SEP/dots 6pm ET.** Consensus = HOLD; market priced for 1-2 cuts H2. Powell presser drives tape Wed AM.
+- **Today's macro calendar (light):**
+  - 8:30am ET — **U.S. International Trade in Goods/Services** (secondary)
+  - 10:00am ET — **Monthly Wholesale Trade** (secondary)
+  - NO CPI, NO PPI, NO jobs data today (CPI Wed, PPI Thu, NFP next month).
+- **Earnings BMO today:** **SJM** (J.M. Smucker, EPS est $2.64), **ASO** (Academy Sports), **SAIL** (SailPoint), **UNFI** (United Natural Foods, est $0.76), **CASY** (Casey's). SJM/UNFI are XLP constituents (small weights) — modest XLP reaction risk on miss/beat.
+- **Sector momentum YTD 2026 (per Total Real Returns Jun 5):**
+  - **Leaders:** XLE +29.83%, XLK +25.39%, **XLI +12.60%**, **XLP +8.02%**
+  - **Mid:** XLB +7.00%, XLU +4.61%
+  - **Lagging:** XLV -0.75%, XLF -5.00%
+- **Held-ticker reads:**
+  - **XLI:** $173.63 pre-open (flat); Elliott Wave (Jun 9 piece) frames bullish 5-wave up from $168.1 low, expects buyers to defend **$171.35-170.56** support; pullback zone respected. Day 12 of seasoning; -0.13% on cost. Trail $158.796 (~9.1% cushion). Manual -7% cut $161.69 (~7.4% cushion).
+  - **XLP:** $83.08 pre-open (essentially flat); defensive anchor narrative intact, YTD +8.02%. RSI overbought flag still latent. SJM/UNFI earnings BMO = single-name risk. Trail $78.0255 (~6.1% cushion). Manual -7% cut $77.98 (~6.1% cushion).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD; NO new trades today (pre-FOMC monitor-only).** Reasons to default-HOLD Tue:
+
+1. **FOMC 6pm = binary.** Pre-decision orders = gambling. Powell presser + SEP/dots can swing tape ±2% intraday Wed. Patience > activity.
+2. **VIX 18 reflects pre-event positioning** — buying ahead of the print locks the trader into FOMC delta with zero edge. Discount available post-event.
+3. **CPI 8:30am Wed** = the layered second binary. Even if FOMC is benign, hot CPI swamps it. Two-event window collapses post-CPI.
+4. **Settled cash $61,527 idle is the right call** — 6 weeks of <3-trade discipline produced the XLK +$1,711 win. The deploy window opens **Wed PM after CPI digest** at earliest.
+5. **XLP overbought RSI + SJM/UNFI earnings BMO** = single-day single-name noise risk on the held sleeve; no need to add staples exposure here.
+
+Trades this week 0/3; positions 2/6; deployment 39.24%. **Same posture as Mon: under-deployment is the dominant risk, but FOMC + CPI is the wrong gate to crash.**
+
+**Conditional watchlist for Wed PM / Thu deploys (≤20% / $20,253 cap each):**
+
+1. **XLU (Utilities) — primary IF dovish FOMC + cool CPI.** Catalyst: rate-cut bid + AI-power-demand structural thesis. Sizing ~440 sh × ~$46 ≈ $20,240. Stop: 10% trail GTC at fill. Target: +12-18%.
+2. **XLB (Materials) — secondary IF hawkish FOMC + hot CPI breaks reflation up.** Sizing ~380 sh × ~$53 ≈ $20,140. Stop: 10% trail.
+3. **XLI add — SKIP** (already at sleeve sizing).
+4. **XLK re-entry — SKIP today** (need fresh post-FOMC thesis; semis still recovering from AVGO drag).
+5. **XLE — BLOCKED** (2-failed-trade sector gate; YTD leader +29.83% but rule binds unless explicitly reset in WEEKLY-REVIEW).
+6. **XLF / XLV — SKIP** (worst YTD).
+
+**Buy-Side Gate snapshot (for any post-FOMC deploy):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,253 cap at $101,267.89)
+- Cost ≤ settled cash ($61,527.40) ✓ (full capacity)
+- Catalyst documented — **TBD post-FOMC Tue 6pm / CPI Wed 8:30am**
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 FOMC 6pm ET binary — single biggest event of the week.** Hawkish surprise (no cuts H2, stronger SEP path) → equity drag 1-2%, stresses XLP cushion (~6.1%) more than XLI (~9.1%).
+- **🔴 CPI Wed 8:30am ET = layered second binary.** Hot print after hawkish FOMC = compound risk-off; cool print after dovish FOMC = compound rally. Wed PM is the actual deploy window.
+- **XLP single-name earnings risk (BMO):** SJM and UNFI report pre-open; both XLP constituents (small weights). Either could move XLP intraday a few tenths — not thesis-breaking but noise.
+- **XLP RSI overbought flag** — defensive rotation stretched; mean-reversion risk if FOMC dovish for growth. Cushion ~6.1% comfortable but watch.
+- **XLI seasoning thin** — day 12, -0.13% on cost; needs FOMC tailwind (dovish = bullish industrials via AI-capex). Manual -7% cut $161.69 well below.
+- **Capital drag PERSISTS:** 39.24% deployed vs 75-85% target — 36 pts below floor; second straight session sub-40%. Closing this gap requires the post-FOMC clean signal; today is NOT that signal.
+- **WTI cooling helps thesis** — back in $88-92 band vs $96 spike; XLP cost-pressure relief modest.
+- **SPY proxy stale all phase** — Sharpe comparison deferred to Fri weekly review.
+- **Pre-FOMC tape quirks** — light volume, headline sensitivity, end-of-day vol crush often opens 3pm; no order action expected.
+
+### Decision
+
+**HOLD both positions; NO new trades today.** Trades this week stays 0/3; positions 2/6; deployment 39.24%.
+
+Action plan for today:
+
+1. **Pre-open through cash open (9:30am ET):** trail stops live (XLI $158.796 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged.
+3. **Tue Jun 9 = monitor-only day (pre-FOMC).** NO discretionary deploys before Powell.
+4. **Intraday triggers (all positions):**
+   - XLI breaks $158.796 → trail fires; if breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $78.0255 → trail fires; if breaks $77.98 (-7% manual) → market sell, cancel trail.
+   - Fresh HWMs on either → auto-trail advance, no manual action.
+   - SJM/UNFI earnings reaction in XLP — monitor-only unless >2% intraday move; not a sell trigger absent thesis break.
+5. **/midday (~12pm ET) thesis check:** primary = XLI/XLP cushion check; secondary = pre-FOMC positioning observation; tertiary = SJM/UNFI earnings reaction in XLP.
+6. **No order action during 5:45-7:00pm FOMC volatility window** (close happens before, but no after-hours discretionary trades anyway).
+7. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity. Position into Wed CPI.
+8. **Wed Jun 10:** post-FOMC + CPI 8:30am = the deploy window. If dovish FOMC + cool CPI → XLU deploy ~$20,240 at 10:30am+. If hawkish + hot → XLB or skip. First deploy slot.
+9. **Thu Jun 11:** PPI 8:30am + Initial Claims; second deploy opportunity if Wed slot filled and gate clears.
+
+Patience > activity. Today is a **defensive positioning day** through the Powell decision. The fresh week's 3-buy slots and the fully-settled $61,527 cash give maximum optionality for post-FOMC/CPI deployment. Defending XLI seasoning and XLP defensive thesis through the binary is the priority; the deploy window opens Wed PM at the earliest.
