@@ -2962,3 +2962,27 @@ Action plan for today:
 9. **Friday Jun 12:** /weekly-review — **explicitly evaluate XLE sector-gate reset** given war catalyst. If reset approved, Mon Jun 15 = primary deploy window for XLE.
 
 Patience > activity. Today is a **defensive monitoring day in a headline-driven tape**. The 36-pt deployment gap is real, but Iran-war risk regime makes new entries -EV. The disciplined path is: defend XLI cushion through the oil shock, let XLP's defensive bid do its job, and use Friday's weekly review to unlock XLE if appropriate. **No regret from a no-trade day in a war-tape.**
+
+### Jun 11 — Midday Addendum (~12pm ET)
+
+**Snapshot:**
+- **XLI** 115 sh @ $173.86 → $171.96 (+1.36% intraday), unrealized **-$218.50 (-1.09% on cost)**. Trail $158.922 (7.58% cushion). Manual cut $161.69 (6.0% cushion). HWM $176.58 unchanged.
+- **XLP** 238 sh @ $83.85 → $85.44 (-0.06% intraday), unrealized **+$378.06 (+1.89% on cost)**. Trail $78.0255 (8.69% cushion). Manual cut $77.98 (8.7% cushion). HWM $86.695 unchanged.
+- Both trail stops live (status:new, GTC). Account equity tracking ~$101,447 + small intraday gain.
+- Trades this week: 0/3. Positions: 2/6. Deployment ~39.5%.
+
+**Action: NO-OP.**
+- No -7% cuts (both well above triggers).
+- No +15%/+20% tightens (XLP +1.89%, XLI -1.09% — neither close).
+- No stop adjustments.
+- No new orders.
+
+**Thesis check:**
+- **XLI:** the intraday +1.36% bounce off Wed's leak reverses the cushion-shrinkage concern from pre-market. -1.09% on cost vs -1.82% pre-open — back inside the noise band. Day 13 of seasoning still constructive. Oil-shock cost-pressure thesis NOT broken but partially absorbed today. Hold.
+- **XLP:** defensive bid persisting (-0.06% intraday on a flat-to-mixed tape). +1.89% on cost is the second-best print of the holding period. Thesis intact. Hold.
+- **Iran-war headline regime:** no new escalation/de-escalation tweet has gapped the tape this morning per the intraday price action (XLI green, XLP flat = consistent with a digesting-but-not-panicking market). PPI digest absorbed without violent re-pricing.
+- **No XLE override.** Sector gate still binds; defer to Friday weekly review per the plan.
+
+**Notification:** none (no action taken).
+
+**Next:** EOD /daily-summary at ~4pm ET. Friday Jun 12 /weekly-review — XLE gate reset evaluation.
