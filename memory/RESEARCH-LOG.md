@@ -2864,3 +2864,101 @@ Action plan for today:
 8. **Thu Jun 11:** PPI 8:30am + Initial Claims. If XLU filled, monitor for cushion. If skipped today, second deploy window opens.
 
 Patience > activity. Today is **the planned deploy window, but the FOMC came in less clean than the conditional plan assumed**. The disciplined call is to wait for CPI, apply the tree, and only fire on a clean cool surprise. The 36-pt deployment gap is the dominant performance risk, but firing into a hawkish-dots + hot-CPI tape is worse than waiting one more day.
+
+## 2026-06-11 — Pre-market Research (Thu, Week 7, day 4 — PPI 8:30am ET + Iran-shock tape)
+
+### Account (live, pre-open)
+- Equity: **$101,447.40** | Settled cash: **$61,527.40** | Buying power $357,885.60 (info only — cash account, 4x echo)
+- last_equity $101,384.92 → pre-open marks **+$62.48 (+0.06%)** essentially flat overnight
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $170.70 (+0.61% vs $169.66 prev close), **unrealized -$363.40 (-1.82%)**, trail 10% GTC @ $158.922 (HWM $176.58)
+  - **XLP 238 sh** @ avg $83.851513, current $85.25 (-0.28% vs $85.49 prev close), **unrealized +$332.84 (+1.67%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (no deploy fired Wed — see Market Context for why)
+- Deployed: **$39,920.00 / $101,447.40 = 39.35%** — fifth straight session sub-40%
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+
+### Market Context
+- **🔴🔴 GEOPOLITICAL SHOCK: US-Iran war is now hot.** US military launched strikes against Iran for the second consecutive day; peace efforts at risk of collapse. This is the dominant overnight catalyst, dwarfing macro prints.
+- **🔴 SPX dumped -1.62% yesterday to 7,266.99** on Trump's further-military-action threats. Pure geopolitical risk-off.
+- **🟢 SPX futures (ESM26) +0.78% premarket** to ~7,323 — relief bounce. Polymarket implies 95% probability of higher open. Tape = headline-driven, not fundamental.
+- **WTI ~$92, Brent ~$95** — climbing on Iran supply-disruption fears. EIA inventories drew -7.2M last week, seventh straight weekly draw. Energy is the macro story.
+- **VIX 22.22 at Wed close (+11.83%)** — meaningful fear premium; pre-PPI levels last seen in early-Apr range.
+- **CPI Wed result (in-line headline, cool core):**
+  - Headline **+0.5% m/m / +4.2% y/y** — highest since Apr 2023, in-line consensus
+  - Core **+0.2% m/m / +2.9% y/y** — m/m UNDER 0.3% estimate (mildly cool)
+  - Energy +3.9% m/m drove >60% of all-items jump; gasoline +7% m/m, +40.5% y/y
+  - Read: hot energy headline masks cool services/core; Fed-relevant core favorable but oil shock = stagflation flavor
+- **🔴 TODAY 8:30am ET: May PPI release.** Consensus headline **+0.7% m/m** (vs prior +1.4%); y/y trader implied 5–6%. Hot in-line will reinforce sticky pipeline inflation; cool will partially offset CPI energy noise.
+- **🔴 TODAY 8:30am ET: Initial Jobless Claims** — secondary, but if rising = labor cooling = Fed cover.
+- **No EIA crude inv print today** (already came in Wed: big draw, oil bid persists).
+- **Earnings today:** ADBE (Adobe, after close — XLK), LEN (Lennar, BMO — homebuilder/XLF-adjacent). No direct XLI/XLP exposure. Adobe AH report = post-close tape risk only.
+- **Sector momentum YTD 2026 (updated):**
+  - **Leaders:** XLK ~+32-33%, **XLE ~+26-27%** (Iran-war beneficiary), **XLI ~+12%** (held), **XLP ~+7%** (held)
+  - **Improving:** XLU ~+5% — got hammered Wed on hawkish-rate energy-shock combo; deploy thesis dead
+  - **Lagging:** XLF/XLV soft
+- **Held-ticker reads:**
+  - **XLI:** down to $170.70 (-1.82% on cost), -1.82% premarket reflects industrial cost-input pressure from oil shock. Day 13 of seasoning. Trail $158.922 (~7.5% cushion from $170.70). Manual -7% cut $161.69 (~5.6% cushion). **First-time print red beyond -1% on cost.**
+  - **XLP:** $85.25 (+1.67% on cost). Defensive bid persisting in war-tape; oil-shock cost-line is a modest headwind for staples margins (PG, KO, PM) but flight-to-quality dominates near-term. Trail $78.0255 (~8.5% cushion). Manual -7% cut $77.98 (~8.5% cushion). **Healthy.**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. NO new orders today. Iran-war tape + pre-PPI binary = no clean signal.**
+
+Why no deploys today:
+1. **Iran-war headline regime** — every intraday tape is one Trump tweet from a 1-2% gap. Discretionary swing entries into headline-vol are -EV.
+2. **XLU thesis is dead post-CPI** — energy-driven hot headline + sticky CPI = no clean rate-relief bid. XLU got crushed Wed; defer indefinitely.
+3. **XLE is the obvious beneficiary** — Iran-war + 7-week inventory draws + $92 WTI = textbook setup. **BUT XLE remains blocked by the 2-failed-trade sector gate** per strategy rule 10. Rule binds unless explicitly reset in WEEKLY-REVIEW (Fri). The right move is to flag for Fri review, NOT override mid-day.
+4. **PPI 8:30am binary** — same no-trade window logic as Wed CPI. Wait for 9:30am cash open + 10:30am settle before any decision.
+5. **XLI is leaking** — the held sleeve doing the wrong thing on an oil shock. Adding to industrials into an oil-shock tape = compounding the wrong bet. SKIP.
+6. **XLB (Materials)** — ambiguous: cost-input pressure squeezes margins, but commodity-producer constituents benefit from price spikes. Mixed thesis = SKIP today.
+
+**Conditional watchlist (≤20% / $20,289 cap each):**
+
+1. **XLE — STILL BLOCKED.** Sector-gate rule binds. **Flag for Friday weekly review to consider explicit reset** given: (a) the war is a structural new catalyst not present at original 2 failed entries, (b) sector is YTD #2 leader at +26-27%, (c) 7 weeks of inventory draws. No action today.
+2. **XLB (Materials) — SKIP today.** Re-evaluate post-PPI; thesis needs PPI ≤ 0.5% m/m AND Iran-war de-escalation headline.
+3. **XLU — DEAD thesis** post-CPI energy print + hot rate-path; defer indefinitely.
+4. **XLK re-entry — SKIP** (ADBE earnings AH today = additional binary; reassess Fri after digest).
+5. **XLI add — SKIP** (already in sleeve, leaking on cost — do NOT compound).
+6. **XLF / XLV — SKIP** (lagging quadrant; no thesis).
+
+**Buy-Side Gate snapshot (academic — no deploy planned):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,289 cap at $101,447.40)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any non-blocked sector** ✗ — gate fails on this alone
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴🔴 Iran-war headline regime — dominant risk.** Any escalation/de-escalation tweet can gap SPX ±2% intraday. No discretionary entries until headline regime stabilizes.
+- **🔴 PPI 8:30am binary** — hot print (≥+1.0% m/m) compounds CPI energy + war risk-off; cool (≤+0.4%) gives partial relief.
+- **🔴 Initial Claims 8:30am** — secondary; rising claims = labor cooling = Fed cover, falling = rate-path tighter.
+- **🔴 XLI cushion shrinking** — first session beyond -1% on cost; trail $158.922 (~7.5%), manual cut $161.69 (~5.6%). If oil shock persists, sleeve at real risk. Monitor cut trigger closely; do NOT widen the stop.
+- **🟡 XLP cost-line pressure** — oil $92 squeezes packaged-goods margins, but defensive flight-to-quality dominates near-term. Watch for the rotation point if war de-escalates.
+- **🟡 ADBE earnings AH** — tech-sector AH binary; no direct held exposure but XLK move tomorrow could ripple into broad tape.
+- **🟢 SPX premarket +0.78%** — relief bounce off Wed's -1.62% rout; opening prints likely noisy. Wait for 60min settle.
+- **Capital drag PERSISTS:** 39.35% deployed vs 75-85% target — 36 pts below floor; fifth straight sub-40% session. Accepted cost of headline-vol discipline; **XLE gate reset is the realistic path to closing this gap.** Friday review is the lever.
+- **SPY proxy stale all phase** — Sharpe comparison deferred to Fri weekly review.
+
+### Decision
+
+**HOLD both positions; NO new trades today.** Trades this week stays 0/3; positions 2/6; deployment 39.35%.
+
+Action plan for today:
+
+1. **Pre-open (now through 9:30am ET):** trail stops live (XLI $158.922 / XLP $78.0255). No manual changes. No new orders. PPI + Claims print 8:30am — observe, do NOT trade the 8:30-9:30 window.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged; tag PPI print result; check XLI gap vs manual -7% cut $161.69.
+3. **🔴 9:30-10:30am ET = NO-TRADE settle window.** Headline-vol + PPI digest; opening prints are pure noise.
+4. **No deploys planned today.** XLE blocked; XLB ambiguous; XLU dead; XLI/XLP held; all others skip. If a clean tape emerges post-PPI AND Iran headlines de-escalate sharply, log thesis-creation in midday — do NOT discretion-deploy.
+5. **Intraday triggers (held positions):**
+   - XLI breaks $158.922 → trail fires; if breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $78.0255 → trail fires; if breaks $77.98 (-7% manual) → market sell, cancel trail.
+   - Fresh HWMs on either → auto-trail advance, no manual action.
+   - **XLI cushion check** — if intraday breaks $164 (-5.6% on cost, ~2% above manual cut), midday thesis review: hold-for-recovery vs voluntary cut. NOT a hard trigger.
+6. **/midday (~12pm ET) thesis check:** primary = XLI cushion vs cut trigger; secondary = XLP defensive bid persistence; tertiary = Iran headline regime + PPI digest.
+7. **No order action late-day** unless XLI breaks manual cut.
+8. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity. Position into Friday.
+9. **Friday Jun 12:** /weekly-review — **explicitly evaluate XLE sector-gate reset** given war catalyst. If reset approved, Mon Jun 15 = primary deploy window for XLE.
+
+Patience > activity. Today is a **defensive monitoring day in a headline-driven tape**. The 36-pt deployment gap is real, but Iran-war risk regime makes new entries -EV. The disciplined path is: defend XLI cushion through the oil shock, let XLP's defensive bid do its job, and use Friday's weekly review to unlock XLE if appropriate. **No regret from a no-trade day in a war-tape.**
