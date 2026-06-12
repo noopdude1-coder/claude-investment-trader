@@ -2986,3 +2986,91 @@ Patience > activity. Today is a **defensive monitoring day in a headline-driven 
 **Notification:** none (no action taken).
 
 **Next:** EOD /daily-summary at ~4pm ET. Friday Jun 12 /weekly-review — XLE gate reset evaluation.
+
+## 2026-06-12 — Pre-market Research (Fri, Week 7, day 5 — U Mich Sentiment 10am + post-rally digest)
+
+### Account (live, pre-open)
+- Equity: **$102,051.95** | Settled cash: **$61,527.40** | Buying power $359,578.34 (info only — cash account, 4x echo)
+- last_equity $101,963.91 → pre-open marks **+$88.04 (+0.09%)** essentially flat overnight
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $175.75 (+0.34% vs $175.15 prev close), **unrealized +$217.35 (+1.087%)**, trail 10% GTC @ $158.922 (HWM $176.58)
+  - **XLP 238 sh** @ avg $83.851513, current $85.35 (+0.09% vs $85.27 prev close), **unrealized +$356.64 (+1.787%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (no fills Mon-Thu)
+- Deployed: **$40,524.55 / $102,051.95 = 39.71%** — sixth straight session sub-40%
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+
+### Market Context
+- **🟢 Thu rally was huge — risk-on snapped back.** ESM26 closed **+1.73%**, NQM26 **+3.26%** — full reversal of Wed's -1.62% war-tape rout. Iran-shock headline regime appears to be releasing.
+- **🟢 SPX futures flat premarket** (ESM26 ~7,397, +0.02%) — digestion-mode after the rip, not a fade.
+- **🟢 WTI ~$86-87 / Brent ~$105** — oil **retreated** from Wed's $92 spike. Iran-shock premium being unwound but Brent-WTI spread remains wide (~$18) reflecting residual Hormuz risk. **This is a tailwind for XLI** (industrial cost-input pressure easing).
+- **🟢 VIX 19.44 at Thu close** (-12.5% from Wed's 22.22, -2.78 pts) — meaningful fear-premium decompression; under 20 for first time since Tue.
+- **🔴 TODAY 10:00am ET: U Mich Consumer Sentiment prelim June.** Consensus **46.0** vs May final **44.8** (record low). A miss-low (<44) signals consumer cracking under oil-shock + sticky-CPI; in-line/beat (≥47) reinforces risk-on. Also includes **1-yr and 5-10yr inflation expectations** — a 5-10yr jump above 4.8% (last print) = stagflation flavor confirmation.
+- **🟡 OPEC Monthly Oil Market Report today** — secondary; demand-outlook revision could move WTI/Brent.
+- **🟢 ADBE earnings AH yesterday** — beat/raise per pre-print expectations; rippled into post-close XLK tape. No held exposure but tape sentiment positive into Fri open.
+- **Earnings today (Fri):** Thin AM tape — small-caps only (RRGB, CRMT, NFE, MGTX, etc.). No held-ticker exposure, no broad-market mover.
+- **Sector momentum YTD 2026 (updated post-rally):**
+  - **Leaders:** XLK ~+32-33%, **XLE ~+26-27%** (war beneficiary still), **XLI ~+12%** (held — leadership), **XLP ~+11.89%** (held — defensive bid)
+  - **Improving:** XLB (Materials) up the leadership map per momentum trackers
+  - **Lagging:** XLF, XLV soft; XLU got crushed Wed on hawkish rates
+- **Held-ticker reads:**
+  - **XLI:** $175.75 (+1.087% on cost) — bounced **+2.94%** off Wed pre-open low ($170.70). Day 14 of seasoning. Tickeron flagged a 50-DMA break Jun 10, but Thu's rip largely reclaimed it. Trail $158.922 (~9.6% cushion). Manual -7% cut $161.69 (~8.0% cushion). **Healthy again.**
+  - **XLP:** $85.35 (+1.787% on cost) — second consecutive +1.7%+ print on cost; defensive bid holding through tape regime change. Tickeron: 78% odds of continued upward trend. Trail $78.0255 (~8.6% cushion). Manual -7% cut $77.98 (~8.6% cushion). **Healthy.**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. NO new orders today. Friday = weekly-review day; sector-gate reset evaluation belongs in /weekly-review, not pre-market.**
+
+Why no deploys today:
+1. **Friday + Fed-week wind-down** — historically thin alpha into weekend tape; avoid binding the 3/wk cap on a low-conviction entry one trading day before /weekly-review can unlock XLE properly.
+2. **U Mich Sentiment 10am binary** — same no-trade window logic as CPI/PPI. Wait for 10:00am print + 60-min settle before any decision. Today's no-trade window: 9:30-11:00am.
+3. **XLE remains gate-blocked** (rule 10, 2 failed trades). Per prior research-log plan, the explicit reset evaluation runs in **today's /weekly-review** — that's the disciplined path, not a mid-day discretionary override.
+4. **Held sleeves both green and healthy** — XLI back to +1.087%, XLP +1.787%. Adding more industrial/staples exposure pre-weekend = concentration risk for marginal alpha.
+5. **Yesterday's rip is suspicious** — ESM26 +1.73% / NQM26 +3.26% on de-escalation + cool-core CPI is real, but chasing it on a Friday into a sentiment binary = late-cycle FOMO. The clean entry was Wed's close, not Fri's open.
+
+**Conditional watchlist (≤20% / $20,410 cap each at current equity):**
+
+1. **XLE — STILL BLOCKED.** Sector-gate rule binds. **Today's /weekly-review is the formal forum** — evaluate reset given (a) Iran-war structural catalyst (new since original 2 failed entries), (b) YTD #2 leader status, (c) Brent-WTI spread sustained at ~$18. If reset approved → Mon Jun 15 = primary deploy window. **No action pre-market.**
+2. **XLB (Materials) — SKIP today.** Improving momentum but no clean single-day catalyst; ambiguous oil-cost pass-through. Re-evaluate in /weekly-review.
+3. **XLU — DEAD thesis** post-CPI energy print + hawkish dots; defer indefinitely.
+4. **XLK re-entry — SKIP** (post-ADBE digest tape; reassess in /weekly-review).
+5. **XLI / XLP add — SKIP** (already in sleeve, cushion adequate, no thesis to compound).
+6. **XLF / XLV — SKIP** (lagging quadrant; no thesis).
+
+**Buy-Side Gate snapshot (academic — no deploy planned):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,410 cap at $102,051.95)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any non-blocked sector** ✗ — gate fails on this alone
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 U Mich Sentiment 10am binary** — miss-low (<44) = consumer crack-signal, sells off XLP defensively (-ve mark for held); beat (≥47) = risk-on continuation, marginal +ve for XLI. 5-10yr inflation expectation >4.8% = stagflation print, ambiguous.
+- **🟡 OPEC Monthly Report** — demand revision could swing oil $1-3; small but watch for second-derivative XLI impact.
+- **🟡 Friday into weekend** — geopolitical headlines (Iran, Hormuz) carry weekend gap risk. No fresh long exposure pre-weekend is prudent.
+- **🟢 XLI cushion restored** — 9.6% trail cushion vs Wed's 7.5%. Sleeve safer than 48hrs ago.
+- **🟢 XLP defensive bid holding** — +1.787% on cost is the holding-period second-best print.
+- **🔴 Capital drag PERSISTS:** 39.71% deployed vs 75-85% target — 36 pts below floor; sixth straight sub-40% session. **XLE gate reset (in today's /weekly-review) is the realistic lever** to close this gap structurally.
+- **SPY proxy stale all phase** — Sharpe comparison runs in today's /weekly-review.
+
+### Decision
+
+**HOLD both positions; NO new trades today.** Trades this week stays 0/3; positions 2/6; deployment 39.71%.
+
+Action plan for today:
+
+1. **Pre-open (now through 9:30am ET):** trail stops live (XLI $158.922 / XLP $78.0255). No manual changes. No new orders.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged; tape-check XLI/XLP vs prev close.
+3. **🔴 9:30-11:00am ET = NO-TRADE settle window.** U Mich Sentiment 10am + 60-min digest. Opening prints + sentiment-binary noise.
+4. **No deploys planned today.** XLE blocked (pending /weekly-review reset eval); all others skip per pre-market thesis.
+5. **Intraday triggers (held positions):**
+   - XLI breaks $158.922 → trail fires; if breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $78.0255 → trail fires; if breaks $77.98 (-7% manual) → market sell, cancel trail.
+   - Fresh HWMs on either → auto-trail advance, no manual action.
+   - **XLI new HWM watch** — current $175.75 is $0.83 below HWM $176.58; a print >$176.58 ratchets trail to ~$158.922→new high. No +15%/+20% tighten triggers yet (XLI needs +$199.94 for +15%, XLP needs +$96.43 for +15%).
+6. **/midday (~12pm ET) thesis check:** primary = post-U-Mich tape direction; secondary = XLI/XLP cushion; tertiary = OPEC report digest.
+7. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity.
+8. **Friday EOD: /weekly-review** — **explicit XLE sector-gate reset evaluation**; Sharpe vs SPY computation; max DD vs RSP; process metrics (trades, deployment, signal-to-noise of Mon-Fri).
+
+Patience > activity. Today is **a defensive Friday into U Mich Sentiment**. The 36-pt deployment gap is real, but Fri pre-weekly-review is the wrong window to fire — discipline holds new exposure for /weekly-review's structured reset of XLE. **No regret from a no-trade Friday.**
