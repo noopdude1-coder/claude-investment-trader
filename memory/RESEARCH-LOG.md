@@ -3074,3 +3074,99 @@ Action plan for today:
 8. **Friday EOD: /weekly-review** — **explicit XLE sector-gate reset evaluation**; Sharpe vs SPY computation; max DD vs RSP; process metrics (trades, deployment, signal-to-noise of Mon-Fri).
 
 Patience > activity. Today is **a defensive Friday into U Mich Sentiment**. The 36-pt deployment gap is real, but Fri pre-weekly-review is the wrong window to fire — discipline holds new exposure for /weekly-review's structured reset of XLE. **No regret from a no-trade Friday.**
+
+## 2026-06-15 — Pre-market Research (Mon, Week 8, day 1 — Iran peace-deal gap-up; FOMC Wed)
+
+### Account (live, pre-open)
+- Equity: **$102,349.26** | Settled cash: **$61,527.40** | Buying power $360,410.81 (info only — cash account, 4x echo)
+- last_equity $102,213.26 → pre-open marks **+$136.00 (+0.13%)** essentially flat overnight (XLI +$195.50 intraday est, XLP -$59.50)
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $177.88 (+0.97% vs $176.18 prev close), **unrealized +$462.30 (+2.312%)**, trail 10% GTC @ $158.949 (HWM $176.61)
+  - **XLP 238 sh** @ avg $83.851513, current $85.57 (-0.29% vs $85.82 prev close), **unrealized +$408.99 (+2.049%)**, trail 10% GTC @ $78.0255 (HWM $86.695)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (week reset)
+- Deployed: **$40,821.86 / $102,349.26 = 39.88%** — seventh straight session sub-40%; eighth straight week below 75-85% target
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+
+### Market Context
+- **🟢🟢 IRAN-US PEACE DEAL HEADLINES OVER WEEKEND — REGIME FLIP.** WTI **~$81/bbl** (down ~20% from early-month $100+ peak on reports of interim US-Iran agreement reopening Strait of Hormuz). This is the **structural reversal** of the Jun 11 Iran-Hormuz war shock that drove the XLE sector-gate reset evaluation Fri. The war-premium thesis is unwinding in real time.
+- **🟢 SPX futures ripping premarket.** ESM26 **~7,524.75 (+1.21% / +89.75 pts)** extending Thu/Fri rally. NQM26 **+2.04%**, Dow **+0.90%** — broad risk-on gap-up on de-escalation tape.
+- **🟢 VIX 19.44** (Fri close) — held sub-20; gap-down likely on Mon open given peace-deal narrative.
+- **📅 THIS WEEK — light Mon, heavy mid-week, Fri CLOSED:**
+  - Mon Jun 15: NY Fed Survey of Consumer Expectations 11am (low-impact)
+  - Tue Jun 16: Housing Starts/Permits 8:30am
+  - **🔴 Wed Jun 17: Advance Retail Sales 8:30am + FOMC decision 2pm ET** — the binary day
+  - Thu Jun 18: Initial Claims, Philly Fed
+  - **🔴 Fri Jun 19: MARKET CLOSED (Juneteenth)** — effective 4-day trading week
+- **Earnings Mon:** BMO **nothing noteworthy**; AMC **ACN, KR, PLAY, DOMO, SWBI, LZB, WLY** — no held-ticker exposure, none broad-market movers pre-FOMC.
+- **Sector momentum (June 2026, updated post-rally):**
+  - **Leading:** **XLP** (held — +22% YTD per source), **XLI** (held), **XLB** (Materials, breaking out of long consolidation), XLE (now thesis-broken on peace deal)
+  - **Improving:** XLU (had a hawkish-dots crash Wed; risky into FOMC)
+  - **Weakening:** XLV
+  - **Lagging:** XLK (but Dell $51B AI backlog headline = re-entry catalyst forming), XLY, XLF
+  - Tickeron: **XLI broke above 50-DMA Jun 11** (uptrend signal); **XLP 10/50 DMA golden cross Jun 12** (uptrend signal). Both held sleeves confirmed-leading.
+- **Held-ticker reads:**
+  - **XLI:** $177.88 (+2.312% on cost) — fresh phase-best print on cost; current ABOVE HWM $176.61 → Alpaca auto-advance pending on first regular-session print. Oil down 20% = direct cost-input relief for industrials = tailwind compounding. Trail $158.949 (~10.6% cushion). Manual -7% cut $161.69 (~9.1% cushion). **Healthiest since entry.**
+  - **XLP:** $85.57 (+2.049% on cost) — slipping -0.29% pre-open on risk-on rotation away from defensives. Still HWM $86.695 (~$1.13 above current). Trail $78.0255 (~8.8% cushion). Manual -7% cut $77.98 (~8.9% cushion). **Healthy but defensives may lag today's risk-on tape.**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. Reverse the Fri XLE-reset deployment plan. NO new trades today.**
+
+**Why the Fri-approved XLE deploy is REVOKED (transparent reversal):**
+- Friday's /weekly-review APPROVED a discretionary reset of rule 10 for XLE with **Mon 6/15 as the top-priority deploy window**. The reset justification cited: (a) Iran-Hormuz war regime as a "structurally new catalyst regime," (b) Brent-WTI spread sustained at ~$18, (c) Brent ~$105 / WTI ~$87 supporting energy revenue thesis.
+- **All four conditions reversed over the weekend.** Iran-US peace-deal headlines collapsed WTI ~$100→$81 (-20%), compressed the Brent-WTI spread, and unwound the war-premium that was the entire reset basis. The regime that justified the reset is, 48hrs later, no longer the regime.
+- Mirror-logic: the same standard that approved the reset Fri (regime-change evidence) now reverses it Mon. Deploying XLE today on a peace-deal gap-up = chasing a thesis that just broke. Rule 10 reverts to BLOCKED for XLE pending the next /weekly-review with fresh regime evidence.
+- This is documented here pre-open so the Mon market-open routine has a clear NO-XLE directive; the next /weekly-review (Fri 6/19 is CLOSED → Mon 6/22) inherits this reversal as the standing state.
+
+**Why no alternate sleeve today either:**
+1. **Wed FOMC + Retail Sales binary** 48hrs away. Deploying Mon = exposure to a hawkish-Fed surprise on a gap-up entry. The clean entry was Thu close pre-rally, not Mon's +1.21% gap.
+2. **Mon = gap-up chase.** ESM26 +1.21% premarket on peace-deal headline = late entry by definition. Every candidate (XLB, XLK re-entry, XLU) is being repriced higher pre-open; gate-clearing a buy at the gap-high = textbook bad entry mechanics.
+3. **4-day trading week** (Fri closed Juneteenth). Burning a buy-cap slot Mon on a gap-up into a binary-Wed leaves Thu as the only clean follow-up day. Tue or Wed-post-FOMC are higher-quality entry windows.
+4. **Held sleeves both green and at/near phase-best on cost** — XLI at fresh-best +2.312%, XLP +2.049%. Sleeves are working; no urgency to overlay marginal exposure today.
+5. **Patience rule** explicitly says "a week with zero trades can be the right answer." Eight consecutive weeks at ~40% deployment is a calibration signal, but a Mon gap-up into a binary-Wed is not the answer to the under-deployment problem; quality entries are.
+
+**Conditional watchlist (≤20% / $20,469 cap each at current equity):**
+1. **XLB (Materials) — PRIMARY POST-FOMC CANDIDATE.** Leading momentum quadrant, "breaking out of long consolidation" per sector source. Catalyst: secular leadership rotation away from energy into materials/industrials. Entry: post-FOMC Wed 2pm+60min digest OR Thu open if FOMC clean. Stop: 7% below entry (rule 7-10%). Target: 15%+. Skip Mon/Tue gap-up.
+2. **XLK re-entry — SECONDARY CANDIDATE.** Catalyst: Dell $51B AI server backlog + AI capex narrative re-emerging; XLK previously banked +8.59% phase win Jun 5. Lagging on momentum map but AI tape recovery is the fresh catalyst. Entry: post-FOMC if FOMC dot-plot dovish; skip if hawkish (rates kill long-duration tech). Skip Mon gap-up.
+3. **XLE — BLOCKED again.** Rule 10 reverts pending fresh weekly-review evidence; peace-deal thesis-break revokes the Fri reset.
+4. **XLU — DEFER.** Was crushed Wed on hawkish dots; pre-FOMC = wrong window. Re-evaluate post-FOMC.
+5. **XLI / XLP add — SKIP** (already in sleeve, both at phase-best on cost, no thesis to compound).
+6. **XLF / XLV / XLY — SKIP** (Lagging/Weakening quadrants; no thesis).
+
+**Buy-Side Gate snapshot (academic — no deploy planned):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,469.85 cap at $102,349.26)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any non-blocked sector today** ✗ — gate fails on this alone (gap-up chase is not a catalyst)
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 Wed FOMC + Retail Sales** = the week's binary; no-trade window Wed 8:30-11am (retail print + digest) AND Wed 1:30-3:30pm (FOMC + Powell presser + digest).
+- **🔴 Iran peace-deal whiplash risk** — interim agreement reports could collapse on a single tweet; pre-weekend a deal-falling-apart scenario reverses the entire weekend gap. **A reversal scenario = XLE thesis re-validates, but on a gap-down entry, not chased here.**
+- **🟢 XLI cushion at phase-high** — ~10.6% trail cushion + oil-cost relief tailwind compounding. Sleeve safest it's been since entry.
+- **🟡 XLP defensive bid may erode** on risk-on rotation today — current -0.29% pre-open consistent with rotation out of staples into cyclicals/tech. Watch +2.049% cushion if it slips below +1.0% on the day.
+- **🔴 Capital drag PERSISTS:** 39.88% deployed vs 75-85% target — 36 pts below floor. Today's revoked XLE deploy means the structural deployment lever is back in queue. **Realistic path: XLB post-FOMC Wed/Thu = best Q3 deploy window.**
+- **SPY proxy still wide** (ap $762.94 / bp $718.43, $44.51 spread — useless for daily proxy). Phase-long stale-quote issue unresolved.
+
+### Decision
+
+**HOLD both positions; NO new trades today; XLE deploy plan REVOKED on weekend thesis-break.** Trades this week stays 0/3; positions 2/6; deployment 39.88%.
+
+Action plan for today:
+
+1. **Pre-open (now through 9:30am ET):** trail stops live (XLI $158.949 / XLP $78.0255). No manual changes. No new orders. **No XLE buy** despite Fri /weekly-review approval — reversal documented above.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged; tape-check XLI/XLP vs prev close. **XLI HWM watch:** current $177.88 ABOVE HWM $176.61 — first regular-session print >$176.61 advances trail to ~$160.09 (auto). XLP HWM $86.695 ~$1.13 above current; no advance imminent.
+3. **No deploys planned today.** All candidates skip per pre-market thesis. XLE revoked, XLB/XLK deferred to post-FOMC.
+4. **Intraday triggers (held positions):**
+   - XLI breaks $158.949 → trail fires; if breaks $161.69 (-7% manual) → market sell, cancel trail.
+   - XLP breaks $78.0255 → trail fires; if breaks $77.98 (-7% manual) → market sell, cancel trail.
+   - Fresh HWMs on either → auto-trail advance, no manual action. XLI advance imminent on first session print >$176.61.
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+12.4% away); XLP fires at close ≥ $96.43 (~+12.7% away). Not imminent.
+5. **/midday (~12pm ET) thesis check:** primary = XLI behavior on oil-down tailwind (does +2.31% extend or fade?); secondary = XLP defensive-rotation drag; tertiary = monitor for any Iran-deal-collapse headline reversing the gap.
+6. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity. Confirm XLI HWM advance if held.
+7. **Tue 6/16 pre-market:** re-evaluate XLB entry if Mon close holds the gap and Tue tape stable pre-Housing-Starts. If FOMC repricing already in the tape Mon close, Tue becomes the cleaner XLB window.
+8. **Wed 6/17:** NO-TRADE windows 8:30-11am ET (retail sales) AND 1:30-3:30pm ET (FOMC + Powell). Pre-FOMC pre-market entry only if XLB pulls back to a defined level (TBD Tue EOD).
+
+Patience > activity. **Today's discipline = revoking a 48-hr-old plan when the underlying thesis breaks, not executing it on autopilot.** Eight straight weeks under-deployed is a real gap, but Mon gap-up into binary-Wed is the wrong window to fire. The XLB post-FOMC window is the next quality entry; preserve the buy cap for it.
