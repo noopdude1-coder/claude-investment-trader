@@ -3270,3 +3270,94 @@ Action plan for today:
 8. **Thu 6/18 pre-market:** XLB entry decision based on Wed FOMC tone. If dovish dot-plot → XLB deploy Thu open or first pullback. If hawkish → no XLB, hold sleeves, defer to next /weekly-review.
 
 Patience > activity. **Today's discipline = NOT chasing Mon's gap-up into Wed's binary.** XLI auto-trail did the work overnight (+$3.033 ratchet); held sleeves at phase-best on cost. The XLB-Thu-post-FOMC window is the structurally correct deploy. Tue pre-FOMC entry = the same mistake that revoking-XLE-Mon avoided. **Mirror-logic discipline preserves the buy cap for Thu.**
+
+## 2026-06-17 — Pre-market Research (Wed, Week 8, day 3 — FOMC BINARY DAY; Warsh's first meeting; Retail Sales 8:30am)
+
+### Account (live, pre-open)
+- Equity: **$102,393.26** | Settled cash: **$61,527.40** | Buying power $360,534.02 (info only — cash account, 4x echo)
+- last_equity $102,580.57 → pre-open marks **-$187.31 (-0.18%)**, driven entirely by XLP's overnight mark-down (-$0.787 to $84.803 vs lastday $85.59 = -0.92% intraday). XLI flat at $179.85.
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $179.85 (flat today), **unrealized +$688.85 (+3.445%)**, trail 10% GTC @ **$162.99** (HWM **$181.10** — advanced overnight from $179.98, trail auto-ratchet $161.982 → $162.99 = +$1.008)
+  - **XLP 238 sh** @ avg $83.851513, current $84.803 (-0.919% vs $85.59 lastday), **unrealized +$226.45 (+1.135%)**, trail 10% GTC @ $78.0255 (HWM $86.695 unchanged)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (Mon revoked-XLE, Tue HOLD per FOMC-binary discipline)
+- Deployed: **$40,865.86 / $102,393.26 = 39.91%** — ninth straight session sub-40%; tenth straight week below 75-85% target
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+- **Cumulative phase:** equity $102,393.26 vs $100k baseline = **+2.39%**, off prior phase-high $102,603.79 (Jun 13) by ~$210
+
+### Market Context
+- **🟢 Iran peace-deal regime EXTENDING.** WTI **$75.24 (-1.07%)** — extending the slide; now ~22-25% off early-June war peak (~$100). Brent unsourced live but Polymarket implied $76-80 range. Cost-input relief continues to support industrials/transports/staples-margin.
+- **🟡 SPX futures MIXED-to-flat pre-open.** Source spreads wide: ESM26 Markets Insider $7,523.25 (+0.06%); MarketWatch $7,536 (+0.23%); Yahoo $7,587 (range 7,581-7,605). Cash close Mon was ~7,554 — net read: essentially flat, no directional pre-open conviction into FOMC. Dow futures -0.05%, Nasdaq +0.50% = tech-led slight bid.
+- **🟡 VIX 16.41 (+0.21 / +1.30%)** — creeping from yesterday's 16.20. Still sub-18 (green-light zone) but uptick = market starting to price binary tail. Pre-FOMC VIX uptick is normal mechanics.
+- **🔴 TODAY'S BINARY (highest-impact session of the week):**
+  - **8:30am ET Retail Sales May:** consensus **+0.5% MoM** (prior +0.5%). Tariff narrative live (April was +0.5% nominal but real -0.2% on tariff pass-through). Chicago Fed nowcast -0.3% = downside risk. Beat = risk-on; miss = recession-creep narrative + dovish-Fed cover.
+  - **🔴 2:00pm FOMC decision:** ~**97% priced HOLD** at 3.50-3.75% per CME FedWatch. Decision itself is settled.
+  - **🔴 2:00pm Dot Plot (THE binary):** March median = 3.4% (= 1 cut in 2026). Market now prices 0 cuts, with 42-55% odds of a hike. If June median stays at 3.4% = dovish (Warsh defends prior path against hot CPI); if it moves to 3.6%+ = hawkish concession to market = risk-off catalyst.
+  - **🔴 2:30pm Warsh first presser:** Unknown-tone Fed chair; rhetoric risk higher than typical FOMC. Warsh reputation: dovish on rates (AI-productivity-as-disinflation), hawkish on balance sheet.
+- **Earnings Wed:** **JBL** ($3.08 est BMO) — Florida industrial-AI hardware play, not in held sleeves but a Materials/Industrials sentiment ticker; beat could ripple to XLI. **KMX** ($1.02 est BMO) — Consumer Discretionary, no sector overlap. AMC: SWBI, CGC (neither material).
+- **Sector momentum (Schwab June refresh):**
+  - **XLK** trailing 6m +18.7%, 12m +52.7% — still tape leader
+  - **XLI** trailing 6m +13.1%, 12m +23.7% — strong cyclical, **Schwab "More Favored"**
+  - **XLP** trailing 6m +9.9%, 12m +8.3% — laggard on trailing-perf, but defensive-bid intact; held thesis = low AI-correlation + valuation
+  - Energy 6m +35.3% / 12m +50.0% (war-driven) — peace-deal repricing pending; thesis-broken for held-sleeve eligibility
+- **Held-ticker reads:**
+  - **XLI:** $179.85 (+3.445% on cost — **new phase-high on cost**). HWM advanced overnight to $181.10 (Tue intraday print); trail auto-advanced $161.982 → **$162.99** (+$1.008 ratchet); cushion **9.37%** ($16.86 abs). Tickeron 6/15: broke above upper Bollinger = overbought / pullback signal — noted but trail-protected. Tickeron 6/11: above 50-DMA + Aroon uptrend + Momentum>0 = confirmed cyclical rotation. **Aerospace 24.4% / Machinery 21.2% / Electrical 13.9%** = AI-capex + reshoring + oil-down tailwind compounding. Best XLI position since entry.
+  - **XLP:** $84.803 (+1.135% on cost) — pulled back overnight ~92bps. HWM $86.695 unchanged. Trail $78.0255 (cushion **8.00%**, $6.78 abs). Manual -7% cut $77.98 (~8.0% cushion). Pre-FOMC defensive-rotation drag = normal — defensives lag into known-binary windows because hedgers position pre-event, not after. Thesis intact; trail handles downside mechanically.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. No new trades today. ZERO-trade Wed locked in per yesterday's plan.**
+
+**Why NO-TRADE Wed is the only defensible call:**
+1. **Two binary windows today.** 8:30-11am (retail print + digest) and 1:30-3:30pm (FOMC + Warsh presser). Any Tue/Wed entry exposes a new position to a 7% stop on FOMC tail-vol with zero recovery runway — textbook forced-flush mechanics.
+2. **Warsh = unknown-tone Fed chair.** First presser carries elevated rhetoric risk regardless of dot-plot tone. Dot might stay at 3.4% (dovish) but Warsh could deliver hawkish balance-sheet language that flips the tape. Two-variable binary > one-variable binary.
+3. **Mon gap-up already in the tape.** Every "Mon-rally chase" candidate has the +1.7% repricing baked in. Catch-up trade pre-FOMC = late entry into binary = dominated by every other entry timing.
+4. **Held sleeves are working.** XLI at fresh phase-high (+3.445% on cost); trail auto-ratcheted overnight (+$1.008 free move); XLP within tight defensive band. No urgency to overlay marginal exposure pre-binary.
+5. **Dot-plot path-clarity is the unlock.** Thu post-FOMC is the structurally correct deploy window — same logic that worked for revoking-XLE Mon and deferring-XLB Tue. Mirror-logic discipline.
+
+**Thu 6/18 watchlist (CONDITIONAL on Wed FOMC tone — ≤20% / $20,479 cap at $102,393 equity):**
+1. **XLB (Materials) — PRIMARY for Thu IF dovish/neutral dots.** Leading quadrant per Clearbrook (+3.00% last week, sector top). Trigger: Wed 2pm median dots stay at 3.4% OR move to 3.5% (neutral). Entry: Thu open or first pullback. Stop: 7-10% below entry. Target: 15%+. SKIP if Wed dots move to 3.6%+ (hawkish concession).
+2. **XLK re-entry — SECONDARY for Thu IF dovish dots + tech leads.** AI capex narrative compounding (BAC top June pick: NVDA, AAPL; Schwab "AI build-out boom" framing). Lagging-quadrant entry = counter-trend bet but XLK 6m +18.7% says tape-leadership is real. SKIP if hawkish dots or if XLB takes the only buy-slot.
+3. **XLI add — SKIP.** Already at phase-high; sector concentration breach; Tickeron overbought signal argues against adding now.
+4. **XLE — BLOCKED.** Peace-deal thesis-break stands. Re-evaluate at Mon 6/22 /weekly-review.
+5. **XLU — DEFER post-FOMC.** Hawkish-dots risk crushes rate-sensitive sleeve.
+6. **XLF / XLV / XLY / XLC — SKIP** (Lagging/Weakening; no thesis catalyst).
+
+**Buy-Side Gate snapshot (academic — no deploy planned):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,478.65 cap at $102,393.26)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any sector pre-FOMC** ✗ — gate fails (sector momentum is not a same-day catalyst; today's catalyst IS the FOMC, which argues against pre-event entry)
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴🔴 FOMC + Dot Plot + Warsh-presser = triple binary today.** 2:00pm rate decision (97% hold = priced); 2:00pm dots (3.4% hold = dovish surprise vs market; 3.6%+ = hawkish concession); 2:30pm Warsh presser (unknown-tone rhetoric risk). NO-TRADE windows: 8:30-11am ET (retail) AND 1:30-3:30pm ET (FOMC + presser).
+- **🔴 Retail Sales 8:30am asymmetric.** Consensus +0.5% but Chicago Fed -0.3% nowcast = downside-skew. Miss = recession-creep + dovish-Fed cover (mixed read for risk); beat = hot consumer + hawkish-dot validation (risk-off). Tariff-driven nominal beat with real-soft = worst of both worlds.
+- **🟡 VIX 16.41 (+1.30%)** — creeping but still sub-18. Asymmetric tail-risk priced thin into binary; surprise downside has compounding payoff (not in our toolkit — stocks only).
+- **🔴 Iran deal-collapse tail risk persists** — single tweet can reverse the WTI / risk-on regime. Held sleeves have indirect exposure via broad-market drawdown only (no held XLE).
+- **🟢 XLI cushion at phase-high** — trail auto-ratcheted overnight; ~9.37% cushion + Tickeron uptrend confirms. Overbought signal noted but trail-protected.
+- **🟡 XLP overnight drawdown -92bps** — defensive rotation drag into binary; if continues into 9:30 open could test trail-cushion math. Still 8.0% from trail; not actionable pre-FOMC.
+- **🔴 Capital drag PERSISTS:** 39.91% deployed vs 75-85% target — 35 pts below floor. **Thu post-FOMC XLB = best (only?) deploy window this week.** Fri Juneteenth closed.
+- **🟡 4-day week mechanics:** 2 trade windows left after today (Thu). Wed = no-trade binary. Mon 6/22 next /weekly-review reset.
+- **🟡 XLI Tickeron overbought (above upper Bollinger 6/15)** — internal signal flags pullback risk; trail at $162.99 absorbs noise; no manual action.
+
+### Decision
+
+**HOLD both positions; NO new trades today; XLB DEFERRED to Thu post-FOMC per Wed dot-plot read.** Trades this week stays 0/3; positions 2/6; deployment 39.91%.
+
+Action plan for today:
+
+1. **Pre-open (now through 9:30am ET):** trail stops live (XLI $162.99 / XLP $78.0255). No manual changes. No new orders. Retail Sales 8:30am ET = digest before any action; 9:00-9:30am pre-bell tape settles.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged; tape-check XLI/XLP vs Tue close + retail-sales reaction. **XLI HWM watch:** current $179.85 below HWM $181.10 — print >$181.10 advances trail to ~$162.99+. XLP HWM $86.695 (~$1.89 above current); no advance imminent. **NO new buys**, period.
+3. **8:30-11am ET = NO-TRADE WINDOW.** Retail digest. Even if XLI/XLP gap, trail handles mechanically.
+4. **11am-1:30pm ET:** monitoring window only. If XLI prints above $181.10 → log HWM advance for /midday. If XLP slides toward $83 → cushion math still solid.
+5. **1:30pm-3:30pm ET = NO-TRADE WINDOW.** FOMC decision 2pm + dot plot + Warsh presser. All trail stops live, manual sell only if -7% manual cut breaches (XLI $161.69 / XLP $77.98 — both ~$15-$7 below current, not imminent).
+6. **/midday (~12pm ET) check:** primary = XLI behavior post-retail (does +3.445% extend, hold, or fade?); secondary = XLP rotation drag; tertiary = scan for held-ticker headlines (none expected).
+7. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity; **CRITICAL — read dot plot median + Warsh presser tone**; pre-stage Thu plan:
+   - If dots **stay at 3.4% OR move to 3.5%** (dovish/neutral) → XLB Thu deploy primary; XLK re-entry secondary if tech leads.
+   - If dots **move to 3.6%+** (hawkish concession) → no XLB; hold sleeves; defer to /weekly-review Mon 6/22.
+   - If **Warsh presser hawkish balance-sheet** language → hawkish-equivalent regardless of dot read; same defer logic.
+8. **Thu 6/18 pre-market:** execute conditional plan based on tonight's read. Fri closed (Juneteenth).
+
+Patience > activity. **Today's discipline = NOT firing into the highest-impact binary of the quarter.** XLI auto-trail keeps doing the work (+$1.008 overnight ratchet); held sleeves at fresh phase-best. The XLB-Thu-post-FOMC window is the structurally correct deploy. **Triple-binary day (retail + dots + Warsh-debut) = the textbook NO-TRADE setup.** Mirror-logic discipline preserves the buy cap for Thu.
