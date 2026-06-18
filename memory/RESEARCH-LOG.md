@@ -3361,3 +3361,97 @@ Action plan for today:
 8. **Thu 6/18 pre-market:** execute conditional plan based on tonight's read. Fri closed (Juneteenth).
 
 Patience > activity. **Today's discipline = NOT firing into the highest-impact binary of the quarter.** XLI auto-trail keeps doing the work (+$1.008 overnight ratchet); held sleeves at fresh phase-best. The XLB-Thu-post-FOMC window is the structurally correct deploy. **Triple-binary day (retail + dots + Warsh-debut) = the textbook NO-TRADE setup.** Mirror-logic discipline preserves the buy cap for Thu.
+
+## 2026-06-18 — Pre-market Research (Thu, Week 8, day 4 — POST-FOMC; HAWKISH dots; last trade day pre-Juneteenth)
+
+### Account (live, pre-open)
+- Equity: **$102,342.64** | Settled cash: **$61,527.40** | Buying power $360,392.27 (info only — cash account, 4x echo)
+- last_equity $102,097.24 → pre-open marks **+$245.40 (+0.24%)** despite hawkish FOMC: XLI marked +0.96% intraday on cost, XLP +0.24% intraday. Both sleeves digested the hawkish dot plot without damage — XLI on AI-capex/cyclical bid, XLP on flight-to-defensives.
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ avg $173.86, current $181.32 (+0.96% today), **unrealized +$857.90 (+4.291%)** — **new phase-high on cost**; trail 10% GTC @ **$164.097** (HWM **$182.33** — advanced overnight from $181.10, trail auto-ratchet $162.99 → $164.097 = **+$1.107 ratchet**)
+  - **XLP 238 sh** @ avg $83.851513, current $83.88 (+0.24% today), **unrealized +$6.78 (+0.034%)** — barely positive, but defensive bid intact post-FOMC; trail 10% GTC @ $78.0255 (HWM $86.695 unchanged)
+- Open orders: 2 (both trail stops, GTC, qty_available=0)
+- Trades this week: **0 / 3** (Mon revoked-XLE, Tue HOLD pre-FOMC, Wed HOLD per binary, **Thu HOLD per hawkish-dot-plan** — full zero-trade week locked in)
+- Deployed: **$40,815.24 / $102,342.64 = 39.85%** — tenth straight session sub-40%; eleventh straight week below 75-85% target
+- Realized phase: +$1,711.71 from Jun 5 XLK trail exit
+- **Cumulative phase:** equity $102,342.64 vs $100k baseline = **+2.34%**
+
+### Market Context — POST-FOMC RESET
+- **🔴 FOMC FLIPPED HAWKISH (6/17).** Held at 3.50-3.75% (unanimous), but **dot plot median 3.4% → 3.8%** (above our 3.6% hawkish threshold). **Half of FOMC (9 of 18) projects ≥1 hike in 2026**; CME-implied Dec hike odds **24% → 77%** post-meeting; some now pricing October hike. Warsh removed forward guidance, declined to submit own dot. Stocks closed risk-off — Dow -507pts (-0.98%); S&P -1.6% per CNBC (Schwab shows -0.57%); bond yields up, dollar stronger, rate-sensitive sleeves hit hardest. **This is the explicit "≥3.6% = hawkish concession → defer" branch from yesterday's contingent plan.**
+- **🟢 VIX 17.10 (-1.34 / -7.27%)** — binary-event relief; below 18 green-light zone restored. FOMC volatility crush as expected. But this is calm-AFTER, not calm-INTO — directional read is now bearish-trend not vol-spike.
+- **🟡 SPX futures soft pre-open.** ES Jun 7,492.75 vs Wed cash close ~7,420 (CNBC) or ~7,511 (Schwab) — sources spread. Read: digesting hawkish hangover, not a continuation rally. Premarket commentary characterizing tone as "Fed turned hawkish, global markets face more pressure."
+- **🟢 WTI $75.33-$75.60 (-1.55%);** Brent ~$77.5. Peace-deal regime extending; 22-25% off early-June war peak (~$100). Cost-input relief intact — supports industrials/staples-margin. **Oil-down + hawkish-Fed = stagflation-fade tape (rare combo; defensives + cyclicals with pricing-power benefit).**
+- **🟡 Today's data (8:30am ET):**
+  - **Initial Jobless Claims** (consensus 225K, prior 229K) — labor-cooling read; miss-high = recession-creep risk; print-low = hawkish-Fed validation
+  - **Philly Fed Manufacturing** (consensus 9.8, prior 11.0) — modest cooling expected; surprise-down on a hawkish-Fed day = double-hit on cyclicals
+  - Both pre-bell; not in NO-TRADE window per protocol but high-impact context for sleeve reads
+- **Earnings BMO:** **ACN** ($3.70 est, $18.78B rev) — biggest read of the morning; AI-consulting bellwether. Strong-AI guide = XLK tailwind, weak-AI guide = sector-wide rerate. Not in held sleeves but cross-reads to industrials/AI-capex theme. KR (Kroger) — Consumer Staples; relevant cross-read for XLP sleeve.
+- **Sector momentum (post-FOMC update needed; pre-meeting Schwab refresh):**
+  - **XLK** 6m +18.7%, 12m +52.7% — leader, but multiple-compression risk from higher-for-longer rates
+  - **XLI** 6m +13.1%, 12m +23.7% — held sleeve at phase-high; AI-capex/defense/reshoring intact regardless of Fed path
+  - **XLP** 6m +9.9%, 12m +8.3% — defensive bid validated by hawkish-Fed regime; rotation into safety extends
+  - **XLF** — hawkish dots = NIM-expansion tailwind structurally, but no specific catalyst today; not pre-planned in yesterday's watchlist
+  - **XLE** — peace-deal thesis-break stands; oil at $75 keeps re-entry blocked
+  - **XLU / XLB / XLY** — rate-sensitive / cyclical-without-pricing-power; hawkish hit
+- **Held-ticker reads:**
+  - **XLI** at $181.32 = **+4.291% on cost (phase-high)**. HWM $182.33; trail auto-ratcheted overnight $162.99 → **$164.097** (+$1.107 free move); cushion **9.50%** ($17.22 abs). Manual -7% cut $161.69 (~10.8% cushion). Tickeron: upper-Bollinger break 6/15 (overbought) + Momentum>0 + Aroon uptrend (mixed signals — short-term pullback risk vs trend-confirm). Aerospace 24.65% / Machinery 21.34% / Electrical 13.76% = AI-capex/defense/reshoring intact. **Best sleeve since entry; trail handles any pullback mechanically.**
+  - **XLP** at $83.88 = **+0.034% on cost** (barely positive). HWM $86.695 unchanged. Trail $78.0255 (cushion **7.00%**, $5.85 abs). Manual -7% cut $77.98 (~7.0% cushion). Tickeron: 10-DMA above 50-DMA bullish cross 6/12; sector led 6/12 (+1.70%). Defensive thesis REINFORCED by hawkish-Fed flight-to-quality. **No-action; let defensive rotation work.**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. No new trades today. XLB CANCELLED per yesterday's hawkish-branch plan. Mon 6/22 /weekly-review = next deploy decision window.**
+
+**Why HOLD is the only defensible call (and why the conditional plan held):**
+1. **Hawkish dots = explicit "defer" trigger.** Yesterday's plan stated: "If dots move to 3.6%+ (hawkish concession) → no XLB; hold sleeves; defer to /weekly-review Mon 6/22." 3.8% > 3.6% → branch executes. Reverse-engineering a new thesis (e.g., XLF on NIM-expansion) the morning after = post-hoc rationalization, not strategy.
+2. **Tomorrow Juneteenth = no recovery runway.** Any entry today exposes a new position to a 7% stop into a 3-day weekend with zero adjustment window. T+1 settlement = even if filled today, settlement Mon = no Fri repositioning.
+3. **Capital drag persists at 39.85%** — acknowledged, but mirror-logic discipline says capital-drag is not a buy catalyst. It's a state, not a thesis.
+4. **Held sleeves are working.** XLI at fresh phase-high (+4.291% on cost); trail auto-ratcheted overnight (+$1.107 free move); XLP defensive sleeve VALIDATED by hawkish-Fed regime. No urgency to overlay marginal exposure.
+5. **Mon 6/22 = clean reset.** /weekly-review computes Sharpe vs SPY, max DD, sector momentum refresh under post-FOMC regime. Deploy decision under fresh data > pre-empt under stale watchlist.
+
+**Watchlist for Mon 6/22 /weekly-review (CONDITIONAL on Fri-post-Juneteenth setup):**
+1. **XLF (Financials) — NEW PRIMARY under hawkish regime.** NIM-expansion thesis on higher-for-longer rates is structurally correct; sector tends to outperform in hawkish-Fed/strong-USD regimes. Re-evaluate at Mon /weekly-review with sector-momentum refresh. Trigger: explicit sector-leadership in post-FOMC tape (Mon recap) AND specific catalyst (bank earnings begin Q2 mid-July).
+2. **XLP add — SECONDARY.** Defensive thesis VALIDATED by hawkish dots; if Mon momentum refresh shows XLP in leading quadrant, sector concentration is appropriate (one held sleeve, room for cyclical-add). But position cap at $20,478 = no add beyond rule.
+3. **XLI add — SKIP.** Already at phase-high; sector concentration breach; Tickeron overbought signal argues against adding on top.
+4. **XLB / XLK / XLU / XLY — DEFER or SKIP** under hawkish regime; rate-sensitive sleeves crushed by higher-for-longer rates.
+5. **XLE — BLOCKED.** Peace-deal thesis-break stands.
+
+**Buy-Side Gate snapshot (academic — no deploy planned today):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,468.53 cap at $102,342.64)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any sector under explicit hawkish-branch defer plan** ✗ — gate fails by design
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 Hawkish-Fed regime now PRIMARY tape driver.** Higher-for-longer rates compress multiples on growth/rate-sensitive sleeves; lift bid on defensives + NIM-expanders (XLF). Sector leadership likely rotates this week — Mon 6/22 momentum refresh = key data point.
+- **🟡 Triple-witching today (quarterly options/futures expiry).** Adds intraday volatility, especially in mega-cap names and SPY/QQQ flows. Held ETF sleeves less exposed than single names but tape-choppiness elevated.
+- **🟢 VIX 17.10 (-7.27%)** — binary-event vol crush done; trend-direction now bearish-not-spiky.
+- **🟢 XLI cushion at phase-high** — trail auto-ratcheted +$1.107 overnight; ~9.50% cushion + AI-capex/reshoring/defense thesis bulletproof. Manual cut $161.69 (~10.8%).
+- **🟢 XLP defensive-bid VALIDATED** — hawkish-Fed = flight-to-quality regime favors staples sleeve. Cushion 7.00% + sector leadership 6/12 + 10-DMA/50-DMA bullish cross 6/12.
+- **🔴 Capital drag PERSISTS:** 39.85% deployed vs 75-85% target — 35 pts below floor. **Eleventh straight week below floor.** Mon 6/22 /weekly-review = first opportunity to deploy under post-FOMC regime; XLF emerges as new primary candidate.
+- **🟡 Juneteenth Fri 6/19 closed.** 3-day weekend = no adjustment window for any new position entered today. T+1 settlement compounds = funds entered today settle Mon = real exposure overhang.
+- **🔴 Iran deal-collapse tail risk persists** — single tweet flips WTI/risk regime. No held XLE = only broad-market drawdown exposure.
+- **🟡 Today's data (8:30am):** Jobless claims (225K cons) + Philly Fed (9.8 cons). Hot-claims = recession-creep + dovish-Fed cover (mixed); soft-Philly = cyclical headwind on XLI. Neither material enough to override hold.
+- **🟡 ACN earnings BMO** — AI-consulting bellwether; weak guide → cross-read to XLK weakness → broad-tape pressure. Not in held sleeves but tape-context driver.
+
+### Decision
+
+**HOLD both positions; NO new trades today; XLB CANCELLED per hawkish-FOMC contingent plan; XLF emerges as new primary candidate for Mon 6/22 /weekly-review.** Trades this week stays **0/3** (full zero-trade week locked in); positions 2/6; deployment 39.85%.
+
+Action plan for today:
+
+1. **Pre-open (now through 9:30am ET):** trail stops live (XLI $164.097 / XLP $78.0255). No manual changes. No new orders. Jobless claims + Philly Fed 8:30am = digest before any action; ACN earnings BMO = cross-read for tape.
+2. **Market-open routine (9:30am):** verify trail stops still active; confirm settled cash $61,527.40 unchanged; tape-check XLI/XLP vs Wed close + hawkish-FOMC reaction. **XLI HWM watch:** current $181.32 below HWM $182.33 — print >$182.33 advances trail to ~$164.097+. XLP HWM $86.695 (~$2.82 above current); no advance imminent. **NO new buys**, period.
+3. **No deploys today.** XLB cancelled; XLF deferred to Mon /weekly-review; all other candidates skip per hawkish regime.
+4. **Intraday triggers (held positions):**
+   - XLI breaks **$164.097** → trail fires; if breaks $161.69 (-7% manual) → covered by trail.
+   - XLP breaks **$78.0255** → trail fires; if breaks $77.98 (-7% manual) → covered by trail.
+   - Fresh HWMs on either → auto-trail advance, no manual action.
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+10.3% away); XLP fires at close ≥ $96.43 (~+15.0% away). Not imminent.
+5. **/midday (~12pm ET) thesis check:** primary = XLI behavior post-hawkish-FOMC + post-claims (does +4.291% extend, hold, or fade on hawkish-multiple-compression?); secondary = XLP defensive-bid extension; tertiary = ACN earnings cross-read for tape direction.
+6. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity; confirm XLI HWM advance if printed >$182.33; pre-stage Mon 6/22 plan with XLF primary, XLP add secondary.
+7. **Fri 6/19 Juneteenth CLOSED.** No /pre-market routine. Mon 6/22 = /weekly-review + /pre-market (combined).
+8. **Mon 6/22 pre-market + weekly-review:** execute XLF deploy decision based on post-FOMC sector-momentum refresh + Sharpe-vs-SPY reconciliation. If XLF in leading quadrant + ACN earnings tape-positive (Thu BMO) → XLF primary. If hawkish-Fed digest extends pain to financials too → defer + tighten thesis.
+
+Patience > activity. **Today's discipline = NOT chasing capital-drag-pressure into a 3-day weekend after a hawkish-Fed flush.** XLI auto-trail keeps doing the work (+$1.107 overnight ratchet); held sleeves at fresh phase-best (XLI +4.291%) or validated-defensive (XLP +0.034%). The Mon-post-Juneteenth /weekly-review window is the structurally correct deploy point under the new hawkish regime. **Mirror-logic discipline preserves the buy cap for Mon's clean reset.** Eleventh straight week below 75-85% floor — acknowledged, not actioned. The rule is the rule.
