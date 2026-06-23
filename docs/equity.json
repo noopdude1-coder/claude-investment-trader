@@ -938,7 +938,7 @@
         "entry": 173.86,
         "current": 179.6,
         "stop": 164.097,
-        "unrealized_pct": 3.30
+        "unrealized_pct": 3.3
       },
       {
         "symbol": "XLP",
@@ -980,7 +980,7 @@
     "date": "2026-06-19",
     "equity": 102157.45,
     "spy_close": null,
-    "day_pl_pct": 0.00,
+    "day_pl_pct": 0.0,
     "phase_pl_pct": 2.16,
     "trades_today": 0,
     "open_positions": [
@@ -996,7 +996,7 @@
         "symbol": "XLP",
         "shares": 238,
         "entry": 83.851513,
-        "current": 83.30,
+        "current": 83.3,
         "stop": 78.0255,
         "unrealized_pct": -0.66
       }
@@ -1014,7 +1014,7 @@
         "symbol": "XLI",
         "shares": 115,
         "entry": 173.86,
-        "current": 181.80,
+        "current": 181.8,
         "stop": 164.628,
         "unrealized_pct": 4.57
       },
@@ -1025,6 +1025,32 @@
         "current": 82.13,
         "stop": 78.0255,
         "unrealized_pct": -2.05
+      }
+    ]
+  },
+  {
+    "date": "2026-06-23",
+    "equity": 101987.64,
+    "spy_close": null,
+    "day_pl_pct": -0.01,
+    "phase_pl_pct": 1.99,
+    "trades_today": 0,
+    "open_positions": [
+      {
+        "symbol": "XLI",
+        "shares": 115,
+        "entry": 173.86,
+        "current": 178.44,
+        "stop": 164.628,
+        "unrealized_pct": 2.63
+      },
+      {
+        "symbol": "XLP",
+        "shares": 238,
+        "entry": 83.851513,
+        "current": 83.78,
+        "stop": 78.0255,
+        "unrealized_pct": -0.09
       }
     ]
   }
