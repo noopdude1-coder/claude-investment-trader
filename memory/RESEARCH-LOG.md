@@ -3616,3 +3616,107 @@ Action plan for today:
 8. **Fri 6/26 /weekly-review:** Sharpe vs SPY refresh; deploy decision under full post-FOMC week of data; XLF re-evaluate; XLV consider if leading-quadrant confirmed.
 
 Patience > activity. **Today's discipline = not forcing XLF on weakened-momentum data.** The conditional deploy plan from Thu had an explicit precondition (Mon momentum confirmation) — that precondition failed. Reverse-engineering a new thesis (XLV after one day of data) on a no-catalyst Monday = exactly the overtrading mistake the rulebook is designed to prevent. Held sleeves at +4.00% (XLI) / -1.08% (XLP) carry mechanically on live trails. Thirteenth straight sub-40 session — acknowledged, not actioned. The rule is the rule.
+
+## 2026-06-23 — Pre-market Research (Tue, post-Juneteenth re-open digest day; PMI + FDX morning)
+
+### Account
+- Equity: **$101,679.70** | Settled cash: **$61,527.40** | Buying power $358,536.04 (info only — cash account, T+1)
+- last_equity $101,993.24 (Mon close → -$70 vs Fri $102,063.59 = mild post-Juneteenth digest); equity now ~$314 below Mon close on XLI pre-mkt fade; balance_asof 2026-06-22
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ $173.86, indicative **$177.48** (lastday $181.80 = **-2.38% pre-mkt fade**), unrealized **+$416.30 (+2.08%)** — back from yesterday's +4.00%; trail GTC stop **$164.628** (HWM $182.92 unchanged); cushion ~**7.24%** ($12.85 abs, **compressed from 9.40% Mon**); manual -7% cut $161.69 (~9.14% cushion)
+  - **XLP 238 sh** @ $83.851513, indicative **$82.95** (lastday $82.18 = **+0.94% pre-mkt bounce**), unrealized **-$214.56 (-1.08%)** — defensive bid returns; trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**5.94%** ($4.92 abs — unchanged tightest-since-entry); manual -7% cut $77.98 (~6.00% cushion)
+- Open orders: 2 (both trail stops, GTC, qty_available=0) — verified live
+- Trades this week: **0 / 3**
+- Deployed: **$40,152.30 / $101,679.70 = 39.49%** — fourteenth straight session sub-40%; twelfth+ week below 75-85% floor
+- Realized phase: +$1,711.71 (XLK trail exit 6/5)
+- **Cumulative phase:** equity $101,679.70 vs $100k baseline = **+1.68%** (vs +2.06% Mon pre-open = -38 bps on Mon digest + Tue XLI pre-mkt fade)
+
+### Market Context — PMI DAY + FDX BMO; SPX FUTURES SOFT
+- **🟢 WTI ~$73-75 / Brent ~$77-80 (mixed prints; Polymarket implies 96% prob WTI closes above $73.99).** Peace-deal regime extends; one Perplexity tick showed WTI dropping to $61.62 but Mon investing.com print was $74.17 and Kalshi/Polymarket strikes cluster $71-74 = **functional regime sub-$80, ~25% off war peak**. Cost-input relief intact for XLI/XLP margin thesis. **XLE re-entry blocked persists.**
+- **🟡 SPX futures soft pre-mkt.** ES Jun26 **7,549.50, -21.25 (-0.28%)**; Dow Jun26 +143.00 (+0.27%) divergent; Nasdaq -75.00 (-0.24%). Mon SPX +1.08% (per Barchart), now mild digest. Rotation tape signaled (Dow up / Naz down) = **defensives + cyclicals bid, growth fade** — supports XLP, mixed for XLI.
+- **🟢→🟡 VIX 17.28** (+0.50 vs Fri 16.78) — modest rise post-Juneteenth; still in green-light zone (<18) but lost the fresh post-FOMC low. **Vol creep ahead of PMI/FDX prints.**
+- **🔴 PRIMARY TODAY: 9:45am ET US S&P Flash PMI (June).** Services cons **51.0** (prior 50.7); Manufacturing cons **55.1** (prior 55.1 — flat). **Surprise-up services** = recession-fear pullback (defensives soften, cyclicals bid); **surprise-down services** = recession-creep (defensives + bonds bid, XLI hit). Mfg surprise up = XLI bid extension; surprise down = XLI thesis crack. **HIGH-IMPACT print for both held sleeves.**
+- **🔴 PRIMARY TODAY: FDX BMO earnings.** Est $5.92 EPS / $24.01B rev. **Industrial bellwether — direct XLI cross-read.** Beat + raise = XLI bid recovery; miss + cut = XLI compounds Mon-Tue fade. Also FDX is XLI top-25 holding (Air Freight & Logistics 3.74% sector weight).
+- **🟡 Other BMO Tue: Korn Ferry (KFY); midday CCL/PAYX/KBH/WOR.** No direct sleeve cross-read.
+- **🟢 Catalysts driving tape (week ahead):**
+  - **AI capex tailwind** intact (Goog/Amzn/Msft/Meta $725B combined, +77% YoY)
+  - **Wed 6/24 AMC = MU** (chip bellwether — XLK cross-read; not held but tape driver)
+  - **Wed 6/24 BMO = PAYX/DRI/KFY** (Staples/Discretionary)
+  - **Iran/Strait of Hormuz** persistent tail; AI offset dominant
+- **Sector momentum (Quantlake 6/22 refresh — IMPORTANT THESIS UPDATE):**
+  - **XLK** — **3M momentum 41.7%, NOW LEADING** (was previously labeled "lagging" Mon). 50.4pp lead spread; positive since 4/17; 1.79 beta. **Thesis-update: XLK is the leader, not lagging.** Mon /pre-market mischaracterized.
+  - **XLI** — **3M momentum 12.2% (#2 ranked)**, +4.9pp WoW; 0.48 beta. **Cyclical leadership confirmed** despite Tue pre-mkt -2.38% (Bollinger upper-band break 6/15 + Aroon uptrend; near-term Bollinger overshoot fade likely playing out today).
+  - **XLB** — **#3 at 10.8%**; emerging cyclical.
+  - **XLF** — **9.7%** (was previously labeled "lagging" Mon; mid-quadrant now per fresh data). Mon thesis-update from Thu "PRIMARY under hawkish regime" → "DEFER" still valid as not in top-3 leadership.
+  - **XLY** — **9.0%**; growth participation.
+  - **XLRE** — **8.8%**; improving.
+  - **XLV** — **3.2%, near-fully decoupled** (-0.20 correlation, beta 0.07). Was emerging-defensive candidate Mon; **now demoted — XLV decoupling = NOT a clean defensive bid signal.**
+  - **XLP** — **3.0% (-0.20 corr to SPY)** — defensive-decoupled but not leading. Held position thesis intact for hawkish-Fed regime but **NOT a momentum-add candidate.**
+  - **XLU** — 0.9% (turn-positive from improving).
+  - **XLC** — **-2.2%, lagging**.
+  - **XLE** — separate read (+21% YTD per total-real-returns; peace-deal regime caps near-term momentum despite leading-cyclical YTD). Blocked.
+- **Held-ticker reads:**
+  - **XLI** $177.48, +2.08% on cost. HWM $182.92 unchanged. Trail $164.628 (cushion 7.24%, $12.85 abs — **compressed from 9.40% Mon**). Manual -7% cut $161.69 (~9.14%). Bollinger upper-band break 6/15 + 4 sessions = mean-reversion pullback in motion; thesis intact (sector #2 momentum, 27.24% Aero&Defense, AI/reshoring). FDX BMO + PMI Mfg = today's swing factors. **Trail mechanically positioned.**
+  - **XLP** $82.95, -1.08% on cost. HWM $86.695 unchanged. Trail $78.0255 (cushion **5.94%**, $4.92 abs — **STILL tightest cushion since entry**). Manual -7% cut $77.98 (~6.00%). +0.94% pre-mkt bounce on defensive bid = welcome relief; sector momentum 3.0% / -0.20 SPY correlation = decoupled-defensive (held-thesis OK, not add-add). **Watch closely; trail mechanically positioned.**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. No new trades today.**
+
+**Why HOLD on a PMI + FDX BMO day:**
+1. **Two high-impact prints land 8:30am-9:45am ET on a single sleeve direction.** PMI services surprise + FDX guide = synchronous XLI/XLP swing in either direction. **Buying ahead of binary-event sequencing = exactly the gate's "specific catalyst documented" rule applied backwards.** Wait for the prints, not before them.
+2. **XLP cushion still 5.94% (thinnest since entry).** New deploys + tight existing cushion = risk-stack. Pre-mkt +0.94% relief is welcome but does not change discipline — bounces from tight stops are sample-of-one, not regime.
+3. **XLI cushion compressed -216 bps overnight (9.40% → 7.24%).** Mean-reversion from Bollinger overshoot is healthy and expected; trail handles mechanically. Not a buy-add signal — concentration breach.
+4. **Sector-momentum refresh shows NO clean new-deploy candidate.** XLK leads at 41.7% but rate-sensitive multiple-compression under hawkish-Fed regime + valuation extension = thesis-conflict. XLF still mid-pack (9.7%) — DEFER hardens. XLV decoupled = not defensive-bid signal. XLB #3 cyclical but adds sector concentration to XLI (cyclical overlap). **No specific catalyst documented for any candidate today.**
+5. **Patience > activity.** Tue 6/23 = first material data of the week; let it print, let the tape react, re-evaluate Wed-Fri /pre-market with new data points. PMI miss could shake XLI further; PMI beat could give XLF/XLI a clean entry — **either way, post-print is the right decision window, not pre-print.**
+
+**Watchlist (CONDITIONAL — post-PMI/FDX evaluation):**
+1. **XLI add — SKIP** (concentration; pullback in motion; let trail handle).
+2. **XLP add — SKIP** (concentration; tight cushion; not momentum-leading).
+3. **XLB (Materials) — NEW WATCH.** #3 cyclical momentum (10.8%); low beta (0.09); decoupled from SPY (corr 0.09). Trigger: clean PMI Mfg beat + XLI confirmation + sector-specific catalyst.
+4. **XLF — DEFER.** Not in top-3 momentum (9.7%); bank Q2 earnings cycle starts mid-July. Re-evaluate Fri /weekly-review.
+5. **XLK — SKIP** despite #1 momentum. Rate-sensitive multiple compression under hawkish-Fed dot regime; valuation extension; chase-risk into MU AMC Wed.
+6. **XLV — SKIP** (decoupled, not defensive-bid signal).
+7. **XLY / XLU / XLC / XLRE — SKIP** (non-leading or weak fits).
+8. **XLE — BLOCKED** (peace-deal regime cap).
+
+**Buy-Side Gate snapshot (academic — no deploy today):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,335.94 cap)
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any sector pre-PMI/FDX** ✗ — gate fails by design (binary-event vol = wait, don't trade through it)
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 BINARY PMI + FDX SEQUENCING.** 8:30am FDX BMO → 9:30am open digestion → 9:45am Flash PMI = 75-min event-vol window. Both sleeves directly exposed (XLI = FDX cross-read + Mfg PMI; XLP = Services PMI macro read). **Pre-position via held sleeves with live trails; no new exposure.**
+- **🔴 XLP cushion thinnest since entry (5.94% trail / 6.00% manual cut).** Pre-mkt +0.94% bounce welcome but cushion still inside the danger zone. Services PMI weak print + macro-recession trade = could compound; if open prints below $82.50 sustained = midday close-watch.
+- **🟡 XLI cushion compressed -216 bps overnight (9.40% → 7.24%).** Bollinger mean-reversion in motion; FDX miss/cut = could compound to ~6-7% cushion intraday. Trail mechanically positioned; manual -7% cut at $161.69 = adequate buffer for normal day, marginal for PMI shock.
+- **🟢 VIX 17.28** — still sub-18 green-light; PMI binary not priced as crisis.
+- **🟢 Dow +0.27% / Naz -0.24% rotation tape** = defensives + cyclicals bid pre-open = supportive for XLP recovery, mixed-positive XLI.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Higher-for-longer dots compress rate-sensitive multiples; XLK leadership masks rotation-fragility under continued hawkish data.
+- **🔴 Iran/Strait of Hormuz tail persistent.** AI offset has held; one weekend escalation flips WTI/risk regime. No held XLE = only broad-market drawdown exposure.
+- **🔴 Capital drag at 39.49%** — 35 pts below 75-85% floor; **fourteenth straight sub-40 session; twelfth+ week below floor.** Acknowledged, not actioned. XLF deferred; XLB now on watch (post-PMI/FDX trigger); XLK skip; XLV demoted. No clean deploy vehicle today.
+- **🟢 FDX BMO is a XLI confirmation catalyst, not a sleeve-direct risk.** Sleeve held is the ETF (79 holdings; FDX-equivalent Air Freight 3.74% of XLI). FDX move = signal, not P&L driver.
+
+### Decision
+
+**HOLD both positions; NO new trades today; let PMI + FDX print, then re-evaluate Wed pre-market.** Trades this week stays **0/3**; positions 2/6; deployment 39.49%.
+
+Action plan for today:
+
+1. **Pre-open (now → 9:30am ET):** trail stops live and verified (XLI $164.628 / XLP $78.0255). **No manual changes. No new orders.** FDX BMO drops ~6:30-7:00am ET → tape-check the print; do NOT react to first-tick.
+2. **Market-open routine (9:30am):** verify trail stops still active post-Juneteenth; confirm settled cash $61,527.40 unchanged; tape-check XLI open vs $177.48 indicative (need to see if -2.38% pre-mkt fade extends or reverses on FDX print); XLP open vs $82.95 indicative. **NO new buys** — gate fails (no catalyst documented; binary event-vol window active).
+3. **9:45am ET — PMI print is THE event of the day.** Hold positions through print; trails handle. Post-print read: if services >51.0 + mfg >55.1 = clean leading-cyclical confirmation (XLI bid restored, XLP softens); if services <50 = recession-creep (XLP bid, XLI hit); if mfg <54 = XLI thesis crack.
+4. **No deploys today, period.** Pre-print = no documented catalyst; post-print = fresh data needs digestion overnight before next-day evaluation. Wed /pre-market = first clean deploy window if any candidate triggers cleanly.
+5. **Intraday triggers (held positions):**
+   - XLI breaks **$164.628** → trail fires; if breaks $161.69 (-7% manual) → covered by trail.
+   - XLP breaks **$78.0255** → trail fires; if breaks $77.98 (-7% manual) → covered by trail.
+   - Fresh HWM XLI >$182.92 → auto-trail advance, no manual action. (Unlikely on PMI day; current $177.48 = -2.97% below HWM.)
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+12.7% away); XLP fires at close ≥ $96.43 (~+16.2% away). Not imminent.
+6. **/midday (~12pm ET) thesis check:** primary = post-PMI/FDX XLI/XLP behavior; manual -7% cut check (XLI at -7% = $161.69 = ~9.1% below current; XLP at -7% = $77.98 = ~6.0% below current). If XLI prints sustained below $174 midday → close-watch (manual cut buffer compressed); if XLP prints sustained below $82.50 → close-watch (trail buffer compressed).
+7. **EOD (~4pm ET):** /daily-summary; reconcile vs Alpaca last_equity; confirm trail status; pre-stage Wed plan around MU AMC + PAYX/DRI/KFY BMO.
+8. **Wed 6/24 /pre-market:** post-PMI digest read; XLB deploy evaluation if cyclicals confirmed; MU expectations; KFY/DRI tape-cross.
+9. **Fri 6/26 /weekly-review:** Sharpe vs SPY refresh; full post-FOMC week data; XLF re-evaluate; XLB / any-new-leader deploy decision.
+
+Patience > activity. **Today's discipline = NOT trading through binary event-vol.** Pre-print exposure is a coin-flip, not a thesis. Mean-reversion is healthy for XLI (Bollinger overshoot 6/15 = textbook fade); XLP bounce is welcome but doesn't change the held-cushion math. Sector-momentum refresh re-rates XLK to leader (Mon log mischaracterized) — but rate-sensitive headwinds + chase risk + concentration into MU = SKIP, not pivot. XLV demoted from defensive watch (decoupled, not bid). XLB enters watch (cyclical #3) — wait for PMI confirmation. **No catalyst. No trade. Rule is the rule.**
