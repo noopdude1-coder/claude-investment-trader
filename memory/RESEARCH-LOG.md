@@ -3720,3 +3720,98 @@ Action plan for today:
 9. **Fri 6/26 /weekly-review:** Sharpe vs SPY refresh; full post-FOMC week data; XLF re-evaluate; XLB / any-new-leader deploy decision.
 
 Patience > activity. **Today's discipline = NOT trading through binary event-vol.** Pre-print exposure is a coin-flip, not a thesis. Mean-reversion is healthy for XLI (Bollinger overshoot 6/15 = textbook fade); XLP bounce is welcome but doesn't change the held-cushion math. Sector-momentum refresh re-rates XLK to leader (Mon log mischaracterized) — but rate-sensitive headwinds + chase risk + concentration into MU = SKIP, not pivot. XLV demoted from defensive watch (decoupled, not bid). XLB enters watch (cyclical #3) — wait for PMI confirmation. **No catalyst. No trade. Rule is the rule.**
+
+## 2026-06-24 — Pre-market Research
+
+### Account
+- Equity: **$101,935.25** | Settled cash: **$61,527.40** | Buying power $359,251.58 (info only — cash account, T+1)
+- last_equity $101,940.01 (Tue close → -$4.76 micro digest); balance_asof 2026-06-23
+- Positions: **2 / 6**
+  - **XLI 115 sh** @ $173.86, indicative **$178.15** (lastday $178.15 = **flat pre-mkt**), unrealized **+$493.35 (+2.47%)** — recovered ~$33 vs Mon EOD; trail GTC stop **$164.628** (HWM $182.92 unchanged); cushion ~**7.59%** ($13.52 abs); manual -7% cut $161.69 (~9.24% cushion)
+  - **XLP 238 sh** @ $83.851513, indicative **$83.70** (lastday $83.72 = **-0.02% pre-mkt**), unrealized **-$36.06 (-0.18%)** — flat post-bounce; trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**6.78%** ($5.67 abs); manual -7% cut $77.98 (~6.83% cushion)
+- Open orders: 2 (both trail stops, GTC, qty_available=0) — verified live
+- Trades this week: **0 / 3**
+- Deployed: **$40,407.85 / $101,935.25 = 39.64%** — sixteenth straight session sub-40%
+- Cumulative phase: **+1.94%** vs $100k baseline (slipped back below +2% from Tue's +1.99%)
+
+### Market Context — TECH-LED RISK-OFF; MU AMC + PAYX BMO
+- **🟢 WTI ~$72.15 / Brent ~$77.94** (CME 02:36 CT); -1.45% overnight. Sub-$80 regime intact; cost-input relief for XLI/XLP margin thesis preserved. **XLE re-entry remains blocked** under peace-deal cap. Polymarket clusters $71-74.
+- **🔴 SPX futures soft pre-mkt.** ES Jun26 **7,440.75, -100.50 (-1.33%)** — sharp tech-selloff overspill from S. Korean chip rout; **Nasdaq futures -3.01%** (memory chip plunge ahead of MU AMC); Dow futures only **-0.20%** divergent. Tape signature = **growth dump / defensives + cyclicals bid** = mildly supportive for both held sleeves (XLP defensive, XLI cyclical-defensive).
+- **🟡→🔴 VIX 19.49** (+2.21 vs Mon 17.28 = +12.79%); intraday derived $19.36, range 19.07-19.36. **Crossed above the 18 green-light threshold for the first time since Jun 2.** Vol creep ahead of MU AMC + housing data; not crisis-level but no longer the unambiguous green-light cushion.
+- **🔴 PRIMARY TODAY: MU (Micron) AMC earnings.** Q3 fiscal 2026; cons EPS $20.20, MU guided $19.15 ± $0.40 / rev $33.5B ± $750M / GM ~81% (record). Options pricing **±11% post-earnings move** ($1,066–$1,331 range); IV 155% front-month. Stock up +244% YTD. **Direct read-through to entire semi/tech complex; pre-print Korean chip rout already dragging.** No held sleeve direct, but SPX-cap dominant = tape-context driver into Thu open.
+- **🟡 PRIMARY BMO Wed: PAYX (Paychex) Q4 FY26.** Cons EPS $1.31 / rev $1.60B; options imply ±6% move. Conference call 9:30am ET. Reads into Financials-adjacent staffing/employment. **Not a held-sleeve direct catalyst.**
+- **🟡 AMC Wed: DRI (Darden — Discretionary $2.64 EPS), KFY (Korn Ferry $1.21).** Discretionary read on DRI; cross-read to XLY (not held).
+- **🟢→🔴 PRIMARY ECON: 10am ET.** **May New Home Sales** (cons 640k vs Apr 622k); **June Conf Board Consumer Confidence** typically same window. New Home Sales reads into discretionary/builders; Consumer Confidence reads into XLP staples-demand and broader risk tone. Modest surprise potential either direction.
+- **🟢 NVDA annual shareholders meeting today.** Tape narrative driver; no held exposure.
+- **🟢 Other:** Fed bank stress test results week; Treasury yields elevated under Warsh hawkish hold; 70% odds Sept hike per CME FedWatch.
+- **Sector momentum YTD (broad 2026 picture refresh):**
+  - **XLE +23.3% (#1 leader)** — but peace-deal cap blocks re-entry near-term.
+  - **XLB +17.4% (#2 leader)** — Materials cyclical leadership; on watch.
+  - **XLP +15.6% (#3 leader)** — staples leading (held).
+  - **XLI +14.1% (#4 leader)** — industrials leading (held).
+  - **XLF -6.9% (worst)** — financials biggest laggard YTD.
+  - **XLY -3.8%** — discretionary lagging.
+  - **XLK -3.4%** — tech lagging YTD despite recent 3M momentum; today's selloff compounds.
+  - **XLC -1.2%** — Comm lagging.
+  - **Quantlake 3M momentum (Mon refresh):** XLK 41.7% #1; XLI 12.2% #2; XLB 10.8% #3; XLF 9.7% #4; XLY 9.0%; XLRE 8.8%; XLV 3.2%; XLP 3.0%; XLU 0.9%; XLC -2.2%.
+  - **Read:** YTD leaderboard = XLE/XLB/XLP/XLI; 3M = XLK leader but valuation/today's-selloff conflict; both held sleeves still in YTD top-4. **No clean new-leader signal beyond XLB (cyclical concentration concern paired with XLI).**
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD. No new trades today.**
+
+**Why HOLD on a MU-AMC + tech-rout + housing-data day:**
+1. **Pre-mkt risk-off signature (ES -1.33% / Naz -3.01% / VIX +12.8% to 19.49).** Tech-led, defensives-relative-bid. Buying into a sharp gap-down ahead of MU AMC = wrong-direction trade through binary event vol. **The pattern that loses across the year is buying gap-downs that are pre-pricing a binary.** Wait.
+2. **MU AMC is the THE catalyst.** Options pricing ±11% post-print move. Whatever XLK/SOX does Thu cascades into XLB/XLI cyclical adjacent and XLY/XLF Friday. Pre-printing the wrong side of MU is a coin-flip dressed as a thesis. No trade.
+3. **Both held cushions intact.** XLI 7.59% trail / 9.24% manual; XLP 6.78% trail / 6.83% manual. No tighten triggers (XLI +15% = $199.94, ~+12.2% away; XLP +15% = $96.43, ~+15.2% away). Trails handle any tail-vol.
+4. **Sector-momentum refresh shows NO clean new-deploy candidate.** XLE blocked. XLB cyclical adds concentration to XLI. XLK lagging YTD + today's rout = chase-risk + thesis-conflict. XLF YTD worst (-6.9%). XLY/XLC lagging. **Nothing in the watchlist has a documented catalyst for today** — gate fails by design.
+5. **Patience > activity.** TENTH consecutive no-trade session yesterday; zero this week (3/3 cap intact). The structural under-deployment (39.64% vs 75-85% target) is a known drag, **acknowledged not actioned** because the correct deploy window is post-binary tape clarity, not pre-binary speculation.
+
+**Watchlist (CONDITIONAL — post-MU/PMI/housing evaluation):**
+1. **XLI add — SKIP** (concentration; mean-reversion still digesting; trail handles).
+2. **XLP add — SKIP** (concentration; cushion not yet expanded back to comfort; #3 YTD leader but not momentum-add).
+3. **XLB (Materials) — WATCH.** #2 YTD leader (+17.4%); #3 3M momentum (10.8%); low corr to SPY (0.09). Trigger conditions: MU prints clean (no semi-cascade), housing data not recessionary, post-print tape green Thu open. Even then = cyclical-stack concern with XLI. Conditional.
+4. **XLK — SKIP** despite #1 3M momentum. -3.4% YTD; today's tech rout caps any near-term entry; MU binary tonight = max chase risk window.
+5. **XLF — DEFER.** -6.9% YTD worst sector; Q2 bank earnings cycle mid-July. Re-evaluate /weekly-review Fri.
+6. **XLV / XLY / XLU / XLC / XLRE — SKIP** (non-leading or weak fits).
+7. **XLE — BLOCKED** (peace-deal cap).
+
+**Buy-Side Gate snapshot (academic — no deploy today):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,387.05 cap) ✓
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented for any sector pre-MU/housing** ✗ — gate fails by design
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 BINARY MU AMC.** ±11% pricing; full semi/SOX cascade Thu cash open; XLK/SMH/SOXX directly hit; XLI cyclical adjacent (FedEx/UPS/CAT/DE non-semi but tape psychology can compound); XLP usually defensive bid on tech-rout = relative-mild exposure. **No new exposure pre-print.**
+- **🔴 VIX 19.49 above 18 green-light threshold** — first cross since Jun 2. Pre-binary positioning vol; not crisis but cushion-thinning context for any new buy. **Disqualifies the "buy the dip" reflex on tape weakness.**
+- **🟡 10am housing + Consumer Confidence print.** Surprise-low Confidence = recession-creep tone, XLP bid (good for held), XLI maybe drag. Surprise-low housing = builders hit, mild XLI/XLB drag, XLP modestly supportive. Either way, no held-sleeve direct risk.
+- **🟢 Both held cushions still adequate.** XLI 7.59% trail / XLP 6.78% trail — neither in the "near-cushion danger" zone. Trails handle mechanically.
+- **🟢→🟡 Oil sub-$80.** Cost-input relief intact; one Iran/Hormuz escalation flips regime. AI capex offset has held.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Warsh tone + 70% Sept hike odds = duration-sensitive multiples capped; XLF/XLK rate-headwind continues.
+- **🔴 Capital drag at 39.64%** — sixteenth straight sub-40 session. Acknowledged, not actioned. **No clean deploy vehicle today under MU-AMC binary regime.**
+- **🟢→🔴 Tech-led risk-off vs broad-rout test.** Today's tape will reveal whether tech-only or full-market drawdown. Dow -0.20% / Naz -3.01% divergence = textbook intra-sector rotation, not panic. Held sleeves designed for exactly this tape.
+
+### Decision
+
+**HOLD both positions; NO new trades today; let MU AMC + housing data print, evaluate Thu /pre-market under fresh data.** Trades this week stays **0/3**; positions 2/6; deployment 39.64%.
+
+Action plan:
+
+1. **Pre-open:** trail stops verified live (XLI $164.628 / XLP $78.0255). No manual changes. No new orders.
+2. **9:30am open:** verify trails active; tape-check XLI open vs $178.15 indicative, XLP open vs $83.70 indicative. **NO buys** — gate fails (no catalyst pre-MU/housing; VIX 19.49 above green-light).
+3. **10am housing + Consumer Confidence:** hold through; trails handle. Confidence sub-95 = recession-tone signal (mild XLP bid); housing sub-620k = builders hit (mild XLI drag).
+4. **MU AMC ~4:05pm ET:** thesis-mover for Thu open semi/SOX/tech cascade. **No held position direct; trail-protected.**
+5. **Intraday triggers:**
+   - XLI breaks **$164.628** → trail fires (covered by manual -7% cut at $161.69 below trail).
+   - XLP breaks **$78.0255** → trail fires (covered by manual -7% cut at $77.98 below trail).
+   - Fresh HWM XLI >$182.92 → auto-trail advance (unlikely on risk-off day).
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+12.2% away); XLP fires at close ≥ $96.43 (~+15.2% away). Neither imminent.
+6. **/midday (~12pm ET) thesis check:** post-10am-data digest; cushion-monitor on both sleeves; -7% manual cut buffer.
+7. **EOD (~4pm ET):** /daily-summary; pre-stage Thu plan around MU print and tape reaction.
+8. **Thu 6/25 /pre-market:** post-MU tape read = primary deploy-evaluation window if MU prints clean and tech doesn't cascade further; XLB/XLI-add/sector-rotation evaluation.
+9. **Fri 6/26 /weekly-review:** Sharpe vs SPY, max DD, vs RSP, process metrics; XLF re-evaluate; full Week 9 wrap.
+
+Patience > activity. **Today's discipline = NOT trading through binary MU pre-print + tech-led risk-off + VIX cross above 18.** Both held sleeves are exactly the defensive-cyclical mix designed for this tape; trails handle tail-vol. Sector-momentum YTD picture (XLE/XLB/XLP/XLI top-4) confirms held thesis. **No catalyst. No trade. Rule is the rule.**
