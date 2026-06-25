@@ -3827,3 +3827,95 @@ Patience > activity. **Today's discipline = NOT trading through binary MU pre-pr
 - **Thesis check:** Both sleeves green intraday on a Naz -3% / Dow -0.20% rotation tape = textbook validation of the defensive-cyclical mix. XLI cyclical/AI-capex/reshoring INTACT (sector #4 YTD, #2 3M momentum). XLP defensive bid INTACT under VIX-19.49 + hawkish-Fed regime. No catalyst-break on either.
 - Trades this week: **0/3**. Positions: **2/6**. Settled cash $61,527.40 unchanged; market value $40,884.20; deployment ~**40.05%** (+38 bps vs Tue EOD 39.67% on dual-sleeve mark-up — first 40%+ session in 17 sessions, mark-up driven not new-deploy driven).
 - **No action this scan.** Both cushions expanded vs Tue close; trails handle mechanically. MU AMC (~4:05pm) is THE event — Thu /pre-market = primary deploy-evaluation window if MU prints clean. Held sleeves no-action default through close.
+
+## 2026-06-25 — Pre-market Research
+
+### Account
+- **Equity:** $102,402.25 (last_equity $102,348.27 → +$53.98 intraday premkt mark-up)
+- **Settled cash:** $61,527.40 (cash account, T+1 — size against THIS, not buying power)
+- **Buying power:** $360,559.18 (multiplier 4 echo — informational only)
+- **Positions: 2 / 6** open (XLI 115sh; XLP 238sh — both trail-locked, qty_available=0)
+  - **XLI 115 sh** @ $173.86, indicative **$181.59** (lastday $180.21 = **+0.77% pre-mkt**), unrealized **+$888.95 (+4.45%)** — fresh post-MU mark-up; trail GTC stop **$164.628** (HWM $182.92 unchanged); cushion ~**8.65%** ($16.96 abs); manual -7% cut $161.69 (~10.96% cushion)
+  - **XLP 238 sh** @ $83.851513, indicative **$84.00** (lastday $84.44 = **-0.52% pre-mkt**), unrealized **+$35.34 (+0.18%)** — defensive sleeve flipping back to slight green vs Wed's +0.71% close; trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**7.11%** ($5.97 abs); manual -7% cut $77.98 (~7.17% cushion)
+- Open orders: 2 (both trail stops, GTC, qty_available=0) — verified live
+- Trades this week: **0 / 3**
+- Deployed: **$40,874.85 / $102,402.25 = 39.92%** — seventeenth straight sub-40% session (within rounding)
+- Cumulative phase: **+2.40%** vs $100k baseline (above Wed EOD +2.35% — fresh post-MU mark-up high)
+
+### Market Context — POST-MU BLOWOUT / PRE-PCE BINARY
+- **🟢 WTI ~$69.36 / Brent stale (no live)** — sharper cost-input relief; sub-$70 first time since mid-June, -1.07% session-on-session; Polymarket leading outcome "$66" at 99% (markets price further downside). **XLE re-entry remains blocked** (peace-deal cap regime). Cost-input thesis for XLI/XLP margins EXTENDS.
+- **🟢 SPX/Naz futures STRONG RISK-ON.** ES Jun26 **+0.7%**; Nasdaq 100 futures **+2.2% (~+545 pts overnight)**; Dow futures ~flat (small green). **Total reversal of Tue/Wed tech rout.** Tape signature = **tech-led broad rally with cyclical follow** = neutral-to-positive for held XLI (cyclical), neutral-to-negative for XLP (defensive lagging on risk-on rotation).
+- **🟢 VIX 18.06 pre-mkt** (-1.43 / -3.06% vs Wed close 19.49) — **CROSSED BACK BELOW the 18 green-light threshold** for first time since Mon. Vol-regime green-light RESTORED post-MU. Day high futures 20.34 / low 18.04.
+- **🔴→🟢 PRIMARY TODAY (BINARY): 8:30am ET PCE Inflation Data + GDP Final + Jobless Claims.** Triple-print same window. **Core PCE YoY cons 3.4% vs prior 3.3%** (Fed's preferred metric); Headline PCE YoY cons 3.8-4.0% vs prior 3.8%; MoM cons +0.3% vs prior +0.4%. Hot print (Core ≥3.5%) → tech rally fades / USD spikes / Sept hike odds firm to 80%+ / risk-off flip; In-line (3.3-3.4%) → MU euphoria extends, full risk-on; Cool (≤3.2%) → blow-off rally. CME FedWatch 70% Sept hike pre-print; markets watching whether PCE forces 80%+ odds.
+- **🟢 PRIMARY POST-CLOSE WEDNESDAY MU AMC = BLOWOUT.** Q3 FY26: Rev **$41.5B vs $35.9B cons (+15.4%)**; EPS **$25.11 vs $20.4 cons (+23%)**; GM **84.9% vs 81.8% cons (+3.1 pts)**; DRAM rev $31.3B (77%); Storage $9.9B. **Q4 guide $49-51B rev vs $42B cons / $30-32 EPS vs $25 / GM ~86%**. Memory shortage commentary "extends beyond 2027." Stock **+17.2% premkt to $1,228** (close $1,037.93). Direct read: **SOXX +5.3% premkt**; QCOM/WDC +12%; AI memory super-cycle thesis validated. **NO held sleeve direct exposure — tape-context driver = bullish XLK/XLB cyclical-adjacent indirect, XLI semi-equipment indirect, XLP NEUTRAL.**
+- **🟡 BMO EARNINGS TODAY: Light.** No top-tier hits today (PAYX/DRI/KFY were Wed AM/PM). Post-MU semi-complex prints continue overnight in Asia/EU markets (Kospi/Nikkei +4%+ overnight). Light US earnings = PCE is the singular catalyst.
+- **🟢 Other:** NVDA AGM Wed digested; Fed bank stress test results week (no held bank exposure); Treasury yields ticking up into PCE.
+- **Sector momentum YTD (unchanged from yesterday):**
+  - **XLE +23.3% #1** — peace-deal cap blocks re-entry near-term.
+  - **XLB +17.4% #2** — Materials cyclical leader; **today's PRIMARY conditional candidate**.
+  - **XLP +15.6% #3** — staples (held).
+  - **XLI +14.1% #4** — industrials (held).
+  - **XLK -3.3%** — Tech YTD laggard but TODAY'S momentum surge candidate post-MU; chase-risk if rally extends into PCE.
+  - **XLF -6.9%** worst; **XLY -3.8%**; **XLC -1.2%**.
+  - **3M momentum (Mon refresh):** XLK 41.7% #1 (gets reinforced today); XLI 12.2% #2; XLB 10.8% #3; XLF 9.7% #4.
+  - **Read:** YTD leaders XLE/XLB/XLP/XLI unchanged; 3M XLK now structurally reinforced by MU blowout; XLB emerges as best risk-reward new-deploy candidate (YTD #2 leader + cyclical lift from MU capex read + low correlation to XLI vs same-sector add).
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD through PCE 8:30am ET print. Post-PCE evaluation in /market-open routine.**
+
+**Why HOLD pre-PCE despite blowout MU + risk-on tape:**
+1. **PCE binary in 5 hours.** Buying into a gap-up risk-on tape ahead of an inflation print that could force Fed-hike-odds spike is the wrong-direction trade through binary event vol. The pattern that lost across the year is **buying gap-ups that are pre-pricing a binary**. The PCE digest is the deploy window, not the pre-PCE gap-up.
+2. **VIX at exactly the 18 threshold — not deeply below.** Green-light restored but pre-binary positioning vol is still elevated (futures range 18.04-20.34 — wide swings priced). Need the post-PCE collapse to validate the regime cushion before chasing.
+3. **MU is a tape-context driver, not a held-sleeve catalyst.** Indirect read-throughs (XLK direct, XLB capex-adjacent, XLI cyclical-overlay) are second-order — the proper deploy is the SECTOR ETF if the tape holds risk-on AFTER PCE prints in-line/cool. Pre-print buy = front-running the wrong side of a coin-flip.
+4. **Both held cushions adequate.** XLI 8.65% trail / 10.96% manual; XLP 7.11% trail / 7.17% manual. No tighten triggers (XLI +15% = $199.94, ~+10.1% away; XLP +15% = $96.43, ~+14.8% away). Trails handle PCE-induced tail-vol mechanically.
+5. **Patience > activity. ELEVENTH consecutive no-trade session; 0/3 cap this week.** Discipline keeps the buy cap powder for the structurally correct deploy window = post-PCE confirmation tape, not pre-PCE speculation.
+
+**Watchlist (CONDITIONAL — /market-open evaluation post-8:30am PCE digest):**
+1. **XLB (Materials) — PRIMARY CANDIDATE if PCE in-line/cool.** #2 YTD leader (+17.4%); #3 3M momentum (10.8%); low correlation to XLI (cyclical-but-different sub-sectors: chemicals, mining, packaging); MU capex super-cycle thesis indirectly bullish for chemicals/specialty materials. **Trigger conditions (ALL required):** (a) Core PCE ≤3.4% YoY; (b) XLB premkt confirms ≥+0.5% pre-9:30 open; (c) tape holds risk-on after 8:30 print (ES doesn't reverse 50%+ of gain); (d) VIX cash open ≤18. **Entry plan: ~$20,000 notional at market open if all triggers hit; stop trailing 10% GTC; target +15-20% (~12-18 months).**
+2. **XLK (Tech) — CONDITIONAL SECONDARY if PCE cool + XLB unavailable.** #1 3M momentum (41.7%) compounded by MU blowout. -3.3% YTD laggard = re-entry, not chase. Risk: today's +2.2% premkt = chasing into euphoria. **Only deploy if PCE prints cool (≤3.3%) AND XLB premkt is flat/red (no clean Materials trigger).** Same sizing/stop discipline.
+3. **XLI add — SKIP.** Concentration; held position already +4.45% running; mean-reversion still digesting.
+4. **XLP add — SKIP.** Concentration; underperforming on risk-on tape.
+5. **XLF — DEFER to /weekly-review Fri.** Worst YTD; bank stress tests release this week; Q2 earnings cycle mid-July not yet here.
+6. **XLY / XLV / XLU / XLC / XLRE — SKIP** (no clean catalyst).
+7. **XLE — BLOCKED** (peace-deal cap regime intact).
+
+**Buy-Side Gate snapshot (academic — no deploy today):**
+- Positions after fill 3 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,480.45 cap) ✓
+- Cost ≤ settled cash ($61,527.40) ✓
+- **Catalyst NOT documented at pre-mkt entry** (PCE pending) — defer eval to /market-open ✗
+- Stock/ETF ✓
+
+### Risk Factors
+- **🔴 BINARY PCE 8:30am ET.** Hot Core PCE ≥3.5% = tech rally fade, USD spike, Sept hike odds firm 80%+, possible 1-2% risk-off flip on day; held XLI marginal drag (cyclical sensitive to rate-hike compression), XLP modest defensive bid; trails handle. **No new exposure pre-print.**
+- **🟡 VIX 18.06 = threshold straddle.** Not crisis but not deep green-light; pre-binary positioning vol still elevated (futures swing 18.04-20.34). Disqualifies "buy the breakout" reflex pre-PCE.
+- **🟡 MU euphoria fade risk.** +17.2% premkt = priced-to-perfection; any PCE-hot + sell-the-news combo could compress Naz futures gap by 60-80% intraday. XLK chase risk maximum window.
+- **🟢→🟡 Risk-on tech-led rotation = XLP defensive drag.** Today's expected XLP underperformance is regime-correct (not thesis-break); trail cushion 7.11% absorbs ~2 sessions of -3% before alert. Cushion-watch front-burner.
+- **🟢 XLI on risk-on tape.** Cyclical sleeve typically participates on broad rally; +0.77% premkt confirms; HWM $182.92 trigger sits ~+0.73% away — auto-trail-advance possible TODAY for first time in 8 sessions if cash open extends premkt gain.
+- **🟢→🔴 Oil sub-$70 amplifies margin tailwind** for both held sleeves but compresses XLE re-entry probability further (regime cap stronger).
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Warsh + 70% Sept hike odds = duration-sensitive multiples capped; PCE today determines whether 80%+ hike odds price in (XLF/XLK rate-headwind extends) or fade (full risk-on extends).
+- **🔴 Capital drag at 39.92%** — seventeenth straight sub-40 session. Acknowledged not actioned PRE-PCE. **/market-open is the deploy window if triggers clear.**
+- **🟢 No earnings binary held-sleeve direct today** (FedEx ER risk is behind us; PAYX/DRI/KFY non-held).
+
+### Decision
+
+**HOLD both positions through PCE print; NO new trades pre-mkt; defer all deploy evaluation to /market-open routine post-8:30am ET data digest.** Trades this week stays **0/3**; positions 2/6; deployment 39.92%.
+
+Action plan:
+
+1. **Pre-open (now):** trail stops verified live (XLI $164.628 / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **8:30am ET PCE print:** Single most-important data print of the week. **Core PCE ≤3.4% YoY (in-line/cool) = green-light for /market-open XLB deploy evaluation; Core PCE ≥3.5% YoY (hot) = HOLD-only mode through cash open, defer deploy.** GDP Final + Jobless Claims share window — secondary; treat PCE as dominant.
+3. **9:30am cash open:** /market-open routine runs deploy-evaluation logic. **If all XLB triggers cleared (PCE in-line/cool + XLB premkt ≥+0.5% + tape risk-on + VIX ≤18) → deploy XLB ~$20k via market order with trailing 10% GTC stop.** If any trigger fails, default HOLD; document gate-fail reason. Verify trails active on held sleeves regardless.
+4. **Intraday triggers (mechanical):**
+   - XLI breaks **$164.628** → trail fires (manual -7% $161.69 below).
+   - XLP breaks **$78.0255** → trail fires (manual -7% $77.98 below).
+   - Fresh HWM XLI >$182.92 → auto-trail advance (likely on risk-on tape — ~+0.73% away).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (~+3.2% away, unlikely on risk-on).
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+10.1% away); XLP fires at close ≥ $96.43 (~+14.8% away). Neither imminent.
+5. **/midday (~12pm ET) thesis check:** post-PCE-digest cushion-monitor; XLB position-monitor if deployed at open.
+6. **EOD (~4pm ET):** /daily-summary; full PCE-day P&L roll-up; if XLB deployed, day-1 trail-stop verification.
+7. **Friday Jun 26 /weekly-review:** Sharpe vs SPY, max DD, vs RSP, process metrics; full Week 9 wrap; XLF re-evaluation; XLK re-entry post-MU; deployment-band recovery assessment.
+
+Patience > activity. **Today's discipline = NOT trading pre-PCE through binary inflation print despite MU-blowout risk-on euphoria.** The disciplined deploy window opens at 9:30am cash open IF PCE digests clean. XLB is the structurally correct primary candidate (YTD #2 + cyclical-but-uncorrelated to held XLI + MU capex read-through indirect). Held sleeves trail-protected and thesis-intact for the regime.
