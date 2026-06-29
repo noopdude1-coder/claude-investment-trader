@@ -4027,3 +4027,108 @@ Action plan:
 - **Thesis check:** Tape regime confirmed risk-off as pre-mkt called (ES/NQ down with VIX above 18); rotation = cyclicals (XLB/XLI) digesting Thu's gains, defensive (XLP) catching the bid — exactly the regime the held trio was sized for. No catalyst-break on any sleeve. U Mich 10am digestion non-material to positions (mid-magnitude print as expected).
 - Trades this week: **1/3** (XLB Thu). Positions: **3/6**. Settled cash $41,500.59 unchanged; market value $61,194.08 (XLB $20,014.98 + XLI $20,996.70 + XLP $20,182.40); deployment ~**59.6%** (essentially flat vs Thu close 59.68%; intraday mark-down on XLB/XLI ~offset by XLP mark-up).
 - **No action this scan.** All cushions adequate; trails handle mechanically; manual -7% cut buffer for XLB is the closest trigger but still 6.95% away. /weekly-review fires at EOD for full Week 9 wrap.
+
+## 2026-06-29 — Pre-market Research
+
+### Account
+- **Equity:** $102,626.12 (last_equity $102,520.37 → +$105.75 intraday premkt mark-up on risk-on tape)
+- **Settled cash:** $41,500.59 (cash account, T+1 — size against THIS, not buying power; unchanged vs Fri close)
+- **Buying power:** $337,153.85 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (XLB 388sh / XLI 115sh / XLP 238sh — all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$51.64** (lastday $51.60 = +0.08% premkt), unrealized **+$9.52 (+0.05%)** — Day-3 fill flat; trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**9.05%** ($4.67 abs); manual -7% cut **$48.00** (~7.05% cushion — still closest manual trigger). Materials sleeve.
+  - **XLI 115 sh** @ $173.86, current **$181.77** (lastday $181.20 = +0.31% premkt), unrealized **+$909.65 (+4.55%)** — best held sleeve, gave back ~half of Thu HWM print; trail GTC stop **$167.481** (HWM **$186.09** unchanged); cushion ~**7.86%** ($14.29 abs); manual -7% cut $161.69 (~11.05% cushion). +15% tighten trigger at $199.94 (~+10.0% away).
+  - **XLP 238 sh** @ $83.851513, current **$84.81** (lastday $84.71 = +0.12% premkt), unrealized **+$229.00 (+1.15%)** — defensive sleeve quietly green for 3rd straight session; fresh phase-best on cost (+1.15% beats Fri midday peak +1.13%); trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**8.00%** ($6.79 abs); manual -7% cut $77.98 (~8.05% cushion).
+- Open orders: 3 (all trail stops, GTC, qty_available=0) — verified live for all 3 positions.
+- Trades this week: **0 / 3** (fresh week — Mon 6/29 reset)
+- Deployed: **$61,125.53 / $102,626.12 = 59.56%** — sustained mid-band post-XLB; still ~25 pts below 75-85% target.
+- Cumulative phase: **+2.63%** vs $100k baseline (off Fri close phase-high +2.92%; modest weekend mark-down on XLI cooling).
+
+### Market Context — Q2 FINAL DAY, RISK-ON REVERSAL, REBALANCE FLOWS, HOLIDAY-SHORT WEEK
+- **🟢 WTI ~$69.81 (Aug)** — sub-$70 spot intact, intraday range $69.33-$70.79; **XLE re-entry remains blocked** (peace-deal cap, -13.3% 3M momentum = worst sector). Margin tailwind for XLI/XLP/XLB intact.
+- **🟢 ES Sep futures +0.67% to 7,451.25; NQ Sep +1.02% to 29,666.50; Dow +0.41%** — RISK-ON REVERSAL vs Fri's risk-off close; weekend digest of in-line PCE + tape-positioning into Q2-end. AI build-out + SpaceX IPO + Q1 record-earnings narrative driving sentiment. JPMorgan hiked 2026 SPX target to **7,800** from 7,200 ("Blue Sky" scenario).
+- **🟡 VIX 18.41 (Fri close, -2.54% from prior)** — back AT the 18 green-light threshold but not below; vol regime cautiously optimistic but not all-clear. Intraday Fri range 18.25-18.60 (open 19.70 → fade to 18.41 close = vol-compression on the day).
+- **🔴 Q2-END REBALANCE FLOWS PRIMARY HEADWIND TODAY-TUE.** Goldman Sachs flags **$30B of US stocks for sale** attached to pension rebalance Jun 29-30 (equities outperformed FI so much that pensions need to trim). "Would not be surprised to see some early market weakness next week that again could present a solid buying opportunity" — John Flood, GS Americas Equities Execution Services head. **Mon-Tue dip risk = primary catalyst.**
+- **🟡 Dallas Fed Manufacturing 9:30 AM ET** (prev 0.4; consensus ~2.0) — light catalyst, no 2- or 3-star events on calendar. 3-mo / 6-mo T-Bill auctions 10:30am routine.
+- **🟢 No held-sleeve direct ER risk today.** Mon earnings: AVAV / CNXC / QMCO (non-held small caps). Tue (6/30): STZ / NKE / PRGS. Wed (7/1) Macy's-adjacent; AMC busy. **No earnings binary on XLB/XLI/XLP names today.**
+- **🔴 HOLIDAY-SHORT WEEK:** Fri Jul 3 = U.S. exchanges & banks CLOSED for Independence Day observance. Effectively a 4-day trading week; settled-cash discipline matters more (XLB-fill style late-week trades would settle into next week).
+- **🔴 KEY WEEK CATALYSTS LOADED INTO WED-THU:**
+  - Wed 7/1: ADP (8:15am); ISM Mfg PMI (10am, consensus 53.7).
+  - Thu 7/2: **NFP (8:30am, consensus +114k jobs, UR 4.3%)** — biggest binary of the week; jobless claims; factory orders.
+- **🟢 Sector momentum (Quantlake 6/26 refresh):**
+  - **XLK +39.6% 3M momentum #1** — leader by 25pp; tech still dominates. AI build-out boom drove SPX +16.3% / Naz +25% in last 2mo; tech accounted for ALL 10 best-performing names in May. 
+  - **XLI +14.1% 3M** (held) — broke out, up 1.9pp on week; cyclical rotation accelerating; AI-capex/electricity/defense thesis intact; MACD turned positive Jun 12 (46/46 historical cases rose following month per Tickeron).
+  - **XLRE +14.1% 3M** — broke out, up 5.3pp on week; beta fell 0.80 → 0.21 (defensive characteristics emerging).
+  - **XLF +12.4% 3M** — broke out, up 2.7pp on week; bank stress test results week (mid-week — XLF re-entry catalyst).
+  - **XLB +5.9% 3M** (held) — fell 4.9pp on week; modest cooling but Zacks Rank 2 (Buy), MACD positive, above 50-DMA Jun 24. **Held sleeve thesis intact but momentum slipping vs leaders.**
+  - **XLP +4.3% 3M** (held) — defensive sleeve; up 1.3pp on week; beta -0.23 (regime hedge).
+  - **XLE -13.3% 3M** — laggard; BLOCKED.
+- **YTD Total Return (Total Real Returns 6/26):** XLK +26.10% / XLE +22.08% (blocked) / XLI +17.43% (held) / XLP +10.44% (held) / XLU +9.68% / SPY +7.47% / XLV +4.46% / XLB +13.06% per Zacks. **Held trio = top performers ex-XLE/XLK.**
+- **🔴 Fed: 1 hike priced by EOY 2026** (Schwab "fully priced by October, rising implied vol that one comes Sept"); inflation at 3-yr high per Thu PCE. Hawkish-Fed regime PRIMARY structural cap on duration-sensitive multiples.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD all 3 positions; defer all deploy evaluation to Tue 6/30 or Wed 7/1 post-rebalance digest + post-ADP/ISM data clarity.**
+
+**Why HOLD on Mon Q2-end:**
+1. **$30B pension rebalance SELL flow into Mon-Tue.** Goldman's John Flood explicitly says "would not be surprised to see early market weakness next week" — buying INTO known mechanical-flow selling on Day 1 of a 2-day rebalance window = wrong-direction trade. Better to wait for the dip to deploy, not catch it on the way down.
+2. **Risk-on premkt is gappy, not a clean signal.** ES +0.67% / NQ +1.02% reverses Fri's -0.60% / -1.32% — high-volatility reversal pattern at quarter-end. VIX 18.41 = AT threshold, not BELOW; vol regime cautiously optimistic but compressed-to-expand on any data surprise.
+3. **No catalyst today.** Dallas Fed Mfg is light; T-Bill auctions routine; no held-sleeve ER. The deploy catalyst window is **Wed 7/1 ISM Mfg PMI + Thu 7/2 NFP** (cleaner data binaries for sector positioning).
+4. **Holiday-short week settlement risk.** Fri 7/3 CLOSED. Any Mon deploy settles Tue (clean), but Tue-Wed deploys push settlement into next week — preserve dry powder for the post-NFP setup, not the pre-rebalance noise.
+5. **3 sleeves green; capital-drag thesis materially addressed at 59.56%.** Bot moved from 17 sessions of ~40% to mid-band 60% on Thu's XLB add — first 50%+ run sustained. No emergency to chase a 4th deploy on Day 1 of rebalance-sell tape.
+6. **Trade cap preserves slots for week's REAL setups:** (a) XLK re-entry on confirmed rebalance dip + ISM confirmation; (b) XLF on stress-test results lift; (c) XLRE if defensive-cyclical rotation extends. 3/3 trades available all week — patience > Monday-fomo.
+7. **All cushions adequate.** XLB 9.05% trail / XLI 7.86% trail / XLP 8.00% trail. No tighten triggers active (XLI +15% needs $199.94, ~+10.0% away). Trails handle rebalance tail-vol mechanically.
+
+**Watchlist (NO TRIGGER TODAY — Wed/Thu post-data deploy candidates):**
+1. **XLK re-entry — PRIMARY watch.** YTD +26.10% (#1 ex-XLE), 3M momentum +39.6% leader by 25pp, AI build-out narrative intact. Schwab/Goldman "earnings driver" thesis applies. **Trigger:** post-rebalance dip to XLK <$245 (current ~$253) + ISM Mfg PMI Wed beats 53.7 + NQ holds 29,300. **Size:** $20k max position. Entry would bring positions to 4/6, deployed ~79.5% (in target band).
+2. **XLF re-entry — SECONDARY watch.** Worst YTD per memory (-6.9% earlier) but 3M momentum +12.4% broke out (up 2.7pp on week); bank stress test results expected mid-week (likely Wed or Thu PM). **Trigger:** post-stress-test pass + sector breakout >$54. Defer eval until Thu morning.
+3. **XLRE — TERTIARY watch.** 3M +14.1% broke out, beta 0.21 (defensive-cyclical hybrid emerging). Real estate rate-sensitive; works on hawkish-fade narrative. Re-evaluate post-Thu NFP if rates fall (UR >4.3% = bond bid = XLRE bid).
+4. **XLI add — SKIP.** Concentration; +4.55% running; near auto-trail HWM ($186.09) advance window if risk-on extends.
+5. **XLB add — SKIP.** Day-3 fill flat; momentum slipping vs leaders (-4.9pp 3M on week).
+6. **XLP add — SKIP.** Concentration; defensive sleeve doing its job.
+7. **XLY / XLV / XLU / XLC — SKIP** (no clean catalyst).
+8. **XLE — BLOCKED** (peace-deal cap regime + -13.3% 3M momentum = worst sector).
+
+**Buy-Side Gate snapshot (academic — no deploy today):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,525.22 cap) ✓
+- Cost ≤ settled cash ($41,500.59) ✓ (~2 more 20% deploys before settled-cash constraint)
+- **No catalyst documented at pre-mkt entry** — defer eval to Wed/Thu post-data ✗
+
+### Risk Factors
+- **🔴 Q2-END $30B PENSION REBALANCE SELL FLOW Mon-Tue.** Goldman explicit warning; held sleeves XLI/XLB likely beneficiaries on Day 2 of rebalance (buyback flows as pensions re-add equities post-trim), but Day 1 = sell-pressure risk. Trails handle either direction.
+- **🟡 VIX 18.41 AT threshold, not BELOW.** Cautious green-light but not all-clear; one data-surprise = vol-spike to 20+. Held sleeves designed for 18-20 regime.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** 1 hike priced EOY (Sept ~70% odds); duration-sensitive multiples capped; XLF/XLK/XLRE rate-headwind continues; XLI/XLB/XLP rate-neutral-to-positive.
+- **🟢 Held trio thesis-aligned with regime.** XLB chemicals/metals/construction = infrastructure/energy-transition tailwind; XLI AI-capex/defense/electricity-buildout intact; XLP defensive bid under VIX-18 cautious regime.
+- **🟢 All 3 cushions adequate.** XLB 9.05% / XLI 7.86% / XLP 8.00%. None near trigger; manual -7% cut for XLB at $48.00 closest manual trigger but still ~7.05% away.
+- **🟢 Oil sub-$70 amplifies margin tailwind** for all 3 held sleeves (chemicals/industrials/staples = input-cost beneficiaries).
+- **🔴 Holiday-short week settlement compression.** Fri Jul 3 closed; T+1 means Mon deploy settles Tue (clean), Tue deploy settles Wed (clean), Wed deploy settles Mon 7/6 (skips Fri). Plan deploys to land Mon-Wed for clean settle.
+- **🟡 Wed ISM Mfg PMI + Thu NFP = WEEK'S BINARY EVENTS.** ISM <53 = recession-tone (XLP bid / cyclicals drag); ISM >55 = expansion (XLI/XLB bid). NFP <100k or UR >4.4% = soft-labor (XLP bid + rate-cut hopes lift XLF/XLRE); NFP >130k = hot (XLI bid, hike-fear caps XLK).
+- **🟢→🟡 Capital drag NEUTRALIZED but still ~25 pts below 85% target.** 59.56% deployed sustained; not pressing on Day 1 of rebalance-sell week.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades today; defer next deploy evaluation to Tue 6/30 /pre-market post-rebalance Day-1 digest, with PRIMARY deploy window Wed 7/1 post-ISM Mfg PMI 10am ET.** Trades this week stays **0/3**; positions 3/6; deployment 59.56%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.481 / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves; no buy-evaluation today** (Q2-end rebalance-sell + VIX at threshold + no catalyst). Verify trails active on all 3 positions.
+3. **9:30am ET Dallas Fed Mfg:** monitor for tail-surprise direction; mid-magnitude print expected; trails handle either tail. No manual intervention.
+4. **Intraday triggers (mechanical):**
+   - XLB breaks **$46.971** → trail fires (manual -7% $48.00 ABOVE trail — manual fires first; monitor for manual cut intraday at $48.00).
+   - XLI breaks **$167.481** → trail fires (manual -7% $161.69 BELOW trail — trail fires first).
+   - XLP breaks **$78.0255** → trail fires (manual -7% $77.98 below trail — trail fires first).
+   - Fresh HWM XLI >$186.09 → auto-trail advance (most likely on risk-on tape continuation).
+   - Fresh HWM XLB >$52.19 → auto-trail advance.
+   - Fresh HWM XLP >$86.695 → auto-trail advance.
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+10.0% away — closest); XLP fires at close ≥ $96.43 (~+13.7% away); XLB fires at close ≥ $59.36 (~+14.9% away). None imminent.
+5. **/midday (~12pm ET) thesis check:** post-Dallas Fed digest; cushion-monitor all 3 sleeves; rebalance-flow tape read (early weakness expected per GS).
+6. **EOD (~4pm ET):** /daily-summary — Q2 FINAL day P&L roll-up; first-half-2026 cumulative performance vs SPY benchmark for context.
+7. **Tue 6/30 /pre-market:** Q2-end Day 2; post-rebalance digest; ISM Mfg PMI prep (Wed 10am); XLK re-entry pre-evaluation if Mon dip materialized.
+8. **Wed 7/1:** ISM Mfg PMI 10am = PRIMARY deploy window if XLK or XLF triggers clear.
+9. **Thu 7/2:** NFP 8:30am = secondary deploy window; XLF stress-test results if mid-week.
+10. **Fri 7/3:** MARKET CLOSED (Independence Day).
+
+**Today's discipline = NOT trading into Q2-end pension rebalance-sell flow on Day 1 + VIX at threshold + no catalyst + week's real binaries Wed-Thu.** Bot is mid-band deployed (60%); all 3 sleeves green; all trails adequate; held trio = top-4 YTD ex-XLE/XLK. **Patience > activity. Wait for Wed ISM signal + post-rebalance dip to deploy 4th sleeve (XLK primary).**
+
