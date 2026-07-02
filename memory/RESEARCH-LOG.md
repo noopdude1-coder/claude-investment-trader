@@ -4243,3 +4243,126 @@ Action plan:
 9. **Fri 7/3:** MARKET CLOSED (Independence Day).
 
 **Today's discipline = NOT trading into Q2-end pension rebalance Day-2 sell-flow + light catalyst day + week's real binaries Wed-Thu; PRIMARY monitoring = XLB manual-cut buffer at $48.00.** Bot is mid-band deployed (59.4%); 2/3 sleeves green (XLI +5.43%, XLP +0.68%); XLB drew down -1.93% on Day-1 rebalance but cushion adequate; all trails handle mechanically. **Patience > activity. Wait for Wed ISM signal + rebalance digestion to deploy 4th sleeve (XLK primary).**
+
+
+## 2026-07-02 — Pre-market Research
+
+### Account
+- **Equity:** $102,320.01 (last_equity $102,208.15 → +$111.86 / +0.11% overnight mark-up); Mon premkt $102,626.12 → Thu premkt $102,320.01 = -$306.11 (-0.30%) net-of-week; Wed close $102,208.15
+- **Settled cash:** $41,500.59 (unchanged Mon-Thu; cash account, T+1 — size against THIS, not buying power)
+- **Buying power:** $336,296.74 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (XLB 388sh / XLI 115sh / XLP 238sh — all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$51.02** (lastday $51.02 = flat premkt), unrealized **-$231.04 (-1.15%)** — **RECOVERED from Tue's -1.93% low** (+0.78pp intraday improvement Wed on ISM-miss-then-reflex bid). Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**7.94%** ($4.049 abs); manual -7% cut **$48.00** (~**5.92%** cushion, $3.02 abs — improved from Tue's 5.18%). **Stochastic Oscillator flagged OVERSOLD 6/30 = technical reflex-rally setup.** Materials sleeve thesis INTACT (MLM/Lhoist $13.5B M&A deal 6/29 = construction-materials tailwind; chemicals 51.91% weight benefits from sub-$70 oil input costs).
+  - **XLI 115 sh** @ $173.86, current **$183.36** (lastday $183.36 = flat premkt; Wed close $185.65 = -$2.29/-1.23% overnight per premkt tape), unrealized **+$1,092.50 (+5.46%)** — best held sleeve; briefly touched $185.65 Wed close = **within $0.44 of HWM $186.09 = auto-trail-advance window IMMINENT** on any Thu risk-on push through NFP. Trail GTC stop **$167.481** (HWM $186.09); cushion ~**8.66%** ($15.879 abs); manual -7% cut $161.69 (~11.83% cushion). +15% tighten-to-7% trigger at $199.94 (~+9.04% away). Aroon Indicator entered UPTREND Wed; hedge funds piling into industrials.
+  - **XLP 238 sh** @ $83.851513, current **$83.77** (lastday $83.30 = +0.56% premkt), unrealized **-$19.40 (-0.10%)** — flat sleeve doing defensive job into NFP; premkt tick to $83.64 confirms bid; trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**6.86%** ($5.7445 abs); manual -7% cut $77.98 (~6.91% cushion). June 24 divi $0.5742 paid; retail sales 12-mo high $757.1B (+0.5% MoM) = tailwind for WMT (10.8%) / COST (9.0%) top holdings.
+- Open orders: 3 (all trail stops, GTC, qty_available=0) — verified live for all 3 positions.
+- Trades this week: **0 / 3** (Mon 6/29-Fri 7/3 short by holiday; effectively 4 trading days).
+- Deployed: **$60,819.42 / $102,320.01 = 59.44%** — flat vs Tue premkt 59.44% (XLB recovery offset by XLI overnight cool-off).
+- Cumulative phase: **+2.32%** vs $100k baseline (recovery vs Tue premkt +2.31% / Wed close +2.21%).
+
+### Market Context — NFP DAY, VIX BELOW 17, WTI CRATERED 20%+ IN JUNE
+- **🟢 WTI ~$68.58 (Jul 1 settle, -1.3%; Aug CL=F ~$69.66)** — dropped **>20% in June** = worst monthly performance since late 2021 on Iran-Qatar peace-talk progress + supply-uncertainty easing. **Sub-$70 firmly RESTORED** (was $70.37 borderline Tue). Brent $71.57 close (-1.9%; -21% June = biggest monthly drop since Mar 2020). **Margin tailwind for XLB (chemicals 51.91%), XLI (transports 9.7% / machinery 21.4%), XLP (packaging/staples input) SIGNIFICANTLY RE-STRENGTHENED.** XLE re-entry REMAINS BLOCKED (-13.3% 3M momentum unchanged laggard; peace-deal cap).
+- **🟡 ES ~7,474 down 0.13% pre-open** — cautious into 8:30am NFP; US500 down 0.99% past month; still +19.10% YoY. NQ Sep flat-to-modestly-red; Dow modestly green. JPMorgan 2026 SPX target 7,800 ("Blue Sky" thesis) intact.
+- **🟢 VIX 16.45 (Jul 1 close)** — **BELOW 17 = deeply constructive vol regime** (down from Tue premkt 17.65 / Mon 18.41). Jul 1 range 15.97-17.30 = day HIGH under 18 threshold. VIX FUTURES +2.5% into NFP = normal pre-event hedge, not distress. Green-light regime restored more emphatically than Tue.
+- **🔴 NFP DAY — WEEK'S BIGGEST BINARY:**
+  - **8:30am ET Nonfarm Payrolls (June) — consensus +114-115k jobs, UR 4.3%, AHE +0.3% MoM / +3.4% YoY.** ADP came in soft Wed at 98k (vs 118k expected) = softer NFP read possible.
+  - **8:30am ET Weekly Initial Jobless Claims** — coincident labor color.
+  - **10:00am ET Factory Orders** — post-ISM industrial demand color.
+  - **THREE SCENARIOS:**
+    - **STRONG >150k = SPX selloff** (support 7,239 / 7,176); BofA sees markets pricing 3 rate hikes 2026; XLK VALUATION COMPRESSION; XLI bid on cyclical strength; XLF hike-bid; XLP holds defensive ballast.
+    - **NEAR CONSENSUS 100-130k = soft-landing extension**; risk-on for tech/growth; XLK re-entry green-light; XLF/XLRE lift; held trio holds.
+    - **WEAK <100k = SPX pop initially on cut-hopes reopening, reversal risk on recession fear**; XLP + XLRE bid; XLF hurt on rate-cut compression; XLK ambiguous (rate-cut lift vs recession earnings drag).
+  - **REACTION WINDOW COMPRESSED** — Fri Jul 3 CLOSED (Independence Day); no Fri session to absorb NFP move.
+- **🟡 ISM Mfg PMI 53.3 (June, released Wed 7/1)** — MISSED 54.0 consensus (was 54.0 May); 6th consecutive month of expansion; **New Orders 56.0 (still expanding)** = demand intact; Production 52.2 (slower); **Employment Index 49.7 (contraction)** = pre-NFP soft-labor tell. **Cyclical thesis mild-tempered but not broken.** Overall economy 20th consecutive month expansion.
+- **🟢 NO BMO EARNINGS NOTEWORTHY TODAY.** Lindsay (LNN) only per Kiplinger; Interactive Investor: "No noteworthy announcements." No held-sleeve ER risk. Wed NKE/STZ/PRGS (all AMC) digested overnight.
+- **🔴 HOLIDAY-SHORT WEEK COMPRESSION.** Fri Jul 3 CLOSED. Thu deploy settles Mon 7/6 (skips Fri). If NFP triggers deploy, T+1 lands clean.
+- **🟢 AI BUILD-OUT BOOM PRIMARY MACRO DRIVER intact** — Tech Q4 2025 +25% led all sectors; XLK YTD +33% NAV as of May 31 per SSGA. XLK re-entry primary post-NFP watch on soft-landing scenario.
+- **🟢 Sector momentum (Quantlake late-June refresh):**
+  - **XLK +39.6% 3M #1** (-2.1pp week — mild consolidation; leader by 25pp median)
+  - **XLRE +14.1% 3M breakout** (+5.3pp; beta 0.80→0.21 = defensive characteristics emerging)
+  - **XLI +14.1% 3M** (held, +1.9pp — accelerating; corr <0.50; aerospace/defense/machinery bid)
+  - **XLV +12.4% 3M breakout** (+9.2pp — MAJOR jump; beta -0.52 / corr -0.39 = strong defensive breakout)
+  - **XLF +12.4% 3M breakout** (+2.7pp; stress-test tailwind)
+  - **XLY +8.4%** (-0.6pp)
+  - **XLB +5.9% 3M** (held, -4.9pp week — DECELERATING but oversold 6/30 = reflex-bid setup)
+  - **XLP +4.3% 3M** (held, +1.3pp; beta -0.23 / corr -0.30 = defensive)
+  - **XLU +2.0%**
+  - **XLC -0.5%** (improving +1.7pp)
+  - **XLE -13.3%** (worst; -4.6pp; BLOCKED)
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Fed Chair Warsh (Wed) reiterated commitment to price stability; inflation expectations "eased over past month" = dovish micro-shift on the margin. 1 hike priced EOY (Sept ~70% odds); NFP >150k = 3-hike repricing risk per BofA.
+- **🟢 Q2 earnings forecast +22% YoY (FactSet)** — 2nd consecutive quarter of earnings strength; underpinning "Blue Sky" 7,800 SPX target.
+
+### Trade Ideas
+
+**PRIMARY DECISION: HOLD all 3 positions; NO new trades BMO today; wait for post-NFP 9:30-11am ET digest before considering any deploy.**
+
+**Why HOLD on NFP-day pre-open:**
+1. **NEVER trade INTO an 8:30am binary.** NFP is the week's biggest catalyst; three-scenario outcome spread (strong >150k selloff vs consensus soft-landing bid vs weak <100k reversal-risk) = pre-print entry = gambling, not investing. Post-print reaction 9:30am open provides real signal.
+2. **XLB recovering; XLI approaching HWM advance.** Both held cyclicals are pricing NFP-driven cyclical bid; buying additional cyclical sleeves pre-print = doubling exposure into unknown outcome. Wait for tape confirmation.
+3. **Held trio positioned for any scenario:**
+   - Strong NFP: XLI +bid (cyclical), XLB holds (New Orders 56 supports demand), XLP holds defensive
+   - Consensus NFP: XLI/XLB/XLP all hold with cyclical bias winning
+   - Weak NFP: XLP defensive bid, XLB/XLI drift; trails handle mechanically
+4. **VIX 16.45 constructive but pre-NFP compression can spike vol.** Deploy WITHIN 24h of major binary = worse fills; trails already handle downside mechanically.
+5. **Holiday-short settlement.** Thu deploy settles Mon 7/6 (skips Fri) — CLEAN; but Mon 7/6 = post-holiday NFP-digest gap risk = wait for cleaner setup mid-morning.
+6. **3 trades available — no rush.** Trade cap preserves slots for confirmed setups. XLK re-entry post-NFP soft-landing scenario = primary watch; if strong NFP, XLK compressed = wait for better entry Mon 7/6.
+7. **Buy-Side Gate — no catalyst documented pre-open** = STRATEGY RULE VIOLATION to force entry. Wait for NFP-print catalyst confirmation.
+
+**Watchlist (post-NFP evaluation only — no BMO trigger today):**
+1. **XLK re-entry — PRIMARY watch, POST-NFP CONDITIONAL.** YTD +33% NAV / +27.16% Danelfin; 3M +39.6% leader by 25pp median. **Trigger IF consensus/weak NFP (<130k) + XLK premkt or 9:30 open bid + NQ Sep holds >29,500:** buy 60-70 sh ~$300-315 = $18-21k position. Stop 10% trailing at fill. Target +15% ($345-362) tighten to 7%. **DO NOT deploy on strong NFP (>150k) = valuation-compression scenario.**
+2. **XLV re-entry — SECONDARY watch.** MAJOR breakout to +12.4% 3M (up 9.2pp week); beta -0.52 = strong defensive characteristics; healthcare-services rotation. **Trigger IF strong NFP + hike-fear + defensive rotation extends:** buy 45-50 sh sector ETF ~$145-160 = $7-8k → BLOCKED by 20% cap so scale to $18-19k. Defer eval to Mon 7/6 post-NFP-digest.
+3. **XLF re-entry — TERTIARY watch.** Bank stress test results Wed PM/Thu AM pass; 3M +12.4% breakout. **Trigger IF stress-test pass confirmed + rates rise + broke >$54.** Defer to Mon 7/6.
+4. **XLRE — SKIP for now.** Breakout thesis intact but rate-sensitive; NFP-outcome ambiguous for rates (strong = hurt XLRE; weak = help XLRE).
+5. **XLI add — SKIP.** Concentration + near HWM; auto-trail-advance likely handles upside mechanically.
+6. **XLB add — SKIP.** Currently red -1.15%; ADD = averaging down = STRATEGY VIOLATION.
+7. **XLP add — SKIP.** Concentration; defensive sleeve doing its job.
+8. **XLY / XLU / XLC — SKIP** (no clean catalyst).
+9. **XLE — BLOCKED** (peace-deal cap + -13.3% 3M momentum + oil crash).
+
+**Buy-Side Gate snapshot (academic — no deploy today):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,464.00 cap) ✓
+- Cost ≤ settled cash ($41,500.59) ✓ (~2 more 20% deploys before settled-cash constraint)
+- **No catalyst documented at pre-mkt entry — DEFER to post-NFP** ✗
+
+### Risk Factors
+- **🔴 NFP 8:30am ET = WEEK'S BIGGEST BINARY.** ADP soft (98k vs 118k est) telegraphs weaker read possible; consensus 114-115k; strong >150k = 3-hike repricing per BofA + SPX selloff to 7,239 support; weak <100k = initial pop but recession-reversal risk. Compressed reaction (Fri closed).
+- **🟢 VIX 16.45 BELOW 17 = deeply constructive vol regime restored.** Futures +2.5% = normal pre-NFP hedge. Held sleeves designed for 15-17 regime.
+- **🟢 WTI $68.58 sub-$70 firmly restored + Brent $71.57.** -20/-21% June crash on Iran-peace progress = MARGIN TAILWIND STRONGER for XLB (chemicals) / XLI (transport/machinery) / XLP (packaging). XLE remains blocked.
+- **🟡 ISM Mfg PMI 53.3 miss (vs 54.0)** — 6th month expansion but Employment Index 49.7 CONTRACTION = pre-NFP soft-labor tell. New Orders 56.0 = demand intact.
+- **🟢 XLB Wed reflex-recovery.** Stochastic OVERSOLD 6/30 fed intraday reflex Wed; -1.15% unrealized vs -1.93% Tue = 0.78pp intraday improvement. Manual-cut buffer $48.00 = 5.92% cushion (up from 5.18% Tue). Materials thesis intact.
+- **🟢 XLI HWM $186.09 auto-trail-advance IMMINENT** on Thu risk-on push through NFP. Wed close $185.65 = within $0.44 of HWM; any push >$186.09 fresh HWM lifts trail from $167.481 higher mechanically.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Warsh (Wed): inflation expectations "eased over past month" = dovish micro-shift. Sept ~70% hike odds; NFP >150k = 3-hike risk.
+- **🟢 Held trio thesis-aligned with regime and oil crash.** XLB chemicals/AI-infra/reshoring (oil crash amplifies margin); XLI aerospace/defense/machinery (oil crash amplifies transports); XLP defensive bid under VIX-16 constructive regime.
+- **🟢 No held-sleeve direct ER risk today.** No noteworthy BMO ER (Lindsay LNN only). Wed AMC ER already digested.
+- **🔴 Holiday-short week settlement compression.** Fri Jul 3 CLOSED. Thu deploy settles Mon 7/6 (skips Fri) — CLEAN but exposes to post-holiday gap risk.
+- **🟢→🟡 Capital drag NEUTRALIZED but still ~26 pts below 85% target.** 59.44% deployed sustained; NOT pressing on NFP-day pre-open; deploy queue evaluates post-8:30am print.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO; primary evaluation window = post-NFP 9:30-11am ET tape digest; XLK re-entry PRIMARY conditional watch if NFP consensus/weak + XLK bid.** Trades this week stays **0/3**; positions 3/6; deployment 59.44%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.481 / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **8:30am ET NFP + Jobless Claims:** MONITOR ONLY. No trade execution during release. Note print vs consensus + tape reaction.
+3. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.**
+   - **STRONG NFP (>150k):** XLB likely weakens (cyclical valuation hit); XLI mixed (cyclical bid vs hike-fear cap); XLP defensive bid. **NO deploy; monitor XLB manual-cut buffer $48.00.**
+   - **CONSENSUS NFP (100-140k):** soft-landing bid; XLI likely tests HWM $186.09; XLK re-entry conditional trigger.
+   - **WEAK NFP (<100k):** XLP defensive bid; XLB/XLI drift; XLK ambiguous (cut-hopes vs recession fear); DEFENSIVE POSTURE hold.
+4. **10:00am ET Factory Orders:** post-ISM industrial demand color; secondary data.
+5. **Intraday triggers (mechanical):**
+   - **XLB breaks $48.00 → manual -7% cut fires FIRST** (trail $46.971 below; PRIMARY MONITORING ITEM TODAY).
+   - XLI breaks **$167.481** → trail fires (manual -7% $161.69 below — trail fires first).
+   - XLP breaks **$78.0255** → trail fires (manual -7% $77.98 below — trail fires first).
+   - **Fresh HWM XLI >$186.09 → auto-trail advance (LIKELY on soft-landing NFP scenario).**
+   - Fresh HWM XLB >$52.19 → auto-trail advance.
+   - Fresh HWM XLP >$86.695 → auto-trail advance.
+   - **+15% tighten-to-7% triggers:** XLI fires at close ≥ $199.94 (~+9.04% away — closest); XLP fires at close ≥ $96.43 (~+15.11% away); XLB fires at close ≥ $59.36 (~+16.35% away — pushed further by drawdown). None imminent.
+6. **/midday (~12pm ET) thesis check:** post-NFP digest + Factory Orders reaction; cushion-monitor all 3 sleeves; XLB manual-cut buffer critical; **XLK re-entry deploy trigger evaluated HERE if consensus/weak NFP + XLK bid confirmed.**
+7. **EOD (~4pm ET):** /daily-summary — NFP-day P&L attribution; H1 2026 cumulative performance vs SPY benchmark for context; XLB-vs-rest performance attribution.
+8. **Fri 7/3:** MARKET CLOSED (Independence Day). No routines.
+9. **Mon 7/6 /pre-market:** post-holiday NFP-digest gap analysis; XLV / XLF secondary deploy candidates evaluated; XLK re-entry secondary window if not triggered Thu.
+
+**Today's discipline = NOT trading INTO NFP 8:30am binary + XLB recovery lets manual-cut buffer widen + XLI near HWM auto-trail-advance = trails handle upside mechanically + wait for post-print catalyst confirmation.** Bot mid-band deployed (59.4%); 1/3 sleeves solidly green (XLI +5.46%), 2/3 hovering flat (XLB -1.15% recovered, XLP -0.10%); WTI crash (-20% June) re-strengthens margin tailwind for all 3; VIX 16.45 constructive; NFP outcome dictates Thu-afternoon deploy decision. **Patience > activity. Post-NFP 9:30-11am tape is real signal; pre-print is noise.**
