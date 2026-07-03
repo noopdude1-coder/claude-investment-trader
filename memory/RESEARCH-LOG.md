@@ -4366,3 +4366,72 @@ Action plan:
 9. **Mon 7/6 /pre-market:** post-holiday NFP-digest gap analysis; XLV / XLF secondary deploy candidates evaluated; XLK re-entry secondary window if not triggered Thu.
 
 **Today's discipline = NOT trading INTO NFP 8:30am binary + XLB recovery lets manual-cut buffer widen + XLI near HWM auto-trail-advance = trails handle upside mechanically + wait for post-print catalyst confirmation.** Bot mid-band deployed (59.4%); 1/3 sleeves solidly green (XLI +5.46%), 2/3 hovering flat (XLB -1.15% recovered, XLP -0.10%); WTI crash (-20% June) re-strengthens margin tailwind for all 3; VIX 16.45 constructive; NFP outcome dictates Thu-afternoon deploy decision. **Patience > activity. Post-NFP 9:30-11am tape is real signal; pre-print is noise.**
+
+
+## 2026-07-03 — Pre-market Research
+
+### 🔴 U.S. MARKET CLOSED — Independence Day (observed)
+
+July 4 falls Saturday 2026 → NYSE/Nasdaq observed Fri 7/3. No cash session, no premkt, no AMC. All routines effectively no-op today. Next session: **Mon 7/6 9:30am ET**.
+
+### Account (unchanged since Thu close mark-up)
+- **Equity:** $103,057.74 (last_equity $103,057.74 = flat — no session today; Thu close $103,057.74 vs Thu premkt $102,320.01 = **+$737.73 / +0.72% intraday Thu**)
+- **Settled cash:** $41,500.59 (unchanged; cash account, T+1 — Thu had zero fills so no T+1 pipeline change)
+- **Buying power:** $338,362.38 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$52.01**, unrealized **+$153.08 (+0.76%)** — **FLIPPED GREEN from Thu premkt -1.15%** = +1.91pp intraday recovery on NFP-day. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**9.69%** ($5.039 abs); manual -7% cut **$48.00** (~**7.71%** cushion, $4.01 abs — big improvement from Thu's 5.92%). Materials thesis INTACT.
+  - **XLI 115 sh** @ $173.86, current **$183.91**, unrealized **+$1,155.75 (+5.78%)** — new best sleeve; **just +$2.18 / +1.19% from HWM $186.09 = auto-trail-advance window still IMMINENT on Mon 7/6**. Trail GTC stop **$167.481** (HWM $186.09); cushion ~**8.94%** ($16.429 abs); manual -7% cut $161.69 (~12.08% cushion). +15% tighten-to-7% trigger at $199.94 (~+8.72% away). Aroon UPTREND intact.
+  - **XLP 238 sh** @ $83.851513, current **$84.99**, unrealized **+$270.96 (+1.36%)** — **FLIPPED GREEN from Thu premkt -0.10%** = +1.46pp intraday improvement on defensive bid + NFP soft-print reaction. Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**8.19%** ($6.9645 abs); manual -7% cut $77.98 (~8.25% cushion). Fresh HWM trigger at $86.70 (~+2.01% away).
+- Open orders: 3 (all trail stops GTC, qty_available=0, expires_at 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Mon 6/29–Fri 7/3, effectively 4 trading days used, zero trades executed).
+- Deployed: **$61,557.15 / $103,057.74 = 59.73%** (up marginally from 59.44% Thu premkt via unrealized gains, not fresh deploys).
+- Cumulative phase: **+3.06%** vs $100k baseline (new phase high vs Thu premkt +2.32%).
+
+### Market Context — HOLIDAY, NO DATA
+- **Cash market:** CLOSED all day. Bond market closed. Equity/index futures: closed early Thu, reopen Sun 6pm ET.
+- **No Perplexity market-context fan-out today** — no oil close, no VIX close, no futures print, no releases, no ER. All "today" market queries would return stale Thu data.
+- **Thu 7/2 close snapshot (for continuity, from position lastday_price):** XLB $52.01, XLI $183.91, XLP $84.99. Bot equity $103,057.74 = **+$737.73 / +0.72% intraday Thu** on NFP-day. Bot outperformed on defensive/cyclical mix as NFP absorbed.
+- **Weekend/holiday overhang:** 3-day close (Fri closed + Sat/Sun). Any Mon 7/6 gap will price NFP-digest + weekend news accumulation + potential Middle East/Iran/tariff headlines.
+
+### Trade Ideas
+**N/A — market closed. Zero trade evaluation possible today.**
+
+Deferred to Mon 7/6 /pre-market:
+1. **XLK re-entry** — PRIMARY watch. Post-NFP digest + weekend catalyst risk pricing; conditional on NQ premkt bid + XLK premkt >$302.
+2. **XLV re-entry** — SECONDARY. Defensive breakout +12.4% 3M; conditional on defensive rotation extending.
+3. **XLF re-entry** — TERTIARY. Bank stress-test digest.
+4. **XLI HWM auto-trail-advance** — mechanical, no manual action needed; likely fires Mon 7/6 if XLI opens >$186.09.
+5. **XLB / XLP add** — SKIP (concentration + already positioned).
+6. **XLE — BLOCKED** (peace-deal cap + -13.3% 3M momentum).
+
+### Risk Factors
+- **🔴 3-DAY WEEKEND HEADLINE RISK.** Fri closed + Sat/Sun = 72-hour news accumulation window. Middle East / Iran-peace-talk reversal risk, tariff-headline risk, Trump-admin policy risk all price into Mon 7/6 open. Trails handle downside mechanically.
+- **🟡 NFP-DIGEST GAP RISK Mon 7/6.** Thu NFP print result flows Sun/Mon; institutional repositioning over weekend can gap Mon open ±1-2%. All 3 held sleeves in green cushion (XLI +5.78% best; XLP +1.36%; XLB +0.76%); trails positioned to absorb any -8-10% gap without breach.
+- **🟢 ALL 3 TRAILS SAFE THROUGH WEEKEND.** XLB trail 9.69% cushion ($46.971 vs $52.01); XLI trail 8.94% cushion ($167.481 vs $183.91); XLP trail 8.19% cushion ($78.0255 vs $84.99). Even a 5% gap-down Mon leaves all 3 in trail-cushion.
+- **🟢 XLB manual-cut buffer EXPANDED to $4.01 / 7.71%** (from Thu 5.92%) — Thu intraday recovery gave meaningful room; less critical monitoring item Mon 7/6.
+- **🟢 XLI near HWM $186.09.** Any Mon 7/6 gap-up >$186.09 triggers auto-trail-advance mechanically; lifts trail from $167.481 higher = more cushion locked.
+- **🟢 WTI $68.58 close sub-$70 firmly + Brent $71.57 (Wed Jul 1 settle prints).** Oil crash margin tailwind PERSISTS for held cyclicals over weekend. Iran-peace-progress = fragile catalyst — reversal risk if talks break down Sat/Sun.
+- **🟢 VIX 16.45 Wed close** — constructive vol regime intact into weekend; Thu VIX close absorbed by holiday (no Fri print).
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Post-NFP repricing settled Thu; weekend Fedspeak (any Saturday minutes leaks, Sunday show appearances) can shift Sept-hike odds.
+- **🟢→🟡 Capital drag unchanged.** 59.73% deployed sustained; ~25 pts below 85% target; deploy queue evaluates Mon 7/6 post-holiday-gap.
+
+### Decision
+
+**HOLIDAY — NO ACTION. Market closed. All 3 trails live and safe through weekend. No routines fire today. Next evaluation Mon 7/6 /pre-market 6am ET.**
+
+Trades this week final: **0 / 3** (perfect discipline — patience > activity into NFP + 3-day weekend; no forced deploys).
+
+Action plan:
+
+1. **Today (7/3):** market closed; no cash session; no routines fire; no orders modified.
+2. **Sat 7/4 / Sun 7/5:** monitor headlines only if user pings; no routine action.
+3. **Mon 7/6 /pre-market (6am ET):** post-holiday gap analysis primary focus:
+   - Assess Mon 7/6 premkt tape for gap direction (up/down/flat).
+   - Perplexity fan-out: WTI/Brent, VIX, ES/NQ, Iran-peace status, weekend headline accumulation, ISM Services PMI (10am ET Mon).
+   - XLK re-entry PRIMARY evaluation on soft-landing NFP-digest scenario + XLK premkt bid.
+   - XLI HWM $186.09 auto-trail-advance mechanical watch (fires on any Mon 7/6 open >$186.09).
+   - Fresh weekly reset: trades this week = 0/3 (Mon 7/6–Fri 7/10).
+4. **Mon 7/6 /market-open (9:30am ET):** standard routine; conditional deploy if XLK/XLV/XLF trigger met.
+5. **Mon 7/6 /midday (12pm ET):** thesis check + ISM Services PMI 10am digest.
+
+**Today's discipline = HOLIDAY = MARKET CLOSED = ZERO ACTION.** Bot enters 3-day weekend with 3 green sleeves (XLI +5.78%, XLP +1.36%, XLB +0.76% recovered green Thu), 40% cash dry powder, all trails live, phase cumulative +3.06% (new high). NFP absorbed cleanly Thu; sleeves handled binary. Wait for Mon 7/6 post-holiday tape to redeploy. **Patience > activity. Weekend = mechanical trails only.**
