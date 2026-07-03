@@ -619,3 +619,21 @@ No open positions.
 **NFP tape read:** intraday sector rotation (XLP +1.81% defensive lead, XLB +1.12% oil-crash-margin bid, XLI -0.40% cyclical digest) points to **soft-NFP-consensus** print with defensive + rate-sensitive rotation dominant — NOT the >150k hike-fear selloff scenario. XLK re-entry conditional trigger (soft-landing + XLK bid) may be LIVE for pre-market Mon 7/6 evaluation post-holiday-digest; DO NOT force Thu deploy — holiday-eve settlement + late-day thin tape = suboptimal fills, and secondary deploy window Mon 7/6 preserved.
 
 **No action this scan.** All 3 trails handling mechanically; XLB recovery arc complete (flat on cost); XLI cushions intact; XLP defensive-thesis over-earning its keep on NFP tape. Deployment $61,206.94 / $102,707.53 equity = **59.59%** (+20 bps vs Wed EOD 59.39% on green sleeves). Trades this week: **0/3** heading into holiday. Positions: **3/6**. Settled cash $41,500.59 unchanged. Day P&L so far: +$499.38 (+0.49%) on last_equity $102,208.15 → $102,707.53. Next check: EOD daily-summary; Mon 7/6 pre-market for post-holiday XLK re-entry evaluation.
+
+### Jul 03 — Midday Scan (Day 51, Friday — INDEPENDENCE DAY OBSERVED, MARKET CLOSED)
+
+**🔴 U.S. MARKET CLOSED — Independence Day (observed Fri 7/3 since July 4 falls Saturday 2026).** No cash session, no premkt, no AMC. All /midday steps effectively no-op. Positions frozen at Thu 7/2 close (change_today=0, lastday_price=current_price on all 3).
+
+**Positions frozen at Thu close (from Alpaca lastday_price):**
+
+| Ticker | Shares | Entry | Now (Thu close) | Unrealized P&L | Stop |
+|--------|--------|-------|-----------------|----------------|------|
+| XLB    | 388    | $51.615464 | $52.01 | +$153.08 (+0.76%) | $46.971 (trail 10%, HWM $52.19) |
+| XLI    | 115    | $173.86 | $183.91 | +$1,155.75 (+5.78%) | $167.481 (trail 10%, HWM $186.09) |
+| XLP    | 238    | $83.851513 | $84.99 | +$270.96 (+1.36%) | $78.0255 (trail 10%, HWM $86.695) |
+
+**Sell-side rules check:** N/A — market closed, no live prices. Positioned entering the weekend: XLB +0.76% (cut $48.00 ~7.71% cushion), XLI +5.78% (cut $161.69 ~12.08% cushion; +15% tighten trigger $199.94 ~+8.72% away), XLP +1.36% (cut $77.98 ~8.25% cushion; +15% tighten trigger $96.43 ~+13.46% away). No cut triggers, no tighten triggers, all 3 trails live GTC with cushions XLB ~9.69% / XLI ~8.94% / XLP ~8.19% — all well outside 3% floor. **No cuts, no tightens, no cancels possible today.**
+
+**Thesis check:** N/A intraday (no tape). All 3 theses INTACT entering the 3-day close per Thu /pre-market read: XLB (capex super-cycle / oil-crash-margin tailwind / YTD #2 leader), XLI (AI-capex / reshoring / defense), XLP (defensive-bid / rate-sensitive under hawkish regime). Weekend headline-risk items to monitor Sun/Mon premkt: Iran-peace reversal, tariff/Fedspeak, ISM Services PMI Mon 10am ET.
+
+**No action this scan.** Market closed = mandatory no-op. Trades this week final: **0/3** (Week 10 closes with perfect discipline — patience > activity into NFP + 3-day weekend). Positions: **3/6**. Settled cash $41,500.59 unchanged. Equity $103,057.74 (last_equity, flat — no session). Deployment $61,557.15 / $103,057.74 = **59.73%**. Phase cumulative **+$3,057.74 (+3.06%)** — sitting at fresh phase high through the 3-day close. Next routines: none today; next check Mon 7/6 /pre-market 6am ET (post-holiday gap analysis + XLK re-entry PRIMARY evaluation + XLI HWM $186.09 auto-trail-advance mechanical watch).
