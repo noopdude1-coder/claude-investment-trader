@@ -4435,3 +4435,90 @@ Action plan:
 5. **Mon 7/6 /midday (12pm ET):** thesis check + ISM Services PMI 10am digest.
 
 **Today's discipline = HOLIDAY = MARKET CLOSED = ZERO ACTION.** Bot enters 3-day weekend with 3 green sleeves (XLI +5.78%, XLP +1.36%, XLB +0.76% recovered green Thu), 40% cash dry powder, all trails live, phase cumulative +3.06% (new high). NFP absorbed cleanly Thu; sleeves handled binary. Wait for Mon 7/6 post-holiday tape to redeploy. **Patience > activity. Weekend = mechanical trails only.**
+
+
+## 2026-07-06 — Pre-market Research
+
+### Account (post-holiday premkt marks)
+- **Equity:** $103,228.38 (last_equity $103,057.74 = Thu 7/2 close; **+$170.64 / +0.17% overnight gap-up** on premkt marks; **new fresh phase high +3.23% vs $100k baseline** vs Thu premkt +2.32%). balance_asof 2026-07-02 confirms Thu close reconcile.
+- **Settled cash:** $41,500.59 (unchanged since Thu; no fills over holiday; cash account, T+1)
+- **Buying power:** $338,840.17 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$52.30**, unrealized **+$265.60 (+1.33%)** — held Thu's green flip; intraday +$112.52 / +0.56% premkt. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**10.19%** ($5.329 abs); manual -7% cut **$48.00** (~**8.22%** cushion, $4.30 abs). Fresh HWM trigger at $52.19 (~+$0.21 / +0.21% away — **imminent auto-trail-advance today**).
+  - **XLI 115 sh** @ $173.86, current **$184.85**, unrealized **+$1,263.85 (+6.32%)** — new best sleeve, phase-cumulative best; intraday +$108.10 / +0.51% premkt. Trail GTC stop **$167.481** (HWM $186.09); cushion ~**9.39%** ($17.369 abs); manual -7% cut $161.69 (~12.53% cushion). **Fresh HWM trigger at $186.09 (~+$1.24 / +0.67% away — IMMINENT auto-trail-advance today).** +15% tighten-to-7% trigger at $199.94 (~+8.16% away).
+  - **XLP 238 sh** @ $83.851513, current **$84.78**, unrealized **+$220.98 (+1.11%)** — held green; intraday -$49.98 / -0.25% premkt (mild profit-taking on defensive after Thu's +1.36% bid). Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**7.98%** ($6.7545 abs); manual -7% cut $77.98 (~8.00% cushion). Fresh HWM trigger at $86.695 (~+2.26% away).
+- Open orders: 3 (all trail stops GTC, qty_available=0, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (fresh weekly reset Mon 7/6–Fri 7/10).
+- Deployed: **$61,727.79 / $103,228.38 = 59.80%** (~25pp below 85% target; dry powder for post-ISM redeploy).
+- Cumulative phase: **+3.23%** vs $100k baseline (**new fresh phase high**).
+
+### Market Context
+- **ES +0.31% to 7,551.50 premkt** (positive open post-holiday); NQ +1.17% to ~29,901 — **strong semiconductor rebound** after last week's AVGO -12% AI-outlook sell-off.
+- **VIX 16.15** (Thu 7/2 close, -2.65% from 16.59 prior day; premkt spot ~15.81) — **deeply constructive vol regime** intact into holiday-return session; sub-17 sustained; 2-week high SPX print + Dow closed above 52,000 all-time high Thu.
+- **WTI ~$68.70 / Brent ~$71.50** — sub-$70 firmly held over holiday; Iran-peace-progress cap unbroken; margin tailwind for held cyclicals persists.
+- **Economic releases today:** S&P final U.S. Services PMI 9:45am (est **51.3**), **ISM Services 10am (est 54.5)** — PRIMARY intraday data pivot.
+- **Earnings today (BMO):** **NONE noteworthy** (Kiplinger + Interactive Investor confirm zero; only Park Aerospace PKE small-cap). Clean tape.
+- **YTD S&P 500 sector leadership (thru 7/2 close, LinkedIn/Mike Minter):** **Energy +23.3%, Materials +17.4%, Consumer Staples +15.6%, Industrials +14.1%** — **held trio (XLB #2, XLP #3, XLI #4) all top-4 sectors YTD; XLE #1 remains BLOCKED (peace-deal cap + prior 3M -13.3% momentum).** Laggards: Financials -6.9%, Cons Disc -3.8%, Tech -3.3%, Comm -1.2%. Rotation-to-hard-asset+defensive thesis DEEPLY INTACT.
+- **Held-ticker news:** XLP 10DMA crossed bullishly above 50DMA Jun 12; XLP Aug 14 options newly listed = continued institutional engagement. No adverse XLB/XLI/XLP news over holiday.
+- **AI/tech context:** AVGO -12% Thu on flat AI outlook = single-stock risk-off; PANW +40% YTD (cybersecurity resilient); GOOG/AMZN/MSFT/META $725B 2026 capex plan (+77% YoY) = AI thesis structurally intact but valuation-sensitive. JPMorgan raised SPX target 7,800 (=+5% upside).
+
+### Trade Ideas
+
+**Default DEFER new deploys pre-9:45am ET data (S&P Services PMI + ISM Services 10am). Post-print evaluation window primary.**
+
+1. **XLK re-entry — PRIMARY conditional watch.** NQ +1.17% premkt = strong semi rebound (AVGO absorbed?); YTD Tech -3.3% = laggard but reflex-rebound setup if AVGO trough held. Trigger: XLK premkt >$302 + ISM Services beat >54.5 confirming soft-landing. Catalyst: post-AVGO digest + AI capex thesis intact + NQ momentum. Entry ~$302, stop $271.80 (-10%), target $335+ (2:1 R/R). Position cost ~$20,000 (388 sh @ ~$302 or size to 20% cap). BLOCKED IF: ISM Services <52 (softening services print) or NQ reverses sub-flat by 10am.
+2. **XLV re-entry — SECONDARY.** Health Care 6M trailing -3.4% per Schwab; not confirmed in YTD top-4 leaders — defensive rotation questionable. DEFER unless clear XLV breakout signal confirmed post-print.
+3. **XLF re-entry — BLOCKED.** Financials YTD -6.9% = **worst-performing sector** = momentum broken. Per strategy Rule 9 (follow sector momentum), do not force. WAIT for base-forming pattern.
+4. **XLE — BLOCKED.** Peace-deal cap sustained; YTD leader +23.3% but momentum-catalyst asymmetry unfavorable (upside capped, downside on peace confirmation).
+5. **XLB / XLI / XLP add — SKIP.** Concentration; held trio already ~20% each at cap. XLI HWM auto-trail-advance today mechanically lifts trail = passive risk-reduction better than adding.
+6. **XLI HWM auto-trail-advance mechanical watch — IMMINENT.** Any push >$186.09 fires trail lift from current $167.481. Zero manual action; note stop_price + HWM shift post-fill in log.
+7. **XLB HWM auto-trail-advance mechanical watch — IMMINENT.** Any push >$52.19 fires trail lift from current $46.971. Zero manual action.
+8. **XLY / XLU / XLC — SKIP** (no clean catalyst; XLC/XLY laggards).
+
+**Buy-Side Gate snapshot (XLK conditional — academic pre-open):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,645.68 cap at $103,228 equity) ✓
+- Cost ≤ settled cash ($41,500.59) ✓ (~2 more 20% deploys before settled-cash constraint)
+- Catalyst documented today ✓ (this entry) — CONDITIONAL on ISM Services print + XLK confirmation
+
+### Risk Factors
+- **🟢 Constructive premkt tape.** ES +0.31%, NQ +1.17%, VIX ~15.81 spot / 16.15 close — sub-17 sustained; semis rebounding, no gap-down headline risk realized from 3-day weekend.
+- **🟢 Held trio all top-4 YTD sectors.** XLB #2, XLP #3, XLI #4 — sector momentum thesis DEEPLY VALIDATED. Rotation-to-hard-asset+defensive persists.
+- **🟢 WTI $68.70 sub-$70 firmly + Brent $71.50.** Iran-peace-progress cap holding; margin tailwind for XLB (chemicals), XLI (transports/machinery), XLP (packaging) persists.
+- **🟢 XLI + XLB HWM auto-trail-advance IMMINENT today** (XLI $1.24 from HWM $186.09; XLB $0.21 from HWM $52.19). Both fire mechanically on any grind higher = passive risk-reduction locked without manual action.
+- **🟡 ISM Services 10am ET = PRIMARY intraday data pivot.** Est 54.5. Beat >55 = risk-on extends, XLK re-entry primary trigger; consensus 53-55 = soft-landing bid intact; miss <52 = defensive posture reinforces (favors held XLP; caps XLB/XLI cyclical bid).
+- **🟡 Post-3-day-weekend NFP-digest fully absorbed** — Thu NFP already priced; Fri Fedspeak / weekend news accumulation absorbed cleanly (no gap-down); today = clean tape but gap-back-fill risk if premkt gains fade by 10am.
+- **🔴 Broadcom AVGO -12% Thu risk-contagion.** Single-stock AI-outlook disappointment; if NQ premkt reverses <flat by 10am = AVGO drag not absorbed = XLK re-entry BLOCKED.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing in Fed Funds futures; ISM Services beat = hike-fear reinforces; miss = dovish tilt but recession-signal risk. Warsh Fed under greater inflation focus.
+- **🟢 No noteworthy BMO earnings.** Zero single-stock ER risk; DAL (Tue 7/7) + LEVI/PEP (Wed/Thu) = week-later. Clean single-stock tape today.
+- **🟢 All 3 trails safe.** XLB 10.19% cushion / XLI 9.39% cushion / XLP 7.98% cushion — all outside 3% danger zone; even 5-7% intraday gap-down leaves all trails intact.
+- **🟡 Capital drag persists.** 59.80% deployed ≈ 25pp below 85% target; NOT pressing pre-10am ISM print; post-print evaluation window primary.
+- **🟢 Bloomberg 5D print (thru 6/26 5pm EDT):** Health Care +3.16% / Cons Disc +1.55% / Real Estate +1.43% / Cons Staples +0.96% / Utils +0.84% led; **Industrials -1.53% / IT -1.05% lagged** — near-term defensive-rotation tape but held XLI positioning ahead of AI-capex/reshoring re-acceleration.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO; primary evaluation window = post-9:45am/10am services PMI + ISM Services digest; XLK re-entry PRIMARY conditional trigger post-print if beat + NQ sustained + XLK premkt >$302.** Trades this week stays **0/3**; positions 3/6; deployment 59.80%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.481 / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** Monitor XLI + XLB imminent HWM triggers ($186.09 / $52.19).
+3. **9:45am ET S&P final Services PMI (est 51.3):** primary secondary data; muted market reaction typically vs ISM.
+4. **10:00am ET ISM Services (est 54.5) — PRIMARY DATA PIVOT.**
+   - **BEAT (>55):** risk-on extends; XLK re-entry PRIMARY trigger if XLK >$302 + NQ sustained.
+   - **CONSENSUS (53-55):** soft-landing bid intact; hold posture; monitor XLI HWM ratchet.
+   - **MISS (<52):** defensive posture reinforces; XLP bid extends; XLB/XLI drift-lower risk; XLK re-entry BLOCKED.
+5. **Intraday triggers (mechanical):**
+   - **Fresh HWM XLI >$186.09 → auto-trail advance (VERY LIKELY today).**
+   - **Fresh HWM XLB >$52.19 → auto-trail advance (LIKELY today).**
+   - **Fresh HWM XLP >$86.695 → auto-trail advance** (~+2.26% away — possible).
+   - XLB breaks $48.00 → manual -7% cut fires FIRST (trail $46.971 below).
+   - XLI breaks $167.481 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI at close ≥ $199.94 (~+8.16% away — closest); XLP at close ≥ $96.43 (~+13.74% away); XLB at close ≥ $59.36 (~+13.50% away). None imminent.
+6. **/midday (~12pm ET) thesis check:** post-ISM digest; cushion-monitor all 3 sleeves; XLK re-entry deploy trigger evaluated HERE if conditions met at 10am.
+7. **EOD (~4pm ET):** /daily-summary — post-holiday first-session P&L attribution; auto-trail advances logged; cumulative phase high tracking.
+8. **Tue 7/7 /pre-market:** DAL ER (6:30am BMO) + U.S. trade balance 8:30am; XLI single-stock ER risk (DAL = airline); post-ISM continuation.
+
+**Today's discipline = HOLD default + WAIT for 10am ISM Services print + XLI/XLB HWM auto-trail-advance passively reduces risk + XLK re-entry ONLY on confirmed post-print beat.** Bot enters post-holiday session with 3 green sleeves (XLI +6.32% best, XLB +1.33% held green, XLP +1.11%), fresh phase-high $103,228.38 (+3.23%), all trails live, held trio all top-4 YTD sector leaders. **Patience > activity. Post-print tape is signal; pre-print gap is noise.**
