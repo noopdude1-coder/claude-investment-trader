@@ -4522,3 +4522,91 @@ Action plan:
 8. **Tue 7/7 /pre-market:** DAL ER (6:30am BMO) + U.S. trade balance 8:30am; XLI single-stock ER risk (DAL = airline); post-ISM continuation.
 
 **Today's discipline = HOLD default + WAIT for 10am ISM Services print + XLI/XLB HWM auto-trail-advance passively reduces risk + XLK re-entry ONLY on confirmed post-print beat.** Bot enters post-holiday session with 3 green sleeves (XLI +6.32% best, XLB +1.33% held green, XLP +1.11%), fresh phase-high $103,228.38 (+3.23%), all trails live, held trio all top-4 YTD sector leaders. **Patience > activity. Post-print tape is signal; pre-print gap is noise.**
+
+
+## 2026-07-07 — Pre-market Research
+
+### Account (Tue premkt marks)
+- **Equity:** $103,125.54 (last_equity $103,057.74 = Mon 7/6 close; **+$67.80 / +0.07% overnight** on premkt marks; phase cumulative **+$3,125.54 / +3.13%** vs $100k baseline — modest give-back from Mon premkt phase high +3.23% but above Mon EOD +3.02%). balance_asof 2026-07-02 (stale — Alpaca hasn't updated post-Mon).
+- **Settled cash:** $41,500.59 (unchanged; no fills Mon per Alpaca; cash account, T+1)
+- **Buying power:** $338,552.22 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$51.98**, unrealized **+$141.44 (+0.71%)** — flat vs Mon close $51.96 (+$0.02 / +0.04%); intraday change_today=0 (pre-open). Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**9.63%** ($5.009 abs); manual -7% cut **$48.00** (~**7.65%** cushion, $3.98 abs). Fresh HWM trigger at $52.19 (~+$0.21 / **+0.40% away — imminent auto-trail-advance today**).
+  - **XLI 115 sh** @ $173.86, current **$185.47**, unrealized **+$1,335.15 (+6.68%)** — modest -$10.35 / -0.05% premkt drift vs Mon $185.56; still sleeve+phase best print on cost. Trail GTC stop **$167.8005** (HWM $186.445 = ratcheted Mon 7/6 13:52 UTC); cushion ~**9.53%** ($17.6695 abs); manual -7% cut $161.69 (~12.82% cushion). **Fresh HWM trigger at $186.445 (~+$0.975 / +0.53% away — IMMINENT auto-trail-advance again).** +15% tighten-to-7% trigger at $199.94 (~+7.80% away).
+  - **XLP 238 sh** @ $83.851513, current **$84.57**, unrealized **+$171.00 (+0.86%)** — **premkt +$111.86 / +0.56% intraday** (bouncing back from Mon fade). Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**7.75%** ($6.5445 abs); manual -7% cut $77.98 (~7.79% cushion). Fresh HWM trigger at $86.695 (~+$2.125 / +2.51% away).
+- Open orders: 3 (all trail stops GTC, qty_available=0, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Tue of Week 11, weekly cap fresh; Mon 0 fires).
+- Deployed: **$61,624.95 / $103,125.54 = 59.76%** (+5 bps vs Mon EOD 59.71%; ~25pp below 85% target).
+- Cumulative phase: **+3.13%** vs $100k baseline (above Mon EOD +3.02%, below Mon premkt-mark high +3.23%).
+
+### Market Context
+- **ES -0.14% at 7,580.75 premkt** (modest fade off Mon's +0.82% close); **NQ +1.10% at ~29,901** — **bifurcated tape: SPX profit-take vs Nasdaq semi-rebound extension**. Semi complex continues absorbing AVGO -12% overhang.
+- **VIX 16.15 (Mon close, -2.65% from 16.59), spot ~15.57 (Cboe 8:15pm) / intraday range 15.75–16.40** — **deeply constructive vol regime intact**; sub-17 sustained 4th straight session.
+- **WTI Aug'26 (front active) $69.32 +0.77 = sub-$70 firmly** — front-month Jul'26 CLN26 noisy at $74.82 -1.78 (near-expiry roll noise), Aug'26 CLQ26 $69.32 is the actionable read. **Brent ~$71-72** extrapolated from spread. Oil-crash margin tailwind for cyclicals PERSISTS.
+- **🟡 U.S. Trade Balance (May) 8:30am ET = PRIMARY DATA PIVOT.** Consensus deficit **~$78B** (Apr was $55.9B narrowed on record exports $327.1B; **May goods advance already released at $105.8B widened** = ugly print baked in); services surplus fills to total. Wider trade deficit historically pressures USD and manufacturing sentiment (cyclical drag risk).
+- **Earnings today (BMO):** **NONE noteworthy** — Enerpac Tool (EPAC), Kura Sushi (KRUS), Penguin Solutions (PENG), Saratoga (SAR) all small caps. Clean single-stock tape.
+- **📝 CORRECTION to prior plan:** DAL earnings are **Thu 7/9 BMO** (per Delta IR + MarketBeat), NOT today. Q2 EPS consensus $1.43 (-31.9% YoY). No airline ER risk to XLI today.
+- **YTD S&P 500 sector leadership (Wespath 7/3 close, updated):** **XLE +20.7% #1, XLI +19.3% #2, XLK +16.7% #3, XLRE +13.8% #4, XLB +13.7% #5, XLP +10.5% #6.** Held trio (XLI/XLB/XLP) = #2/#5/#6 — all top-6 sector leaders. Prior "top-4" read updated: XLB dropped from #2 to #5 on updated Wespath data (Real Estate + Tech advanced). Laggards: XLY -0.1%, XLC +2.7%, XLF +3.2%.
+- **XLI single-stock news (Tickeron 7/2):** Aroon Indicator **entered UPTREND today**; Momentum Indicator positive since Jun 11; **overbought Stochastic 2 days = near-term pullback risk** (aligns with today's -0.05% premkt drift). Q2 industrial earnings 19/22 EPS beats; aerospace/defense deal-flow surged Q2; hedge funds piling into industrial stocks; top holdings CAT/GE/RTX/GEV/UBER/VRT.
+- **XLB single-stock news (Tickeron 7/2):** **+2.32% Uptrend, 3 consecutive advancing days** through Mon (Mon partial fade); Momentum crossed above 0 on 7/2; **crossed above 50DMA 7/2 = trend reversal signal**. Chemicals 52.55% weight; Metals & Mining 18.25%; Containers & Packaging 15.23%. Barron's 5d ago: "Case for Owning a Materials ETF" to avoid tech vol.
+- **XLP:** No adverse news; defensive/rate-sensitive dual thesis intact; premkt +0.56% bounce off Mon's -1.05% fade.
+
+### Trade Ideas
+
+**Default HOLD pre-8:30am ET trade balance print + defer new deploys to post-10am confirmation window. Post-print evaluation primary.**
+
+1. **XLK re-entry — PRIMARY conditional watch.** NQ +1.10% premkt sustaining Mon +1.35% = **semi rebound extending 2nd session**; YTD +16.7% = strong momentum (not laggard as prior read); AVGO overhang absorbed. Trigger: **XLK premkt >$302 + NQ sustains >flat post-8:30am trade data + no adverse trade-print reaction**. Catalyst: post-AVGO digest continuation + AI capex $725B 2026 plan structurally intact + semi bid confirming. Entry ~$302-305, stop ~$272 (-10%), target $335+ (2:1 R/R). Position cost ~$20,000 (cap 20% at $20,625). BLOCKED IF: SPX gap-down >0.5% post-8:30am (trade deficit shock) OR VIX spikes >18 OR NQ reverses <flat by 10am.
+2. **XLI HWM auto-trail-advance mechanical watch — IMMINENT (again).** Any push >$186.445 fires trail lift from $167.8005. Zero manual action; note stop_price + HWM shift post-fill in log. XLI Aroon UPTREND intraday confirmation suggests high probability.
+3. **XLB HWM auto-trail-advance mechanical watch — IMMINENT.** Any push >$52.19 fires trail lift from $46.971. Zero manual action; ~+0.40% away = one green session.
+4. **XLV re-entry — SECONDARY.** Health Care YTD +7.7% = weak (not top-4); DEFER.
+5. **XLF re-entry — BLOCKED.** Financials YTD +3.2% (updated), 6M trailing -2.7% = momentum broken per Rule 9. WAIT for base.
+6. **XLE — BLOCKED.** Peace-deal cap sustained; YTD leader +20.7% but momentum-catalyst asymmetry unfavorable.
+7. **XLRE re-entry — DEFER.** YTD +13.8% #4 solid but no clean catalyst today; rate-sensitive defensive already covered by XLP.
+8. **XLB / XLI / XLP add — SKIP.** Concentration; held trio near 20% each. Auto-trail-advances better than adds.
+
+**Buy-Side Gate snapshot (XLK conditional):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,625 cap at $103,125.54) ✓
+- Cost ≤ settled cash ($41,500.59) ✓ (~2 more 20% deploys before settled-cash constraint)
+- Catalyst documented today ✓ (this entry) — CONDITIONAL on post-8:30 trade-print + XLK confirmation
+
+### Risk Factors
+- **🟢 Constructive premkt vol tape.** VIX 16.15 close / spot 15.57–16.38 range = sub-17 sustained; no gap-fear headline realized overnight; semi-complex extending.
+- **🟢 Held trio all top-6 YTD sectors** (XLI #2, XLB #5, XLP #6). Rotation-to-cyclical+defensive-hybrid thesis validated.
+- **🟢 WTI $69.32 sub-$70 firmly.** Iran-peace-progress cap holding; margin tailwind for XLB/XLI/XLP persists.
+- **🟢 XLI + XLB HWM auto-trail-advance BOTH IMMINENT today** (XLI $0.98 from $186.445; XLB $0.21 from $52.19). Both fire mechanically = passive risk-reduction locked without manual action.
+- **🟢 All 3 trails safe.** XLB 9.63% / XLI 9.53% / XLP 7.75% cushions — all outside 3% danger; even 5-7% intraday gap-down leaves all trails intact.
+- **🟡 Trade Balance 8:30am ET = intraday data pivot.** Consensus deficit ~$78B; **May goods advance $105.8B widened print already baked in** — services fill; unlikely to shock but could pressure cyclicals if worse than expected. ES premkt -0.14% suggests modest defensive posture pre-print.
+- **🟡 ES/NQ bifurcation.** ES -0.14% profit-take vs NQ +1.10% semi-lead = large-cap tech leadership continuing while broader SPX consolidates; XLK setup fuel, XLB/XLI intraday drift risk if rotation-out-of-cyclicals resumes.
+- **🟡 XLI overbought Stochastic 2 days + 3-day decline projection per Tickeron.** Near-term pullback risk (-1 to -3% drift) plausible; +6.68% cushion absorbs comfortably but new deploy timing sub-optimal for adding XLI or industrial-adjacent.
+- **🟡 Post-Mon ISM Services aftermath.** Consensus 54.5 print (actual not confirmed in research); soft-landing bid Mon set up cyclical rotation continuation but Mon EOD saw XLP -1.05% defensive give-back = rate-sensitive underperformance risk today.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing sustained; Warsh commentary reinforced greater inflation focus; JPM SPX target raised to 7,800 (+5% upside from 7,483 close 7/2).
+- **🟢 No noteworthy BMO earnings.** Zero single-stock ER risk (EPAC/KRUS/PENG/SAR small caps); DAL correction: actually Thu 7/9 not today.
+- **🟡 Capital drag persists.** 59.76% deployed ≈ 25pp below 85% target; NOT pressing pre-8:30 print; post-open evaluation window primary.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO; primary evaluation window = post-8:30am ET trade balance print + 10am tape stabilization; XLK re-entry PRIMARY conditional trigger post-print if XLK >$302 + NQ sustains + no adverse trade-shock.** Trades this week stays **0/3**; positions 3/6; deployment 59.76%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.8005 [Mon-ratcheted] / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **8:30am ET U.S. Trade Balance (May) — PRIMARY DATA PIVOT.** May goods advance $105.8B widened already released; consensus total deficit ~$78B.
+   - **In-line (~$75-85B):** absorbed, no material impact; XLK setup preserved.
+   - **Wider (>$90B):** USD-strong / cyclical-drag risk; XLB/XLI intraday fade risk; **XLK re-entry HOLD until 10am confirmation**.
+   - **Narrower (<$70B):** risk-on extends; XLK re-entry PRIMARY trigger LIVE.
+3. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** Monitor XLI + XLB imminent HWM triggers ($186.445 / $52.19).
+4. **Intraday triggers (mechanical):**
+   - **Fresh HWM XLI >$186.445 → auto-trail advance (VERY LIKELY today, Aroon UPTREND confirmed).**
+   - **Fresh HWM XLB >$52.19 → auto-trail advance (LIKELY today, only $0.21 away).**
+   - **Fresh HWM XLP >$86.695 → auto-trail advance** (~+2.51% away — possible on defensive bounce).
+   - XLB breaks $48.00 → manual -7% cut fires FIRST (trail $46.971 below).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI at close ≥ $199.94 (~+7.80% away — closest); XLP at close ≥ $96.43 (~+14.05% away); XLB at close ≥ $59.36 (~+14.20% away). None imminent.
+5. **/midday (~12pm ET) thesis check:** post-8:30 trade-print + 10am tape digest; cushion-monitor all 3 sleeves; XLK re-entry deploy trigger evaluated HERE if conditions met.
+6. **EOD (~4pm ET):** /daily-summary — post-trade-print P&L attribution; auto-trail advances logged; cumulative phase tracking.
+7. **Wed 7/8 /pre-market:** Wholesale Inventories 10am + EIA Crude Oil Inventories + Consumer Credit; XLI HWM continuation watch; XLK add-follow-through if Tue deploy hit.
+
+**Today's discipline = HOLD default + WAIT for 8:30am trade print + XLI/XLB HWM auto-trail-advance passively reduces risk (both imminent) + XLK re-entry ONLY on confirmed post-print risk-on + NQ sustain.** Bot enters Tue post-holiday session with 3 green sleeves (XLI +6.68% new best, XLB +0.71% recovery arc complete, XLP +0.86% bouncing), phase +3.13% (near-phase-high), all trails live, held trio all top-6 YTD sector leaders (#2/#5/#6). **Patience > activity. Post-8:30 tape is signal; pre-print gap is noise. Auto-trails do the work today.**
