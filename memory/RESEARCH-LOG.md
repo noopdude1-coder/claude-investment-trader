@@ -4610,3 +4610,95 @@ Action plan:
 7. **Wed 7/8 /pre-market:** Wholesale Inventories 10am + EIA Crude Oil Inventories + Consumer Credit; XLI HWM continuation watch; XLK add-follow-through if Tue deploy hit.
 
 **Today's discipline = HOLD default + WAIT for 8:30am trade print + XLI/XLB HWM auto-trail-advance passively reduces risk (both imminent) + XLK re-entry ONLY on confirmed post-print risk-on + NQ sustain.** Bot enters Tue post-holiday session with 3 green sleeves (XLI +6.68% new best, XLB +0.71% recovery arc complete, XLP +0.86% bouncing), phase +3.13% (near-phase-high), all trails live, held trio all top-6 YTD sector leaders (#2/#5/#6). **Patience > activity. Post-8:30 tape is signal; pre-print gap is noise. Auto-trails do the work today.**
+
+
+## 2026-07-08 — Pre-market Research
+
+### Account (Wed premkt marks)
+- **Equity:** $102,263.54 (portfolio_value; last_equity $102,656.85 = Tue 7/7 close per Alpaca; **-$393.31 / -0.38% overnight** on premkt marks; phase cumulative **+$2,263.54 / +2.26%** vs $100k baseline — modest give-back from Tue EOD +2.69% on XLB/XLI premkt drift). balance_asof 2026-07-07.
+- **Settled cash:** $41,500.59 (unchanged; no fills Tue; cash account, T+1)
+- **Buying power:** $336,138.62 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$50.8038**, unrealized **-$314.93 (-1.57%)** — **first meaningful red on cost since deploy**; premkt drift **-1.37%** vs Tue close $51.54 → $50.80. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**7.53%** ($3.83 abs); manual -7% cut **$48.00** (~**5.51%** cushion, $2.80 abs — **TIGHTENING**, first sub-6% cushion in the group). HWM $52.19 = ~**2.73%** above current.
+  - **XLI 115 sh** @ $173.86, current **$180.32**, unrealized **+$742.90 (+3.72%)** — premkt drift **-1.13%** extending Tue's -1.71% fade (2nd consecutive red session per Tickeron overbought Stochastic projection). Trail GTC stop **$167.8005** (HWM $186.445 = Mon-ratcheted); cushion ~**6.96%** ($12.52 abs); manual -7% cut $161.69 (~**10.33%** cushion). HWM $186.445 = ~**3.40%** above current (widened vs Tue EOD 2.23%).
+  - **XLP 238 sh** @ $83.851513, current **$85.3541**, unrealized **+$357.62 (+1.79%)** — **premkt +0.58% bouncing** (extending Tue's +1.02% defensive-rotation-back). Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**8.59%** ($7.33 abs); manual -7% cut $77.98 (~**8.64%** cushion). HWM $86.695 = ~**1.57%** above current (**closest to ratchet in group** — tightened vs Tue EOD 2.04%).
+- Open orders: 3 (all trail stops GTC, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Wed of Week 11 = 3/4 sessions; weekly cap fully fresh).
+- Deployed: **$60,762.95 / $102,263.54 = 59.42%** (-17 bps vs Tue EOD 59.59%; ~25pp below 85% target).
+- Cumulative phase: **+2.26%** vs $100k baseline (below Tue EOD +2.69%; below Mon peak +3.02%).
+
+### Market Context
+- **🚨 WTI Aug'26 (CLQ26) $72.08 +2.33% premkt** (+$1.64 = **largest single-day move in weeks** vs Tue premkt $69.32); front-month $72.67 +2.23. **U.S. Treasury CANCELED Iran oil license (waiver granted 6/21) late Tuesday** = Iran-peace-progress cap partially REVERSING = oil bid returning. Brent extrapolated ~$75-76 (spread implied).
+- **ES Sep'26 +0.63% premkt** (Wall Street pointing higher; recovery off Tue -0.52% close); **NQ Sep'26 +1.56%** — **semi/chip-lead extending 2nd session**; AI infrastructure demand + AVGO absorption + PANW cybersecurity momentum.
+- **VIX 15.93 intraday (+2.31% off 15.57 prev close);** range 15.81–16.02 today. **Sub-16 sustained** = deeply constructive vol regime intact 5th session in row.
+- **📅 Wholesale Inventories (May) 9:00am ET** — consensus +0.3% MoM (prior +0.6%); LOW impact typically; watch for revision to April.
+- **📅 EIA Crude Oil Inventories ~10:30am ET** — weekly print; **now HIGH signal on Iran-license-cancel news** (WTI +2.33% premkt = market pricing tightening supply).
+- **📅 Consumer Credit ~3pm ET** — LOW impact.
+- **Earnings today (BMO): NONE noteworthy** — HELE (Helen of Troy $0.01 est), SMPL (Simply Good Foods $0.35 est) small-caps only. LEVI/PSMT/WDFC report AMC (Tue's day too — updated). No single-stock ER risk BMO.
+- **YTD S&P 500 sector leadership (dual-source read):** **XLE +23.3% #1, XLB +17.4% #2, XLP +15.6% #3, XLI +14.1% #4, XLK -3.3% laggard.** Held trio (XLB/XLP/XLI) = **#2/#3/#4 — sweep of top-4 non-energy leaders (upgrade vs Tue's #2/#5/#6 read; sector momentum thesis DEEPLY VALIDATED).** Laggards: XLF, XLY, XLC, XLK.
+- **XLB technicals (Tickeron):** Aroon Indicator **entered UPTREND today (7/8)**; 10DMA > 50DMA cross Jun 22; Momentum > 0 Jul 2; 3-day advance streak (through Mon partial) → historical 337/337 similar cases advanced further within month. Chemicals 52.29% / Metals-Mining 18.51% / Construction-Materials 14.06%. **Uptrend confirmed — Tue's -0.85% likely digestion, not thesis crack.**
+- **XLI:** Aerospace/Defense 26.47% weight (Poland $4B loan guarantee, global aerospace/defense deal surge Q2), Machinery 21.15%; 19/22 Q2 EPS beats; hedge funds piling in; **overbought Stochastic 2 days + 3-day decline projection delivered** (-1.71% Tue + -1.13% premkt Wed = middle of projected -1 to -3% band). Aroon Uptrend intact.
+- **XLP:** No adverse news; defensive/rate-sensitive dual thesis intact; premkt +0.58% bouncing; closest to HWM ratchet.
+- **XLK context:** Yahoo YTD -3.36% laggard confirmed; Jul 7 range $176.36-$180.72 (Tue -3%+ fade after Mon peak); premkt data mixed (Market Chameleon $171.53 likely stale). AVGO 4.70% / NVDA 13.00% weights; NQ +1.56% premkt = semi lead supportive setup; overall constructive if premkt >$180 confirms bounce.
+- **AI capex thesis structurally intact:** GOOG/AMZN/MSFT/META $725B 2026 (+77% YoY); AVGO -12% Thu = single-stock reset absorbed 3 sessions.
+
+### Trade Ideas
+
+**Default HOLD pre-9:00am ET Wholesale Inv print + defer new deploys to post-10:30am EIA Crude print + XLK premkt confirmation. Iranian-oil-license-cancel = new geopolitical vector demanding tape-stabilization window first.**
+
+1. **XLK re-entry — PRIMARY conditional watch (again, deferred from Mon/Tue).** NQ +1.56% premkt = **strong semi extension 3rd session**; YTD -3.3% laggard = reflex-rebound setup; AVGO/NVDA weight 17.7% combined = direct AI-demand exposure. Trigger: **XLK premkt >$180 confirmed + NQ sustains >flat post-9am + EIA Crude not shock (<+5M draw or >-5M build) + no Wholesale Inv miss <-0.5%**. Catalyst: post-AVGO reset absorbed + AI capex $725B intact + chip-lead momentum. Entry ~$180-182, stop ~$162 (-10%), target $200+ (2:1 R/R). Position cost ~$20,000 (388 sh @ ~$180 or size to 20% cap $20,452 at $102,263 equity). BLOCKED IF: XLK premkt <$178 or SPX gap-down >0.5% post-9am or VIX spikes >18 or Iran-oil headline escalates (WTI >$76 = supply-shock risk-off tape).
+2. **XLI HWM watch — NOT imminent.** Sits 3.40% below $186.445 = needs to reclaim $185.56 Mon peak first; post-Tue -1.71% fade + Wed premkt -1.13% = drift-lower; no auto-trail-advance today unless afternoon rebound >$186.45.
+3. **XLB HWM watch — 2.73% below $52.19.** Aroon Uptrend today per Tickeron = supportive but manual -7% cut $48.00 tightening to 5.51% cushion = **PRIORITY MONITOR** — if intraday breaks below $48.00 = cut fires FIRST (trail $46.971 below). Watch closely.
+4. **XLP HWM watch — 1.57% below $86.695 = closest to ratchet.** If defensive bid extends >$86.70 intraday → auto-trail advance fires. Sub-1% away from ratchet on any 1%+ green session.
+5. **XLE add — DEFER.** YTD leader +23.3% but momentum-catalyst asymmetry unfavorable: Iran-oil-license-cancel = spike-only setup; if peace returns = quick fade risk. WAIT for consolidation base.
+6. **XLV / XLRE / XLU — DEFER.** No clean catalyst today; rate-sensitive defensive already covered by XLP.
+7. **XLF — BLOCKED.** Financials YTD laggard; momentum broken per Rule 9.
+8. **XLB / XLI / XLP add — SKIP.** Concentration; held trio each near 20% cap.
+
+**Buy-Side Gate snapshot (XLK conditional):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,452 cap at $102,263.54) ✓
+- Cost ≤ settled cash ($41,500.59) ✓
+- Catalyst documented today ✓ — CONDITIONAL on post-9am/10:30am prints + XLK premkt confirm
+- Instrument is stock ✓
+
+### Risk Factors
+- **🔴 XLB first meaningful red on cost since deploy.** -1.57% unrealized + premkt -1.37%; manual -7% cut $48.00 cushion tightened to **5.51%** ($2.80 abs) = **first sub-6% cushion in the group**. Iranian oil license reversal = margin-tailwind partial pressure (chemicals input costs rising). Cushion still safe but MONITOR closely at open.
+- **🔴 Iranian oil license CANCELED Tue late (WTI +2.33% premkt).** New geopolitical vector — Iran-peace-progress cap partially reversing = tail-risk supply-shock possible. XLE-bid supportive; XLB input-cost headwind emerging (chemicals feedstock); XLI/XLP mostly neutral. WTI >$76 = supply-shock risk-off tape trigger; sub-$74 = digestion.
+- **🟡 XLI -1.13% premkt drift = 2nd consecutive fade session.** Tickeron overbought Stochastic + 3-day decline projection delivered on schedule; still +3.72% on cost, +$742.90; trail 6.96% cushion. Structural AI-capex/reshoring/defense thesis INTACT; today's drift is tactical mean-reversion, not thesis crack. HWM widened 3.40% below = no ratchet imminent.
+- **🟢 XLP +0.58% premkt bouncing = defensive-rotation-back extending.** Closest to HWM ratchet at 1.57% below $86.695; passive risk-reduction candidate imminent this session.
+- **🟢 Held trio all top-4 non-energy YTD leaders (upgrade!):** XLB #2 +17.4%, XLP #3 +15.6%, XLI #4 +14.1% per updated LinkedIn/Investing.com dual-source read (Tue's Wespath read had XLB dropped to #5; today's read restores). Sector momentum thesis DEEPLY VALIDATED.
+- **🟢 XLB Aroon Uptrend entered TODAY per Tickeron (7/8).** 10DMA > 50DMA cross Jun 22 + Momentum > 0 Jul 2 = 3 confirming technicals; 337/337 historical cases with 3-day advance extended within month = statistically favorable setup despite today's premkt drift.
+- **🟢 NQ +1.56% premkt = semi/chip-lead extending 3rd session.** XLK re-entry setup fuel; AI infrastructure demand + AVGO absorption + PANW/cybersecurity + NVDA leadership all constructive. Sub-condition: XLK premkt >$180 for confirmation (data mixed premkt).
+- **🟢 VIX 15.93 (+2.31%) sub-16 sustained.** 5th session in row; deeply constructive vol regime; even modest tick-up not concerning.
+- **🟡 Wholesale Inventories 9am est +0.3% (prior +0.6%).** LOW impact typically but a big miss (<-0.5%) = recession signal risk-off; big beat (>+1%) = supply-build inflation risk hawkish tilt.
+- **🟡 EIA Crude Oil Inventories 10:30am ET now HIGH signal on Iran-license-cancel.** Draw > -5M = tightening confirmation, WTI extends bid, XLB pressure; build > +5M = supply-fine, WTI fades, XLB relief.
+- **🟢 No noteworthy BMO earnings** (HELE, SMPL small caps only) — clean single-stock tape.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing; JPM SPX target 7,800 (+5% upside).
+- **🟢 All 3 trails safe.** XLB 7.53% / XLI 6.96% / XLP 8.59% cushions — all outside 3% danger zone; even 5% intraday gap-down leaves trails intact.
+- **🟡 Capital drag persists.** 59.42% deployed ≈ 26pp below 85% target; XLK re-entry is primary vector to push toward lower bound; Wed-Fri = 3 sessions left in Week 11 for deploy.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO; primary evaluation window = post-9am Wholesale Inv + 10:30am EIA Crude + XLK premkt/open confirm. XLK re-entry PRIMARY conditional trigger IF XLK premkt >$180 + NQ sustains + no adverse Iran-oil escalation (WTI <$76) + no Wholesale Inv shock.** Trades this week stays **0/3**; positions 3/6; deployment 59.42%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.8005 [Mon-ratcheted] / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **9:00am ET Wholesale Inventories (May) — LOW impact typically.** Consensus +0.3%; a big miss/beat could shift open tape.
+3. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** Monitor XLB manual -7% cut cushion ($48.00 tightening) + XLP HWM imminent ratchet ($86.695) + XLK premkt confirm at open.
+4. **10:30am ET EIA Crude Oil Inventories — HIGH signal today on Iran headline.** Draw = XLB pressure extends; build = XLB relief; steady = neutral.
+5. **Intraday triggers (mechanical):**
+   - **Fresh HWM XLP >$86.695 → auto-trail advance (LIKELY today, only 1.57% away on defensive-bid extension).**
+   - **XLB breaks $48.00 → manual -7% cut fires FIRST** (trail $46.971 below; cushion 5.51% = tightest in group).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (~3.40% away — unlikely today).
+   - Fresh HWM XLB >$52.19 → auto-trail advance (~2.73% away — possible on Aroon-Uptrend bid).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI ≥$199.94 (~+10.88% away); XLP ≥$96.43 (~+12.98% away); XLB ≥$59.36 (~+16.85% away). None imminent.
+6. **/midday (~12pm ET) thesis check:** post-9am + 10:30am digest; cushion-monitor all 3 sleeves (**XLB priority — 5.51% cut cushion**); XLK re-entry deploy trigger evaluated HERE if conditions met at open.
+7. **EOD (~4pm ET):** /daily-summary — post-Iran-headline P&L attribution; auto-trail advances logged; cumulative phase tracking.
+8. **Thu 7/9 /pre-market:** DAL BMO ER (Q2 EPS est $1.43, -31.9% YoY = airline single-stock ER risk to XLI); Initial Jobless Claims 8:30am.
+
+**Today's discipline = HOLD default + WAIT for 9am/10:30am prints + XLK re-entry ONLY on confirmed post-print risk-on + NQ sustain + WTI <$76 (no Iran escalation). XLB monitor priority = manual -7% cut cushion tightened to 5.51%; if breaks $48.00 = cut fires FIRST regardless of thesis.** Bot enters Wed with 3 sleeves (XLI +3.72% mid-tier post give-back, XLB -1.57% first red on cost pressured by Iran-oil headline, XLP +1.79% bouncing to ratchet-imminent), phase +2.26% (below Mon peak +3.02%), all trails live, held trio all top-4 non-energy YTD leaders. **Patience > activity. Iranian oil license reversal = new geopolitical vector; post-EIA tape is signal; pre-print gap is noise.**
