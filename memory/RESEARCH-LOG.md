@@ -4702,3 +4702,95 @@ Action plan:
 8. **Thu 7/9 /pre-market:** DAL BMO ER (Q2 EPS est $1.43, -31.9% YoY = airline single-stock ER risk to XLI); Initial Jobless Claims 8:30am.
 
 **Today's discipline = HOLD default + WAIT for 9am/10:30am prints + XLK re-entry ONLY on confirmed post-print risk-on + NQ sustain + WTI <$76 (no Iran escalation). XLB monitor priority = manual -7% cut cushion tightened to 5.51%; if breaks $48.00 = cut fires FIRST regardless of thesis.** Bot enters Wed with 3 sleeves (XLI +3.72% mid-tier post give-back, XLB -1.57% first red on cost pressured by Iran-oil headline, XLP +1.79% bouncing to ratchet-imminent), phase +2.26% (below Mon peak +3.02%), all trails live, held trio all top-4 non-energy YTD leaders. **Patience > activity. Iranian oil license reversal = new geopolitical vector; post-EIA tape is signal; pre-print gap is noise.**
+
+
+## 2026-07-09 — Pre-market Research
+
+### Account (Thu premkt marks)
+- **Equity:** $101,760.09 (portfolio_value; last_equity $101,795.79 = Wed 7/8 stored per Alpaca; **-$35.70 / -0.04% overnight** on premkt marks; phase cumulative **+$1,760.09 / +1.76%** vs $100k baseline — further give-back from Wed EOD +1.84% on Iran-escalation risk-off). balance_asof 2026-07-08.
+- **Settled cash:** $41,500.59 (unchanged; no fills Wed; cash account, T+1)
+- **Buying power:** $334,728.96 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$50.16**, unrealized **-$564.72 (-2.82%)** — **fresh worst print on cost since deploy** (clears Wed midday -2.58% by 24 bps, Wed EOD -2.63% by 19 bps); premkt drift **-0.20%** vs Wed close $50.2601. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**6.36%** ($3.19 abs); manual -7% cut **$48.00** (~**4.31%** cushion, $2.16 abs — **TIGHTEST OF CYCLE, PRIORITY MONITOR**). HWM $52.19 = ~**4.05%** above current (gap widened vs Wed EOD 3.70%).
+  - **XLI 115 sh** @ $173.86, current **$180.42**, unrealized **+$754.40 (+3.77%)** — premkt drift essentially flat vs Wed close $180.441 (holding). Trail GTC stop **$167.8005** (HWM $186.445 = Mon-ratcheted); cushion ~**7.00%** ($12.62 abs); manual -7% cut $161.69 (~**10.38%** cushion). HWM $186.445 = ~**3.34%** above current (unchanged vs Wed EOD 3.33%).
+  - **XLP 238 sh** @ $83.851513, current **$84.24**, unrealized **+$92.46 (+0.46%)** — premkt drift **-0.18%** vs Wed close $84.39 (giving back some of Tue's defensive-bid extension). Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**7.38%** ($6.21 abs); manual -7% cut $77.98 (~**7.43%** cushion). HWM $86.695 = ~**2.91%** above current (widened vs Wed EOD 2.73%).
+- Open orders: 3 (all trail stops GTC, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Thu of Week 11 = 4/4 sessions; weekly cap fully fresh; Fri last shot).
+- Deployed: **$60,259.50 / $101,760.09 = 59.22%** (-3 bps vs Wed EOD 59.25%; ~26pp below 85% target).
+- Cumulative phase: **+1.76%** vs $100k baseline (below Wed EOD +1.84%; below Mon peak +3.02%).
+
+### Market Context
+- **🚨🚨 IRAN ESCALATION OVERNIGHT — U.S. LAUNCHED FRESH MILITARY STRIKES.** Trump declared interim agreement "OVER"; strikes aimed at keeping Strait of Hormuz open. **WTI Aug'26 (CLQ26) $74.30-74.40 +$2.00+ vs Wed premkt $72.08** (~+2.9% overnight, ~+7% cumulative vs Tue's $69.32 baseline). **Brent ~$78.90** (+$3+ vs Wed baseline ~$75-76). Iran-peace-progress cap fully DEAD — supply-shock premium rebuilding.
+- **ES Sep'26 (ESU26) -0.96% premkt** (major reversal from Wed +0.63%; risk-off broad-tape); **NQ Sep'26 -1.34% premkt** — **AI/semi sell-off Day 2 continuing** per BOTH Iran headline + AI valuation profit-take. MU -5.5%, AMD -4.3%, INTC -5.3% (post-market/premkt reads).
+- **VIX 16.55-16.90** (up from Wed 16.13 close, **+3-5% overnight** on Iran-driven bid); still sub-17 but tick-up decisive. Sub-17 constructive band held BUT trend inflecting.
+- **📅 Initial Jobless Claims (Wk of Jul 4) 8:30am ET** — consensus **218k** (prior 215k). LOW impact typically unless material miss/beat; watch for >230k = softening labor signal.
+- **📅 NY Fed Williams speaks 9:00am ET** — HAWKISH/DOVISH tone HIGH impact; hawkish tilt = supports Sept hike ~70% odds; dovish tilt = pushes back on pricing.
+- **📅 Existing Home Sales (June) 10:00am ET** — LOW-MED impact; rate-sensitive housing.
+- **📅 Fed Balance Sheet ~4:30pm ET** — LOW impact.
+- **Earnings today (BMO): CORRECTION vs Wed pre-market log — DAL Q2 ER is Fri 7/10, NOT today.** No noteworthy BMO ERs today. Clean single-stock ER tape BMO.
+- **YTD S&P 500 sector leadership (unchanged from Wed):** **XLE +23.3% #1, XLB +17.4% #2, XLP +15.6% #3, XLI +14.1% #4, XLK -3.3% laggard.** Held trio (XLB/XLP/XLI) = **#2/#3/#4 sweep of top-4 non-energy** — sector momentum thesis DEEPLY validated. XLE bid extending on Iran; likely #1 gap widens today.
+- **XLB technicals:** Aroon UPTREND from 7/8 intact; 10DMA > 50DMA cross Jun 22; 337/337 historical setup — but **Seeking Alpha 7/9 headline "XLB: Materials' Alpha Cools As The U.S.-Iran Conflict Presses On"** = direct thesis-pressure article confirming Iranian-oil-headline chemicals-feedstock-cost headwind. Chemicals 52.5% weight (Linde 14.4%, APD 4.8%, ECL 4.8% = high feedstock exposure). Structural capex/reshoring thesis INTACT but tactical margin-pressure real.
+- **XLI:** Aerospace/Defense 26.5%, Machinery 21.2%; overbought Stochastic 3-day decline projection FULLY DELIVERED (Mon +0.90% / Tue -1.71% / Wed -1.06% = cumulative -1.90%). Fresh air-frame demand backdrop supportive on defense/aerospace budget outlook.
+- **XLP:** No adverse news; defensive/rate-sensitive dual thesis intact; premkt -0.18% modest give-back after Tue's +1.02% winner-day; still closest to HWM ratchet at 2.91% below.
+- **XLK context:** AI semi sell-off Day 2 = XLK re-entry DEAD for today. NQ -1.34% premkt + MU/AMD/INTC -4 to -5% = valuation-reset compounding; wait for stabilization.
+
+### Trade Ideas
+
+**Default HOLD pre-8:30am jobless claims + 9am Williams + Iran-escalation tape stabilization. XLB manual -7% cut PRIORITY MONITOR at 4.31% cushion. New deploys BLOCKED intraday given risk-off tape + Iranian supply-shock reprice.**
+
+1. **XLK re-entry — BLOCKED intraday.** AI semi sell-off Day 2 + Iran risk-off + NQ -1.34% premkt = deploy conditions completely broken. WAIT for tape stabilization; re-evaluate Mon 7/13 /pre-market.
+2. **XLB manual -7% cut PRIORITY MONITOR.** Cushion **4.31%** to $48.00 = tightest in group; if intraday breaks $48.00 = cut fires FIRST per Rule 5 regardless of thesis (Iran-oil chemicals-feedstock cost headwind extending). Trail $46.971 sits below manual cut = manual protection primary.
+3. **XLI HWM watch — NOT imminent.** 3.34% below $186.445; no ratchet today unless late risk-on reversal.
+4. **XLB HWM watch — DEAD today.** 4.05% below $52.19; Iran-headline pressure ≠ ratchet setup.
+5. **XLP HWM watch — 2.91% below $86.695.** Defensive-bid could return on risk-off tape but premkt -0.18% suggests broader-drift dominating; imminent ratchet possible if flight-to-quality resumes.
+6. **XLE add — DEFER STILL.** YTD leader +23.3% + Iran-supply-shock bid extending = momentum but chase-risk high; wait for consolidation.
+7. **XLV / XLRE / XLU — DEFER.** No clean catalyst; defensive coverage via XLP.
+8. **XLF — BLOCKED.** Momentum broken per Rule 9.
+9. **XLB / XLI / XLP add — SKIP.** Concentration; XLB pressured, XLI mid-tier post-decline, XLP flat.
+
+**Buy-Side Gate snapshot (BLOCKED — no candidate meets today's tape):**
+- Positions after fill 4 ≤ 6 ✓ (would pass mechanically)
+- Trades this week after fill 1/3 ≤ 3 ✓ (would pass mechanically)
+- Cost ≤ 20% equity ($20,352 cap at $101,760) ✓ (would pass mechanically)
+- Cost ≤ settled cash ($41,500.59) ✓ (would pass mechanically)
+- **Catalyst documented ✗ FAIL** — no clean bullish catalyst today; Iran risk-off dominates tape. Gate BLOCKS on catalyst discipline.
+
+### Risk Factors
+- **🚨🚨 IRAN ESCALATION PRIMARY RISK — U.S. STRIKES OVERNIGHT.** WTI +$2 to $74.30-74.40; Brent ~$78.90; supply-shock premium rebuilding. XLE-bid extends; XLB chemicals-feedstock-cost headwind extends (Seeking Alpha 7/9 article "alpha cools" confirms); XLI aerospace mixed (jet-fuel cost up = airline pressure downstream; defense positive); XLP mixed defensive-bid. Escalation vector open: further U.S. strikes / Iran retaliation / Strait of Hormuz disruption = additional supply-shock leg.
+- **🔴 XLB fresh worst print on cost -2.82%.** Manual -7% cut $48.00 cushion **4.31%** ($2.16 abs) = **tightest of cycle**; PRIORITY MONITOR intraday. If Iran headline escalates further or Wed's Iran-license-cancel pressure extends = cut fires FIRST regardless of thesis. Structural capex/reshoring intact but tactical Iran-oil headwind is the real driver today.
+- **🔴 AI semi sell-off Day 2.** MU -5.5%, AMD -4.3%, INTC -5.3% premkt/afterhours; NQ -1.34% premkt = valuation-reset compounding into Iran-headline. XLK re-entry DEAD for today.
+- **🔴 ES -0.96% premkt = broad risk-off.** Reversal from Wed +0.63%; Iran-headline dominates. All 3 held sleeves at risk of intraday drift.
+- **🟡 VIX 16.55-16.90 (+3-5%) but sub-17.** Constructive band held; tick-up decisive not panic. Watch >18 = broader risk-off cascade signal.
+- **🟢 Held trio all top-4 non-energy YTD leaders (#2 XLB / #3 XLP / #4 XLI).** Sector momentum thesis intact structurally; today's Iran-headline is tactical, not thesis-crack for XLI/XLP (XLB has real feedstock pressure but capex thesis persists).
+- **🟢 XLB Aroon UPTREND intact 7/8 confirmation** + 337/337 historical 3-day advance = statistically favorable BUT Iran headline is the offsetting tail-risk force. Setup-vs-tape conflict.
+- **🟢 All 3 trails safe.** XLB 6.36% / XLI 7.00% / XLP 7.38% cushions — all outside 3% danger zone. XLB manual -7% cut $48.00 is the TIGHTER protection (4.31%).
+- **🟡 Initial Jobless Claims 8:30am 218k est.** Big miss >230k = labor-softening signal, dovish/risk-on tilt for equities (but bond bid too); big beat <200k = hawkish/labor-strong = supportive for Fed hike path.
+- **🟡 NY Fed Williams 9am — HAWKISH/DOVISH pivot risk.** Dovish tilt = pushes back on Sept ~70% odds pricing = risk-on relief; hawkish tilt = reinforces regime + Iran risk-off compound.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing; JPM SPX target 7,800 (+5% upside).
+- **🟢 No noteworthy BMO earnings** — clean single-stock ER tape. DAL is Fri 7/10 (correction).
+- **🟡 Capital drag persists.** 59.22% deployed ≈ 26pp below 85% target; Week 11 deploy window CLOSING (Thu-Fri = 2 sessions left, Fri = last shot). Iran-risk tape = 2/2 sessions unlikely to produce clean deploy setup; carry deployment gap into Week 12.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO; primary evaluation window = post-8:30am jobless + 9am Williams + Iran-headline tape stabilization. XLB manual -7% cut cushion 4.31% = PRIORITY MONITOR intraday; if breaks $48.00 = cut fires FIRST per Rule 5 regardless of thesis.** Trades this week stays **0/3**; positions 3/6; deployment 59.22%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.8005 [Mon-ratcheted] / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **8:30am ET Initial Jobless Claims — LOW impact typically.** Consensus 218k; watch for >230k (labor softening) or <200k (labor strong).
+3. **9:00am ET NY Fed Williams — HAWKISH/DOVISH pivot risk.** Watch for Sept hike odds revision.
+4. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** **XLB manual -7% cut $48.00 monitor primary** (cushion 4.31%).
+5. **10:00am ET Existing Home Sales — LOW-MED impact.** Rate-sensitive housing signal.
+6. **Intraday triggers (mechanical):**
+   - **XLB breaks $48.00 → manual -7% cut fires FIRST per Rule 5** (trail $46.971 below; cushion 4.31% = tightest of cycle; Iran-oil headwind primary driver).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (~2.91% away — possible on defensive-bid extension if risk-off tape deepens).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (~3.34% away — unlikely today given Iran-risk).
+   - Fresh HWM XLB >$52.19 → auto-trail advance (~4.05% away — very unlikely; Aroon Uptrend vs Iran-headline conflict).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI ≥$199.94 (~+10.82% away); XLP ≥$96.43 (~+14.47% away); XLB ≥$59.36 (~+18.34% away). None imminent.
+7. **/midday (~12pm ET) thesis check:** post-8:30/9am digest; **XLB cushion monitor priority**; if XLB drifts below $48.50 = escalate; if breaks $48.00 = cut per Rule 5.
+8. **EOD (~4pm ET):** /daily-summary — Iran-headline P&L attribution; auto-trail advances logged (if any); cumulative phase tracking. **Switch SPY EOD close to bars endpoint** per Wed EOD structural note (4-session broken-quote pattern).
+9. **Fri 7/10 /pre-market:** DAL BMO ER (Q2 EPS, +$1B pre-tax guidance previously — airline single-stock ER = XLI aerospace-adjacent read); Wholesale Trade Balance; Michigan Sentiment.
+
+**Today's discipline = HOLD default + WAIT for 8:30/9am prints + Iran-tape stabilization + XLB manual-cut priority monitor at 4.31% cushion. NO new trades under risk-off regime + Iran supply-shock reprice + XLK dead + XLB pressured.** Bot enters Thu with 3 sleeves (XLI +3.77% mid-tier, XLB -2.82% fresh worst pressured by Iran-oil headline, XLP +0.46% flat), phase +1.76% (below Mon peak +3.02%, below Wed EOD +1.84%), all trails live, held trio all top-4 non-energy YTD leaders. **Patience > activity. Iran escalation = unwelcome tail-vector realized; XLB priority-monitor discipline primary. Auto-trails + manual-cut rules do the work today.**
