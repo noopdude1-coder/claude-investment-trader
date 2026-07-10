@@ -4794,3 +4794,92 @@ Action plan:
 9. **Fri 7/10 /pre-market:** DAL BMO ER (Q2 EPS, +$1B pre-tax guidance previously — airline single-stock ER = XLI aerospace-adjacent read); Wholesale Trade Balance; Michigan Sentiment.
 
 **Today's discipline = HOLD default + WAIT for 8:30/9am prints + Iran-tape stabilization + XLB manual-cut priority monitor at 4.31% cushion. NO new trades under risk-off regime + Iran supply-shock reprice + XLK dead + XLB pressured.** Bot enters Thu with 3 sleeves (XLI +3.77% mid-tier, XLB -2.82% fresh worst pressured by Iran-oil headline, XLP +0.46% flat), phase +1.76% (below Mon peak +3.02%, below Wed EOD +1.84%), all trails live, held trio all top-4 non-energy YTD leaders. **Patience > activity. Iran escalation = unwelcome tail-vector realized; XLB priority-monitor discipline primary. Auto-trails + manual-cut rules do the work today.**
+
+
+## 2026-07-10 — Pre-market Research
+
+### Account (Fri premkt marks)
+- **Equity:** $101,707.52 (portfolio_value; last_equity $101,630.72 = Thu 7/9 stored per Alpaca; **+$76.80 / +0.08% overnight**; phase cumulative **+$1,707.52 / +1.71%** vs $100k baseline — modest recovery from Thu premkt $101,760.09 but below Thu stored EOD $101,630.72 gap-close). balance_asof 2026-07-09.
+- **Settled cash:** $41,500.59 (unchanged; no fills Thu; cash account, T+1)
+- **Buying power:** $334,581.77 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$50.26**, unrealized **-$525.92 (-2.63%)** — **improved from Thu premkt -2.82% by 19 bps** on WTI-drop chemicals-feedstock-relief; premkt drift essentially flat vs Thu close $50.26. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**6.55%** ($3.29 abs); manual -7% cut **$48.00** (~**4.50%** cushion, $2.16 abs — **still tightest of cycle, PRIORITY MONITOR maintained**). HWM $52.19 = ~**3.84%** above current.
+  - **XLI 115 sh** @ $173.86, current **$181.11**, unrealized **+$833.75 (+4.17%)** — **improved from Thu premkt +3.77% by 40 bps** on risk-on-reversal + Iran-strike premium partial unwind; premkt drift flat vs Thu close $181.11. Trail GTC stop **$167.8005** (HWM $186.445 = Mon-ratcheted); cushion ~**7.35%** ($13.31 abs); manual -7% cut $161.69 (~**10.73%** cushion). HWM $186.445 = ~**2.94%** above current (tightened from Thu 3.34%).
+  - **XLP 238 sh** @ $83.851513, current **$83.5227**, unrealized **-$78.26 (-0.39%)** — **flipped negative from Thu premkt +0.46%** on defensive-bid unwind (risk-on reversal = staples out); premkt +0.39% vs Thu close $83.20 = intraday bounce. Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**6.58%** ($5.50 abs); manual -7% cut $77.98 (~**6.63%** cushion). HWM $86.695 = ~**3.80%** above current (widened from Thu 2.91%).
+- Open orders: 3 (all trail stops GTC, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Fri of Week 11 = 5/5 sessions = **LAST SHOT** for weekly cap; carries to Week 12 fresh Mon 7/13 if unused).
+- Deployed: **$60,206.93 / $101,707.52 = 59.20%** (~26pp below 85% target).
+- Cumulative phase: **+1.71%** vs $100k baseline (below Mon peak +3.02%, below Wed EOD +1.84%).
+
+### Market Context
+- **🟢 IRAN-STRIKE PREMIUM UNWINDING.** WTI Aug'26 (CLQ26) **~$71.51-71.86** = **-3.4% to -3.9% vs Thu premkt $74.30-74.40** = full unwind of Thu Iran-escalation spike + drop below pre-escalation baseline. Brent estimated ~$77-82. Broader context: 14-point US-Iran MOU (mid-June) mechanism intact per CSIS/CNN; Doha technical talks Wed concluded "no headway on lasting peace" but Strait of Hormuz reopening confirmed operational; Thu strikes appear contained/no retaliation escalation → risk-on tape returns. **XLB chemicals-feedstock-relief tailwind = tactical thesis re-supported.**
+- **🟡 ES Sep'26 (ESU26) ~7573-7582 = roughly flat premkt** (mixed sources: Yahoo -0.14%, Business Insider +0.13%); **NQ Sep'26 mixed** (Yahoo -0.35%, Business Insider +0.13%). Net: **broad tape roughly flat, no directional bias BMO**.
+- **🟡 VIX = data-conflict; likely ~16.5-17.** MarketWatch snapshot 20.95 (+12%) looks stale/broken; Investing.com + Yahoo Finance real-time show 15.84 Thu close, 16.79 latest. Fed baseline July 16.59. Estimated current: **16.5-17 band** (constructive but tick-up vs Wed 16.13). Sub-17 held.
+- **📅 DAL Q2 2026 ER BMO** — release before open, 10am ET conference call. **Consensus EPS $1.44-$1.47 (-31% YoY); rev $17.7-17.8B (+6.5% YoY per Zacks) or +14% per Visible Alpha; consensus mid $17.79B.** Q1 EPS $0.64 beat; DAL has beat trailing 4 quarters. Prior guide: +$1B pre-tax profit despite +$2B fuel expense hit. **Options price ~6% swing.** Airline single-stock read-through to **XLI aerospace/machinery (26.5% weight)** — DAL beat = airline-demand-strong signal supportive; DAL miss = XLI aerospace-adjacent pressure risk.
+- **📅 Economic calendar today = light per Perplexity.** No Wholesale Trade or Michigan Sentiment print on 7/10 (Perplexity contradicts Thu log's Michigan mention). May Wholesale Trade already published 7/8 (+3.4% MoM). Cleanest tape driver = **DAL ER pre-open + Iran-headline tape stabilization confirmation**.
+- **Earnings today (BMO): DAL primary — small caps HELE, SMPL, DAL.** DAL = only meaningful single-stock ER; airline-industry read-through vector.
+- **YTD S&P 500 sector leadership (updated ETF Action read):** **XLK +33.38% #1 (upgrade — reclaimed from -3.3% Wed read = post-AVGO reset + AI-momentum re-accelerating), XLE +25.05% #2, XLB +16.27% #3, XLI +15.51% #4, XLP +10.66% #5-7 band.** Held trio (XLB/XLP/XLI) = **top-5 non-tech sweep; sector momentum thesis intact.** XLK re-entry setup DRAMATICALLY improved: +33.38% YTD = new leadership tape (Wed showed -3.3% = laggard; today shows +33.38% = complete reversal, likely 2-3 sessions of extension since AVGO absorption).
+- **📅 XLB technicals:** Aroon UPTREND intact; 10DMA > 50DMA cross Jun 22 + Momentum > 0 Jul 2; WTI-drop = chemicals-feedstock-relief tactical tailwind confirming; Iran-headline "alpha cools" article (Thu Seeking Alpha) partially reversing on WTI unwind.
+- **📅 XLI:** Aerospace/Defense 26.5% (DAL-adjacent airline demand signal), Machinery 21.2%; Iran-strike premium unwind = jet-fuel cost relief for aerospace/airline downstream = supportive; overbought Stochastic 3-day decline already delivered; setup constructive.
+- **📅 XLP:** No adverse news; Iran-risk-off unwind = defensive-bid unwind (staples underperform on risk-on tape); premkt +0.39% intraday bounce from Thu close but flipped negative on cost basis for first time since deploy.
+- **📅 XLK context:** #1 YTD leader per ETF Action; +3.78% 1-day 6/16 data point; likely broken through 6/16 breakout confirmation into 7/10; **re-entry window materially improved but Fri BMO DAL ER + Week 11 last shot + Iran-tape ambiguity = wait for post-open confirmation**.
+
+### Trade Ideas
+
+**Default HOLD pre-DAL ER + Iran-tape confirmation window. XLK re-entry PRIMARY conditional deploy candidate IF post-open confirms + no DAL-ER-shock to XLI. Alternative: WAIT for Week 12 Mon 7/13 fresh weekly cap.**
+
+1. **XLK re-entry — PRIMARY conditional deploy (dramatically improved setup).** ETF Action #1 YTD +33.38% (Wed read -3.3% → today +33.38% = complete reversal ≈ 3 sessions of AVGO-absorption + AI-momentum re-acceleration). AVGO/NVDA weight 17.7% combined. Trigger: **XLK premkt >$186 confirmed + NQ sustains >flat post-9:30am + DAL ER not shock (EPS >$1.35 OR guide not disaster) + WTI stays <$73 (no Iran re-escalation) + VIX stays <18**. Catalyst: post-AVGO absorption + AI capex $725B intact + chip-lead momentum + Iran risk-off unwound. Entry ~$185-188, stop ~$168 (-10%), target $205+ (2:1 R/R). Position cost ~$20,000 (108 sh @ $185 or size to 20% cap $20,341 at $101,707 equity). BLOCKED IF: DAL miss + guide cut (XLI aerospace pressure ripples) OR XLK premkt <$183 OR WTI >$74 (Iran re-escalation) OR VIX >18 (tape stress) OR NQ gap-down >0.5% post-9:30am.
+2. **XLI HWM watch — moderately closer.** 2.94% below $186.445 (tightened from Thu 3.34%); Iran-strike premium unwind + jet-fuel relief = airline/aerospace tailwind. DAL beat = confirming ratchet trigger possible; DAL miss = ratchet stalls.
+3. **XLB HWM watch — 3.84% below $52.19.** Iran-strike premium unwind = tactical chemicals-feedstock relief; Aroon UPTREND intact; ratchet not imminent but setup improving.
+4. **XLP HWM watch — 3.80% below $86.695 (widened from Thu 2.91%).** Defensive-bid unwind on risk-on tape = staples underperform; ratchet deferred; monitor manual -7% cut cushion $77.98 (~6.63% ok).
+5. **XLE add — DEFER STILL.** #2 YTD +25.05% but Iran-strike premium unwind = short-term reversal risk; if peace holds = XLE fades; chase-risk high.
+6. **XLV / XLRE / XLU — DEFER.** No clean catalyst; defensive coverage via XLP.
+7. **XLF — BLOCKED.** Momentum broken per Rule 9.
+8. **XLB / XLI / XLP add — SKIP.** Concentration; held trio each near 20% cap.
+9. **DAL individual — SKIP.** ER-day single-stock volatility = strategy rule 3 violation (no ER trades); no edge.
+
+**Buy-Side Gate snapshot (XLK conditional):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,341 cap at $101,707.52) ✓
+- Cost ≤ settled cash ($41,500.59) ✓
+- Catalyst documented today ✓ — CONDITIONAL on post-open DAL ER digest + XLK premkt confirm + Iran-tape stability + VIX sub-18
+- Instrument is stock ✓
+
+### Risk Factors
+- **🟢 Iran-strike premium unwinding = XLB/XLI relief tailwind.** WTI -$3 to $71.51 vs Thu premkt $74.40 = full escalation-spike reversal + drop below pre-escalation baseline. Chemicals-feedstock cost pressure easing; jet-fuel cost relief for airline/aerospace downstream = XLI-supportive; XLE-negative (peace-holds fade risk).
+- **🔴 XLB manual -7% cut cushion still tightest of cycle at 4.50%.** Improved from Thu 4.31% but stays PRIORITY MONITOR at $48.00 tightening. If Iran headline re-escalates or unrelated risk-off hits = cushion could tighten intraday.
+- **🔴 DAL Q2 ER BMO = XLI single-stock read-through risk.** EPS consensus $1.44-1.47 (-31% YoY on fuel-cost drag); rev $17.7-17.8B (+6-14% YoY split). DAL beat + guide-strong = XLI aerospace/airline tailwind (26.5% weight); DAL miss + guide-cut = XLI pressure. Options price ~6% swing. Structural risk vector for held XLI sleeve.
+- **🟡 VIX data-conflict (16.5-20.95 range).** Real read likely 16.5-17 band; MarketWatch stale 20.95 unreliable. Elevated vs Thu close 15.84 but sub-17 constructive band holds. Watch for confirmation post-open; >18 = broader risk-off cascade signal.
+- **🟡 ES/NQ ~flat premkt = mixed signals.** No directional bias BMO; DAL ER + Iran-tape confirmation = primary drivers first hour.
+- **🟢 Held trio all top-5 non-tech YTD leaders.** XLB #3 +16.27%, XLI #4 +15.51%, XLP #5-7 band +10.66% per ETF Action. Sector momentum thesis intact structurally.
+- **🟢 XLK re-entry setup dramatically improved.** +33.38% YTD = #1 (was Wed -3.3% laggard) = 3-session reversal + AI-momentum re-acceleration + AVGO absorption complete. Deploy discipline: **wait for confirmation** — Fri BMO ER day = risk day; execute Mon 7/13 fresh weekly cap if today's setup slips.
+- **🟢 All 3 trails safe.** XLB 6.55% / XLI 7.35% / XLP 6.58% cushions — all outside 3% danger zone. XLB manual -7% cut $48.00 (~4.50%) is the TIGHTER protection.
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing; JPM SPX target 7,800 (+5% upside).
+- **🟢 No noteworthy BMO earnings besides DAL.** Small caps HELE, SMPL non-issue. Clean single-stock ER tape ex-DAL.
+- **🟡 Capital drag persists.** 59.20% deployed ≈ 26pp below 85% target; Week 11 deploy window CLOSING (Fri = LAST SHOT); Week 12 Mon 7/13 fresh cap primary alt.
+- **🟡 Sector momentum data-conflict.** Two source reads: ETF Action (XLK +33.38%, XLE +25.05%, XLB +16.27%, XLI +15.51%, XLP +10.66%) vs Capital Spectator (XLB/XLE +7.5% tied, XLI/XLP +5.9% tied) — ETF Action more current/comprehensive; taking as primary reference. XLB dropped from Wed's #2 read to today's #3 per ETF Action but positions intact.
+
+### Decision
+
+**HOLD all 3 positions; DEFAULT no new trades BMO; XLK re-entry PRIMARY conditional deploy IF post-open confirms 5 conditions (DAL not shock + XLK >$186 + NQ sustains + WTI <$73 + VIX <18). Alternative: carry deploy discipline into Week 12 Mon 7/13 fresh weekly cap. XLB manual -7% cut cushion 4.50% = PRIORITY MONITOR maintained.** Trades this week stays **0/3**; positions 3/6; deployment 59.20%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.8005 [Mon-ratcheted] / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **6:30am ET DAL Q2 ER release** — monitor for headline EPS/rev + FY guide; assess XLI aerospace/machinery read-through.
+3. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** **XLK re-entry conditional** — confirm all 5 gates hold post-open; if any breaks = SKIP deploy and carry to Week 12.
+4. **10:00am ET DAL conference call** — live guide + fuel-cost + demand-outlook color; XLI read-through evaluated live.
+5. **Intraday triggers (mechanical):**
+   - **XLB breaks $48.00 → manual -7% cut fires FIRST per Rule 5** (trail $46.971 below; cushion 4.50% = tightest of cycle).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (~2.94% away — possible on DAL-beat airline-tailwind).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (~3.80% away — unlikely on defensive-bid unwind).
+   - Fresh HWM XLB >$52.19 → auto-trail advance (~3.84% away — possible on WTI-relief chemicals-tailwind).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI ≥$199.94 (~+10.40% away); XLP ≥$96.43 (~+15.45% away); XLB ≥$59.36 (~+18.11% away). None imminent.
+6. **/midday (~12pm ET) thesis check:** post-DAL digest; **XLB cushion monitor priority**; XLK re-entry deploy trigger evaluated HERE if all 5 gates hold; otherwise defer to Week 12.
+7. **EOD (~4pm ET):** /daily-summary — DAL ER + Iran-unwind + Week 11 close-out P&L attribution; auto-trail advances logged (if any); cumulative phase tracking.
+8. **Mon 7/13 /pre-market:** Week 12 fresh weekly cap 0/3; XLK re-entry primary carry-over candidate; XLB manual-cut cushion re-assessed.
+
+**Today's discipline = HOLD default + WAIT for DAL ER digest + Iran-tape confirmation + 5-gate XLK re-entry check. Fri = LAST SHOT for Week 11 deploy but discipline > urgency; Mon 7/13 fresh cap acceptable alternative. XLB monitor priority = manual -7% cut cushion 4.50% = tightest of cycle.** Bot enters Fri with 3 sleeves (XLI +4.17% mid-tier best-of-cycle-so-far, XLB -2.63% first-red-persistent improving on Iran-unwind, XLP -0.39% first-time-red on defensive-bid unwind), phase +1.71% (below Mon peak +3.02%, below Wed EOD +1.84%), all trails live, held trio all top-5 non-tech YTD leaders per updated ETF Action read. **Patience > activity. Iran-strike premium unwinding = tactical tailwind for held sleeves; XLK re-entry setup dramatically improved but DAL ER + Fri LAST-SHOT + Iran-tape-ambiguity = wait for confirmation.**
