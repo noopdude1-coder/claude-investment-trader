@@ -4883,3 +4883,99 @@ Action plan:
 8. **Mon 7/13 /pre-market:** Week 12 fresh weekly cap 0/3; XLK re-entry primary carry-over candidate; XLB manual-cut cushion re-assessed.
 
 **Today's discipline = HOLD default + WAIT for DAL ER digest + Iran-tape confirmation + 5-gate XLK re-entry check. Fri = LAST SHOT for Week 11 deploy but discipline > urgency; Mon 7/13 fresh cap acceptable alternative. XLB monitor priority = manual -7% cut cushion 4.50% = tightest of cycle.** Bot enters Fri with 3 sleeves (XLI +4.17% mid-tier best-of-cycle-so-far, XLB -2.63% first-red-persistent improving on Iran-unwind, XLP -0.39% first-time-red on defensive-bid unwind), phase +1.71% (below Mon peak +3.02%, below Wed EOD +1.84%), all trails live, held trio all top-5 non-tech YTD leaders per updated ETF Action read. **Patience > activity. Iran-strike premium unwinding = tactical tailwind for held sleeves; XLK re-entry setup dramatically improved but DAL ER + Fri LAST-SHOT + Iran-tape-ambiguity = wait for confirmation.**
+
+
+## 2026-07-13 — Pre-market Research
+
+### Account (Mon premkt marks)
+- **Equity:** $102,220.59 (portfolio_value; last_equity $102,187.27 = Fri 7/10 stored per Alpaca; **+$33.32 / +0.03% overnight** on XLP intraday +$33.32 mark; phase cumulative **+$2,220.59 / +2.22%** vs $100k baseline — modest bump vs Fri stored EOD $102,158.71 by $61.88). balance_asof 2026-07-10.
+- **Settled cash:** $41,500.59 (unchanged; no fills Fri; cash account, T+1)
+- **Buying power:** $336,018.36 (multiplier 4 echo — informational only)
+- **Positions: 3 / 6** open (all trail-locked, qty_available=0)
+  - **XLB 388 sh** @ $51.615464, current **$50.89** (unchanged from Fri close), unrealized **-$281.48 (-1.41%)** — flat overnight; **+126 bps recovery over 2 sessions (Thu -2.67% → Fri -1.41%)** on Iran-premium unwind + WTI-feedstock relief; Aroon UPTREND intact. Trail GTC stop **$46.971** (HWM $52.19 unchanged); cushion ~**7.71%** ($3.92 abs); manual -7% cut **$48.00** (~**5.68%** cushion, $2.89 abs — priority-monitor risk RESOLVED Fri from Wed 4.53% low). HWM $52.19 = ~**2.55%** above current (closest-to-ratchet in group).
+  - **XLI 115 sh** @ $173.86, current **$181.92** (unchanged from Fri close), unrealized **+$926.90 (+4.64%)** — flat overnight; +46 bps advance Fri EOD from Thu +4.18%; 3-session reversal from Tue's Tickeron overbought decline intact. Trail GTC stop **$167.8005** (HWM $186.445 = Mon-ratcheted); cushion ~**7.76%** ($14.12 abs); manual -7% cut $161.69 (~**11.13%** cushion). HWM $186.445 = ~**2.49%** above current (2nd closest-to-ratchet; +15% tighten trigger $199.94 ~+9.90% away).
+  - **XLP 238 sh** @ $83.851513, current **$84.26** (+0.17% intraday premkt vs Fri close $84.00), unrealized **+$97.22 (+0.49%)** — **improved from Fri EOD +0.18% by 31 bps** on defensive-bid premkt reassert (ES/NQ premkt -0.42% = risk-off marginal tilt = staples in). Trail GTC stop **$78.0255** (HWM $86.695 unchanged); cushion ~**7.40%** ($6.23 abs); manual -7% cut $77.99 (~**7.44%** cushion). HWM $86.695 = ~**2.89%** above current (widened from Fri 3.21%; ratchet 4th position within 3% cluster).
+- Open orders: 3 (all trail stops GTC, expires 7/31–9/23) — all live.
+- Trades this week: **0 / 3** (Mon = Week 12 opening — **fresh 3/3 cap** after 0/3 Week 11 utilization).
+- Deployed: **$60,720.00 / $102,220.59 = 59.40%** (~26pp below 85% target).
+- Cumulative phase: **+2.22%** vs $100k baseline (below Mon 7/6 peak +3.02%, above Fri EOD +2.16% by 6 bps).
+
+### Market Context
+- **🟡 WTI stabilized $71.6-$73.3 band; front-month CLQ26 $73.30 / Aug26 $73.69.** Iran-strike premium fully unwound + drop-below-baseline arc; range-bound consolidation; data-source conflict (YouTube weekend $71.60, Barchart $73.30, WSJ $73.92) but consensus ~$72-73 middle. **XLB chemicals-feedstock-relief tailwind maintained; XLI jet-fuel cost relief for aerospace/airline intact; XLE fade risk if peace holds.**
+- **🔴 ES Sep'26 (ESU26) 7580-7588 = -0.42% premkt** (Yahoo Finance real-time -32.25 pts); Markets Insider showed +0.52% Fri close $7,626 but Mon premkt reversed to downside — **broad tape mild risk-off tilt into CPI-day-eve**. NQ down mildly per Barchart tick.
+- **🟡 VIX = ticked up from Fri 3-day low.** Fri close **15.03** (-5.11% Fri, cycle low since Iran-headline spike); Mon premkt open **16.06** (+1.03 pts / +6.85%), range 14.96-16.16. Sub-17 band held but pre-CPI hedging bid returning. Constructive but note the tick-up = elevated attention to Tue print.
+- **📅 Fastenal (FAST) BMO ER = only noteworthy today.** Estimate $0.33 EPS; industrial-distributor read = XLI machinery/distribution adjacency but modest weight; not a market-mover single stock.
+- **📅 TUESDAY 7/14 = MAJOR CPI DAY.** 8:30am ET June CPI print — headline expected **3.8%** (down from May **4.2%**); core monthly projected **0.22%** (vs 0.20% April/May). Tariff-impact watch primary. **Big-bank Q2 ERs BMO Tue: JPM / C / GS / WFC / BAC** — all PMO reports. Wednesday: BLK + MS + PPI. **The pre-CPI holding pattern = market default posture through Mon.**
+- **📅 Wed 7/15:** PPI + BlackRock + Morgan Stanley + Fed speakers.
+- **📅 Thu 7/16:** ASML + TSM = semi-lead earnings vector (implications for XLK re-entry setup).
+- **📅 Economic calendar today = LIGHT.** No major U.S. release Mon 7/13; Treasury Budget report 2pm ET (low market impact); Philadelphia Fed manufacturing survey later in week; Pending Home Sales later in week. **Clean pre-CPI setup day = wait-and-see default posture.**
+- **YTD S&P 500 sector leadership (Quantlake 3M momentum proxy, 7/10):**
+  - **XLK +30.4% #1 (Technology)** — tech lead confirmed; 2.02 beta = amplified market-move version; -2.6pp pullback vs prior read but still #1.
+  - **XLF +10.1% #2 (Financials)** — bank-ER week catalyst Tue.
+  - **XLV +9.7% #3 (Healthcare)** — defensive shelf.
+  - **XLI +6.3% #4 (Industrials)** — HELD; -6.3pp from prior read = softened but positive.
+  - **XLP +2.8% #5 (Consumer Staples)** — HELD; defensive shelf intact.
+  - **XLB -1.7% (Materials)** — HELD; **negative on 3M momentum, breakdown flag per source**; contrast to ETF Action 7/10 read that had XLB YTD +16.27% — data-source split (3M momentum vs YTD-cumulative diverge); held-position basis (Apr 26 deploy day) intact per YTD read.
+  - **XLE -2.6% (Energy)** — negative; Iran-premium unwind = fade risk.
+- **📅 XLB technicals:** Tickeron daily = **Strong Sell** on moving averages (contrast to Fri Aroon UPTREND read); WTI-relief chemicals-feedstock tailwind persists tactically; Vulcan Materials (LIN #1 hold 14.4%, NEM #2 7.4%) declared $0.52 dividend Fri; Evercore Outperform LIN $525 target unchanged; RBC Outperform NEM $135 lowered target. Aroon vs Strong Sell technical conflict = data-noise typical of mixed-tape sector; hold-basis structural thesis remains capex-super-cycle / oil-crash-margin / reshoring intact.
+- **📅 XLI:** Aerospace/Defense 26.05%, Machinery 20.98%; GE Vernova (GVN) selloff on Siemens Energy Wall Street downgrade Fri = pressured briefly but ETF still +0.30% Fri close; Caterpillar $1,000 crossing + Boeing Q2 delivery strength = positive H1 leaders. Zacks Rank 2 (Buy).
+- **📅 XLP:** No adverse news; +5.69% YTD per Zacks per Morningstar; +2.52% dividend yield; beta 0.56 (defensive character); Zacks Rank 3 (Hold); Coca-Cola / Pepsi positive; CNBC "worst sector of year" ETF Spotlight = bear thesis exists but not extreme; Mon premkt reassert +0.17% on risk-off tilt.
+- **📅 XLK context — Fri Fastenal-era read:** No fresh premkt XLK data queried this morning but Quantlake 3M momentum lead at **+30.4%** confirms #1 status despite Fri intraday -2.6pp pullback; etfdb.com 7/2 read had XLK +33% YTD 2026. **Re-entry setup remains dramatically improved from Wed premkt read but pre-CPI risk-management = wait for Tue CPI print resolution + Thu ASML/TSM digest before deploy trigger.**
+
+### Trade Ideas
+
+**Default HOLD ahead of Tue 8:30am CPI print — Week 12 fresh 3/3 cap preserved. Discipline priority: WAIT for CPI resolution + sector-momentum data reconcile + XLK re-entry gate re-run post-CPI. Alternative: post-Tue-CPI Wed 7/15 deploy window for high-conviction setup.**
+
+1. **XLK re-entry — PRIMARY conditional carry-over, DEFERRED to POST-CPI.** #1 sector momentum lead +30.4% Quantlake 3M / +33% YTD etfdb intact; Fri read showed dramatically improved setup vs Wed. Deploy trigger conditions PRE-CPI: MET (setup) but CPI-day-eve = risk-management discipline dominates. **New deploy gate: post-CPI Tue afternoon OR Wed BMO 7/15 IF (a) CPI print in-line / dovish (headline ≤3.8%, core ≤0.22%), (b) XLK holds >$185 post-CPI, (c) NQ/ES sustain risk-on, (d) VIX resolves <18 sub-CPI-spike.** Entry ~$185-188, stop ~$167 (-10%), target $205+ (2:1 R/R). Position cost ~$20,000 (108 sh @ $185 or size to 20% cap $20,444 at $102,221 equity). BLOCKED IF: CPI print hot (>0.30% core or >4.0% headline) → hawkish repricing + tape stress; XLK breakdown <$180; VIX >18 sustained.
+2. **XLI HWM watch — 2.49% below $186.445.** GE Vernova pressure absorbed clean Fri; Caterpillar/Boeing structural leaders intact; DAL absorbed; AI-capex/reshoring/defense thesis extending. Ratchet closer than Fri EOD read.
+3. **XLB HWM watch — 2.55% below $52.19.** Closest-to-ratchet post-Fri +1.29%; Iran-premium unwind tailwind + Vulcan dividend + LIN Outperform maintained; Tickeron Strong Sell vs Aroon UPTREND = data conflict, hold-basis thesis (Apr 26) intact.
+4. **XLP HWM watch — 2.89% below $86.695.** Widened vs Fri 3.21% on premkt +0.17% reassert; defensive-bid revive on pre-CPI risk-off tilt; manual-cut cushion 7.44% safe.
+5. **XLF add — CONSIDER post-Tue-ER digest.** #2 sector +10.1%; JPM/GS/C/WFC/BAC bank ERs Tue BMO = single-day sector concentration risk / opportunity. Deploy trigger POST-ER: (a) 4-of-5 majors beat, (b) capital-markets commentary strong, (c) XLF >$52; DEFER pre-print.
+6. **XLV add — DEFER.** #3 sector +9.7%; UnitedHealth (UNH) ER later Wed = single-stock event risk; no clean pre-print catalyst.
+7. **XLE add — SKIP.** Iran-premium unwind + range-bound WTI $71-73 = fade risk; peace-holds thesis = XLE headwind.
+8. **XLB / XLI / XLP add — SKIP.** Concentration; held trio each near 20% cap.
+9. **Single-stock (JPM/GS/CAT/BA/NFLX etc.) — SKIP.** ER-week single-stock volatility = strategy rule 3 violation; ETF-sector exposure preferred.
+
+**Buy-Side Gate snapshot (XLK conditional, deferred to post-CPI):**
+- Positions after fill 4 ≤ 6 ✓
+- Trades this week after fill 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity ($20,444 cap at $102,220.59) ✓
+- Cost ≤ settled cash ($41,500.59) ✓
+- Catalyst documented today ✓ — CONDITIONAL on post-CPI dovish resolution + XLK holds >$185 + tape risk-on + VIX <18
+- Instrument is stock ✓
+- Sector momentum active ✓ — XLK #1 leader intact
+
+### Risk Factors
+- **🔴 Tuesday 8:30am CPI = biggest single-print risk of week.** June headline expected 3.8% (May was 4.2%); core monthly 0.22% (0.20% prior). Tariff-impact watch primary. Hot print (>0.30% core, >4.0% headline) = hawkish repricing risk-off cascade + Sept hike odds spike; in-line/dovish = relief bid extension. **Pre-CPI Mon = wait-and-see discipline period; Week 12 deploy window opens post-CPI resolution Tue afternoon / Wed BMO.**
+- **🔴 Tuesday big-bank ER concentration (JPM/GS/C/WFC/BAC PMO).** 5-stock event risk simultaneously = XLF direction confirms on morning tape; if 4-of-5 miss = broad-tape risk-off risk-vector. Held XLI/XLP defensive-cyclical positioning insulates but XLB volatility risk stays elevated.
+- **🟡 Sector momentum data conflict.** Quantlake 3M momentum has XLB -1.7% (breakdown flag), ETF Action YTD-cumulative has XLB +16.27% (top-5). Two reads diverge on time-window; hold-basis (Apr 26 deploy) tracks YTD-cumulative better. Structural thesis (capex super-cycle / oil-crash-margin / reshoring) INTACT structurally; tactical Tickeron Strong Sell flag = tactical caution but not thesis break.
+- **🟡 ES premkt -0.42% + VIX 15.03 → 16.06 (+6.85%) = pre-CPI hedging bid.** Mild risk-off tilt into CPI-day-eve; not extreme but attention-vector shifted from Iran-unwind (Fri) to CPI-print (Tue). Watch VIX >18 = cascade signal.
+- **🟢 Iran-premium unwind stable.** WTI $71.60-$73.92 range; no re-escalation reported; ceasefire mechanism intact. Held sector tailwinds (XLB chemicals-feedstock / XLI jet-fuel-relief) persist tactically.
+- **🟢 Held trio structurally positioned.** XLB #3 YTD ETF Action, XLI #4 (or #4 Quantlake), XLP #5 = top-5 non-tech leadership sweep (or top-5 on YTD; middle band on 3M). Sector momentum thesis INTACT.
+- **🟢 All 3 trails safe.** XLB 7.71% / XLI 7.76% / XLP 7.40% cushions — all outside 3% danger zone. XLB manual -7% cut $48.00 sits 5.68% below (recovered from Wed's 4.53% cycle low = 115 bps improvement).
+- **🟡 3-way HWM ratchet convergence.** XLB 2.55% / XLI 2.49% / XLP 2.89% below HWMs = passive risk-reduction candidates converging; any 3% sector-lift moves ratchet events. Tie-breaker on ratchet-imminence = XLI (2.49%) < XLB (2.55%) < XLP (2.89%).
+- **🔴 Hawkish-Fed regime PRIMARY structural driver.** Sept hike ~70% odds pricing (pre-CPI); JPM SPX target 7,800; CPI print Tue = 70% odds vulnerable to sharp revision either direction.
+- **🟡 Capital drag persists.** 59.40% deployed ≈ 26pp below 85% target; Week 12 fresh 3/3 cap = 3 trade slots to close deployment gap this week. Two logical deploy vectors: (a) XLK re-entry post-CPI (~$20k = +20pp deployment to 79%); (b) XLF post-Tue-ER-digest (~$20k = additive to XLK stacking cap constraint).
+- **🟡 XLB Tickeron Strong Sell technical flag.** Contradicts prior Aroon UPTREND read; data-source noise but flag-attention warranted; hold-basis thesis intact; monitor XLB drift Mon-Tue for signal-confirmation.
+
+### Decision
+
+**HOLD all 3 positions; NO new trades BMO or intraday Mon 7/13. Discipline: PRE-CPI wait-and-see + carry Week 12 fresh 3/3 cap into Tue-Wed deploy window. XLK re-entry deferred to POST-CPI Tue afternoon or Wed BMO IF gates hold. XLB monitor: Tickeron Strong Sell flag vs held-basis thesis reconcile intraday.** Trades this week stays **0/3**; positions 3/6; deployment 59.40%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live (XLB $46.971 / XLI $167.8005 [Mon-ratcheted] / XLP $78.0255). No manual changes. No new orders. /pre-market write-up complete.
+2. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** No conditional deploy today (pre-CPI discipline).
+3. **Intraday triggers (mechanical):**
+   - **XLB breaks $48.00 → manual -7% cut fires FIRST per Rule 5** (trail $46.971 below; cushion 5.68% recovered from 4.53% cycle low; Tickeron Strong Sell flag = attention warranted).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (~2.49% away — closest-to-ratchet).
+   - Fresh HWM XLB >$52.19 → auto-trail advance (~2.55% away — 2nd closest).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (~2.89% away — 3rd closest).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI ≥$199.94 (~+9.90% away); XLP ≥$96.43 (~+14.44% away); XLB ≥$59.36 (~+16.64% away). None imminent.
+4. **/midday (~12pm ET) thesis check:** intraday sector-tape read; XLB Tickeron Strong Sell reconcile vs Aroon UPTREND; monitor pre-CPI positioning tape shape; XLK price-action watch (no deploy — data collection for Tue post-CPI trigger).
+5. **EOD (~4pm ET):** /daily-summary — Mon pre-CPI positioning P&L; auto-trail advances logged (if any); Tue CPI-print action plan finalized.
+6. **Tue 7/14 /pre-market:** CPI 8:30am ET + bank-ERs BMO (JPM/GS/C/WFC/BAC); primary event day; XLK/XLF deploy triggers evaluated live post-8:30 print.
+
+**Today's discipline = HOLD default + WAIT for Tue CPI print + no new trades pre-CPI. Fresh Week 12 3/3 cap preserved for post-CPI deploy window (Tue afternoon / Wed BMO). XLB monitor: -7% cut cushion 5.68% recovered but Tickeron Strong Sell flag = attention required.** Bot enters Mon with 3 sleeves (XLI +4.64% mid-tier, XLB -1.41% improving 2-session +126 bps, XLP +0.49% modest premkt bump), phase +2.22% (below Mon 7/6 peak +3.02%, above Fri EOD +2.16% by 6 bps), all trails live, held trio top-5 sector leaders (YTD basis) / mid-band (3M basis). **Patience > activity. Pre-CPI defensive posture wins; Week 12 fresh cap = post-CPI Tue-Wed the deploy window, not Mon.**
