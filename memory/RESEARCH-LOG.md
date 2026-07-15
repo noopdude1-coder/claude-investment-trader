@@ -5129,3 +5129,118 @@ Action plan:
 **Post-CPI-IN-LINE / bank-ER digest tape read:** CPI IN-LINE ✓ macro headwind cleared; bank-ER digest apparently 4-of-5 beat range (XLP fade + XLI/XLB stability = risk-on absorption not risk-off cascade); XLK re-entry primary conditional trigger — since no XLK order shows in book at midday, /market-open routine either did NOT deploy XLK (5-gate check failed one of remaining 4 gates: XLK >$185, NQ risk-on sustains, VIX <18, banks 4-of-5 beat) OR deferred to Wed 7/15 BMO alt window. Trades this week stays **0/3** = fresh cap intact. No Perplexity query warranted — tape moves consistent with premkt-forecasted post-CPI risk-on-tilt shape.
 
 **No action this scan.** No rule triggers (all 3 above -7% cut; no +15% winners; no thesis breaks). XLB priority monitor RELAXING (5.21% cushion vs Mon EOD 4.91% = +30 bps improvement) despite still tightest of trio. XLB now closest-to-ratchet at 2.97% below HWM — passive risk-reduction candidate if afternoon bid extends. XLP defensive-rotate-out extends but structurally intact (6.65% cushion to -7% cut). Combined MV **$60,245.75** (-$159.78 vs Mon EOD $60,405.53); Alpaca portfolio_value **$101,746.34**; day P&L intraday **-$254.26 (-0.25%)** vs Mon last_equity $102,000.60. Phase cumulative slips to **+1.75%** (from Mon EOD +1.91%). Deployment **59.21%** (-7 bps vs Mon 59.28%). Trades this week: **0/3** (Week 12 Day 2, cap 3/3 fresh — Tue-Fri deploy window still open). Positions: **3/6**. Settled cash $41,500.59 unchanged; buying power $334,690.46. SPY quote-mid **$751.975**. Next check: EOD /daily-summary at 4pm. **XLK/XLF deploy carry-over: Wed 7/15 BMO alt window post-PPI/BLK/MS remains primary deploy vector if XLK re-entry gates hold.**
+
+## 2026-07-15 — Pre-market Research (Week 12 Day 3, Wednesday — post-Tue bank-ER 5/5 beat / pre-PPI + BLK+MS BMO / Iran escalation)
+
+### Account
+- Equity: **$101,702.26** (Tue last_equity $101,754.62; Tue day P&L -$52.36 / -0.05%; Tue EOD phase cumulative slipped to **+1.70%** from Mon EOD +1.91%)
+- Settled cash: **$41,500.59** (unchanged — no new deploys Tue post-bank-ER digest)
+- Buying power: $334,567.04 (margin figure; **cash-account sizing = $41,500.59 settled**)
+- Positions: **3/6** — Open orders: **3 trailing stops live GTC** — Trades this week: **0/3** (Week 12 Day 3, fresh cap intact Tue+ carry to Wed-Fri)
+- Deployment: **59.19%** = ~26pp below 85% target
+- Long MV: $60,201.67
+
+| Ticker | Shares | Entry | Now | Unreal P&L | Trail Stop | HWM | % below HWM | -7% Cut | Cushion |
+|--------|--------|-------|-----|------------|-----------|-----|-------------|---------|---------|
+| XLB | 388 | $51.6155 | $50.64 | -$378.48 (-1.89%) | $46.971 | $52.19 | 2.97% | $48.00 | 5.21% |
+| XLI | 115 | $173.86 | $180.45 | +$757.85 (+3.79%) | $167.8005 | $186.445 | 3.21% | n/a | +3.79% winner |
+| XLP | 238 | $83.8515 | $83.20 | -$155.06 (-0.78%) | $78.0255 | $86.695 | 4.03% | $77.98 | 6.28% |
+
+### Market Context
+- **🟡 WTI $79.81 / Brent $86.30** — **REVERSAL vs Mon-Tue $71-74 range** on **US-Iran escalation (US strike + naval blockade reinstated per catalyst feed)**; TradingEconomics WTI $80.52 +1.48% intraday, June avg $84.81 → July MTD $71.39 → mid-July $80 = **peace-holds thesis PARTIALLY BROKEN**. **XLB chemicals-feedstock relief tailwind at risk if sustained; XLI jet-fuel relief compromised; XLE fade-continuation thesis inverted.**
+- **🟡 ES ~7,600-7,606, NQ ~30,550** — **NQ +0.86% vs prev 30,291** = mild risk-on tilt continuing bank-ER absorption; ES mildly higher (~+0.36% vs 7,576) BUT premkt mixed reads (Investing +0.4%, Bloomberg flat, Business Insider -0.06%). **Wait-and-see tone into PPI 8:30am + BLK/MS BMO.**
+- **🟢 VIX 16.43 close 7/14, intraday 16.86 (-1.69%), range 16.53-17.56** — CPI IN-LINE + bank-ER 5/5 beat = sub-17 constructive band holding post-CPI. **<18 sustained = risk-on maintained; >18 spike on PPI hot = risk-off cascade signal.**
+
+**📅 Today's catalysts:**
+- **8:30am ET PPI June release** — consensus **6.2% YoY** / **0.2% MoM final demand** / 0.2% core MoM (prior 6.5% YoY / 0.4% MoM May revised). **HOT SURPRISE = macro headwind returns + Fed cut hopes push to Dec+ or 2027; IN-LINE = post-CPI risk-on extended.**
+- **7:30am ET BLK Q2 conf call** (results BMO). Consensus EPS $12.58 / rev $6.6879B (vs Q1 $12.53 beat by $0.13). Morgan Stanley sell-side raised BLK price target to $1,430 + Q2 EPS ests +7.5%. **BLK beat + AUM record extend = XLF risk-on continues; BLK miss = capital-markets narrative cracks.**
+- **MS Q2 BMO** confirmed per Yahoo Finance catalyst rundown. **6th of Tue-Wed big-bank ER cluster.**
+- **PGR / BNY / PNC Q2 BMO** — regional/insurance adjacents.
+- **Fed Chair Warsh Senate testimony later today** — market-moving Fedspeak on rates/cuts stance.
+- **UAL Q2 BMO** — airline demand read.
+- **Iran tensions ongoing** — US strike + naval blockade = oil-supply-shock premium priced back in.
+
+**📅 Economic calendar (rest of week):**
+- **Thu 7/16:** ASML + TSM PMO/AMO (semi-lead earnings vector — XLK re-entry catalyst); GE Aerospace + UNH BMO
+- **Fri 7/17:** Retail Sales Advance; Housing Starts; NFLX AMO
+
+**📊 Sector YTD (Perplexity multi-source reconcile as of 7/13-7/14):**
+- **XLK +25-33% #1** (Barchart +25.92%, Pluang +33%, Odin500 +28.8%) — still leader but stretched valuation; recent 5-day mild pullback -0.29%; **7/14 close ~$183.57** per Perplexity data; 52-wk range $126.68-$198.73.
+- **XLI +15.2-16.5% #2** — top holding GE Aerospace price-target-raises ahead of Thu ER; Turkey $700M jet engine deal boosts GE; XLI +180.45 our position.
+- **XLB +10.8-13% #4-#5** — chemicals 52%, metals/mining 19% weight; Tickeron 10-day crossed below 50-day 7/13 bearish technical; Wells Fargo flags tech-concentration risk kicked off ER season; XLB structural thesis intact but Iran oil re-price = feedstock-relief re-evaluated.
+- **XLP +9.1% #6-#7** — defensive rotate confirmed late June/early July but Tue -1.25% intraday = broadening-trade continues; 7/9 crossed above 50-day MA = mild bullish signal.
+- **XLF +0.2-1.4% weakest of watchlist** — but 5-day +3.83% surge on bank-ER catalysts; big-6 all beat Tue = broad-tape XLF add trigger unlocked but marginal-YTD limits chase upside.
+
+**🟢 Tue bank-ER RECAP:** ALL 5 of 5 beat (JPM/GS/C/WFC/BAC).
+- JPM EPS $6.14 vs $5.59 (+$0.55), rev $58.02B vs $51.09B; **record $16.9B profit, largest US-bank profit ever**; IB fees +30%, markets +35%.
+- GS EPS $20.98 vs $14.10 (+$6.88); net earnings +78% YoY; IB segment +44%.
+- Citi strongest quarterly rev in decade; IB +44%.
+- WFC EPS $2.00 vs $1.71 (+$0.29); loan growth +12%; net income +22%.
+- BAC EPS $1.21 vs $1.11 (+$0.10); profit +27% YoY; net income $9.1B.
+- **Reaction mixed premkt Tue:** JPM/GS bid, C/WFC/BAC modest declines on profit-taking. XLF absorbed; XLK partial risk-on assist. **Broad-tape confirmation: risk-on tilt intact for Wed BLK/MS follow-on.**
+
+### Trade Ideas
+
+**Default HOLD BMO pending PPI + BLK/MS ER digest 8:30-9am. XLK re-entry primary conditional trigger LIVE — Tue /market-open did NOT deploy (0 XLK orders in book at midday); Wed BMO alt window PRIMARY carry-over. All gates status:**
+- (a) CPI IN-LINE ✓
+- (b) XLK >$185 ~ MARGINAL (7/14 close ~$183.57; needs pre-open bid)
+- (c) NQ risk-on sustains ✓ (~+0.86% vs prev)
+- (d) VIX <18 ✓ (16.86)
+- (e) Banks 4-of-5 beat ✓ (**5-of-5**)
+- (f) NEW: PPI IN-LINE or COOL (not hot) — pending 8:30am
+
+1. **XLK re-entry — PRIMARY conditional deploy, gate re-run POST-PPI 8:30-9am.** #1 sector +25-33% YTD lead intact; CPI IN-LINE ✓ + banks 5/5 beat ✓ + NQ risk-on ✓ + VIX <18 ✓ = 4-of-5 pre-existing gates confirmed; 6th gate PPI IN-LINE = final macro confirmation. **XLK >$185 gate MARGINAL** — 7/14 close ~$183.57 per one Perplexity source but $185.79 per Pluang — verify at 9:00am open. If gates hold: Entry ~$185, stop ~$167 (-10% trail), target $205+ (2:1 R/R). Position cost ~**$20,000** (108 sh @ $185 = $19,980 within 20% cap $20,340 at $101,702 equity). BLOCKED IF: PPI hot >0.3% MoM or >6.3% YoY = risk-off cascade + XLK breakdown; ASML Thu preview softness reads through negative.
+2. **XLF add — CONDITIONAL post-BLK/MS ER digest.** Big-6 5/5 beat Tue; BLK/MS BMO Wed = capital-markets/asset-mgr adjacents; if BLK beats + AUM record + MS trading rev strong = XLF broad extension continues. XLF +0.2-1.4% YTD floor = catch-up trade but limited near-term multi-week upside vs XLK re-entry priority. **DEFER unless XLK gate fails.**
+3. **XLI HWM watch — 3.21% below $186.445.** GE Aerospace Turkey $700M deal + PT raises ahead of Thu Q2 ER = catalyst-loaded; +3.79% on cost solid mid-tier winner; ratchet fires on +3.2% single-session lift.
+4. **XLB HWM watch — 2.97% below $52.19 (closest of 3).** Chemicals-feedstock relief thesis at risk on Iran oil re-price to $80; Tickeron 10-day/50-day bearish crossover 7/13; **priority monitor**: cushion to -7% cut **5.21%** (wider than Tue midday 5.21% same; better than Mon EOD 4.91% by 30bps).
+5. **XLP HWM watch — 4.03% below $86.695 (WIDENED further vs Tue midday 3.64% by 39bps).** Defensive-rotate-out continues per broadening trade; XLP 7/14 close $83.42 (-1.38%); after-hours $83.80 (+0.46%) = partial bid overnight. Ratchet requires ~+4% recovery (unlikely near-term without risk-off spike).
+6. **XLE add — SKIP.** Iran-premium re-price back on but volatility elevated; single-catalyst-hostage; ETF-sector concentration bias avoided.
+7. **XLB / XLI / XLP add — SKIP.** Each at ~20% cap already; concentration violation.
+8. **Single-stock (BLK/MS/GE/ASML/TSM/UNH etc.) — SKIP.** ER-week single-stock volatility; ETF-sector exposure preferred per strategy.
+
+**Buy-Side Gate snapshot (XLK re-entry conditional, deploy pending PPI + BLK/MS digest):**
+- Positions after fill: 4 ≤ 6 ✓
+- Trades this week after fill: 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity: ~$19,980 / $20,340 cap ✓
+- Cost ≤ settled cash: $19,980 / $41,500.59 ✓
+- Catalyst documented: ✓ — CONDITIONAL on PPI IN-LINE + XLK >$185 pre-open + BLK/MS ER confirms bank-ER strength
+- Instrument is stock ✓
+- Sector momentum active ✓ — XLK #1 leader intact
+
+### Risk Factors
+- **🔴 PPI hot-surprise binary 8:30am ET** — consensus 0.2% MoM / 6.2% YoY; upside surprise >0.3% MoM or >6.4% YoY = **risk-off cascade + Fed cut push to 2027 + rate-sensitive sector pressure (XLP dual thesis half-headwind)**. Deploy discipline: digest 8:30-9am tape before commit.
+- **🔴 Iran escalation oil re-price** — US strike + naval blockade + WTI $79.81 / Brent $86.30 (vs Mon-Tue $71-74) = supply-shock premium priced back in. **XLB chemicals-feedstock relief tailwind AT RISK if sustained**; June avg $84 → July avg $71 → mid-July $80 = peace-holds thesis PARTIALLY BROKEN. **XLB thesis re-evaluate if WTI holds >$78 by /midday.**
+- **🟡 XLB manual -7% cut cushion 5.21%** — WIDENED 30bps vs Mon EOD 4.91% but Iran oil re-price is fresh headwind; **XLB break $50.00 intraday = escalate; $48.00 break = manual cut per Rule 5**. Settled cash $41,500.59 covers immediate redeployment.
+- **🟡 BLK/MS/PGR/BNY/PNC ER concentration Wed BMO** — Tue 5/5 beat set high bar; any Wed disappointments = XLF momentum breaks + broad-tape rotation reverses. **BLK is bellwether asset-mgr; MS is investment-bank concentration; misses = risk-off catalyst.**
+- **🟡 XLK re-entry gate MARGINAL on price** — $185 threshold sits right at recent close $183.57; needs +0.8% pre-open bid to unlock; risk of chase-fill if gates hold + tape opens weak on PPI.
+- **🟡 Warsh Senate testimony later today** — hawkish-tone risk if PPI hot + Fed backs off cut narrative; dovish-lean = XLK tailwind extends.
+- **🟡 XLP defensive-rotate-out extends** — 7/14 close -1.38%; cushion to -7% cut 6.28% (wider than Tue midday 6.65% by 37bps CLOSER); HWM ratchet 4.03% below (WIDENED 39bps vs Tue midday). Structural thesis intact but fade risk elevated on continued broadening trade.
+- **🟢 Bank-ER 5/5 beat Tue** = XLF broad-tape risk-on confirmation banked; broadening trade regime confirmed.
+- **🟢 CPI IN-LINE Tue** = macro headwind gate cleared for PPI IN-LINE follow-on.
+- **🟢 All 3 trails safe** — XLB 7.24% / XLI 7.02% / XLP 6.24% cushions; all outside 3% floor.
+- **🟡 Capital drag persists** — 59.19% deployed ≈ 26pp below 85% target; Week 12 Day 3 fresh 3/3 cap = 3 trade slots Wed-Fri to close deployment gap. XLK re-entry ~$20k = +20pp to 79% deployment (near target).
+
+### Decision
+
+**HOLD all 3 positions; DEFAULT no new trades BMO pending PPI + BLK/MS ER digest 8:30-9am.** **XLK re-entry PRIMARY conditional deploy trigger LIVE (5-of-6 gates met pre-PPI: CPI IN-LINE ✓; banks 5/5 beat ✓; NQ risk-on ✓; VIX <18 ✓; XLK price MARGINAL at $185 gate; PPI IN-LINE PENDING).** **Iran oil re-price = XLB thesis under fresh watch.** Trades this week stays **0/3**; positions 3/6; deployment 59.19%.
+
+Action plan:
+
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 / XLI $167.8005 / XLP $78.0255). No manual changes. No new orders. Log entry complete.
+2. **7:30am ET BLK Q2 conf call:** live monitor via Discord — beat + AUM record + AUM $12.5T+ = XLF/XLK adjacent risk-on continues; miss = capital-markets narrative cracks + XLK deploy caution.
+3. **8:30am ET PPI RELEASE + MS Q2:** primary macro binary; consensus 0.2% MoM / 6.2% YoY / 0.2% core MoM. **IN-LINE or COOL = XLK re-entry gate 6 unlocked; HOT (>0.3% MoM or >6.4% YoY) = risk-off cascade + XLK deploy BLOCK + XLB priority monitor escalate on Iran-oil-plus-inflation-double-headwind.**
+4. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** **XLK re-entry conditional 6-gate check LIVE.** If ALL hold: deploy 108 sh @ ~$185 with $167 trail (-10%) and target $205+ (2:1 R/R). If ANY breaks = SKIP deploy; carry to Thu 7/16 post-ASML/TSM alt window.
+5. **Intraday triggers (mechanical):**
+   - **XLB breaks $50.00 → escalate monitor** (pre-cut warning); **breaks $48.00 → manual -7% cut FIRST per Rule 5** (trail $46.971 below).
+   - **Iran-oil re-price check:** if WTI holds >$78 by midday = XLB thesis reassess — chemicals-feedstock relief tailwind broken but held on other cyclical/reshoring/capex arms.
+   - Fresh HWM XLB >$52.19 → auto-trail advance (2.97% away — closest).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (3.21% away).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (4.03% away).
+   - XLI breaks $167.8005 → trail fires.
+   - XLP breaks $78.0255 → trail fires.
+   - **+15% tighten-to-7% triggers:** XLI ≥$199.94 (~+10.80% away); XLP ≥$96.43 (~+15.90% away); XLB ≥$59.36 (~+17.22% away). None imminent.
+6. **/midday (~12pm ET) thesis check:** post-PPI/BLK/MS digest tape read; XLK deploy attribution; XLB Iran-oil reassess; Warsh testimony synthesis.
+7. **EOD (~4pm ET):** /daily-summary — Wed PPI + BLK/MS + XLK/XLF deploy attribution; auto-trail advances logged; Thu 7/16 ASML/TSM/GE/UNH action plan finalized.
+8. **Thu 7/16 /pre-market:** ASML + TSM semi-lead ER = XLK re-entry alt deploy window (if Wed missed); GE Aerospace Q2 = XLI catalyst confirmation.
+
+**Today's discipline = HOLD default + WAIT for PPI 8:30am + BLK/MS ER digest before deploy commit. Fresh Week 12 3/3 cap = Wed-Fri deploy window with XLK re-entry as primary carry-over candidate. XLB monitor: Iran oil re-price = feedstock-relief thesis fresh headwind + priority watch continues. Patience > activity. 5-of-6 XLK gates green pre-PPI = highest-probability deploy setup of cycle; PPI is the last macro gate.**
