@@ -5244,3 +5244,99 @@ Action plan:
 8. **Thu 7/16 /pre-market:** ASML + TSM semi-lead ER = XLK re-entry alt deploy window (if Wed missed); GE Aerospace Q2 = XLI catalyst confirmation.
 
 **Today's discipline = HOLD default + WAIT for PPI 8:30am + BLK/MS ER digest before deploy commit. Fresh Week 12 3/3 cap = Wed-Fri deploy window with XLK re-entry as primary carry-over candidate. XLB monitor: Iran oil re-price = feedstock-relief thesis fresh headwind + priority watch continues. Patience > activity. 5-of-6 XLK gates green pre-PPI = highest-probability deploy setup of cycle; PPI is the last macro gate.**
+
+## 2026-07-16 — Pre-Market (Day 62, Thursday — post-PPI-cool / ASML beat / TSM+GE+UNH BMO / XLK re-entry LIVE)
+
+### Account Snapshot (cash account, T+1)
+- **Equity:** $101,558.97 | **Last equity (Wed EOD API):** $101,667.35 | **Overnight P&L:** -$108.38 (-0.11%)
+- **Settled cash:** $41,500.59 | **Buying power:** $334,165.82 (ignore — cash account) | **Long MV:** $60,058.38
+- **Deployment:** 59.14% (26pp below 85% target — Week 12 Day 4, still carrying 40.86% dry powder)
+- **Phase cumulative:** +$1,558.97 (+1.56%) (down from Wed +1.76%, undercuts Week 11 low +1.62%)
+- **Trades this week:** 0/3 (fully fresh 3/3 cap Thu-Fri) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion to -7% cut |
+|--------|--------|-------|-----|-----------|----------------|------|-----|--------------------|
+| XLB | 388 | $51.6155 | $50.19 | -$120.28 (-0.61%) | -$553.08 (-2.76%) | $46.971 | $52.19 | $2.19 / 4.36% |
+| XLI | 115 | $173.86 | $180.06 | flat | +$713.00 (+3.57%) | $167.8005 | $186.445 | +cushion (+15% needs $199.94, +11.04% away) |
+| XLP | 238 | $83.8515 | $83.52 | +$11.90 (+0.06%) | -$78.90 (-0.40%) | $78.0255 | $86.695 | $5.54 / 6.63% |
+
+### Market Context
+- **🟢 WTI $79.47 (-0.78 vs Wed close $80.25) / Brent range $71-84 mixed sources** — Iran-oil premium **STABILIZING but not receding**; WTI holds >$78 = XLB feedstock-relief tailwind remains partially compromised but no fresh escalation. Not a today-catalyst.
+- **🟢 ES premkt ~7,607-7,618 (+0.04% to +0.21%)** — mild risk-on tilt continues on ASML beat + PPI cool follow-through.
+- **🟢 VIX 16.13-16.50 (Wed close 16.20)** — sub-17 constructive band holding; <18 = risk-on maintained.
+- **🟢 PPI JUNE (released Wed 7/15): 5.5% YoY ACTUAL vs 6.2% consensus = COOL SURPRISE** — biggest MoM decline since Apr 2025 (-0.3% MoM), macro headwind cleared. **Gate 6 UNLOCKED.**
+
+**📅 Today's catalysts:**
+- **🟢 ASML Q2 (reported Wed AMO): MASSIVE BEAT** — €9.3B rev vs €8.87B est (+5%); EPS €7.59 vs €6.88 est (+10%); gross margin 54.0% vs 51.9% est; **raised FY26 outlook to €43-45B rev / 54-56% gross margin**; shares +4% after-hours. **AI-lead semi thesis PRE-CONFIRMED; XLK gate assist HUGE.**
+- **🟢 TSM Q2 BMO ~8am ET** — consensus EPS $3.31 / rev est not stated; **THE AI-trade catalyst**; strong = XLK re-entry green-lit; miss/soft guide = XLK deploy BLOCK.
+- **🟡 GE Aerospace Q2 BMO ~7:30am ET** — consensus EPS $1.86 / rev $11.79B; XLI's #1 holding; strong = XLI HWM ratchet catalyst; miss = XLI sleeve pressure.
+- **🟡 UNH Q2 BMO** — healthcare read; XLV adjacent (not held).
+- **🟡 J&J / Abbott / Netflix (AMO)** — broad tape reads.
+- **🟡 Empire State Index (July) 8:30am ET** — regional NY manufacturing read.
+
+**📅 Rest of week:**
+- **Fri 7/17:** Retail Sales Advance (June); Housing Starts; NFLX AMO digest
+
+**📊 XLK gate re-check (5-of-6 GREEN pre-open, TSM = 6th):**
+- (a) CPI IN-LINE ✓
+- (b) XLK >$185: **MARGINAL** — Wed close $183.62; premkt $184.93 (+0.72%) = still $0.07 short of $185 threshold. Needs +0.04% pre-open bid to clear.
+- (c) NQ risk-on sustains ✓ (ES/NQ mildly higher)
+- (d) VIX <18 ✓ (16.13)
+- (e) Banks 5/5 beat ✓
+- (f) PPI IN-LINE/COOL ✓ (5.5% actual = COOL SURPRISE)
+- **BONUS: ASML MASSIVE BEAT + raised FY26 outlook** — semi-lead validation pre-confirms AI thesis
+- **6th gate: TSM BMO beat + strong guide = FULL GREEN LIGHT.** Miss/soft = BLOCK.
+
+### Trade Ideas
+
+**Default HOLD BMO. XLK re-entry PRIMARY conditional deploy at /market-open (9:30am) POST-TSM DIGEST. All gates now pending TSM only.**
+
+1. **XLK re-entry — PRIMARY conditional deploy at /market-open post-TSM.** Sector #1 YTD +25-33%; ASML BEAT + PPI COOL = 5-of-6 gates green with TSM as final macro binary. **Entry ~$185, stop -10% trail ~$167, target $205+ (2:1 R/R).** Position cost 108 sh @ $185 = **$19,980 within $20,312 20% cap** ($101,559 × 20%). BLOCKED IF: TSM misses EPS/rev OR guides softer FY / OR XLK opens below $185 at cash open.
+2. **XLI add — DEFER.** Currently 20.4% of equity (near cap); GE ER catalyst catalyst-loaded but sleeve concentration violates 20% rule.
+3. **XLB HWM watch — 3.98% below $52.19.** Iran-oil re-price holds $79 = feedstock-relief tailwind muted; -0.61% overnight puts cushion at 4.36% ($2.19 abs to -7% cut $48.00) — **priority monitor RESUMES** (tightened 88bps vs Wed EOD 5.24%). **Break $50.00 intraday = escalate; break $48.00 = manual cut per Rule 5.**
+4. **XLP HWM watch — 3.65% below $86.695.** Defensive-bid stable near flat overnight; +0.06% premkt = tape-neutral.
+5. **XLI HWM watch — 3.42% below $186.445.** GE Aerospace ER = catalyst gate; +3.57% on cost; +15% tighten trigger $199.94 (+11.04% away, not imminent).
+6. **XLF add — SKIP.** Bank-ER absorbed; near-term catalyst spent; XLK re-entry priority.
+7. **Single-stock (TSM/ASML/GE/UNH etc.) — SKIP.** ETF-sector preferred; ER-week single-stock vol.
+
+**Buy-Side Gate (XLK re-entry conditional, deploy pending TSM digest):**
+- Positions after fill: 4 ≤ 6 ✓
+- Trades this week after fill: 1/3 ≤ 3 ✓
+- Cost ≤ 20% equity: ~$19,980 / $20,312 cap ✓
+- Cost ≤ settled cash: $19,980 / $41,500.59 ✓
+- Catalyst documented ✓ — CONDITIONAL on TSM beat + XLK >$185 at 9:30am open
+- Instrument is stock ✓
+- Sector momentum active ✓ — XLK #1 leader intact + ASML beat validates
+
+### Risk Factors
+- **🔴 TSM Q2 binary ~8am ET** — miss/soft guide = AI-trade thesis crack + XLK deploy BLOCK + broad-tape risk-off; beat + strong guide = XLK re-entry FULL GREEN.
+- **🟡 XLB priority monitor RESUMES** — overnight -0.61% tightens cushion to 4.36% (down 88bps from Wed EOD 5.24%); Iran-oil re-price holding $79 = feedstock-relief tailwind muted. **Break $50.00 = pre-cut warning; $48.00 = manual cut.**
+- **🟡 XLK price gate MARGINAL** — premkt $184.93 sits $0.07 below $185 threshold; needs +0.04% open-tick to clear. Risk of BLOCK if opens below $185.
+- **🟡 GE Aerospace Q2 miss risk** — XLI sleeve exposure to top-holding surprise; ER expectations elevated (consensus EPS $1.86 / rev $11.79B). Miss = XLI HWM ratchet delay + sleeve fade.
+- **🟡 Iran-oil re-escalation** — WTI $79.47 stable but not receding; any fresh strike/blockade headline = XLB fresh headwind + broad-tape risk-off.
+- **🟢 ASML BEAT + raised guide** = pre-confirms XLK semi-lead AI thesis; strong tailwind into cash open.
+- **🟢 PPI COOL (5.5% vs 6.2%)** = macro headwind gate FULLY cleared; Fed cut path validated.
+- **🟢 All 3 trails safe** — XLB 6.34% / XLI 6.81% / XLP 6.58% cushions; all outside 3% floor.
+- **🟡 Capital drag** — 59.14% deployed = 26pp below 85% target; XLK re-entry ~$20k = +19.7pp to ~78.8% deployment (near target).
+
+### Decision
+
+**HOLD all 3 positions BMO. XLK re-entry PRIMARY conditional deploy at /market-open (9:30am) POST-TSM digest. 5-of-6 gates green pre-open; TSM = final catalyst binary.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 / XLI $167.8005 / XLP $78.0255). No manual changes. No new orders.
+2. **~7:30am ET GE Aerospace Q2:** BMO print — beat = XLI catalyst validated; miss = XLI sleeve pressure.
+3. **~8am ET TSM Q2:** **THE PRIMARY BINARY** — beat + strong FY guide = XLK re-entry FULLY GREEN; miss/soft = BLOCK deploy carries to Fri or beyond.
+4. **~8am ET UNH Q2 + Empire State Index 8:30am:** broad tape reads; not deploy-gating.
+5. **9:30am cash open:** /market-open routine runs. **Default HOLD all 3 sleeves.** **XLK re-entry conditional 6-gate re-check LIVE.** If ALL hold + TSM beat + XLK opens >$185: deploy **108 sh @ ~$185** with $167 trail (-10%) and target $205+ (2:1 R/R). If ANY breaks = SKIP deploy; carry to Fri /pre-market or Week 13.
+6. **Intraday triggers (mechanical):**
+   - **XLB breaks $50.00 → escalate monitor** (pre-cut warning); **breaks $48.00 → manual -7% cut FIRST per Rule 5** (trail $46.971 below); settled cash $41,500.59 covers immediate redeployment.
+   - Fresh HWM XLB >$52.19 → auto-trail advance (3.98% away).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (3.42% away).
+   - Fresh HWM XLP >$86.695 → auto-trail advance (3.65% away).
+   - XLI breaks $167.8005 → trail fires; XLP breaks $78.0255 → trail fires; XLB breaks $46.971 → trail fires.
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+11.04% away); XLP ≥$96.43 (+15.46% away); XLB ≥$59.36 (+18.27% away). None imminent.
+7. **/midday (~12pm ET):** post-TSM/GE/UNH digest thesis check; XLK deploy attribution; XLB Iran-oil reassess.
+8. **EOD (~4pm ET):** /daily-summary — Thu TSM+GE+UNH+XLK deploy attribution; auto-trail advances logged; Fri retail-sales/housing-starts plan.
+
+**Today's discipline = HOLD default + WAIT for TSM 8am + XLK $185 open-tick before deploy commit. Fresh Week 12 3/3 cap = Thu-Fri deploy window with XLK re-entry as primary carry-over candidate. XLB priority monitor RESUMES on overnight -0.61% + Iran-oil hold-$79. Patience > activity. TSM is the last gate; ASML beat pre-confirmed the AI-thesis half — TSM = the second half.**
