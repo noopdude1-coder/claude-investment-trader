@@ -5340,3 +5340,92 @@ Action plan:
 8. **EOD (~4pm ET):** /daily-summary — Thu TSM+GE+UNH+XLK deploy attribution; auto-trail advances logged; Fri retail-sales/housing-starts plan.
 
 **Today's discipline = HOLD default + WAIT for TSM 8am + XLK $185 open-tick before deploy commit. Fresh Week 12 3/3 cap = Thu-Fri deploy window with XLK re-entry as primary carry-over candidate. XLB priority monitor RESUMES on overnight -0.61% + Iran-oil hold-$79. Patience > activity. TSM is the last gate; ASML beat pre-confirmed the AI-thesis half — TSM = the second half.**
+
+## 2026-07-17 — Pre-Market (Day 63, Friday — Week 12 close / NFLX -9.2% + chipmaker AI rout / XLK deploy BLOCKED / /weekly-review PM)
+
+### Account Snapshot (cash account, T+1)
+- **Equity:** $102,228.41 | **Last equity (Thu EOD API):** $102,385.94 | **Overnight P&L:** -$157.53 (-0.15%)
+- **Settled cash:** $41,500.59 | **Buying power:** $336,040.26 (ignore — cash account) | **Long MV:** $60,727.82
+- **Deployment:** 59.40% (26pp below 85% target — Week 12 Day 5, still carrying 40.60% dry powder)
+- **Phase cumulative:** +$2,228.41 (+2.23%) (down from Thu +2.38%, still 3rd-highest print of phase)
+- **Trades this week:** 0/3 (unused Week 12 cap — resets Mon Week 13) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion to -7% cut |
+|--------|--------|-------|-----|-----------|----------------|------|-----|--------------------|
+| XLB | 388 | $51.6155 | $50.90 | +$3.88 (+0.02%) | -$277.60 (-1.39%) | $46.971 | $52.19 | $2.90 / 5.70% |
+| XLI | 115 | $173.86 | $177.96 | -$251.85 (-1.22%) | +$471.50 (+2.36%) | $167.8005 | $186.445 | +cushion (+15% needs $199.94, +12.35% away) |
+| XLP | 238 | $83.8515 | $86.19 | +$90.44 (+0.44%) | +$556.56 (+2.79%) | $78.0255 | $86.695 | $8.21 / 9.53% |
+
+### Market Context
+- **🔴 WTI $79.61-$79.83 (+0.84% / +$0.88 vs Thu $78.95) / Brent $84.93-$85.34 (+0.83%)** — Iran / Middle East crisis INTENSIFYING; crude heading for biggest weekly gain in months. **XLB feedstock-relief tailwind cracks fresh** — reversal from Thu stable-$79 to Fri rising-$80.
+- **🔴 ES premkt 7,509.25 (-0.90%)** — broad risk-off; biggest single-day futures fade of Week 12.
+- **🔴 NQ premkt 28,742.00 (-1.66%)** — tech / semi rout leads the fade; chipmaker AI-worry rotation + NFLX cascade.
+- **🟡 VIX 17.96 (+7.35% / +1.23 vs Thu 16.73)** — first close above 17 since June; sub-17 constructive band **BROKEN**, still <18 but approaching risk-off threshold.
+- **🔴 NFLX Q2 (Thu AMO): Q2 rev $12.56B beat, EPS $0.80 in-line, but Q3 guide $12.86B rev / $0.82 EPS = MISS vs $13B / $0.84 consensus. Content-slate 2H weaker per Jefferies.** Shares -8.6% AH, **-9.2% premkt Fri**. XLK/XLC contagion catalyst.
+- **🔴 Chipmaker AI-worry rout** — semi lead broken; ASML beat Wed AMO not enough to offset NFLX-cascade + AI-spend doubts.
+
+**📅 Today's catalysts (light):**
+- **NONE BMO earnings of note** (AXP is Jul 24; no major banks/industrials Fri).
+- **Retail Sales June** already released **Wed 7/16** (+0.2% MoM soft headline vs +0.3% est; control group +0.5% beat; ex-gas +0.7% — muted but not negative). **Not a today-catalyst.**
+- **Housing Starts / Permits** likely released early next week (Jul 18-22), NOT today per Census schedule.
+- **NFLX -9.2% cascade** = today's ONLY macro tape driver; XLC / XLY / XLK contagion risk.
+
+**📅 Week 13 (Mon 7/20+) preview:**
+- Housing Starts / Building Permits June (early next week)
+- Big-tech Q2 ER cycle escalates (MSFT/GOOGL/META/AMZN watch)
+- Trades cap resets **3/3 fresh Mon**; Week 12 unused (0/3) does NOT carry
+
+**📊 XLK re-entry gate re-check (POST-NFLX + chipmaker rout — FULL RE-EVAL):**
+- (a) CPI in-line ✓
+- (b) XLK >$185: **FAIL** — chipmaker rout + NFLX contagion = XLK opens well below $185 threshold likely.
+- (c) NQ risk-on: **FAIL HARD** — NQ -1.66% premkt = broken.
+- (d) VIX <18: **MARGINAL** — 17.96, effectively at ceiling.
+- (e) Banks 5/5 beat ✓ (Wed digest complete)
+- (f) PPI cool ✓
+- **BONUS: ASML beat pre-confirmed** — but chipmaker AI-doubt cascade OVERWRITES.
+- **6th gate: TSM Q2** — result absorbed Thu without dispersion, but Fri chipmaker rout suggests semi lead breaks.
+- **VERDICT: DEPLOY BLOCKED. 2/6 gates fail hard. Carries to Week 13 pending semi-lead recovery.**
+
+### Trade Ideas
+
+**Default HOLD BMO. NO deploy today. Risk-off tape + zero fresh catalysts + Week 12 cap 0/3 unused = pure hold-and-monitor day. Friday afternoon /weekly-review runs after close.**
+
+1. **XLK re-entry — SKIP.** Chipmaker AI-worry rout + NFLX contagion + NQ -1.66% = deploy gate FAILED HARD. Carries to Week 13 pending: (i) NQ recovery to positive; (ii) semi lead re-validation; (iii) XLK >$185 sustained; (iv) VIX <17 re-establish.
+2. **XLB HWM watch — 2.53% below $52.19.** Iran-oil re-escalation to $80 range = feedstock-relief tailwind CRACKS FRESH; -7% cut $48.00 cushion still healthy at 5.70% but Iran-oil trajectory = fresh headwind. **Break $50.00 intraday = escalate; $48.00 = manual cut per Rule 5.** No preempt.
+3. **XLP HWM ratchet imminent — 0.59% below $86.695.** Defensive-bid extension into Day 4 = today likely triggers auto-trail advance if $86.695 breaks. Watch — could be first HWM ratchet since May.
+4. **XLI HWM watch — 4.55% below $186.445.** Overnight -1.22% fade on chipmaker-rout tape contagion (not thesis crack); +2.36% on cost intact; trail cushion 5.71% (still >3% floor).
+5. **XLI / XLP / XLB adds — SKIP.** All 3 sleeves at/near 20% cap already; concentration rule blocks adds.
+6. **Single-stock (chipmaker dip-buy, NFLX bottom-catch etc.) — SKIP.** Not the strategy; risk-off tape + falling-knife catalysts = wait for stability.
+
+**Buy-Side Gate — N/A (NO deploy today).**
+
+### Risk Factors
+- **🔴 Chipmaker AI-worry rout + NFLX contagion** — XLK / XLC / XLY risk-off; broad tape ES -0.90% / NQ -1.66% = today's dominant driver. Sector-rotation risk to defensives (XLP tailwind) vs cyclical unwind (XLI headwind).
+- **🔴 Iran-oil re-escalation** — WTI $79.83 rising = XLB feedstock-relief thesis fresh headwind + broad-tape risk-off; biggest weekly WTI gain in months = escalation cycle underway.
+- **🟡 VIX above 17** — first close since June breaks sub-17 constructive band; approaching risk-off threshold at 18.
+- **🟡 XLI mild-fade continues** — overnight -1.22% adds to Thu flat print; trail cushion 5.71% (>3% floor); no thesis crack but AI-capex/defense structural cushion tested.
+- **🟢 XLP HWM ratchet imminent** — 0.59% away from $86.695 = auto-trail advance if defensive-bid extension continues; today likely = first ratchet since May.
+- **🟢 XLB monitor DE-ESCALATED** — cushion to manual cut 5.70% (Thu EOD 5.98%, tightened 28 bps overnight); still $0.72 above pre-cut warning line $50.00. **RESUMES priority-monitor status** on Iran-oil re-escalation.
+- **🟢 All 3 trails safe** — XLB 7.72% / XLI 5.71% / XLP 9.47% cushions; all outside 3% floor.
+- **🟡 Capital drag** — 59.40% deployed = 26pp below 85% target; deploy on hold across Week 12 (0/3 trades used); Week 13 Mon resets cap 3/3 fresh but requires tape stabilization first.
+- **🟢 Week 12 phase closes at +2.23%** vs open at +1.91% = **+32 bps net phase advance** despite risk-off Fri; still 3rd-highest print of phase.
+
+### Decision
+
+**HOLD all 3 positions. NO deploy. Week 12 closes with 0/3 trades used — cap does NOT carry. Fri /weekly-review runs after 4pm close (compute Sharpe vs SPY, max DD, vs RSP, process metrics).**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 / XLI $167.8005 / XLP $78.0255). No manual changes. No new orders.
+2. **9:30am cash open:** /market-open routine runs. **Pure HOLD default.** **XLK re-entry BLOCKED — 2/6 gates fail hard on chipmaker rout + NQ -1.66%.** NO deploy attempt.
+3. **Intraday triggers (mechanical):**
+   - **XLB breaks $50.00 → escalate monitor** (pre-cut warning); **breaks $48.00 → manual -7% cut FIRST per Rule 5** (trail $46.971 below); settled cash $41,500.59 covers immediate redeployment.
+   - Fresh HWM XLB >$52.19 → auto-trail advance (2.53% away).
+   - Fresh HWM XLI >$186.445 → auto-trail advance (4.55% away).
+   - **Fresh HWM XLP >$86.695 → auto-trail advance (0.59% away — IMMINENT ratchet trigger candidate).**
+   - XLI breaks $167.8005 → trail fires; XLP breaks $78.0255 → trail fires; XLB breaks $46.971 → trail fires.
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+12.35% away); XLP ≥$96.43 (+11.88% away); XLB ≥$59.36 (+16.62% away). None imminent.
+4. **/midday (~12pm ET):** thesis check on XLP ratchet advance if fires; NFLX-cascade impact reassess; XLB Iran-oil update.
+5. **EOD ~4pm ET:** /daily-summary — Fri close Week 12 attribution; XLP ratchet log if fires; NFLX contagion / chipmaker rout scorecard.
+6. **~4:30pm ET:** **/weekly-review** — Week 12 close = Sharpe vs SPY, max DD vs RSP, process metrics; 0/3 trades unused; XLK re-entry deferred to Week 13; Iran-oil re-escalation impact on XLB thesis.
+
+**Today's discipline = PURE HOLD + monitor XLP ratchet + XLB Iran-oil headwind + weekly-review after close. Chipmaker rout + NFLX cascade = broken tape for XLK deploy today; Week 12 closes 0/3 trades used but +32 bps phase advance vs open = patience-over-activity validated. Week 13 fresh cap resets Mon pending tape stabilization. Patience > activity.**
