@@ -5429,3 +5429,92 @@ Action plan:
 6. **~4:30pm ET:** **/weekly-review** — Week 12 close = Sharpe vs SPY, max DD vs RSP, process metrics; 0/3 trades unused; XLK re-entry deferred to Week 13; Iran-oil re-escalation impact on XLB thesis.
 
 **Today's discipline = PURE HOLD + monitor XLP ratchet + XLB Iran-oil headwind + weekly-review after close. Chipmaker rout + NFLX cascade = broken tape for XLK deploy today; Week 12 closes 0/3 trades used but +32 bps phase advance vs open = patience-over-activity validated. Week 13 fresh cap resets Mon pending tape stabilization. Patience > activity.**
+
+## 2026-07-20 — Pre-Market (Day 64, Monday — Week 13 open / Iran-oil re-escalation to $83.50 WTI / Brent >$90 / chip carnage lingering / GOOGL earnings week)
+
+### Account Snapshot (cash account, T+1)
+- **Equity:** $102,194.50 | **Last equity (Fri EOD API):** $102,013.60 | **Overnight P&L:** +$180.90 (+0.18%)
+- **Settled cash:** $41,500.59 | **Buying power:** $335,945.30 (ignore — cash account) | **Long MV:** $60,693.91
+- **Deployment:** 59.39% (26pp below 85% target — Week 13 Day 1, still carrying 40.61% dry powder)
+- **Phase cumulative:** +$2,194.50 (+2.19%) (up from Fri +2.01%, 4th-highest print of phase)
+- **Trades this week:** 0/3 (Week 13 FRESH CAP) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion |
+|--------|--------|-------|-----|-----------|----------------|------|-----|---------|
+| XLB | 388 | $51.6155 | $50.51 | -$0.02 (-0.04%) | -$428.92 (-2.14%) | $46.971 | $52.19 | Manual cut $48.00: $2.51 / 4.97% |
+| XLI | 115 | $173.86 | $181.00 | +$1.59 (+0.89%) | +$821.10 (+4.11%) | $167.8005 | $186.445 | HWM 2.93% away (+$5.445) |
+| XLP | 238 | $83.8515 | $85.2144 | +$0.02 (+0.03%) | +$324.37 (+1.63%) | $78.687 (ratcheted) | $87.43 | HWM 2.55% away (+$2.216) |
+
+### Market Context
+- **🔴 WTI $83.52 (+2.4% / +$3.69 vs Fri $79.83) / Brent >$90 (+2.77%)** — Iran / Middle East war INTENSIFIES over the weekend; US strikes + American military casualties + Strait of Hormuz disruption risk. Analysts call for long-Brent to $95-105. **XLB feedstock-relief thesis CRACKS HARDER** — Iran-oil premium jumped from $79-80 Fri to $83.50/$90 today = $6-10/bbl geopolitical premium fresh.
+- **🟢 ES premkt 7,496.50 (+0.02%)** — mildly bullish Sunday open; caveat: Barchart shows -1.02% intraday softer print later, so tape is mixed → likely open near flat/mildly-down as Iran headlines re-price.
+- **🟢 NQ premkt 28,805.50 (+0.13%)** — mildly bullish; Sunday early tone favorable for tech but chip-carnage overhang lingers (SOXX -18% in July, SMH -9% WTD, XLK -5.38% week).
+- **🟡 VIX 18.28 (-2.61% / -0.49 vs Fri 18.77)** — still above the 17 constructive threshold; below 19.5 volatility trigger; "moderate anxiety" regime; VIX futures term structure held at 18.24 (contango intact).
+- **📅 Today's catalysts (light):**
+  - **10:00am ET Conference Board Leading Economic Index (LEI) June** — forward-looking economic health read; not tape-moving alone but adds macro context.
+  - **NO CPI/PPI/Fed/major macro data today** — CPI/PPI released Wed/Thu last week; Fed no meeting.
+  - **NO major BMO earnings today** — GOOGL builds up for later this week (Tue AMC?); AAPL/AMZN/NVDA/MSFT/META queued for the week.
+  - **GOOGL Q2 earnings this week** = Big Tech kickoff; sets tone for AI-capex/mega-cap-tech risk appetite.
+  - **Iran conflict cadence** = ongoing tape driver (US strikes + retaliation cycle).
+- **📊 Sector momentum YTD 2026 (mid-July):**
+  - **Leaders:** XLE +23-26% (Iran premium beneficiary), XLB +10-18%, XLP +10-15%, XLI +10-14% — my 3 sleeves all in leading quadrant.
+  - **Laggards:** XLK -3 to -4% (chip rout unwinding 2025 momentum), XLF -6 to -8% (Fed pause hurts).
+  - **Last week (Fri close 7/17):** XLP +2.51%, XLU +2.25%, XLC +1.59%, XLY +0.16%, XLI +0.14%, XLB -2.50%, XLK -5.38% — my book: 2 winners (XLI/XLP) + 1 laggard (XLB).
+
+### XLK re-entry gate re-check (POST-CHIP-ROUT + IRAN-OIL RE-ESCALATION):
+- (a) CPI cool ✓
+- (b) XLK >$185: **FAIL HARD** — chip carnage + week-long -5.38% fade = XLK deeply below $185.
+- (c) NQ risk-on: **MARGINAL** — premkt +0.13% but Barchart shows conflicting -1.51% mid-session; unclear tape.
+- (d) VIX <17: **FAIL** — 18.28 remains above threshold; volatility regime not constructive.
+- (e) Banks 5/5 beat ✓
+- (f) PPI cool ✓
+- **BONUS: ASML beat Wed AMO** — pre-confirmed AI thesis half but chip rout OVERWRITES.
+- **VERDICT: DEPLOY BLOCKED — 2/6 gates fail hard (XLK price + VIX).** Carries to Week 13 pending: (i) chip lead re-validates, (ii) NQ sustains risk-on, (iii) XLK reclaims $185, (iv) VIX sustains <17.
+
+### Trade Ideas
+
+**Default HOLD Week 13 open. NO deploy today. Iran-oil re-escalation + VIX >18 + no BMO catalyst + chip-rout overhang = pure hold-and-monitor day.**
+
+1. **XLK re-entry — SKIP Day 4.** 2/6 gates fail hard. Chip lead needs re-validation via clean GOOGL/AAPL/AMZN/NVDA prints this week + VIX <17 re-establishment. **Watch Wed-Fri for gate realignment**; single Week 13 deploy candidate.
+2. **XLB priority monitor RE-ESCALATES.** Iran-oil premium jumped $6-10/bbl over the weekend (Fri $79 → Mon $83.50/$90); feedstock-relief thesis takes fresh hit. **Cushion to manual -7% cut $48.00 = 4.97% ($2.51 above)**; break $50.00 intraday → escalate; break $48.00 → manual cut per Rule 5 (settled cash $41,500.59 covers immediate redeployment).
+3. **XLE add candidate — SKIP TODAY.** Sector leader YTD +23-26% on Iran premium; but spike is geopolitical-driven, unstable — ceasefire risk = 5-10% gap-down. Entry candidate ~$100 area, stop -10%, 200 sh @ $100 = $20,000 (within cap). Deferred pending Iran-oil price stabilization. **Sector-momentum criterion active** but risk-adjusted entry timing wrong at the spike.
+4. **XLU (Utilities) add candidate — WATCH.** +2.25% last week defensive winner; rate-sensitive + AI-power demand alternative to XLK. Entry ~$95-100, stop -10%, ~200 sh @ ~$95 = $19,000. **Not deploy-recommended today** without dedicated catalyst; watch Tue-Wed if XLK gate stays blocked.
+5. **XLP HWM watch — 2.55% below $87.43.** Defensive-bid extension continues if risk-off intensifies; auto-trail advance if fires (trail $78.687 → higher). +15% tighten trigger $96.43 sits +13.18% away.
+6. **XLI HWM watch — 2.93% below $186.445.** Overnight +0.89% intraday tick suggests fresh advance possible on flat/positive tape; +4.11% on cost strong; trail $167.8005 cushion 7.29%. +15% tighten trigger $199.94 sits +10.46% away.
+7. **XLI / XLP / XLB adds — SKIP.** All 3 sleeves near 20% cap by cost basis; concentration rule blocks adds. XLI market value $20,815 = 20.37% of equity (informational — cap is on cost, not MV; entry $19,993.90 = 19.56% at time).
+8. **Single-stock (GOOGL/AAPL/NVDA earnings-week trades) — SKIP.** Not the ETF-sector strategy; ER-week single-stock vol = size-mismatch risk on $20k position cap.
+
+**Buy-Side Gate — N/A (NO deploy today).**
+
+### Risk Factors
+- **🔴 Iran-oil re-escalation** — WTI $83.50 / Brent >$90 = biggest weekly jump in months; US strikes + American military casualties + Strait of Hormuz disruption risk. XLB feedstock-relief thesis fresh headwind; XLE tailwind (but I don't hold); broad-tape risk-off potential if escalation continues.
+- **🔴 Chip carnage overhang** — SOXX -18% MTD, SMH -9% WTD, XLK -5.38% Fri — AI-spend / NVDA-worry rotation continues; XLK re-entry deep-blocked until chip lead re-validates via mega-cap-tech ER cycle.
+- **🟡 VIX 18.28** — above constructive-band 17 threshold; below 19.5 volatility trigger. Not panic but not risk-on. XLK re-entry (d) gate fails; monitor for sustained <17 re-establish.
+- **🟡 GOOGL Q2 ER this week** — Big Tech kickoff sets AI-trade tone; miss = deeper XLK/XLC risk-off; beat = potential XLK re-entry gate realignment.
+- **🟢 XLP defensive-bid extension** — 4-session recovery arc peaked Fri AM ($87.43 HWM ratchet); risk-off tape favors continued defensive rotation; HWM 2.55% away = imminent-ish 2nd ratchet candidate.
+- **🟢 XLI structural thesis INTACT** — AI-capex/reshoring/defense sector isolated from chip rout (Fri validated); +$1.59 overnight advance suggests fresh HWM approach possible.
+- **🟡 XLB monitor RE-ESCALATES** — cushion to manual cut tightened marginally from Fri 5.00% → Mon 4.97% (+overnight -0.04%); Iran-oil fresh headwind = watch for break $50.00 = pre-cut warning trigger.
+- **🟢 All 3 trails safe** — XLB 7.01% / XLI 7.29% / XLP 7.63% cushions to trail stops; all outside 3% floor.
+- **🟡 Capital drag** — 59.39% deployed = 26pp below 85% target; 20th straight sub-60 session; XLK re-entry ~$20k would advance to ~79% deployment (near target) but gate-blocked.
+- **🟢 Week 13 fresh cap 3/3** — Mon-Fri deploy window open; single-trade candidate week likely with XLK re-entry as primary carry-over pending Wed-Fri gate realignment.
+
+### Decision
+
+**HOLD all 3 positions. NO deploy Week 13 Day 1. Iran-oil re-escalation + VIX 18.28 + chip-rout overhang + no BMO catalyst = pure hold-and-monitor discipline day.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 / XLI $167.8005 / XLP $78.687). No manual changes. No new orders.
+2. **9:30am cash open:** /market-open routine runs. **Pure HOLD default.** **XLK re-entry BLOCKED — 2/6 gates fail hard on chip carnage + VIX 18.28.** NO deploy attempt.
+3. **10:00am ET Leading Economic Index June:** macro read; not deploy-gating alone.
+4. **Intraday triggers (mechanical):**
+   - **XLB breaks $50.00 → escalate monitor** (pre-cut warning per RE-ESCALATED priority status); **breaks $48.00 → manual -7% cut FIRST per Rule 5** (trail $46.971 below); settled cash $41,500.59 covers immediate redeployment.
+   - Fresh HWM XLB >$52.19 → auto-trail advance (3.33% away — unlikely today).
+   - **Fresh HWM XLI >$186.445 → auto-trail advance (2.93% away — CLOSEST post-Fri tick).**
+   - **Fresh HWM XLP >$87.43 → auto-trail advance (2.55% away — defensive-bid extension candidate).**
+   - XLI breaks $167.8005 → trail fires; XLP breaks $78.687 → trail fires; XLB breaks $46.971 → trail fires.
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+10.46% away); XLP ≥$96.43 (+13.18% away); XLB ≥$59.36 (+17.52% away). None imminent.
+5. **/midday (~12pm ET):** thesis check on Iran-oil impact on XLB; XLP/XLI ratchet watch; LEI digest.
+6. **EOD (~4pm ET):** /daily-summary — Week 13 Day 1 attribution; Iran-oil escalation scorecard; XLB monitor RE-ESCALATION log.
+7. **Rest of week:** Tue-Wed GOOGL/big-tech ER digest = XLK re-entry gate realignment window; Thu-Fri single-deploy candidate if 6-gate check aligns (chip lead recovery + VIX <17 + XLK >$185). XLE/XLU alternative candidates if XLK stays blocked.
+
+**Today's discipline = PURE HOLD + Iran-oil monitor + Week 13 fresh cap preserved for mid-week deploy candidate. Chip rout still active + VIX >17 + geopolitical re-escalation = single-trade Week 13 pace realistic (not multi). Patience > activity. XLB priority-monitor RE-ESCALATES on Iran-oil premium jump; break $50.00 = trigger warning.**
