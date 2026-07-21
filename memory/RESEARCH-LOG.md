@@ -5518,3 +5518,103 @@ Action plan:
 7. **Rest of week:** Tue-Wed GOOGL/big-tech ER digest = XLK re-entry gate realignment window; Thu-Fri single-deploy candidate if 6-gate check aligns (chip lead recovery + VIX <17 + XLK >$185). XLE/XLU alternative candidates if XLK stays blocked.
 
 **Today's discipline = PURE HOLD + Iran-oil monitor + Week 13 fresh cap preserved for mid-week deploy candidate. Chip rout still active + VIX >17 + geopolitical re-escalation = single-trade Week 13 pace realistic (not multi). Patience > activity. XLB priority-monitor RE-ESCALATES on Iran-oil premium jump; break $50.00 = trigger warning.**
+
+## 2026-07-21 — Pre-Market (Day 65, Tuesday — Week 13 Day 2 / Iran ceasefire hopes = oil softens + risk-on rebound / NVDA +6.2% pre-mkt on AWS $8.2B capex / GOOGL AMC / MMM/GM/NOC industrials BMO / VIX 17.58 breaks below 18)
+
+### Account Snapshot (cash account, T+1 — Phase 1 PAPER $100k baseline per CLAUDE.md; task-prompt "$7,500 live" line is stale)
+- **Equity:** $101,619.30 | **Last equity (Mon EOD API):** $101,592.71 | **Overnight P&L:** +$26.59 (+0.03%)
+- **Settled cash:** $41,500.59 | **Buying power:** $334,334.75 (ignore — cash account) | **Long MV:** $60,118.71
+- **Deployment:** 59.16% (26pp below 85% target — 21st straight sub-60 session)
+- **Phase cumulative:** +$1,619.30 (+1.62%) (up from Mon EOD +1.57%, 5th-highest print of phase)
+- **Trades this week:** 0/3 (Week 13) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion |
+|--------|--------|-------|-----|-----------|----------------|------|-----|---------|
+| XLB | 388 | $51.6155 | $50.03 | flat (change_today 0.00%) | -$615.16 (-3.07%) | $46.971 | $52.19 | Manual cut $48.00: $2.03 / 4.06% — TIGHTEST-EVER |
+| XLI | 115 | $173.86 | $178.91 | +$0.79 (+0.44%) | +$580.75 (+2.90%) | $167.8005 | $186.445 | HWM 4.05% away (+$7.535) |
+| XLP | 238 | $83.8515 | $84.59 | -$0.27 (-0.32%) | +$175.76 (+0.88%) | $78.687 (ratcheted) | $87.43 | HWM 3.24% away (+$2.84) |
+
+### Market Context
+- **🟢 WTI $82.47 / Brent $88.87 (-0.4%)** — **Iran ceasefire hopes / US-Iran mediation** offsetting fresh strikes + Houthi blockade threats = oil price EASES modestly from Mon spike ($83.50/$90). $6-10 geopolitical premium PARTIALLY UNWINDS; not gone but softening. **XLB feedstock-relief thesis PARTIAL RELIEF** — headwind fades if mediation sticks.
+- **🟢 ES futures 7,527.00 (+0.57%)** — **risk-on rebound** on Iran mediation + Nvidia $8.2B AWS capex confirm + GOOGL AMC anticipation. Reuters headline: "Wall St futures gain on Iran ceasefire hopes; earnings in focus."
+- **🟢 NQ futures +1.4% premkt** — **strong tech rebound** on NVDA +6.2% pre-mkt to $134.78 (AWS $8.2B capex confirmed = AI-spend doubts partially resolved). SMCI/AVGO/MRVL following. **XLK re-entry gate signal FLIPS.**
+- **🟢 VIX 17.58 (-5.74% / -1.07 vs Mon 18.65 / -1.19 vs Fri 18.77)** — **BREAKS BELOW 18 THRESHOLD, approaching 17 constructive band**. Front-month futures 17.69, contango intact. "Neutral / Chop" regime. First sub-18 print since chipmaker rout Fri 7/17. **XLK re-entry (d) gate MARGINALLY-BLOCKED (17.58 vs <17 threshold, 3.4% miss); watch for sustained <17 intraday.**
+- **📅 Today's catalysts (heavy — industrials + AI ER-week kickoff):**
+  - **BMO earnings (industrial-heavy):** MMM ($2.25 est), GM ($3.20 vs $2.53 last yr), NOC ($6.82 vs $8.15 last yr = decline expected), GPC ($2.08), WAB, OTIS. **Direct XLI catalyst — 4 major industrial-sector prints before open.**
+  - **AMC earnings (mega-cap kickoff):** **GOOGL Q2** = Big Tech ER cycle KICKOFF; sets AI-capex tone for MSFT/META/AAPL/AMZN/NVDA Wed+. **Beat = XLK re-entry gate fully realigns; miss = risk-off snapback.**
+  - **8:30am ET Import/Export Price Indexes June** — inflation adjacent, not tape-moving alone.
+  - **10:00am ET State Employment (June)** — regional labor read, low-impact.
+  - **12:15–12:55pm ET weekly labor data** — ADP weekly, jobless claims (208K est vs 212K prior), continuing 1,805K, 4-wk avg 214.25K.
+  - **NO CPI/PPI/Fed today** — CPI/PPI already released last week; FOMC July 28-29.
+  - **NVDA AWS $8.2B capex confirmed** = mega-cap-AI thesis validated pre-GOOGL; semi lead RE-VALIDATED.
+- **📊 Sector momentum YTD 2026 (mid-July, my 3 sleeves stay leaders):**
+  - **Leaders:** XLE +23-26%, XLB +10-18%, XLP +11-16%, XLI +10-14% — all 3 my sleeves in leading quadrant per Investing.com sector rotation map.
+  - **Laggards:** XLK -3 to -4% (chip rout unwinding), XLC / XLY / XLF also weak.
+  - **Improving:** XLP (dual leading + improving).
+  - **Weakening:** XLV.
+  - **Insight:** "Old-economy" leadership (Materials/Industrials/Energy/Staples) persists; XLK's 2025 momentum still unwinding despite April "confirmed leader" call.
+
+### XLK re-entry gate re-check (POST-IRAN-CEASEFIRE + NVDA AWS CAPEX):
+- (a) **CPI cool ✓** (June 3.5% headline, 2.6% core)
+- (b) **XLK >$185:** UNKNOWN pre-open (Mon closed sub-$185); NQ +1.4% suggests approach = **NEEDS CASH-OPEN CONFIRM**.
+- (c) **NQ risk-on ✓** (+1.4% premkt on NVDA AWS capex).
+- (d) **VIX <17:** **MARGINAL-FAIL** (17.58 vs 17 threshold, 3.4% miss). Direction constructive; needs intraday sustained <17 print.
+- (e) **Banks 5/5 beat ✓** (Wed digest complete).
+- (f) **PPI cool ✓** (June -0.3%).
+- **BONUS: NVDA AWS $8.2B capex confirm** = semi-lead RE-VALIDATED, TSM Q2 clean-absorb still stands.
+- **6th gate: chipmaker rout unwind** = NVDA +6.2% pre-mkt = starts recovery arc.
+- **VERDICT: 4/6 gates PASS clean + 2/6 marginal (XLK price + VIX). Best gate alignment since chipmaker rout.** DEPLOY still gated on: (i) XLK cash-open >$185 sustained, (ii) VIX sustained <17 intraday, (iii) GOOGL AMC = post-event de-risk optimal → **defer deploy to Wed AM post-GOOGL** unless intraday alignment overwhelming.
+
+### Trade Ideas
+
+**Default HOLD Week 13 Day 2. Deploy candidate ELEVATED but GOOGL AMC event risk = optimal to wait for Wed AM post-print. NO deploy today unless intraday gate alignment overwhelming (VIX prints <17 sustained + XLK >$185 sustained + no midday tape crack).**
+
+1. **XLK re-entry — WATCH INTRADAY, DEPLOY BIAS ELEVATED but Wed-preferred.** 4/6 gates pass clean; VIX marginal at 17.58 (needs <17); XLK price needs cash-open confirm; GOOGL AMC = post-event de-risk. **Deploy candidate: 108 sh @ $185 = $19,980 (within $20k cap).** Trail 10% GTC @ ~$166.50. If Tue clean = deploy; else Wed AM post-GOOGL primary window.
+2. **XLB priority monitor STAYS RE-ESCALATED but ceasefire-relief-biased.** Iran-oil softening ($83.50 → $82.47) + Mon flat overnight = pre-cut warning $50.00 cushion holds at 0.06% but DIRECTION improves. **Break $50.00 intraday still fires warning; break $48.00 still triggers manual -7% cut per Rule 5.** Iran mediation stability + industrial ER-week strength = feedstock-relief thesis PARTIAL RESURRECTION. NO PREEMPT.
+3. **XLI HWM setup constructive.** MMM/GM/NOC/GPC BMO = direct sector catalyst; NVDA AI-capex confirm bleeds to industrial-automation names. Overnight +0.44%. HWM $186.445 sits 4.05% away — clean ER-week beats could trigger ratchet approach.
+4. **XLP mild rotation-out watch.** Risk-on tape = defensive rotation UNWIND; XLP -0.32% overnight = expected mean-revert. Post-ratchet trail $78.687 cushion 7.15% (safe). NO ACTION.
+5. **XLE add candidate — SKIP.** Oil PARTIAL RELIEF cycle = XLE geopolitical-premium unwinds; entry timing wrong.
+6. **XLU add candidate — SKIP.** Risk-on tape favors cyclicals/tech over defensives.
+7. **Single-stock NVDA / GOOGL — SKIP.** ER-week single-stock vol = size-mismatch on $20k cap; not the ETF-sector strategy.
+8. **XLI / XLP / XLB adds — SKIP.** All 3 sleeves near 20% cap; concentration rule blocks.
+
+**Buy-Side Gate — CONDITIONAL (only if intraday XLK re-entry alignment overwhelming):**
+- Positions after fill: 4/6 ✓
+- Trades this week: 1/3 ✓
+- Position cost $19,980 ≤ 20% ($20,000 cap Phase 1 paper) ✓
+- Position cost $19,980 ≤ settled cash $41,500.59 ✓
+- Catalyst: NVDA AWS $8.2B capex confirm + Iran ceasefire + VIX-breaks-18 = semi-lead re-validated ✓
+- Instrument: stock ETF ✓
+- **GATE PASSES conditionally; execution deferred pending (i) XLK cash-open >$185 sustained + (ii) VIX <17 intraday sustained + (iii) no GOOGL AMC pre-print tape crack.**
+
+### Risk Factors
+- **🟡 GOOGL AMC event risk** — Big Tech Q2 kickoff; miss = AI-capex thesis snapback + XLK re-entry gate re-fails; beat = full gate realignment. **Wed AM = optimal deploy window (post-print de-risk).**
+- **🟢 Iran ceasefire hopes** — US-Iran mediation partially unwinds $6-10 geopolitical premium; XLB feedstock-relief thesis PARTIAL RESURRECTION; XLE geopolitical tailwind unwinds (I don't hold).
+- **🟢 NVDA +6.2% AWS capex confirm** — semi-lead RE-VALIDATED; AI-capex doubts partially resolved; XLK gate (b)/(c) improve.
+- **🟢 VIX 17.58** — breaks below 18 threshold for first time since chipmaker rout; direction constructive; <17 sustained = full gate re-open.
+- **🟡 XLB priority monitor RE-ESCALATED** — cushion to manual cut still 4.06% (Mon EOD tightest-ever 0.06% above $50.00 warning line); Iran mediation improves direction but structural cushion tight. **Break $50.00 = warning; $48.00 = cut.**
+- **🟢 XLI industrial-BMO tape** — MMM/GM/NOC/GPC prints today = direct sector catalyst; clean beats = HWM ratchet approach possible; miss cascade = mild fade but structural thesis intact.
+- **🟢 XLP defensive-bid unwind** — mild -0.32% overnight = expected risk-on mean-revert; post-ratchet trail $78.687 protected; +15% tighten trigger $96.43 sits +14.00% away.
+- **🟢 All 3 trails safe** — XLB 6.11% / XLI 6.21% / XLP 7.15% cushions to trail stops; all outside 3% floor.
+- **🟡 Capital drag** — 59.16% deployed = 26pp below 85% target; 21st straight sub-60 session; XLK re-entry ~$20k would advance to ~78.8% (near target).
+- **🟢 Week 13 fresh cap 0/3 preserved** — Tue-Fri deploy window open; single-trade candidate week; Wed AM XLK re-entry primary window post-GOOGL.
+
+### Decision
+
+**HOLD all 3 positions. NO deploy at cash open. Watch intraday for XLK re-entry gate alignment (VIX <17 + XLK >$185 + tape clean); DEPLOY OPTIMAL Wed AM post-GOOGL AMC de-risk. Iran ceasefire + NVDA AWS capex + VIX <18 = best macro backdrop since chipmaker rout.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 / XLI $167.8005 / XLP $78.687). No manual changes. No new orders.
+2. **9:30am cash open:** /market-open routine runs. **Default HOLD.** **XLK re-entry gate check:** if XLK opens >$185 sustained + VIX prints <17 sustained + MMM/GM/NOC industrial BMO tape doesn't shock = **CONDITIONAL DEPLOY window** (108 sh @ ~$185 = $19,980, trail 10% GTC ~$166.50). Otherwise carry to Wed AM post-GOOGL.
+3. **Intraday triggers (mechanical):**
+   - **XLB breaks $50.00 → escalate monitor** (pre-cut warning per RE-ESCALATED priority); **breaks $48.00 → manual -7% cut FIRST per Rule 5** (trail $46.971 below); settled cash $41,500.59 covers immediate redeployment.
+   - **Fresh HWM XLB >$52.19 → auto-trail advance (4.02% away).**
+   - **Fresh HWM XLI >$186.445 → auto-trail advance (4.05% away — could tighten on MMM/GM/NOC clean beats).**
+   - **Fresh HWM XLP >$87.43 → auto-trail advance (3.24% away — defensive-bid unwind reduces likelihood).**
+   - XLI breaks $167.8005 → trail fires; XLP breaks $78.687 → trail fires; XLB breaks $46.971 → trail fires.
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+11.75% away); XLP ≥$96.43 (+14.00% away); XLB ≥$59.36 (+18.65% away). None imminent.
+4. **/midday (~12pm ET):** thesis check on MMM/GM/NOC digest; NVDA AWS capex tape trajectory; VIX intraday <17 watch; XLK gate re-eval for CONDITIONAL DEPLOY decision.
+5. **EOD (~4pm ET):** /daily-summary — Tue Week 13 Day 2 attribution; industrial BMO digest; Iran ceasefire scorecard; XLK non-deploy/deploy log; GOOGL AMC setup.
+6. **Wed AM /pre-market:** POST-GOOGL AMC digest = primary XLK re-entry window if beat.
+
+**Today's discipline = HOLD default + XLK re-entry gate WATCH (elevated bias) + XLB monitor holds RE-ESCALATED (Iran mediation partial relief) + Wed-AM-preferred deploy timing. Patience > activity but window opening.**
