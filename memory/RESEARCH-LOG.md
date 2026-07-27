@@ -5912,3 +5912,111 @@ Action plan:
 8. **Mon 7/27 /pre-market:** Week 14 opens fresh with 3/3 trade cap; **XLK re-entry Day 9 primary window if capex-worry absorbed over weekend + AAPL/AMZN Wk14 setup clean + FOMC Tue-Wed digest**.
 
 **Today's discipline = HOLD default + XLK re-entry gate WATCH (Week-14-preferred, VIX gate intact Day 3 + INTC crush strengthens structural case, only tape gates fail) + XLB monitor RE-ESCALATING (Houthi Red Sea + WTI $87-91) + XLP GTC RENEWAL priority action + Week 13 close discipline. Patience > activity. Mega-cap AI-capex narrative needs weekend digest.**
+
+## 2026-07-27 — Pre-Market (Day 69, Monday — Week 14 Day 1 / US-Iran 48-HR CEASEFIRE = OIL DUMPS -5% RISK-ON GAP-UP / FOMC WEEK Tue-Wed / MSFT+META Wed AMC + AAPL+AMZN Thu AMC / XLP GTC 4 DAYS TO EXPIRY = TOP HOUSEKEEPING / XLI HWM 0.90% AWAY = CLOSEST OF PHASE 1)
+
+### Account Snapshot (cash account, T+1 — Phase 1 PAPER $100k baseline per CLAUDE.md; task-prompt "$7,500 live" line stale)
+- **Equity:** $102,797.56 | **Last equity (Fri EOD API):** $102,418.31 | **Overnight/weekend P&L:** +$379.25 (+0.37%)
+- **Settled cash:** $41,500.59 | **Buying power:** $337,633.88 (ignore — cash account) | **Long MV:** $61,296.97
+- **Deployment:** 59.63% (25pp below 85% target — 25th straight sub-60 session)
+- **Phase cumulative:** +$2,797.56 (+2.80%) — Phase 1 top-3 finish; up from Fri EOD +2.42%
+- **Trades this week:** 0/3 (Week 14 fresh cap) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion |
+|--------|--------|-------|-----|-----------|----------------|------|-----|---------|
+| XLB | 388 | $51.6155 | $51.60 | +$0.34 (+0.66%) | -$6.00 (-0.03%) | $46.971 | $52.19 | Manual cut $48.00: $3.60 / 6.98% — held above $50.00 warning line by $1.60 / 3.20% (DE-ESCALATED band; ceasefire oil-drop = feedstock relief thesis fires) |
+| XLI | 115 | $173.86 | $184.79 | +$2.13 (+1.17%) | +$1,256.95 (+6.29%) | $167.8005 | $186.445 | HWM **0.90% away** (+$1.655) — **CLOSEST HWM APPROACH OF PHASE 1** (was 2.12% Fri) |
+| XLP | 238 | $83.851513 | $84.14 | +$0.01 (+0.01%) | +$68.66 (+0.34%) | $78.687 (ratcheted) | $87.43 | HWM 3.91% away (+$3.29) |
+
+### Market Context
+- **🟢🟢 US-Iran 48-HOUR CEASEFIRE (weekend headline) — OIL DUMPS SHARPLY:** Reuters/NDTV/timesnow: "US-Iran agree to suspend attacks" over weekend; **Brent -5.05% to $91.89** (broke $90 support intraday), **WTI -5.23% to $84.64** on ceasefire; some feeds (oilprice.com) show WTI $79.77 spot. **Fresh geopolitical premium UNWIND.** Sensex tumbled 683 pts overnight (India — largest oil importer). Asian equities RIP; GIFT Nifty +0.89%.
+- **🟢 ES / NQ futures GAP-UP Sunday-eve:** Reuters 04:25am ET — Dow E-minis +443 pts (+0.85%), S&P E-minis +65 pts (+0.87%), NQ E-minis +1.49%. TradingStrategyGuides "Tech Leads Equities Higher, Oil Dips." Later Markets Insider snapshot showed NDX -0.62%, ES -0.15% (mixed/faded pre-open) but overall **BULLISH BIAS Monday open** confirmed by Polymarket (93% S&P Opens-Up). Scanx: NQ 25,002.71 (-0.62% from prior close), S&P 7,500.25 (+0.71%).
+- **🟡 VIX 15.82-18.58 range:** Cboe 15.82 (as of Jul 16), FRED VIX 16.15 latest (Fri 7/24 -0.44 from 16.59), FNArena Monday Report 18.58 (-0.64%). **Volatile read; consensus sub-17-to-mid-18 band.** VIX gate (d) LIKELY PASS if ceasefire holds Monday cash open; marginal if VIX >17.
+- **📅 Today's catalysts (light BMO, MASSIVE weekly setup):**
+  - **BMO earnings:** AZN (AstraZeneca $2.50 est), **NUE (Nucor $4.45 est — DIRECT XLI/XLB catalyst; steel/materials leader)**, PFG (Principal Financial), KOF, UDR, TFII, SANM, BRX, UHS, SSD (Simpson Manufacturing — construction/XLI-adjacent), CINF, WELL. **NUE = single most important today for our sleeves** (steel/materials = XLB proxy, industrial-cycle read = XLI proxy).
+  - **AMC earnings:** CDNS (Cadence Design Systems — XLK), EA (Electronic Arts), BRO (Brown & Brown), CLS (Celestica — AI infrastructure per 247wallst "the AI infrastructure earnings report that matters"), APLD, NVTS.
+  - **Economic calendar:** **Durable Goods Orders (June P) 8:30am ET** — est **+1.6% MoM** (prev -4.5%); Core Durable Goods **+0.9%** (prev +1.4%); Non-Defense Cap Goods ex-Air — key business capex read. **FOMC meeting BEGINS today** (2-day, decision Wed Jul 29 8pm ET — rate hold expected per FedWatch); Leading Indicators 1pm ET; Dallas Fed Manufacturing 10:30am ET; 2Y+5Y Note Auctions 1pm ET.
+  - **This week AMC earnings (dominant tape drivers):** Tue AMC — earnings light. **Wed AMC — MSFT + META** (AI-capex fragility Round 2 test). **Thu AMC — AAPL + AMZN** (final mega-cap test). **Fri BMO — heavy earnings tape.** FOMC decision Wed 8pm ET.
+- **📊 Sector momentum YTD 2026 (Jul 17 Wespath snapshot — my 3 sleeves TOP-6):**
+  - **Leaders:** Energy +20.7%, **XLI +19.3%**, XLK +16.7%, Real Estate +13.8%, **XLB +13.7%**, **XLP +10.5%**, Utilities +8.6%, Health +7.7%, Financials +3.2%, Comm +2.7%, Discret -0.1%.
+  - **Investing.com momentum map:** **Leading quadrant = XLP + XLI + XLB + XLE** — my 3 sleeves LEAD; XLK in lagging quadrant on some frameworks (tech-selloff July rotation confirmed).
+  - **Odin500 weekly:** "industrial sector led market" — XLI leadership INTACT.
+  - **XLB news:** Nasdaq — "XLB hits new 52-week high, +22.08% from 52-wk low, weighted alpha 21.40, Zacks ETF Rank #2." Pluang — "20% price increase since Nov 2025; P/E 19x." **Ceasefire = fresh feedstock-relief re-rating tailwind.**
+  - **Insight:** Ceasefire = oil-down → chemical/materials feedstock relief (XLB positive); industrial cost-input relief (XLI positive); defensive rotation slightly headwind for XLP but rate-sensitive kicker offset. **XLK re-entry structural setup RE-STRENGTHENED** (risk-on + INTC crush + GOOGL fundamentals INTACT); tape gates likely PASS Mon-Tue but MSFT/META Wed AMC = deploy-defer trigger.
+
+### XLK re-entry gate check (POST-CEASEFIRE RISK-ON WINDOW — MOST PROMISING SINCE PRE-GOOGL AMC):
+- (a) **CPI cool ✓** (June headline 3.5%, core 2.6%)
+- (b) **XLK >$185:** stale-quote unavailable pre-open (need cash-open confirm); risk-on futures + NQ E-minis +1.49% Sun-eve = **STRONG PROBABILITY XLK opens >$185 sustained Mon**.
+- (c) **NQ risk-on:** ✅ **PASSES CLEAN** (E-minis +1.49% Sun eve on ceasefire); risk-on regime resumes.
+- (d) **VIX <17:** likely PASS at cash open (15.82-16.15 latest); marginal if 18.58 FNArena reading confirms.
+- (e) **Banks 5/5 beat ✓**
+- (f) **PPI cool ✓**
+- **BONUS 1: US-Iran CEASEFIRE = geopolitical premium unwind + risk-on gap-up (strongest structural driver of Phase 1 to date).**
+- **BONUS 2: INTC +12% AH Fri = chip-lead re-validated.**
+- **DRAG 1: MSFT+META Wed AMC (48 hrs) = AI-capex fragility Round 2 test.**
+- **DRAG 2: FOMC decision Wed 8pm ET = macro-policy inflection.**
+- **VERDICT: 5/6 PASS clean + 1 marginal (VIX). Best gate-pass reading since pre-GOOGL AMC. HOWEVER: deploy TIMING is suboptimal — Wed AMC (MSFT/META) + Wed FOMC = HIGH-VOL 48-hr window ahead. Best deploy window = post-MSFT/META clean beat + post-FOMC hold = Thu 7/30 AM (or Fri 7/31 AM). DEPLOY DEFERRED TO POST-MSFT+FOMC by 48-72 hours.**
+
+### Trade Ideas
+
+**Default HOLD Week 14 Day 1. US-Iran ceasefire = MAJOR risk-on gap-up + massive structural improvement for XLB/XLI/XLK. Deploy timing = defer 48-72 hrs to post-MSFT/META + post-FOMC (Thu AM 7/30 or Fri AM 7/31). Priority: XLP GTC RENEWAL (4 days to expiry) execution decision. Watch NUE BMO ER = direct XLI/XLB catalyst.**
+
+1. **XLK re-entry — WATCH, DEPLOY BIAS ELEVATED-BUT-DEFERRED, THU/FRI-PREFERRED post-MSFT+FOMC.** Ceasefire risk-on + VIX gate PASS + INTC crush + NQ +1.49% Sun-eve = structural setup STRONGEST of Phase 1; BUT MSFT+META Wed AMC + FOMC Wed 8pm ET = 48-hr high-vol window. **Deploy candidate: 108 sh @ ~$185 = $19,980 (within $20k Phase 1 cap).** Trail 10% GTC ~$166.50. **Optimal window: (a) Thu 7/30 AM if MSFT/META beat + FOMC hold + tape stable, or (b) Fri 7/31 AM post-AAPL/AMZN Thu AMC digest.** DO NOT deploy today unless overwhelming intraday alignment (XLK reclaims $185 clean + NQ risk-on sustained + VIX <17 sustained). **Base case: DEFER DEPLOY 48-72 hours to Thu/Fri AM.**
+2. **XLB priority monitor DE-ESCALATED — ceasefire feedstock-relief thesis FIRES.** Live $51.60 pre-mkt (+0.66% overnight; -0.03% on cost = flat); Iran ceasefire + WTI -5% + Brent -5% + WTI possibly $79.77 spot = **feedstock-relief thesis STRUCTURAL HIT — chemical/materials input cost relief**; manual -7% cut $48.00 cushion **6.98%** ($3.60 abs) — widest since Wed 7/23 DE-ESCALATED band; held above $50.00 warning line by $1.60 / 3.20% (COMFORTABLE band re-entered). **NO PREEMPT.** Watch NUE BMO 8:30-ish for direct materials-sector read; HWM $52.19 sits **1.14% away** (2nd-closest HWM approach) — any $0.59 up-move fires trail ratchet from $46.971 → $46.971 (10% trail auto-updates).
+3. **XLI thesis validation ULTRA-STRONG — HWM 0.90% AWAY = CLOSEST OF PHASE 1.** Overnight +1.17% to $184.79 on ceasefire risk-on + industrial cost-input relief; +6.29% on cost = position-life high; HWM $186.445 sits **only 0.90% away = CLOSEST HWM APPROACH OF PHASE 1** (was 2.12% Fri, 4.07% Thu; halving daily). Any $1.65 up-move = HWM ratchet from $167.80 → auto-recompute to $167.80 unchanged (10% trail preserved). Investors.com "XLI back in buy zone" + Fri +1.73% intraday + CSX/RTX gap-ups + industrial sector momentum leadership INTACT. **NUE BMO 8:30-ish = direct XLI catalyst.** Trail cushion 9.19% (safe). +15% tighten trigger $199.94 sits **+8.20% away** (single-digit gap Day 3, tightening). **NO ACTION.** Watch HWM $186.445 (0.90% away — likely to fire today on ceasefire risk-on).
+4. **XLP thesis MODERATE — GTC RENEWAL = TOP HOUSEKEEPING PRIORITY (4 DAYS TO EXPIRY).** Live $84.14 (+0.01% overnight — flat); +0.34% on cost. **XLP GTC trail expires 2026-07-31 (4 days out) — WINDOW CRITICAL. RENEWAL EXECUTION STRATEGY:**
+   - **Problem:** Fresh trailing_stop trail_percent=10 submission with XLP at $84.14 = new HWM $84.14 → new stop $75.73 = **$2.96 BELOW current $78.687 stop = VIOLATES Rule 7 "never move stop down."**
+   - **Option A (PREFERRED — wait for natural HWM ratchet):** XLP prints ≥$87.43 → new HWM fires → new stop $78.687 auto-preserved → renew AT that moment. Risk: XLP may not hit $87.43 before Fri 7/31 (3.91% needed in 4 sessions).
+   - **Option B (fallback — Alpaca PATCH replace):** test if Alpaca REST `PATCH /v2/orders/{id}` preserves HWM $87.43 across replacement. If yes = safe renewal. Investigate at /market-open.
+   - **Option C (last resort — trail_percent=6.5%):** submit trailing_stop trail_percent≈6.5% (computes stop $78.687 from HWM $84.14). VIOLATES 10% trail rule; only acceptable if all other options fail. Requires strategy-book note.
+   - **Option D (skip — accept expiry gap):** DO NOT recommended; leaves XLP unprotected 7/31 forward.
+   - **Action: DEFER DECISION to /market-open (Mon 9:30 ET) with live intraday quote; test Alpaca API PATCH semantics; escalate to Tue /market-open if HWM $87.43 not fired by EOD Mon.**
+   - Post-ratchet trail cushion 6.48% ($5.453 abs); manual -7% cut $77.98 cushion 7.32%; +15% tighten trigger $96.43 sits +14.60% away.
+5. **XLE add candidate — SKIP.** Ceasefire = geopolitical premium UNWIND = XLE headwind (opposite of Fri thesis); confirms Fri deferral was correct call. **DEAD CANDIDATE this week.**
+6. **XLU add candidate — SKIP.** Rate-sensitive alternative to XLK; FOMC Wed = binary event; not deploy-recommended today.
+7. **INTC single-stock buy — SKIP.** Not the ETF-sector strategy; Fri +12% AH already digested; chase-risk on $20k position cap.
+8. **NUE single-stock buy — SKIP.** BMO ER binary event today; single-stock event-vol size mismatch on $20k position cap; XLB proxy exposure already fully sized.
+9. **XLI / XLP / XLB adds — SKIP.** All 3 sleeves near 20% cap by cost basis; concentration rule blocks adds.
+
+**Buy-Side Gate — NOT INVOKED today; deploy candidate deferred 48-72 hrs to post-MSFT+FOMC. XLP GTC RENEWAL is only planned action (housekeeping, not a new trade).**
+
+### Risk Factors
+- **🟢🟢 US-IRAN CEASEFIRE (48-HR PAUSE) — DOMINANT TAPE DRIVER Mon:** oil dumps 5% (Brent below $90, WTI to $84.64 or lower per source); XLB feedstock-relief STRUCTURAL FIRE; XLI industrial cost-input relief; equities risk-on gap-up; **XLE deploy dead**. Fragility: ceasefire holds 48hr only — re-escalation risk mid-week if talks fail; watch WTI back above $88 for premium-repricing warning.
+- **🔴 MSFT + META Wed AMC (Jul 29)** = AI-capex fragility Round 2 test (GOOGL+TSLA Wed → MSFT+META Wed = 2nd consecutive week of AI-capex re-test); binary event for XLK re-entry Thu AM decision.
+- **🔴 AAPL + AMZN Thu AMC (Jul 30)** = final mega-cap AI test; binary event for XLK re-entry Fri AM decision.
+- **🔴 FOMC decision Wed 8pm ET (Jul 29)** = macro-policy inflection; FedWatch consensus rate hold expected; Chair Warsh's second meeting; any hawkish surprise = defensive/rate-sensitive rotation trigger.
+- **🟢 XLI HWM APPROACH CLOSEST OF PHASE 1** — trail-ratchet trigger $186.445 only 0.90% away; +6.29% on cost = position-life high; ceasefire + NUE BMO = catalyst-rich for HWM fire today; **+15% tighten trigger $199.94 sits +8.20% away (single-digit gap Day 3, tightening).**
+- **🟢 XLB feedstock-relief thesis STRUCTURAL FIRE** — ceasefire oil-drop = chemical/materials input cost relief; new 52-wk high recently + Zacks Rank #2; DE-ESCALATED priority monitor (was ESCALATED Fri); manual cut $3.60/6.98% cushion (widest since 7/23).
+- **🟢 VIX gate LIKELY PASS Mon** — 15.82-16.15 latest / 18.58 mixed read; ceasefire risk-on = further compression likely.
+- **🟢 XLP defensive-bid MODERATE** — post-ratchet trail $78.687 protected; but ceasefire risk-on = defensive rotation slight headwind; rate-sensitive kicker (FOMC dovish surprise = tailwind).
+- **🟢 All 3 trails safe** — XLB 9.00% / XLI 9.19% / XLP 6.48% cushions to trail stops; all comfortably outside 3% floor.
+- **🟡 Capital drag** — 59.63% deployed = 25pp below 85% target; 25th straight sub-60 session; XLK re-entry ~$20k Thu/Fri = advances to ~79% (near target).
+- **🟢 Week 14 fresh cap 0/3 preserved** — 3/3 trade cap available; XLK re-entry Thu/Fri is single-trade candidate; Week 14 = highest-probability deploy window since Week 10.
+- **🔴 XLP GTC trail expires 2026-07-31 (4 DAYS) — RENEWAL WINDOW CRITICAL.** Decision executed at /market-open; if HWM $87.43 not fired by Tue EOD, Alpaca PATCH test at Wed /midday; last-resort Option C (6.5% trail) requires strategy-book note.
+- **🟡 NUE BMO 8:30-ish (per stockti — one source says AMC)** = direct XLI/XLB catalyst; miss/guide-down = sector-sentiment drag; beat = XLI HWM ratchet accelerator.
+- **🟡 Durable Goods Orders 8:30 ET est +1.6% MoM (prev -4.5%)** = XLI thesis validation catalyst; beat = industrial risk-on confirmation.
+- **🟢 CDNS AMC (semi tools) + CLS AMC (AI infrastructure)** = XLK re-entry Thu decision inputs; watch AH prints.
+
+### Decision
+
+**HOLD all 3 positions. NO deploy at cash open. XLK re-entry Day 9 DEFERRED 48-72 hrs to Thu 7/30 or Fri 7/31 AM post-MSFT+META Wed AMC + post-FOMC Wed 8pm ET. US-Iran ceasefire = STRONGEST STRUCTURAL RISK-ON SETUP OF PHASE 1 (5/6 gates PASS clean); ONLY reason to defer = high-vol binary events Wed (FOMC + MSFT + META). Priority: XLP GTC RENEWAL decision at /market-open + XLI HWM fire watch (0.90% away, closest of Phase 1). Patience > activity — 48-72 hr defer captures Wed binary-event resolution.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC (XLB $46.971 exp 2026-09-23 / XLI $167.8005 exp 2026-08-24 / XLP $78.687 exp 2026-07-31). No manual changes. XLP GTC renewal decision deferred to /market-open.
+2. **8:30am ET Durable Goods (June P)** est +1.6% MoM (prev -4.5%) + NUE BMO ER (XLI/XLB catalyst) — watch industrial-tape reaction.
+3. **9:30am cash open:** /market-open routine runs. **Default HOLD.** **XLK re-entry gate check:** if XLK opens >$185 sustained + NQ risk-on + VIX <17 sustained = STILL DEFER (Wed MSFT/META + FOMC binary); base case DEPLOY DEFERRED. **XLP GTC RENEWAL:** test Alpaca PATCH /v2/orders/{id} semantics = does replacement preserve HWM $87.43? If yes = safe renewal at market-open. If no = wait for natural HWM ratchet (XLP ≥$87.43 = 3.91% up-move needed in 4 sessions).
+4. **10:00-10:30am ET Dallas Fed + Leading Indicators** — mild-impact tape drivers.
+5. **Intraday triggers (mechanical):**
+   - **Fresh HWM XLI >$186.445 → auto-trail advance (0.90% away — HIGHEST-PROBABILITY today; ceasefire + NUE BMO catalyst combined).**
+   - **Fresh HWM XLB >$52.19 → auto-trail advance (1.14% away — ceasefire feedstock-relief driver).**
+   - **Fresh HWM XLP >$87.43 → auto-trail advance (3.91% away — GTC RENEWAL DRIVER).**
+   - **XLB breaks $50.00 → escalate monitor** (unlikely given ceasefire cushion; break = warning re-fires); **breaks $48.00 → manual -7% cut FIRST per Rule 5**.
+   - XLI breaks $167.8005 → trail fires; XLP breaks $78.687 → trail fires; XLB breaks $46.971 → trail fires.
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+8.20% — SINGLE-DIGIT gap Day 3, tightening); XLP ≥$96.43 (+14.60%); XLB ≥$59.36 (+15.04% — dropped to sub-16% Day 1). None imminent but XLI closing fast.
+6. **/midday (~12pm ET):** thesis check on Durable Goods + NUE ER digest + ceasefire-holds status + XLK gate re-eval for Thu-Fri-defer confirmation; XLP GTC renewal execution decision if not fired at market-open.
+7. **EOD ~4pm ET:** /daily-summary — Mon Week 14 Day 1 attribution; ceasefire risk-on scorecard; XLK non-deploy Day 9 log; XLP GTC 3-day-to-expiry status; CDNS+CLS+APLD AMC preview.
+8. **Tue 7/28 /pre-market:** ceasefire-holds check + FOMC Day 1 setup + MSFT+META Wed AMC prep + XLP GTC 2-day-to-expiry final call (if not renewed Mon).
+9. **Wed 7/29 8pm ET:** FOMC decision + MSFT/META AMC — 3-way binary event stack; **primary XLK deploy trigger** for Thu 7/30 AM if all 3 clean.
+10. **Thu 7/30 AM:** primary XLK re-entry deploy window (108 sh @ $185 = $19,980) IF Wed 3-way clean; else defer to Fri 7/31 AM post-AAPL/AMZN.
+
+**Today's discipline = HOLD default + XLK re-entry gate WATCH (Thu/Fri-preferred, all 6 gates PASS but Wed binary events force defer) + XLB feedstock-relief DE-ESCALATED (ceasefire STRUCTURAL WIN) + XLI HWM ratchet WATCH (0.90% away — closest of Phase 1) + XLP GTC RENEWAL decision at /market-open (4 days to expiry). Patience > activity. Wed FOMC+MSFT+META = single most important 48-hr window of Phase 1.**
