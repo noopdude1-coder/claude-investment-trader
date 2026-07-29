@@ -6122,3 +6122,103 @@ Action plan:
 10. **Thu 7/30 AM:** primary XLK re-entry deploy window (108 sh @ $185 = $19,980) IF Wed 3-way clean; else defer to Fri 7/31 AM post-AAPL/AMZN.
 
 **Today's discipline = HOLD default + XLK re-entry gate CONFIRMED FAIL (NQ -0.62% chip selloff) + XLP GTC RENEWAL Path-A trigger watch (1.08% away — TIGHTEST HWM OF PHASE 1) + XLI TRIPLE BMO catalyst monitor (RTX+BA+UPS = catalyst density peak) + XLB $50.00 warning-line thinner cushion (2.69%). Patience > activity. Wed FOMC 2pm ET + MSFT/META AMC = 26-hr binary event stack = primary XLK deploy trigger for Thu 7/30 AM.**
+
+## 2026-07-29 — Pre-Market (Day 71, Wednesday — Week 14 Day 3 / FOMC DECISION DAY 2pm ET + MSFT+META+QCOM+ARM AMC = HIGHEST-STAKES SESSION OF PHASE 1 / XLP HWM RATCHETED $87.43→$88.78 = PATH-A UNLOCKED + XLB HWM RATCHETED $52.19→$52.775 / ALL 3 SLEEVES GREEN FIRST TIME PHASE 1 / XLB HWM 0.83% AWAY = TIGHTEST OF PHASE 1)
+
+### Account Snapshot (cash account, T+1 — Phase 1 PAPER $100k baseline per CLAUDE.md; task-prompt "$7,500 live" line stale)
+- **Equity:** $103,458.76 | **Last equity (Tue EOD API):** $103,515.14 | **Overnight P&L:** -$56.38 (-0.05%)
+- **Settled cash:** $41,500.59 | **Buying power:** $339,485.24 (ignore — cash account) | **Long MV:** $61,958.17
+- **Deployment:** 59.89% (25pp below 85% target — 27th straight sub-60 session)
+- **Phase cumulative:** +$3,458.76 (+3.46%) — new Phase 1 high extends; up from Tue pre-mkt +3.08%
+- **Trades this week:** 0/3 (Week 14 fresh cap preserved Day 3) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion |
+|--------|--------|-------|-----|-----------|----------------|------|-----|---------|
+| XLB | 388 | $51.6155 | $52.34 | $0.00 (0.00%) | **+$281.12 (+1.40%)** | $47.4975 **(RATCHETED +$0.53 vs Tue)** | $52.775 **(RATCHETED +$0.59 vs Tue)** | HWM **0.83% away** ($0.435 abs — **TIGHTEST OF PHASE 1**, was 1.58% Tue → collapsed on Tue rally); manual cut $48.00: **$4.34/9.03%** cushion (widest since ratchet); trail cushion 9.25%. **FLIPPED GREEN Tue after 2+ weeks red.** |
+| XLI | 115 | $173.86 | $181.71 | -$0.78 (-0.43%) | +$902.75 (+4.52%) | $167.8005 | $186.445 | HWM **2.61% away** ($4.735 abs — pulled back from 1.83% Tue on chip-selloff cross-drag); cushion 7.66% |
+| XLP | 238 | $83.851513 | $87.20 | +$0.14 (+0.16%) | +$796.94 (+3.99%) | $79.902 **(RATCHETED +$1.215 vs Tue)** | $88.78 **(RATCHETED +$1.35 vs Tue)** | HWM **1.81% away** ($1.58 abs); **Path-A GTC RENEWAL UNLOCKED** (fresh HWM $88.78 = trail_percent=10 preserves stop $79.902 = Rule 7 compliant); cushion 8.37%. **GTC expires 2026-07-31 = 2 DAYS.** |
+
+**Milestone:** All 3 sleeves GREEN simultaneously first time in Phase 1 (XLB flip Tue = catalyst). Combined unrealized +$1,980.81 vs Tue pre-mkt +$1,601.58 = +$379.23 (+23.7% profit expansion overnight).
+
+### Market Context
+- **🔴🔴 FOMC DECISION TODAY 2pm ET + PRESS CONF 2:30pm ET — HIGHEST-STAKES SINGLE SESSION OF PHASE 1 (per pomegra.io "July 29: Stock Market's Most Critical Day of 2026").** Chair Warsh's 2nd meeting; non-SEP meeting (no dot plot until Sept). Consensus rate HOLD at 3.50-3.75% (89% CME FedWatch); Polymarket implies 26% hike odds; piptheory notes "hike odds rebound to nearly 40%" on oil-rebound concerns. Reuters: "Uncertainty creeps into Fed's rate decision as Warsh keeps his cards hidden" = no-guidance regime = tail-risk asymmetric to hawkish surprise.
+- **🔴🔴 MSFT+META AMC TONIGHT — AI CAPEX ROUND 2 TEST (post-GOOGL/TSLA last week):** MSFT Q4 FY26 consensus EPS $4.21-$4.24, rev ~$87.6B (indmoney), Azure focus at 40% CC-growth watch, **$190B FY26 capex plan** = key monetization signal. META same session = ad-rev + AI-capex commentary. Beat/raise = XLK re-entry Thu AM PRIMARY DEPLOY WINDOW; miss/guide-down = XLK re-entry postpones to Fri post-AAPL/AMZN OR Week 15.
+- **🟡 Futures MIXED (splits by source):** Reuters "S&P +0.23%, NQ +0.27%" (early Wed 5:42am ET) vs Barron's later "S&P +0.2%, NQ -0.1%" (chip stocks wobble ahead of MSFT/META). Benzinga: SPY +0.28% pre-mkt. **Signal: base-case slight-green cash open, chip fragility persists into MSFT/META AMC.** Pre-mkt movers: META -3.40% (nervous ahead of report), NVDA +0.15%, INTC +4.25% (post-earnings drift), AMD +3.58%, AVGO +3.40%.
+- **🟡 OIL REBOUND — CEASEFIRE FRAGILITY DAY 3:** WTI ~$78-82 range (convextrade: $82.49; sigmanomics: $69.60-84.38 range July avg; ycharts: $78.94) = oil BOUNCED from Tue $74-75 = **ceasefire premium re-pricing** per Reuters "simmering Middle East tensions." Brent ~$71.59-88 range. Signal: XLB feedstock-relief tailwind FADING but not reversed; watch WTI back above $85 for re-escalation warning.
+- **🟢 VIX 15.84 futures / 16.15 spot range PASS (Day 3):** Cboe futures 15.84 (-1.06 vs Tue); YCharts spot 16.15. Range-bound low-vol; **VIX gate (d) PASSES CLEAN Day 3.** Ahead of FOMC + MSFT/META = compressed vol pre-event = post-event vol expansion likely.
+- **📅 Today's catalysts (FOMC-DOMINANT + MEGA-CAP AMC STACK):**
+  - **FOMC decision 2pm ET + press conf 2:30pm ET** — binary macro-policy event
+  - **AMC earnings (MEGA slate):** **MSFT** (fiscal Q4 — Azure + capex), **META** (ad-rev + AI-capex), **QCOM** (chips — semi-sector read for MSFT/META tone), **ARM** (chip-arch — AI-chip demand read), **FTNT** (cybersec), **STX** (Seagate — data-center read for MSFT), **LRCX** (Lam Research — semi-tools), **AMD-adjacent**
+  - **BMO earnings:** **PG** (Procter — XLP staples read alongside KO/MDLZ Tue), **SBUX** (Starbucks — consumer discretionary), **WING** (Wingstop), **HES** (Hess), **KHC** (Kraft Heinz — XLP staples), **HUM** (Humana), **TMUS** (T-Mobile)
+  - **Economic calendar:** GDP Q2 Advance (8:30am ET est +2.4% QoQ), Trade Balance (Goods, 8:30am ET), Wholesale Inventories, Pending Home Sales (10am ET), MBA Mortgage Apps (7am ET)
+- **📊 Sector momentum snapshot (Jul 17-24 windows):**
+  - **XLK +28.26% YTD** (Barchart from 12/31/25) / +13.9% 3M momentum (Quantlake) = still leader despite Jul selloff
+  - **XLE** momentum surge: +4.1% 1W / +5.8% vs SPY 1W (thestockradar Jul 24) — ceasefire fade + oil-rebound tailwind
+  - **XLI** +3.7% 3M / +2.1% 1M (Quantlake/thestockradar); Investors.com Jul 23: "back in buy zone"
+  - **XLP** +2.51% Jul 19 week (theprofinvestor); defensive-bid strengthening on AI selloff
+  - **XLB** -2.2% 3M (Quantlake) BUT +1.93-1.94% recent 1W = **reversal in progress** (ceasefire feedstock-relief + Tue's rally = XLB flipped from -2.2% momentum to +1.93% 1W)
+  - **Sector rotation quadrant** (investing.com): XLP/XLI/XLB/XLE = LEADING; XLK/XLC/XLY/XLF = LAGGING; XLV = WEAKENING. **All 3 sleeves in LEADING quadrant.**
+
+### XLK re-entry gate check (Wed FOMC DAY = ALL GATES ON HOLD PENDING 2pm ET + AMC):
+- (a) **CPI cool ✓** (June headline 3.5%, core 2.6%)
+- (b) **XLK >$185:** likely marginal PASS at cash open per Barchart XLK $198.73 (pre-mkt near); need cash-open confirm
+- (c) **NQ risk-on:** 🟡 **MIXED** (Reuters +0.27% vs Barron's -0.1% = flat±small; chip-selloff Tue partial reverse but nervous pre-AMC)
+- (d) **VIX <17:** ✅ PASS (15.84-16.15 range)
+- (e) **Banks 5/5 beat ✓**
+- (f) **PPI cool ✓**
+- **DRAGS:** FOMC 2pm ET (T+6.5hr) = binary; MSFT+META AMC (T+8hr) = binary; QCOM+ARM+LRCX chip AMC (T+8hr) = triple semi read.
+- **VERDICT: 5/6 PASS marginal (b/c mixed). DEPLOY DEFERRED TODAY UNDER ALL SCENARIOS — no ETF buy pre-FOMC + AMC binary stack.** Base case = Thu 7/30 AM if FOMC+MSFT+META Wed 3-way clean; else defer to Fri 7/31 AM post-AAPL/AMZN.
+
+### Trade Ideas
+
+**Default HOLD Week 14 Day 3. HIGHEST-STAKES SESSION OF PHASE 1 = NO DEPLOY UNDER ANY SCENARIO PRE-FOMC + AMC. Priority: XLB HWM 0.83% away (TIGHTEST OF PHASE 1 — high-prob ratchet today on any 1% up-move) + XLP GTC renewal Path-A UNLOCKED (defer execution to Thu AM post-binary-digest) + XLI HWM watch.**
+
+1. **XLK re-entry — DEPLOY DEFERRED CONFIRMED to Thu 7/30 AM (post-FOMC + MSFT/META).** Deploy candidate unchanged: 108 sh @ ~$185 = $19,980 (Phase 1 $20k cap); trail 10% GTC ~$166.50. **Wait for Wed 3-way binary clean (FOMC hold/dovish + MSFT beat/hold-capex + META beat) = Thu 7/30 AM PRIMARY DEPLOY WINDOW.** Do NOT deploy today under any scenario — pre-FOMC + pre-AMC = worst possible deploy timing.
+2. **XLP GTC RENEWAL Path-A UNLOCKED — DEFER EXECUTION to Thu AM.** HWM natural-ratcheted Tue $87.43→$88.78 = current live GTC stop $79.902 = **already Rule 7 compliant with fresh trail_percent=10** (would preserve stop $79.902 = SAME as current — safe renewal). **BUT executing today = zero incremental protection AND locks in pre-FOMC HWM.** Optimal: **DEFER renewal to Thu AM post-FOMC digest** — if XLP ratchets further Wed on FOMC-dovish surprise, HWM auto-advances into Thu; if XLP dumps Wed on hawkish surprise, current live stop $79.902 (8.37% cushion) protects. **Execution window: Thu 7/30 cash open — 1 day before expiry.** Fallback: Fri 7/31 AM final call.
+3. **XLB HWM APPROACH TIGHTEST OF PHASE 1 — RATCHET HIGH-PROB TODAY.** HWM $52.775 sits only **$0.435 (+0.83%)** away; any 1% up-move fires ratchet. Post-flip-green Tue + ceasefire feedstock-relief holding + Materials in LEADING quadrant = catalyst-rich. **NO ACTION** required — mechanical auto-ratchet on any print $52.78+. Manual cut $48.00 cushion widest since ratchet ($4.34/9.03%).
+4. **XLI thesis SOLID — HWM watch $186.445 (+2.61% away).** Live $181.71 (-0.43% overnight — chip-selloff cross-drag despite Tue RTX+BA+UPS BMO digest). Trail cushion 7.66% (safe). +15% tighten trigger $199.94 sits +10.03% away (widened from Tue). **NO ACTION.** Watch XLI for FOMC reaction (rate-sensitive to defense-primes CapEx forecasts).
+5. **XLB add candidate — SKIP** (concentration cap — XLB cost basis $20,027 = 100% of $20k position cap).
+6. **XLI add candidate — SKIP** (concentration cap — XLI cost basis $19,994).
+7. **XLP add candidate — SKIP** (concentration cap — XLP cost basis $19,957).
+8. **XLK re-entry — DEFER to Thu/Fri (see #1).**
+9. **MSFT/META/QCOM/ARM single-stock buys — SKIP** (AMC binary events tonight; single-stock event-vol size mismatch on $20k position cap; ETF-level via XLK planned Thu/Fri instead).
+10. **PG/KHC single-stock buys — SKIP** (XLP ETF proxy already at cap; BMO event-vol on single stocks).
+
+**Buy-Side Gate — NOT INVOKED today; XLK ETF deploy deferred to Thu/Fri post-FOMC+MSFT/META. XLP GTC RENEWAL deferred to Thu AM. XLB HWM auto-ratchet is only planned mechanical action (0.83% away).**
+
+### Risk Factors
+- **🔴🔴🔴 FOMC 2pm ET DECISION — HIGHEST-STAKES BINARY EVENT OF PHASE 1.** Consensus HOLD at 3.50-3.75% (89% odds) BUT Warsh no-guidance regime = tail-risk asymmetric hawkish. Hawkish surprise (hike OR hawkish hold with September-hike telegraph) = defensive/rate-sensitive rotation = XLP tailwind + XLK deploy pushed to Fri or Week 15; dovish surprise (cut OR dovish-hold) = risk-on rip = XLK/XLB rally + XLP mild-headwind. Base case = HOLD-with-Warsh-neutral-tone = mild positive risk-on.
+- **🔴🔴 MSFT+META AMC TONIGHT (T+8hr) — AI CAPEX ROUND 2 TEST.** MSFT $190B FY26 capex + Azure 40%-growth watch; META ad-rev + AI-capex commentary. Beat/raise both = XLK re-entry Thu AM CONFIRMED; miss either = XLK re-entry postpones to Fri post-AAPL/AMZN OR Week 15. Bloomberg Tue: chip-selloff continues on AI-capex-circularity worries pre-print.
+- **🔴 QCOM + ARM + LRCX AMC TONIGHT (T+8hr) — TRIPLE SEMI CATALYST.** Direct chip-sector read for MSFT/META tone. Beat trifecta = NQ risk-on Thu = XLK deploy accelerated; miss = further chip drag.
+- **🔴 AAPL + AMZN Thu AMC (T+32hr) — FINAL MEGA-CAP AI TEST.** Binary event for XLK re-entry Fri AM decision (if Wed 3-way not clean).
+- **🟢🟢 XLB HWM APPROACH TIGHTEST OF PHASE 1** — trail-ratchet trigger $52.775 only 0.83% away; +1.40% on cost = flipped GREEN Tue; ceasefire feedstock-relief + Materials-in-leading-quadrant = catalyst-rich for HWM fire today; **any 1% up-move fires auto-ratchet.**
+- **🟢 XLP Path-A GTC RENEWAL UNLOCKED** — natural HWM ratchet Tue $87.43→$88.78 = fresh trail_percent=10 preserves stop $79.902 = Rule 7 compliant. Execution DEFERRED to Thu AM (optimal timing post-FOMC digest).
+- **🔴 XLP GTC expires 2026-07-31 (2 DAYS) — RENEWAL WINDOW ACUTE.** Path-A optimal Thu AM; Path-B (Alpaca PATCH test) fallback Fri /market-open; Path-C (6.5% trail) last resort.
+- **🟡 OIL REBOUND — CEASEFIRE FRAGILITY DAY 3.** WTI $78-82 range (bounced from Tue $74-75); ceasefire premium re-pricing per Reuters "simmering Middle East tensions." XLB feedstock-relief tailwind FADING; watch WTI back above $85 for full re-escalation warning.
+- **🟢 XLI thesis intact — RTX+BA+UPS Tue BMO digest still supporting; Industrials in LEADING quadrant.** But chip-selloff cross-drag (XLI -0.43% overnight); trail cushion 7.66% safe.
+- **🟢 VIX gate (d) PASSES clean Day 3** — 15.84-16.15 range; pre-FOMC vol compression = post-event expansion likely.
+- **🟢 All 3 trails safe — cushions widened.** XLB 9.25% (was 9.00% Tue) / XLI 7.66% (was 8.35% Tue — pulled in) / XLP 8.37% (was 9.03% Tue — pulled in). All comfortably outside 3% floor.
+- **🟡 Capital drag** — 59.89% deployed = 25pp below 85% target; 27th straight sub-60 session; XLK re-entry ~$20k Thu/Fri = advances to ~79% (near target).
+- **🟢 Week 14 fresh cap 0/3 preserved Day 3** — 3/3 trade cap available; XLK re-entry Thu/Fri = single-trade candidate; Week 14 = highest-probability deploy window since Week 10.
+- **🟡 GDP Q2 Advance 8:30am ET est +2.4% QoQ** = pre-FOMC macro data; hot print = hawkish FOMC bias; cool = dovish bias.
+- **🟡 PG + KHC BMO** = XLP staples read (following KO+MDLZ Tue); beat = XLP HWM $88.78 fire more probable pre-FOMC.
+
+### Decision
+
+**HOLD all 3 positions. NO deploy at cash open. NO XLP GTC renewal today (Path-A deferred to Thu AM post-FOMC digest). Priority: XLB HWM 0.83% away = HIGHEST-PROB auto-ratchet today (any 1% up-move fires) + XLI/XLP HWM watches + all-3-green milestone preservation. FOMC 2pm ET + MSFT+META+QCOM+ARM AMC tonight = HIGHEST-STAKES SESSION OF PHASE 1 = defensive posture mandatory. Patience > activity. Wed binary-event stack = primary XLK deploy trigger for Thu 7/30 AM.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC. **UPDATED STOPS confirmed:** XLB $47.4975 (was $46.971 Tue — ratcheted +$0.53) / XLI $167.8005 (unchanged) / XLP $79.902 (was $78.687 Tue — ratcheted +$1.215). No manual changes. XLP GTC renewal decision = DEFER to Thu AM.
+2. **7:00am ET MBA Mortgage Apps** — mild-impact housing data.
+3. **8:30am ET GDP Q2 Advance** est +2.4% QoQ + Trade Balance + Wholesale Inventories — pre-FOMC macro data; watch hawkish/dovish tilt.
+4. **9:30am cash open:** /market-open routine runs. **Default HOLD.** **XLK re-entry gate check:** 5/6 marginal; NQ mixed pre-FOMC = STILL DEFER; base case DEPLOY DEFERRED. **XLP GTC RENEWAL:** DEFER execution to Thu AM (Path-A optimal timing post-binary-digest).
+5. **10:00am ET Pending Home Sales** — mild-impact housing data.
+6. **/midday (~12pm ET):** thesis check on pre-FOMC positioning + GDP digest + XLB HWM auto-ratchet status; XLP GTC renewal decision preserved (defer Thu).
+7. **2:00pm ET FOMC DECISION + 2:30pm ET WARSH PRESS CONF** — highest-stakes 30-minute window of Phase 1. Watch for: (a) rate decision (hold vs hike vs cut), (b) statement wording changes (inflation/employment balance), (c) Warsh press-conf tone (September-hike telegraph = hawkish; growth-slowdown warning = dovish).
+8. **Post-FOMC 2:30-4pm:** sleeve reaction watch; if hawkish rip-lower breaks any trail (XLB $47.4975 / XLI $167.8005 / XLP $79.902) = auto-execute; if dovish rip-higher = HWM ratchets fire (XLB $52.775 / XLI $186.445 / XLP $88.78).
+9. **AMC 4-6pm ET:** MSFT (~4:00pm ET press release + 5:30pm ET call) + META (~4:05pm ET) + QCOM + ARM + LRCX. AI-capex commentary = primary XLK deploy trigger.
+10. **EOD ~4pm ET:** /daily-summary — Wed Week 14 Day 3 attribution; FOMC decision scorecard; XLB HWM ratchet log (if fired); XLP GTC 2-day-to-expiry status; MSFT/META/QCOM/ARM AMC preview + Thu XLK deploy gate preparation.
+11. **Thu 7/30 /pre-market:** FOMC digest + MSFT/META/QCOM/ARM AMC digest + XLK re-entry gate re-check (primary DEPLOY WINDOW if 3-way clean); XLP GTC renewal Path-A EXECUTION at cash open (1 day before expiry).
+12. **Fri 7/31 AM:** AAPL/AMZN Thu AMC digest = XLK re-entry backup window if Wed 3-way not clean; XLP GTC renewal FINAL CALL (Path-B Alpaca PATCH test or Path-C 6.5% trail if Path-A failed Thu).
+
+**Today's discipline = HOLD default + NO XLP GTC renewal (defer Thu AM optimal) + XLB HWM 0.83% AUTO-RATCHET WATCH (TIGHTEST OF PHASE 1) + XLI/XLP HWM ratchets watched + all-3-green milestone preserved. Patience > activity. Wed FOMC 2pm ET + MSFT+META+QCOM+ARM AMC = HIGHEST-STAKES 8-hour window of Phase 1 = defensive posture mandatory. Primary XLK deploy trigger for Thu 7/30 AM if Wed 3-way binary clean.**
