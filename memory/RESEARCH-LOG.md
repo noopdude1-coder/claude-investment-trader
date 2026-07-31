@@ -6334,3 +6334,155 @@ Action plan:
 12. **Mon 8/3 Week 15 Day 1:** XLK deploy backup window; Week 15 fresh cap opens 3/3; portfolio reset for August.
 
 **Today's discipline = HOLD default + NO XLK deploy (VIX 19.36 gate hard fail) + NO XLP GTC renewal today (Path-A Rule 7 blocked; defer Fri FINAL CALL) + XLI 5.53% cushion tightest-of-Phase-1 monitor + XLP HWM $88.78 unlock watch (defensive rotation catalyst path) + XLB feedstock-relief-reversal digest. Patience > activity. FOMC hawkish hold + META capex fear + oil rebound = tri-headwind on cyclicals; defensive rotation into XLP is the one clean bright spot. AMZN AMC tonight = primary XLK deploy trigger for Fri AM decision.**
+
+## 2026-07-31 — Pre-Market (Day 73, Friday — Week 14 Day 5 / CORE PCE JUN COOL 3.3% YoY (down from 3.4%) + HEADLINE PCE 3.7% (down from 4.1%) / AMZN BLOWOUT AH +9.5% AWS +37% $42.2B FASTEST-18Q / AAPL SOFT AH -1 to -4% ON SUPPLY/SERVICES / VIX COLLAPSED 19.36→17.09 (-12%) / XLK GATE (d) BORDERLINE-PASS / XLP GTC EXPIRES TODAY 4PM ET = MANDATORY RENEWAL FINAL CALL / WEEK 14 CAP 0/3 PRESERVED — PRIMARY XLK DEPLOY WINDOW)
+
+### Account Snapshot (cash account, T+1 — Phase 1 PAPER $100k baseline per CLAUDE.md)
+- **Equity:** $102,537.16 | **Last equity (Thu EOD API):** $102,393.62 | **Overnight P&L:** +$143.54 (+0.14%)
+  - **Attribution:** XLI intraday +$184 (+0.90%), XLB +$9.52 (+0.05%), XLP -$40.46 (-0.20%) = combined +$153 vs +$144 net = matches ~$144 delta.
+- **Settled cash:** $41,500.59 | **Buying power:** $336,904.76 (ignore — cash account) | **Long MV:** $61,036.57
+- **Deployment:** 59.53% (25pp below 85% target — 29th straight sub-60 session)
+- **Phase cumulative:** +$2,537.16 (+2.54%) — modest rebound from Thu pre-mkt +$2,696.38 (-$159)
+- **Trades this week:** 0/3 (Week 14 fresh cap preserved through Day 4 = 3/3 avail for Fri) | **Positions:** 3/6
+
+| Ticker | Shares | Entry | Now | Overnight | Unrealized P&L | Stop | HWM | Cushion |
+|--------|--------|-------|-----|-----------|----------------|------|-----|---------|
+| XLB | 388 | $51.6155 | $51.64 | +$0.11 (+0.21% incl Thu) | +$9.52 (+0.05%) | $47.4975 | $52.775 | HWM 2.20% away ($1.135 abs — WIDENED from Thu 1.94% on flat Thu action); manual cut $48.00: $3.64/7.05% cushion; trail cushion 8.02%. **Held flat Thu; feedstock-relief thesis-reversal digest ongoing.** |
+| XLI | 115 | $173.86 | $179.99 | +$2.36 (+1.33% Thu+overnight) | +$704.95 (+3.53%) | $167.8005 | $186.445 | HWM 3.59% away ($6.455 abs — RECOVERED from Thu pre-mkt 4.72% on Thu green day); cushion 6.77% (RECOVERED from Thu 5.53% — thinnest-of-Phase-1 fear lifted); +15% tighten $199.94 = +11.09% away. **XLI thesis stabilized; hawkish-hangover cushion rebuilt.** |
+| XLP | 238 | $83.851513 | $85.30 | -$0.17 (-0.20%) | +$344.74 (+1.73%) | $79.902 | $88.78 | HWM 4.08% away ($3.48 abs); cushion 6.75%. **Thu -0.20% mild giveback (defensive-rotation pause on FOMC digest); Core PCE cool 10am ET = XLP tailwind expected pre-mkt today.** **🚨 GTC EXPIRES TODAY 2026-07-31 20:00 UTC (~4PM ET) — MANDATORY RENEWAL FINAL CALL.** |
+
+**Combined unrealized: +$1,059.21 vs Thu pre-mkt +$1,218.43 = -$159.22 (-13% profit contraction) on Thu FOMC-hawkish digest + XLP defensive-pause; NET recoverable if Core PCE cool triggers defensive-rotation resumption today.**
+
+### Market Context — THU DIGEST + AMC BLOWOUT (post-highest-stakes 48hr session)
+- **🟢🟢 CORE PCE JUN COOL — DISINFLATION CONFIRMED.** Core PCE **+0.1% m/m** (below +0.2% est), **+3.3% YoY** (below +3.4% May, matches EBC +3.3% forecast). Headline PCE **-0.1% m/m**, **+3.7% YoY** (down from +4.1% May, biggest decel since 2023). **BULLISH for FOMC-hawkish overhang lift** — 3-dissenter Fed can't easily argue for hikes with fresh cooling data. Reuters "steady disinflation confirmed." **Rate-cut probability rebuilt** (2 hikes priced Wed → likely trimmed today).
+- **🟢🟢🟢 AMZN BLOWOUT — AWS +37% YoY $42.2B (FASTEST 18 QUARTERS).** Rev $200.6B / EPS $5.15-5.75 (depending source, all beat), **AWS +37% crushed 31% cons + surpassed MSFT Azure +43% narrative-lift (in dollar terms)**; **shares +9-9.5% AH**; Cramer "astonishing"; **"AI stocks came roaring back"** (Vested Fin summary). **AI-buildout thesis vindicated post-META-capex-fear** — meaningful reversal of Wed AI-circularity narrative.
+- **🟡 AAPL SOFT AH — beat but soft reaction.** Rev **$108.65B** (in-line with est $108.86B), EPS **$1.89** (matched est), iPhone +22% growth = solid; but **shares -1 to -4% AH** on supply/services concerns per CNBC. Not a disaster (~2% avg drag) but no lift.
+- **NET AMC = XLK-BULLISH.** MSFT strong (Wed) + AMZN blowout (Thu) + AAPL neutral = **AI-hyperscaler thesis reinforced, AI-circularity fear reversed**. Asian markets surged overnight ("blockbuster earnings from MSFT and AMZN reignited AI optimism").
+- **🟢🟢 VIX COLLAPSED — DEEP COMPLACENCY.** VIX **17.09** (Rio Times 07/31 briefing) = **-17.28% overnight** from Thu pre-mkt 19.36. Path: Wed close 18.21 → Thu intraday high 19.52 → Thu 12:27PM CDT 17.98 → Fri overnight 17.09. **Right at 17 threshold = XLK gate (d) BORDERLINE PASS** (needs sub-17 confirm at cash open).
+- **🟢 Futures GREEN pre-mkt.** S&P E-mini ~**7,580.25** (Markets Insider PM, +0.15% earlier though flat later); NQ futures noisy but AMZN AH +9% = big NDX contribution. Vs Wed close S&P 7,428.78 = ~+2.0% recovery arc through Thu+overnight.
+- **🟡 OIL FLATTISH — CEASEFIRE UNWIND STABILIZED.** WTI Sep $84.18/bbl (WSJ 07/31 11:40 UTC), ~flat vs Thu $84.90 = feedstock cost pressure holds but no fresh escalation; **XLB thesis-reversal digest continues (mild)**.
+- **📅 Today's catalysts (Fri Week 14 Day 5):**
+  - **7:30am ET Q2 Employment Cost Index** (est 0.8%, prev 0.9%) — WAGE INFLATION READ = post-PCE reinforce/undermine test
+  - **8:45am ET MNI Chicago PMI Jul** (est ~56, prev 56.7) — MIDWEST FACTORY PULSE = XLI proxy read
+  - **9:00am ET Michigan Sentiment Final** (est 54.4, prev 54.4 — 1yr inflation exp est 4.2% vs 4.6%) = CONSUMER INFLATION EXPECTATIONS COOL = further FOMC-hawkish-overhang lift
+  - **10:00am ET Pending Home Sales**
+  - **BMO earnings:** CVX (Chevron), XOM (ExxonMobil), ABBV (AbbVie), MRNA (Moderna) — energy binaries
+  - **NO major AMC earnings scheduled** (post-MegaCap week wind-down)
+- **📊 Sector momentum snapshot (Jul 17 YTD close):**
+  - **XLE +20.7% YTD** (Wed worst on oil profit-taking; Fri = CVX/XOM BMO = fresh binary)
+  - **XLI +19.3% YTD** (Thu recovered from FOMC-hawkish drag)
+  - **XLK +16.7% YTD** (Wed -1.8% pre-AMC; **AMZN blowout AH = re-rating catalyst — Fri open key**)
+  - **XLB +13.7% YTD** (Wed -1.15% oil-rebound + Thu flat = drift)
+  - **XLP +10.5% YTD** (Wed +2.0% defensive; Thu mild pullback; Fri = Core PCE cool reload path)
+  - **Sector rotation quadrant unchanged:** XLP/XLI/XLB/XLE = Leading; **XLK = Lagging → likely REGIME SHIFT today post-AMZN AH digest**
+
+### XLK re-entry gate check (Fri PRIMARY DEPLOY WINDOW):
+- (a) **CPI cool ✓** (Jun headline 3.5%, core 2.6%)
+- (b) **XLK >$185:** unknown pre-mkt; needs open confirm; **AMZN AH +9% + Asian tech surge = HIGH-PROBABILITY PASS** at ~$188-190 open estimate
+- (c) **NQ risk-on:** 🟢 **STRONG** (AMZN blowout AH)
+- (d) **VIX <17:** 🟡 **BORDERLINE PASS 17.09** (0.09 above threshold; -17% overnight momentum = likely ticks sub-17 at open on continuation)
+- (e) **Banks 5/5 beat ✓**
+- (f) **PPI cool ✓**
+- **Bonus: Core PCE cool ✓** (Jun 0.1% m/m, 3.3% YoY = fresh Thu bullish read)
+- **DRAGS:** ECI 7:30am + Chicago PMI 8:45am + Michigan sentiment 9:00am binaries (moderate); AAPL AH soft (mild); no major AMC tonight.
+- **VERDICT: 5-6/6 PASS + VIX gate (d) at borderline. IF VIX ticks sub-17 at open + XLK confirms >$185 + no macro-print disaster → DEPLOY. Base case = TRADE TODAY (XLK re-entry primary window).**
+
+### Trade Ideas
+
+**Fri Week 14 Day 5 = PRIMARY XLK DEPLOY WINDOW + XLP GTC RENEWAL MANDATORY EXECUTION. Both actions today. Sequence: (1) 9:35am ET post-open gate re-check → XLK BUY 108 sh (~$19,980) if all gates pass; (2) XLP GTC renewal Path-A retry throughout day (watch $88.78 HWM auto-ratchet fire); (3) 3:30pm ET Path-B (Alpaca REPLACE/PATCH test) if XLP hasn't rallied to $88.78; (4) 3:45pm ET Path-C fallback (fresh trail ~6.3% to preserve stop $79.902) before 4pm expiry.**
+
+1. **🟢🟢 XLK RE-ENTRY — PRIMARY DEPLOY.** **108 sh @ ~$185 = ~$19,980 = 19.98% of $100k baseline (max 20% cap ✓).** Catalyst: MSFT beat (Wed) + AMZN blowout AH (+9% Thu) + Core PCE cool + VIX collapse 19.36→17.09 = 4-way alignment. **Gate check at 9:35am ET:**
+   - VIX <17 confirmed ✓
+   - XLK >$185 confirmed ✓
+   - NQ risk-on continues (>+0.5% futures) ✓
+   - No macro-print disaster (ECI/Chicago PMI/Michigan) ✓
+   - Settled cash $41,500 - $19,980 = $21,520 headroom preserved ✓
+   - Week 14 trade cap 0/3 → 1/3 after fill ✓
+   - Position count 3/6 → 4/6 ✓
+   
+   **If any gate fails at open → DEFER to Mon 8/3 Week 15 Day 1.** **Trail 10% GTC mandatory concurrent with fill** (stop starts at $185 × 0.9 = $166.50). **Target: 2:1 risk/reward = $185 + (2 × $18.50) = $222 (+20%).** Documented catalyst: AMZN AWS +37% blowout + MSFT Azure +43% = AI-hyperscaler thesis vindication; VIX-decompression + Core PCE disinflation = FOMC-hawkish overhang lifts + rate-cut path rebuilds.
+
+2. **🚨 XLP GTC RENEWAL — MANDATORY FINAL CALL.** GTC expires 2026-07-31 20:00 UTC (~4pm ET today). Current XLP $85.30 = Path-A blocked (fresh 10% trail → $76.77 < $79.902 = **Rule 7 violation**). Path-A unlock threshold: XLP rally to $88.78 (+4.08% intraday) = HWM auto-ratchet fires → immediate renewal preserves stop. **Sequence:**
+   - **9:30am–3:30pm:** Path-A monitor (watch KO/MDLZ/PG follow-through + Core-PCE-cool digest + defensive-rotation resumption). If XLP hits $88.78 = execute Path-A renewal IMMEDIATELY.
+   - **3:30pm ET:** If Path-A not hit → execute **Path-B (Alpaca DELETE + REPLACE-with-same-parameters test)** — untested; try REPLACE endpoint with expires_at extension only (preserves HWM/stop). Log outcome.
+   - **3:45pm ET:** If Path-B fails → execute **Path-C fresh trail ~6.3%** at then-current XLP price. Rationale: 6.3% × $85.30 = $80.19 vs existing $79.902 = SLIGHT tighten of ~$0.29 = **NOT violating Rule 7** (stop moves UP, not down); 6.3% < Rule 4 standard 10% = deviation justified by acute GTC-expiry constraint + defensive-rotation continuation + Path-A/B blocked. Log Rule 4 waiver rationale.
+   - **HARD DEADLINE:** All paths must complete BEFORE 3:55pm ET (5min margin before 4pm expiry). Naked position over weekend = unacceptable.
+
+3. **XLI thesis STABILIZED — Thu green day rebuilt cushion.** Cushion 6.77% (RECOVERED from Thu pre-mkt 5.53%); HWM $186.445 sits +3.59% away (RECOVERED from 4.72%). +15% tighten trigger $199.94 = +11.09% away. **NO ACTION.** Watch Chicago PMI 8:45am (56 vs 56.7 est) = mild XLI-adjacent read.
+
+4. **XLB thesis MILD DAMAGE — no incremental catalyst today.** Cushion 8.02%; HWM $52.775 sits 2.20% away (WIDENED). Oil flat vs Thu = no fresh feedstock pressure. LIN Wed BMO digested. **NO ACTION.** Watch $50.00 warning line only if oil breaks $88 (would need 4.5% pop).
+
+5. **XLP thesis STRONG — defensive rotation intact + Core PCE cool = tailwind reload path.** Fri = HWM $88.78 unlock target for Path-A. **NO INCREMENTAL POSITION** (already 20% cap via GTC renewal focus).
+
+6. **XLK single-stock alternatives — SKIP.** ETF preferred for AI-thesis expression; single-stock (MSFT/GOOGL/META) = event-vol size mismatch + concentration risk.
+
+7. **XLE add candidate (CVX/XOM BMO today) — SKIP.** BMO binary; XLE crowded YTD +20.7%; Week 14 cap = XLK deploy priority.
+
+8. **NVDA/AMD single-stock — SKIP.** AI-hyperscaler thesis better expressed via XLK ETF diversification (108 sh XLK = broad AI-buildout exposure incl MSFT/GOOGL/NVDA/AVGO in weighted holdings).
+
+9. **Defensive add (XLV/XLU) — SKIP.** FOMC-hawkish-hangover lifting = defensive rotation slows; XLK re-entry preferred.
+
+10. **Materials-add (XLB doubling) — SKIP.** Oil-rebound headwind persists; single-sleeve overweight = correlation risk.
+
+**Buy-Side Gate — INVOKED FOR XLK RE-ENTRY (contingent gate-pass at open):**
+- Total positions after fill: 3 → **4 (≤6 ✓)**
+- Trades placed this week incl fill: 0 → **1 (≤3 ✓)**
+- Position cost 108 × $185 ≈ **$19,980 (≤$20,000 20% cap ✓)**
+- Position cost ≤ settled cash **$41,500.59 ✓** ($21,520 headroom post-fill)
+- Specific catalyst documented ✓ (AMZN AWS +37% blowout + MSFT Azure +43% + Core PCE cool + VIX collapse = 4-way alignment)
+- Instrument is a stock ✓ (XLK = ETF/equity)
+- **DEPENDENT:** VIX confirms <17 at 9:30am + XLK confirms >$185 + no macro-print disaster (ECI/Chicago PMI/Michigan) between 7:30-9:30am.
+
+### Risk Factors
+- **🟡 VIX GATE (d) BORDERLINE 17.09** — 9bps above 17 threshold. AAPL AH -1 to -4% + ECI/Chicago PMI/Michigan binaries 7:30-9:00am ET could re-spike VIX intraday. Base case = VIX ticks sub-17 at open on continuation; downside = ECI HOT + Chicago PMI MISS → VIX pops back to 18+ = XLK deploy deferred.
+- **🚨 XLP GTC EXPIRES 4PM ET TODAY = MANDATORY EXECUTION.** Path-A blocked at open (needs XLP +4.08% to $88.78); Path-B untested (Alpaca REPLACE endpoint may not accept expires_at extension); Path-C ~6.3% trail = Rule 4 waiver required. Weekend naked position = unacceptable — SOME path must fire before 4pm.
+- **🟡 XLK BOTTOM-FISHING RISK** — XLK was in Lagging quadrant Wed; AMZN blowout could be one-day pop with sector rotation-back-to-lag Mon. Mitigation: 10% trail GTC concurrent with fill = worst-case stop $166.50 (~$1,998 loss = 2% equity).
+- **🟡 AAPL AH SOFT** could drag XLK open (AAPL ~10% of XLK weight). Watch AAPL pre-mkt: if AAPL -4% pre-open = XLK opens ~-0.4% = borderline gate (b) risk.
+- **🟢 CORE PCE COOL** = FOMC-hawkish overhang lifts; markets should trim rate-hike odds today (Wed hawkish-hold + 3 dissents = fear priced; PCE cool = fresh contra-data).
+- **🟢 AMZN BLOWOUT** = single largest AI-thesis vindication of Q2 season; AI-capex-worry (Alphabet + META) narrative reversed; NQ/QQQ tailwind Fri = XLK sleeve lift.
+- **🟢 ASIAN MARKETS SURGED OVERNIGHT** on MSFT+AMZN beats — US Fri open likely follows through until Michigan 9am/Pending Home Sales 10am binaries.
+- **🟢 XLP DEFENSIVE ROTATION** — Core PCE cool = defensive-bid resumption path; if XLP rallies to $88.78 = Path-A unlocks + HWM ratchet + all 3 sleeves reinforced.
+- **🟢 XLI STABILIZED** — Thu +1.33% recovery repaired FOMC-hawkish-drag cushion to 6.77%; if Chicago PMI 8:45am comes in >56 = further XLI tailwind.
+- **🟡 Chicago PMI est ~56 vs prev 56.7** = mild contraction bias; miss <54 = XLI headwind + XLK marginal drag.
+- **🟡 Michigan 1yr inflation exp est 4.2% vs 4.6% prev** = disinflation continuation; miss (5.0%+) = re-hawkish narrative + VIX pop.
+- **🟢 Week 14 fresh cap 0/3 preserved through Day 4** = 3/3 available Fri; XLK deploy = single trade of week.
+- **🟡 Capital drag persists** — 59.53% deployed = 25pp below 85%; XLK deploy +$19,980 = advances to 79.4% (approaches target); non-deploy = 30th session sub-60 + carry into Week 15.
+- **🟢 Phase cumulative +2.54%** = solid intra-Phase-1 standing; low-drawdown-risk deploy environment.
+
+### Decision
+
+**PRIMARY WINDOW: XLK RE-ENTRY DEPLOY IF ALL GATES PASS AT 9:30-9:35am ET. XLP GTC RENEWAL MANDATORY EXECUTION BEFORE 4PM ET (Path-A → Path-B → Path-C escalation sequence). NO OTHER TRADES. Patience preserved on 4 other sleeves; XLK is the single high-conviction trade of Week 14. Post-AMZN-blowout + Core-PCE-cool + VIX-collapse = 4-way alignment; if VIX ticks sub-17 at open = execute per plan.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 trail stops verified live GTC unchanged (XLB $47.4975 exp 2026-09-23 / XLI $167.8005 exp 2026-08-24 / **XLP $79.902 exp 2026-07-31 = TODAY**). No manual changes pre-open.
+2. **7:30am ET Q2 ECI** (est 0.8%) — WAGE READ; miss high = re-hawkish signal + VIX pop risk.
+3. **8:45am ET MNI Chicago PMI Jul** (est ~56) — XLI proxy; miss <54 = XLI/XLK drag.
+4. **9:00am ET Michigan Final** (Sentiment 54.4 / 1yr inflation exp 4.2%) — CONSUMER INFLATION READ; cool = further FOMC-hawkish-lift.
+5. **9:30am cash open:** /market-open routine runs. **XLK RE-ENTRY GATE CHECK:**
+   - VIX <17 at open? ✓/✗
+   - XLK >$185 at open? ✓/✗
+   - NQ futures still risk-on (+0.5%+)? ✓/✗
+   - No macro-print disaster 7:30-9:30am? ✓/✗
+   - If all ✓: **BUY 108 XLK MKT + attach 10% trail GTC stop-loss (bracket order or sequential OCO)**. Log fill price + stop level in TRADE-LOG.
+   - If any ✗: DEFER XLK to Mon 8/3 Week 15 Day 1.
+6. **10:00am ET Pending Home Sales** — mild macro read post-deploy.
+7. **Intraday XLP GTC RENEWAL monitor:**
+   - **Fresh HWM XLP >$88.78 → PATH-A EXECUTE IMMEDIATELY** (place new trail_percent=10 GTC → HWM starts $88.78 → stop $79.902 preserved; then cancel old GTC exp today).
+   - If XLP never hits $88.78 by 3:30pm ET → **PATH-B: try Alpaca REPLACE endpoint** on order id `aa46ecf2-4b39-4dbd-9528-80a59819256c` with expires_at extension (Sep-30 2026). If REPLACE returns 200 = SUCCESS. If REPLACE returns error = fallback.
+   - If Path-B fails by 3:45pm ET → **PATH-C: fresh trail_percent=6 or 7 GTC at then-price** (must satisfy: new_stop ≥ $79.902; at XLP $85.30 → 6.5% trail = stop $79.76 ≈ $79.902 borderline; use 6.3% = stop $79.93 = safely above $79.902; use 7% = stop $79.33 = would violate Rule 7). **Precise formula: max trail% allowed = 1 - (79.902 / XLP_price) × 100.** At XLP $85.30 = 6.32% max. Use trail 6% to leave 0.4% safety margin → stop $80.18.
+   - Cancel old GTC (exp today) after new order confirmed.
+8. **Intraday sleeve triggers (mechanical):**
+   - **Fresh HWM XLB >$52.775 → auto-trail advance** (2.20% away)
+   - **Fresh HWM XLI >$186.445 → auto-trail advance** (3.59% away)
+   - **Fresh HWM XLP >$88.78 → auto-trail advance + PATH-A RENEWAL UNLOCK**
+   - XLB breaks $50.00 → escalate; XLB breaks $48.00 → -7% manual cut warning
+   - XLI breaks $175 → escalate; XLI breaks $170 → -7% manual cut warning
+   - XLP breaks $82.00 → escalate (near-Rule-7 zone approach)
+   - Trail fires: XLB $47.4975 / XLI $167.8005 / XLP $79.902 (auto-execute)
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+11.09%); XLP ≥$96.43 (+13.05%); XLB ≥$59.36 (+14.96%). None imminent.
+9. **/midday (~12pm ET):** XLK post-deploy sanity check (cushion + intraday P&L) + XLP HWM path re-assess + macro-print digest.
+10. **/daily-summary (~4pm ET):** Week 14 Day 5 close attribution + XLK deploy execution log + XLP GTC renewal path outcome (A/B/C) + Week 14 close-out summary + Weekly Review prep for Fri afternoon.
+11. **/weekly-review (Fri PM):** Week 14 Sharpe vs SPY + max DD + process metrics + Week 15 setup.
+12. **Mon 8/3 Week 15 Day 1:** XLK deploy backup window if Fri gates failed; fresh Week 15 3/3 cap opens; XLP renewal status verified live.
+
+**Today's discipline = XLK RE-ENTRY DEPLOY (if gates pass at open) + XLP GTC RENEWAL MANDATORY (Path A→B→C escalation before 4pm) + XLB/XLI hold + patience on 4 other sleeves. Post-AMZN-blowout + Core-PCE-cool + VIX-collapse-19.36→17.09 = 4-way alignment = highest-conviction XLK deploy window since XLK gate (a-f) framework introduced. Week 14 fresh cap 0/3 = one high-conviction trade justified. Weekend risk = XLP GTC MUST renew; XLK if deployed = 10% trail concurrent = risk-bounded.**
