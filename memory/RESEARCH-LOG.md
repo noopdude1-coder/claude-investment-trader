@@ -6770,3 +6770,154 @@ Action plan:
 8. **Wed 8/5:** ADP + ISM Services + AMD AMC digest = Week 15 mid-week macro binary triple-catalyst.
 
 **Today's discipline = XLK RE-ENTRY CONDITIONAL DEPLOY (gate-driven, not calendar-driven) + XLI HWM RATCHET IMMINENT-FIRE (mechanical, 0.75% away) + XLB damage-repair continuation + XLP defensive-drift monitor + patience on remaining sleeves. Week 15 fresh cap 0/3 = single high-conviction trade justified. Watch VIX compression at 9:30am cash open = XLK deploy vs defer decision. Patience > activity.**
+
+## 2026-08-05 (Wed) — Pre-Market Research — Week 15 Day 3 / XLK re-entry Day 17 CONDITIONAL / Post-AMD AH -8.94% despite record beat = AI-thesis MIXED / Tue S&P +1.8% record high = -114bps relative UNDERPERFORMANCE #4 / Oil crash continues WTI $74.63 (-1.5%) on Hormuz peace hopes = XLB tailwind / XLI HWM ratchet FIRED Tue intraday as predicted / ADP 8:15am + ISM Services 10am + DIS BMO earnings
+
+### Account snapshot (pre-market Wed Aug 5, cash account, T+1)
+- **Equity:** $103,480.27 (Mon EOD $103,430.65 last_equity per Alpaca → +$49.62 / +0.05% Tue-close-to-Wed-pre-mkt; **Tue net +$901 estimated** vs pre-mkt research anchor $102,579)
+- **Settled cash:** $41,500.59 (unchanged 4th session — no fills since Fri 7/31 XLP GTC renewal)
+- **Long MV:** $61,979.68 (XLB $20,156.60 / XLI $21,436.00 / XLP $20,387.08)
+- **Deployment:** 59.89% (31st sub-60 session extends — XLK non-deploy consequence carries)
+- **Buying power:** $339,545 (paper-margin artifact; we use SETTLED CASH $41,500.59 for sizing)
+- **Phase P&L:** +$3,480.27 (+3.48% vs $100k baseline — **new intra-Phase HIGH** advances from Tue pre-mkt +2.70%)
+- **Positions:** 3/6 slots — XLB 388 sh / XLI 115 sh / XLP 238 sh
+- **Open GTC trailing stops:** all 3 live (XLB $47.4975 exp 09-23 / **XLI $168.183 exp 08-24 RATCHETED +$0.383 Tue** / XLP $81.1596 exp 10-29)
+- **Week 15 trades:** 0/3 (fresh cap intact — Mon Day 1 zero + Tue Day 2 zero-trade posture)
+
+### Positions premarket state
+| Ticker | Shares | Entry | Now (pre) | vs Mon close | Unrealized P&L | Stop | HWM | Distance to HWM |
+|--------|--------|-------|-----------|--------------|----------------|------|-----|------------------|
+| XLB | 388 | $51.6155 | $51.95 | -0.10% (vs $52.00 lastday) | +$129.80 (+0.65%) | $47.4975 (trail 10%) | $52.775 | -1.56% |
+| XLI | 115 | $173.86 | $186.40 | flat (vs $186.40 lastday) | +$1,442.10 (+7.21%) | **$168.183 (trail 10%, RATCHETED Tue)** | **$186.87 (RATCHETED Tue)** | -0.25% = **TIGHTEST-EVER** |
+| XLP | 238 | $83.8515 | $85.66 | +0.34% (vs $85.37 lastday) | +$430.42 (+2.16%) | $81.1596 (trail 6%, Path-C) | $86.34 | -0.79% |
+
+**⚡ XLI HWM RATCHET FIRED TUE INTRADAY as predicted** — stop advanced $167.8005 → **$168.183** (+$0.383 / +23 bps), HWM $186.445 → **$186.87** (+$0.425). Position-life-high unrealized +$1,442.10 (+7.21%) new Phase-1 high. Distance to HWM tightens to **0.25% = tightest-ever** — any $186.88+ print Wed = auto-ratchet fires again.
+
+### Market context (from Perplexity live pulls)
+- **🟢 TUE CLOSE: S&P 500 +1.8% to RECORD HIGH ~7,428.78** on Hormuz peace hopes + AI-thesis tailwind (PLTR +13.9% Mon AH extended, CAT/GE-Aero blowout earnings). **Bot captured only ~$901 = ~0.87% vs SPY +1.8% = -93 bps relative UNDERPERFORMANCE Tue (4th consecutive relative-red print)** — XLK bench cost visible; strategy captures ~48% of upside vs full-invested SPY.
+- **🟢 US FUTURES MIXED-TO-POSITIVE:** S&P mini +12.5 pts (+0.17%), Dow mini -185 pts (-0.35%), Nasdaq mini +37 pts (+0.13%). Reuters 5:06am ET: Dow E-minis +116/+0.21%, S&P +19.75/+0.25%, NQ -20.5/-0.07% = **NQ drag from AMD/SpaceX AH disappointments**; broad-tape leans positive on Hormuz. **Gate (c) NQ risk-on = BORDERLINE PASS.**
+- **🟡🟡 AMD AH -8.94% TO $472.20 despite Q2 BEAT** — record revenue $11.5B (+50% YoY), EPS $1.66 (vs $1.62 consensus), data-center rev doubled. Investor focus: execution/valuation vs headline beat. Q3 guide $13B. **AI-thesis DRAG for XLK Wed open** (opposite of pre-mkt Tue setup). **Counter-signal: semis flew globally overnight** (Kospi +4%, SK Hynix +6%, Samsung +3%) = AI-thesis intact despite single-name AMD disappointment.
+- **🟢🟢 OIL COLLAPSE CONTINUES:** WTI **$74.63** (-1.5%), Brent **$78.44** (-1.16%) on **Strait of Hormuz peace hopes + US-Iran diplomacy progress**. 3-day slide extends. **XLB feedstock-cost tailwind STRONGEST YET** — chemicals 52.55% of XLB. Materials positioning still 1st percentile per Deutsche Bank = potential-squeeze setup persists.
+- **🟢 VIX ~16.5** (Aug 5 briefing) with cross-source spread 15.84-19.31 (futures $17.42 for Aug 5 settle). Best estimate **~16-17 range at cash open**. **Gate (d) VIX <17 = BORDERLINE PASS.** Compression from Tue pre-mkt 18.38 = risk-on regime restoration.
+- **📅 Wed 8/5 catalysts:**
+  - **7:30am ET: MBA Mortgage Applications**
+  - **8:15am ET: ADP Employment Jul** (prev 98K, consensus ~110K per continuum) — pre-NFP Fri labor read
+  - **9:45am ET: S&P Global Services PMI Jul Final**
+  - **10:00am ET: ISM Services PMI Jul** (not confirmed in results but typical release day) — key XLK/XLI-adjacent read
+  - **BMO earnings:** **DIS** (fiscal Q3, exp $1.86 EPS / $25.4B rev, 8:30am webcast), **McDonald's** (per Mon outlook), **Uber** (XLI ~2.7% weight = XLI-adjacent), Kraft Heinz, Costco, Novo Nordisk, Siemens Energy
+  - **AMC:** post-AMD digest, Robinhood, Duolingo, DoorDash, Shopify, MercadoLibre, Occidental Petro, McKesson
+  - **📅 Week 15 rest:** ISM Services Wed digest, Jobless Claims Thu, **NFP Fri = biggest labor read**
+- **📊 Sector momentum (Q2 confirms):**
+  - **XLI +14.5% Q2 gain per MarketWatch, YTD +16-17%** — LEADING quadrant confirmed; top holdings CAT 8.48%/GE Aero 6.74%/GE Vernova; AI-capex read from PLTR halo + hyperscaler-capex intact
+  - **XLB YTD +10-14%** depending on source; chemicals 52.55%; 1st-percentile positioning underweight
+  - **XLP YTD +10.7-16%** LEADING quadrant; broke above $84 resistance; defensive-tilt still active
+  - **XLK LAGGING per Q2 rotation dashboard** — but Tue tech-led rally may shift status; AMD AH -8.94% = fresh drag; PLTR/AVGO/MSFT/NVDA offsets
+
+### XLK re-entry gate check (Wed Week 15 Day 3 = Day 17)
+- (a) **CPI cool ✓** (Jun headline 3.5%, core 2.6%)
+- (b) **XLK >$185:** UNKNOWN pre-mkt (Mon post-tech-rally close likely $190+; verify at 9:35am — **AMD AH -8.94% = gap-down risk** for XLK open, XLK ~3% AMD weight = -25-30 bps direct drag before ripple effects)
+- (c) **NQ risk-on:** 🟡 **BORDERLINE** — futures +37 pts / +0.13% mixed; Reuters shows NQ -20.5/-0.07% earlier session; **AMD/SpaceX drag** offset by Hormuz + PLTR halo + global semis (Kospi +4%); **verify NQ >+0.3% at 9:30am for clean pass**
+- (d) **VIX <17:** 🟡 **BORDERLINE PASS** — Aug 5 briefing ~16.5, futures $17.42 settle, investing.com 19.31 stale; **verify at 9:30am cash open, compression from Tue 18.38 = positive trajectory**
+- (e) **Banks 5/5 beat ✓**
+- (f) **PPI cool ✓**
+- **Bonus positives:** Core PCE cool ✓, PLTR blowout AI-thesis ✓, global semis firm ✓, Tue S&P record high ✓, oil crash tailwind ✓
+- **DRAGS:** AMD AH -8.94% = XLK gap-down risk, ADP 8:15am binary, ISM Services 10am binary
+- **VERDICT: 4/6 CLEAN + 2/6 BORDERLINE (c, d). DEPLOY CONDITIONAL on 9:30am confirmation of (i) VIX <17 AND (ii) NQ risk-on AND (iii) XLK NOT gapping >2% below Tue close on AMD contagion.** If AMD drag drops XLK below $185 at open → DEFER. If XLK holds $187+ at open + VIX <17 + NQ >+0.3% → DEPLOY per Tue framework.
+
+### Trade Ideas
+
+**Wed Week 15 Day 3 = XLK re-entry Day 17 CONDITIONAL (VIX + NQ + AMD-contagion gates must clear at 9:30am) + XLI HWM ratchet CONTINUES (0.25% from tightest-ever) + XLB damage-repair + oil-tailwind acceleration + XLP defensive-drift monitor. Fresh Week 15 cap 0/3. Relative-underperformance vs SPY escalates re-entry pressure.**
+
+1. **🟡 XLK RE-ENTRY — CONDITIONAL DEPLOY (Day 17, AMD contagion risk added).** **Formula: floor($20,000 / XLK_open_price) shares.** Catalyst: **Tue S&P record high + oil crash + Hormuz peace + PLTR halo continuation + global semis firm**, offset by **AMD AH -8.94% = XLK gap-down risk**. **Gate check at 9:30-9:35am ET:**
+   - VIX <17 confirmed at cash open? ✓/✗ (pre-mkt sample 16-17 range = **LIKELY PASS**)
+   - XLK >$185 at open? ✓/✗ (verify quote — **AMD drag = -25-30 bps direct, watch for XLK <$185 = DEFER**)
+   - NQ risk-on (>+0.3%)? ✓/✗ (pre-mkt mixed, Hormuz + semis-fly offset AMD drag)
+   - ADP 8:15am not disaster (<50K or >200K = whipsaw risk) — **pre-open catalyst = decision-informing**
+   - ISM Services 10am not disaster — **post-fill catalyst = accept risk OR defer to 10:15am**
+   - Settled cash $41,500.59 → $21,572 post-fill ✓
+   - Week 15 trades 0/3 → 1/3 ✓
+   - Position count 3/6 → 4/6 ✓
+   
+   **Sizing precision:** at XLK $185 = 108 sh × $185 = $19,980; at $190 = 105 sh × $190 = $19,950; at $195 = 102 sh × $195 = $19,890. **Formula: floor($20,000 / XLK_open) shares.**
+   
+   **Trail 10% GTC MANDATORY concurrent with fill** (stop = fill × 0.9). **Target: 2:1 risk/reward = fill × 1.20.** **Timing:** IF ALL 3 gates confirm at 9:30-9:35am AND AMD-contagion contained (XLK ≥$187) → deploy immediately. IF XLK gaps $185-187 range → **DEFER to 10:15am post-ISM-Services digest**. IF XLK <$185 at open → **DEFER to Thu Day 18 post-AMD-contagion digest**. IF ADP disaster (>200K or <50K) + VIX pop >17 → DEFER Thu.
+
+2. **🟢🟢 XLI — HOLD, HWM RATCHET IMMINENT-FIRE (Day 49 continuation).** XLI $186.40 pre-mkt vs **NEW HWM $186.87** (ratcheted Tue intraday) = **-0.25% below = TIGHTEST-EVER Phase-1 HWM proximity** (tightens 50 bps from Tue pre-mkt 0.75%). **Any $186.88+ print at open = auto-ratchet fires again (stop advances above $168.183)**. Unrealized +7.21% ($1,442.10) = **new Phase-1 position-life-high extends**. AI-capex/reshoring thesis INTACT under Hormuz + oil-crash tailwinds + PLTR halo + Uber earnings BMO (XLI 2.79% weight). **NO MANUAL ACTION** — mechanism operates. Uber EPS could catalyze.
+   - **+15% tighten trigger $199.94** sits +7.26% away (tightens from Tue 8.05%) — 3 sessions minimum at pace
+   - **GTC exp 2026-08-24 = 19 days runway** — renewal window Aug 20-24, not urgent Wed
+
+3. **🟢🟢 XLB — HOLD, OIL-CRASH TAILWIND ACCELERATES (Day X).** XLB $51.95 pre-mkt vs Mon close $52.00 = -0.10% overnight. **WTI $74.63 (-1.5% 3-day slide) = strongest feedstock tailwind YET; chemicals 52.55% of XLB = direct beneficiary; Hormuz-peace narrative = petrochemical-input-cost decline sustained.** Positioning 1st percentile = potential-squeeze setup persists. Cushion above pre-cut $50 = $1.95 / 3.90% (comfortable). HWM $52.775 sits 1.56% above = tightening. **NO ACTION.** Watch reclaim of $52.775 = HWM ratchet fires, break sub-$50 = re-escalate cut.
+
+4. **🟢 XLP — HOLD, DEFENSIVE-DRIFT REVERSES (+0.34% Tue).** XLP $85.66 pre-mkt = **-0.79% below HWM $86.34** (tightens from Tue pre-mkt 2.06% — defensive bid restored). Broke above $84 resistance per Yahoo technical read. HWM ratchet 79 bps away = watch. Trail $81.1596 cushion 5.06% (well above 3% floor). Options for Aug 14th began trading (liquidity boost). **NO ACTION.** GTC exp 2026-10-29 = 85-day runway.
+
+5. **DIS earnings BMO ~8:30am** (Q3 exp $1.86 EPS / $25.4B rev) — **SKIP direct trade** (single-name binary anti-strategy); DIS is XLC ~4% weight = indirect. Communication-services XLC positioning: no held-sleeve exposure. **PASS.**
+
+6. **Uber earnings AMC** — XLI 2.79% weight = XLI-adjacent read; positive = XLI tailwind ripple. No direct trade.
+
+7. **AMD post-AH single-name (-8.94% to $472.20) — SKIP.** Post-earnings knife-catch anti-strategy; execution/valuation concern is real; XLK indirect exposure ~3% weight = diluted.
+
+8. **XLE add (oil bear trade / short) — SKIP.** No short strategy in mandate; oil-crash regime is XLB tailwind we already capture.
+
+9. **XLC add (DIS beat play) — SKIP.** Binary event-driven; anti-strategy; XLC lagging quadrant per rotation dashboard.
+
+10. **Wait Thu Day 18 for AMD-contagion digest — DEFER XLK?** ACCEPTABLE if Wed gates FAIL. Thu = Jobless Claims + AMD-day-2 digest + pre-NFP setup. **Framework: gate-driven, NOT calendar-driven** — if Wed 9:30am gates pass, deploy Wed; if fail, roll to Thu re-check.
+
+**Buy-Side Gate — INVOKED CONDITIONALLY FOR XLK (contingent VIX <17 AND NQ risk-on AND XLK ≥$187 at 9:30-9:35am, AMD-contagion contained):**
+- Total positions after fill: 3 → **4 (≤6 ✓)**
+- Trades placed this week incl fill: 0 → **1 (≤3 ✓)**
+- Position cost floor($20,000/XLK_open) × XLK_open ≤ **$20,000 20% cap ✓**
+- Position cost ≤ settled cash **$41,500.59 ✓** ($21,572 headroom post-fill)
+- Specific catalyst documented ✓ (**Tue S&P record + oil crash + Hormuz peace + PLTR halo + global-semis firm**, offset by AMD AH drag = net-positive for AI-thesis)
+- Instrument is a stock ✓ (XLK = ETF/equity)
+- **DEPENDENT:** VIX <17 confirmed + NQ risk-on + XLK ≥$187 at 9:30am + AMD-contagion contained
+
+### Risk Factors
+- **🟡🟡 AMD AH -8.94% TO $472.20 DESPITE RECORD Q2 BEAT** — AI-thesis DRAG for XLK Wed open (~-25-30 bps direct XLK impact from 3% AMD weight, plus ripple to NVDA/AVGO/broader chip complex); **counter-signal: global semis firm overnight** (Kospi +4%, SK Hynix +6%) = single-name AMD story, not sector collapse; **watch cash open XLK <$185 = DEFER trigger**.
+- **🟢🟢 OIL CRASH 3-DAY SLIDE:** WTI $74.63 (-1.5%), Brent $78.44 (-1.16%) on Hormuz peace + US-Iran diplomacy progress; **XLB feedstock tailwind STRONGEST YET** (chemicals 52.55%); potentially macro-disinflationary read into ADP + ISM Services + NFP week.
+- **🟢🟢 XLI HWM RATCHET FIRED TUE + IMMINENT-FIRE WED** — stop advanced $167.8005 → $168.183 (+$0.383 / +23 bps); HWM $186.445 → $186.87. Current $186.40 = 0.25% below new HWM = **tightest-ever proximity**. Any $186.88+ print = fresh ratchet fires. Position-life-high +7.21% new Phase-1 high.
+- **🟡🟡 SPY Tue +1.8% vs bot ~+0.87% = -93 BPS RELATIVE UNDERPERFORMANCE (4th consecutive relative-red)** — captures ~48% of upside vs full-invested SPY. **XLK re-entry pressure ESCALATES 3rd consecutive session** — mandate is beat SPY on Sharpe basis; sustained 25pp deployment gap = mechanical drag.
+- **🟡 ADP 8:15AM ET Jul** (prev 98K, exp ~110K): labor-slowdown check; miss <50K = risk-off flash + Fed cut re-expectations + XLK/NQ pop (bond yields drop); beat >150K = risk-on continue + AI-capex thesis validates. **Binary pre-open catalyst = XLK deploy timing informer**.
+- **🟡 ISM SERVICES PMI 10AM ET Jul** (typical release; unconfirmed by Perplexity): key services-economy read; beat = broad-tape risk-on + XLI/XLK tailwind; miss <50 = contraction fear + risk-off + XLB/XLP defensive-bid.
+- **🟡 DIS BMO EARNINGS 8:30AM** (exp $1.86/$25.4B) = XLC-adjacent binary; no direct held-ticker exposure; ripple to broader consumer discretionary risk-on/off.
+- **🟢 PLTR halo Tue extension** continues Mon AH +13.9% into Tue cash rally; **AI-thesis MEGA-TAILWIND** offsetting AMD single-name drag.
+- **🟢 Global semis firm overnight** (Kospi +4%, SK Hynix +6%, Samsung +3%) = **AI-thesis intact despite AMD** = XLK deploy case validation from ROW tape.
+- **🟢 XLB damage-repair CONTINUES** — 1st-percentile positioning + oil-crash tailwind + Hormuz-peace narrative = potential-squeeze setup ripening.
+- **🟢 XLP defensive-drift REVERSES** Tue +0.34% = defensive-bid restoration; broke $84 resistance per Yahoo tech read; new HWM ratchet 79 bps away.
+- **🟢 Week 15 fresh cap 0/3** = maximum flexibility Wed-Fri; XLK deploy = single high-conviction trade justified within cap.
+- **🟢 Capital drag** — 59.89% deployed = 25pp below 85% target; XLK deploy +~$20k = advances to ~79% (approaches target); non-deploy = 32nd consecutive sub-60 session extends streak.
+- **🟢 Phase cumulative +3.48%** = **new intra-Phase-1 HIGH** (advances from Tue pre-mkt +2.70%); solid standing pre-XLK deploy.
+- **🟡 XLI GTC exp 2026-08-24 = 19 days runway** — renewal window Aug 20-24, future task.
+
+### Decision
+
+**PRIMARY WINDOW: XLK RE-ENTRY CONDITIONAL DEPLOY (Day 17) IF VIX <17 + NQ risk-on + XLK ≥$187 (AMD-contagion contained) CONFIRMED AT 9:30am. Framework 4/6 clean + 2/6 borderline (c VIX, d NQ) with new gate (AMD-contagion). AI-thesis MIXED — semis-fly-globally offsets AMD single-name drag. Bot -93 bps relative underperformance Tue = 4th consecutive relative-red = re-entry pressure ESCALATES. HOLD XLB (oil-crash tailwind accelerates), XLI (HWM ratchet 0.25% away = imminent-fire), XLP (defensive-bid restored). NO OTHER TRADES.**
+
+**Action plan:**
+1. **Pre-open (now):** all 3 GTCs verified live (XLB $47.4975 / XLI $168.183 RATCHETED / XLP $81.1596). No manual changes pre-open.
+2. **8:15am ADP Employment Jul** — pre-open labor binary; informs XLK gate posture.
+3. **9:30am cash open:** /market-open routine runs. **XLK RE-ENTRY GATE RE-CHECK at 9:30-9:35am:**
+   - VIX <17 at open? ✓/✗ (pre-mkt ~16-17 = **LIKELY PASS**)
+   - XLK >$185 at open + ≥$187 preferred (AMD-contagion contained)? ✓/✗
+   - NQ risk-on (>+0.3%)? ✓/✗ (mixed pre-mkt; Hormuz + semis-fly offset AMD drag)
+   - No macro-print disaster from ADP 8:15am? ✓/✗
+   - **DECISION MATRIX:**
+     - **ALL 3 PASS + XLK ≥$187 (AMD contained) + ADP clean:** BUY floor($20,000/XLK_open) sh MKT + attach 10% trail GTC.
+     - **VIX PASS + XLK $185-187 (mild AMD drag) + NQ mixed:** DEFER to 10:15am post-ISM-Services digest.
+     - **VIX FAILS OR XLK <$185 (AMD contagion):** DEFER to Thu Day 18 post-AMD-day-2 digest.
+     - **ADP disaster (<50K risk-off OR >200K hawkish):** DEFER to Thu re-check.
+4. **10:00am ET ISM Services PMI Jul** — services-economy read; binary post-open XLK deploy timing decision + XLI ripple.
+5. **Intraday sleeve triggers (mechanical):**
+   - **Fresh HWM XLI >$186.87 → auto-trail advance** (**0.25% AWAY = IMMINENT-FIRE**)
+   - **Fresh HWM XLB >$52.775 → auto-trail advance** (1.56% away — tightens)
+   - **Fresh HWM XLP >$86.34 → auto-trail advance** (0.79% away, Path-C 6% trail)
+   - XLB breaks $50.00 → RE-ESCALATE cut discussion; $48.00 → -7% manual cut MANDATORY
+   - XLI breaks $175 → escalate; $161.69 → -7% manual cut
+   - XLP breaks $84.00 → escalate; $77.98 → -7% manual cut
+   - Trail fires: XLB $47.4975 / XLI $168.183 (RATCHETED) / XLP $81.1596 (auto-execute)
+   - **+15% tighten-to-7%:** XLI ≥$199.94 (+7.26%, 3 sessions at pace); XLP ≥$96.43 (+12.58%); XLB ≥$59.36 (+14.26%). XLI approaching.
+6. **/midday (~12pm ET):** XLK post-deploy sanity (if fired) OR gate re-re-check + XLI HWM ratchet verification + XLB oil-tailwind read + XLP $86.34 HWM watch + ISM Services digest.
+7. **/daily-summary (~4pm ET):** Week 15 Day 3 close attribution + XLK Day 17 execution log + XLI ratchet fire confirmation + Thu Jobless Claims prep.
+8. **Thu 8/6:** Jobless Claims + AMD-day-2 digest + pre-NFP-Fri setup = Week 15 late-week macro binary.
+9. **Fri 8/7:** NFP Jul = biggest labor read of month = macro-mega-binary; XLK/XLI ripple both ways.
+
+**Today's discipline = XLK RE-ENTRY CONDITIONAL DEPLOY (gate-driven with AMD-contagion filter added, not calendar-driven) + XLI HWM RATCHET IMMINENT-FIRE (mechanical, 0.25% away, already ratcheted once Tue) + XLB oil-crash tailwind acceleration + XLP defensive-bid restored + patience on remaining sleeves. Week 15 fresh cap 0/3 = single high-conviction trade justified. Watch VIX + AMD-contagion at 9:30am = XLK deploy vs defer decision. -93 bps relative underperformance Tue escalates deployment pressure. Patience > activity, but capital-drag cost visible.**
