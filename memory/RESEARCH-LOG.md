@@ -7214,3 +7214,79 @@ Action plan:
 6. **Mon 8/10 Week 16 Day 1:** Post-NFP-digest + fresh Week 16 cap 3/3 + XLK re-entry Day 20+ eligibility (VIX <17 + NQ risk-on + XLK >$185 + Mon-open clean = green-light).
 
 **Today's discipline = NFP MACRO-MEGA-BINARY = FULL HOLD DAY (framework rule) + XLB HWM ratchet auto-fire watch (0.62% away, mechanical) + XLI + XLP HOLD (position-life-high + defensive-bid) + XLP HWM ratcheted overnight (validation) + Mon Week 16 = fresh XLK window. Patience > activity; NFP-day = ultimate discipline test.**
+
+
+## 2026-08-10 (Mon) — Pre-Market Research — Week 16 Day 1 open / Post-NFP shock -23K vs +80K = dovish rate-cut re-pricing / SPX record 7,757.64 (best 5-day run since April) / VIX 14.90 CLEAN sub-17 = XLK gate flips LIVE Day 22 / CPI Wed = macro-mega-binary anti-deploy setup / Oil-rally 3rd day WTI $78.30 Hormuz-premium = XLB indirect tailwind / All 3 sleeves winners: XLI +6.56% / XLB +2.28% / XLP +1.37%
+
+### Account snapshot (pre-market Mon Aug 10, cash account, T+1)
+- **Equity:** $103,519.21 (Fri last_equity $103,564.53 → -$45.32 / -0.04% Fri-close-to-Mon-pre-mkt drift; net-flat weekend)
+- **Settled cash:** $41,500.59 (Alpaca `cash` field; T+1 clean — no unsettled proceeds pending)
+- **Buying power:** $339,654.50 (margin-inflated; IGNORE — use `cash` for cash-account sizing)
+- **Portfolio value:** $62,018.62 (long_market_value) → **59.9% deployed** (below 75-85% target; 6th week sub-target = XLK re-entry pressure escalating)
+- **Positions (3 of 6):** XLB 388 @ $51.615 (mkt $52.7931, +$457 / +2.28%, HWM $52.96), XLI 115 @ $173.86 (mkt $185.26, +$1,311 / +6.56%, HWM $188.185), XLP 238 @ $83.85 (mkt $85.00, +$273 / +1.37%, HWM $86.41)
+- **Open GTC trailing stops (all live, ratcheted):**
+  - XLB `982c5f58` stop $47.664 (10% trail, HWM $52.96, 9.72% cushion)
+  - XLI `4e057726` stop $169.3665 (10% trail, HWM $188.185, 8.58% cushion; 2× ratcheted Wed 8/6)
+  - XLP `3036af75` stop $81.2254 (6% trail, HWM $86.41, 4.44% cushion; Path-C renewed 7/31)
+
+### Market Context
+- **Oil (WTI/Brent):** WTI **$78.30**, Brent **$83.57** — **3rd consecutive day of gains**; Strait of Hormuz peace-deal doubts driving premium; XLB indirect tailwind INTACT (materials-adjacent chemicals/miners benefit from energy-cost floor); Barrick (B) earnings BMO today = gold/copper miner read.
+- **S&P 500 futures:** ES ~**7,777.25** (-0.03% pre-mkt, flat) after Fri record close 7,757.64 (best 5-day run since April 2026); NDX futures 29,834 slightly firmer.
+- **VIX:** **14.90** Fri close (-1.65%) — **CLEAN, well below 17 threshold** = XLK gate (d) FLIPS LIVE Day 22 after 3-day pop-defer sequence; VIX aug futures 16.92 (mild contango).
+- **NFP Fri 8/7 result:** **-23K vs +80K est** (first negative print of cycle); May+Jun revised down 103K; UR 4.1%; private +30K, govt -53K; **markets read dovish** = Sep rate-cut odds surge; SPX rallied to record on the "bad news = good news" theme.
+- **This week's macro binary:**
+  - **Wed 8/12 08:30 ET: July CPI** (est headline +0.1% m/m, 3.4% y/y; core +0.2% m/m, 2.5% y/y) = **THE mega-catalyst**
+  - **Thu 8/13 08:30 ET: July PPI + Initial Jobless Claims**
+  - **Fri 8/14 08:30 ET: Retail Sales + Michigan Sentiment prelim**
+- **Today (Mon 8/10) macro:** LIGHT — CB Employment Trends 10am, no major release; positioning day into CPI.
+- **Earnings today:** BMO — **B (Barrick Mining)** commodity read, **MNDY, SE, ONON, CAH, FERG, CAMT, AXSM**; AMC — **SPG (Simon Property, REIT bellwether), RKLB, ASTS, ACHR**.
+- **Sector YTD momentum (mid-Aug 2026):** XLK **+30.56%**, XLE **+28.61%**, XLI **+19.38%**, XLB **+16.56%**, XLRE mid-teens, XLP mid-single-digits, XLY worst; **our 3 sleeves = top-4 leaders (XLI + XLB confirmed leaders, XLP defensive).**
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: Phase 1 paper $100k baseline → max position $20,000 (20% cap). Week 16 = 0/3 trades used.
+
+1. **XLK re-entry — TOP CANDIDATE, GATE-CONDITIONAL** — Day 22 on bench.
+   - **Catalyst:** VIX 14.90 = gate LIVE Day 1 post-3-day defer; NFP-shock dovish = rate-cut fuel for growth/tech; XLK still #1 YTD sector +30.56% = momentum intact; AI-capex thesis extends (PLTR/AMZN/MSFT sequence).
+   - **Entry:** market on Mon 9:35-9:40am ET IF pre-open VIX still ≤17 AND NQ futures green AND XLK > $185 (~Fri close $187.97).
+   - **Size:** ~106 sh × $187 = ~$19,822 (20% cap $20,000).
+   - **Stop:** 10% GTC trailing (first-fill mechanical); ~$168.30 initial stop level.
+   - **Target:** 2:1 R/R = $206+ (+10%); realistic 1-2mo hold.
+   - **KILL-SWITCH:** if CPI Wed hot (headline >0.4% or core >0.4%) = risk-off pop, XLK could gap-down 3-5% → 10% trail protects but stop-out possible mid-week. **DEFER-TO-POST-CPI is the disciplined move.**
+
+2. **XLE re-entry — SECONDARY, oil-rally 3rd day** — Energy sector.
+   - **Catalyst:** WTI $78 rally + Hormuz-premium = direct beneficiary; XLE +28.61% YTD #2 sector; would complement XLB (materials) but risk = overlap with commodity/oil tape.
+   - **Skip rationale:** XLB already provides indirect oil/commodity exposure; adding XLE = doubling down on same macro thesis before CPI = concentration risk before binary event.
+
+3. **HOLD (default) — WINNING CONFIG** — 3 sleeves all green, XLI +6.56% approaching +7% territory (+15% tighten trigger $199.94 = 7.83% away), XLP defensive-bid for CPI week, XLB oil-tailwind riding. **Cash $41,500 dry powder preserved for post-CPI opportunity.**
+
+### Risk Factors
+- **🔴 CPI Wed 8/12 08:30 ET = macro-mega-binary** — hot print (>+0.4% headline or >+0.4% core) = rate-cut hopes DIE + risk-off + tech/growth sell + long-duration bond selloff → XLK/XLI vulnerable; cool print (<+0.1% headline) = rate-cut mania + risk-on melt-up. **Sizing UP into CPI = amateur; adding XLK Mon = accepting hold-through-CPI risk.**
+- **🟡 SPX at record 7,757 (best 5-day run since April)** = extended tape, sentiment stretched, mean-reversion risk any day; not chasing here.
+- **🟢 NFP-shock dovish backdrop** = validated by SPX ATH Fri; Sep FOMC cut re-priced higher = tailwind for our XLI/XLK candidate + XLE proxy XLB.
+- **🟡 Oil rally 3rd day WTI $78** — dual-edged: XLB tailwind ✓ + XLI aerospace/machinery input-cost pressure marginal — net-positive for our sleeves; but if WTI breaks $80 = inflation re-scare = CPI reads hotter risk.
+- **🟢 XLI HWM ratchet-imminent** — $199.94 = +15% tighten-to-7% trigger (7.83% away, ~2 sessions at pace = late-week fire); mechanical no-decision needed at /midday.
+- **🟡 XLP HWM $86.41 stop $81.2254** — 4.44% cushion; defensive-bid weeks favor XLP but CPI-hot scenario = staples pop marginal-negative from rate-cut re-pricing wipeout; hold-through fine, watch stop.
+- **🟢 XLB oil-tailwind + $52.96 HWM ratchet extension possible** on continued WTI rally + Barrick (B) commodity earnings read AM.
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Mon; XLK re-entry deferred to post-CPI Wed clarity)
+- Total positions after fill: 3 → **hypothetical XLK 4 (≤6 ✓)**
+- Trades placed this week incl fill: 0 → **hypothetical 1 (≤3 ✓)**
+- Position cost ≤ **$20,000 cap ✓** (XLK ~$19,822 @ $187)
+- Position cost ≤ settled cash **$41,500.59 ✓** ($21,678 headroom post-fill)
+- Specific catalyst documented ✓ (VIX gate flip + NFP dovish + XLK #1 YTD sector momentum)
+- Instrument is a stock ✓ (XLK = ETF/equity)
+- **DECISION OVERRIDE: Discipline > mechanical gate-pass.** Wed CPI = binary macro-mega-event; XLK entry Mon = accepting +72h hold-through-CPI risk; expected-value-negative given tape stretch + record-high positioning. **DEFER to Wed post-CPI 10am ET assessment.**
+
+### Decision: **HOLD** (Week 16 Day 1)
+- **Rationale:** All 3 sleeves winners, macro-mega-binary CPI Wed = anti-deploy; VIX clean but tape at record extension + CPI hold-through risk kills expected value of Mon add; cash $41,500 preserved for post-CPI Wed 10am opportunity; **patience > activity**.
+- **XLK re-entry Day 22:** GATE LIVE mechanically but STRATEGIC DEFER to Wed post-CPI (Day 24); if CPI cool = deploy Wed 10am with 2-day hold buffer; if CPI hot = XLK likely 3-5% cheaper = better entry.
+- **Mechanical GTC stops:** all 3 continue riding; XLI 2× ratcheted (10% trail on record HWM), XLB freshly ratcheted Wed 8/6, XLP Path-C 6% still tight; **no manual stop moves today**.
+- **Watch levels /midday (~12pm ET):**
+  - XLI +15% tighten trigger **$199.94** (7.83% away = mechanical trail-to-7% when hit)
+  - XLB HWM $52.96 → new HWM = auto-ratchet stop above $47.664
+  - XLP HWM $86.41 → -7% manual cut trigger $77.98 (very far)
+  - VIX 9:30am open — confirm sub-17 hold for Wed post-CPI XLK gate pre-check
+- **Bot cash-drag cost:** 6th consecutive week sub-60% deployed; XLK re-entry Day 22 = single-biggest capital-drag source; but disciplined defer > FOMO deploy into CPI binary.
+
+### Today's Discipline
+**HOLD — all 3 sleeves green + macro-binary CPI Wed = anti-deploy setup. XLK gate mechanically LIVE but strategically DEFERRED to Wed 10am post-CPI clarity. XLI HWM ratchet imminent (7.83% to +15% tighten-to-7% trigger $199.94). XLB oil-tailwind rides. XLP defensive-bid for CPI week. Cash $41,500 preserved for post-CPI opportunity. Patience > activity; hardest week to sit on hands = the week you MUST sit on hands.**
