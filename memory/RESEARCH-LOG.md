@@ -7383,3 +7383,126 @@ Reminder: Phase 1 paper $100k baseline → max position $20,000 (20% cap). Week 
 
 ### Today's Discipline
 **HOLD — all 3 sleeves green + CPI-day-minus-1 + oil-rally inflation-upside-risk + US-Iran deal-breakdown + VIX-uptick = risk-signal STACK DEEPENED = anti-deploy setup RE-VALIDATED. XLK gate mechanically LIVE Day 23 but strategically DEFERRED to Wed 10am post-CPI clarity. XLB HWM $53.20 fresh ratchet watch (0.04% away — TIGHTEST posture Phase-1 EVER). XLI/XLP HWM ratchet watch (1.94% / 1.72% away). XLI GTC exp 13 days = renewal window escalating (execute next week). Cash $41,500 preserved for post-CPI Wed 10am opportunity. Patience > activity; hardest week to sit on hands = CPI-week = the week you MUST sit on hands.**
+
+---
+
+## 2026-08-12 (Wed) — Pre-Market Research — Week 16 Day 3 / CPI DAY MACRO-MEGA-BINARY (8:30am ET) / Kalshi <15% odds YoY >3.4% = dovish-lean / Cleveland Fed nowcast 0.09% headline / 0.21% core = CLEAN / Equity $103,685.41 = NEW intra-Phase-1 EOD-adjacent HIGH (advances Wed 8/5 EOD $103,663.70) / XLB HWM RATCHETED Tue $53.20→$53.595 (3rd ratchet) stop $47.88→$48.2355 / VIX 15.28 sub-17 XLK gate LIVE Day 24 / Cash Day 9 stagnation / XLK re-entry deploy vs defer = post-CPI 10am ET decision
+
+### Account snapshot (pre-market Wed Aug 12, cash account, T+1)
+- **Equity:** $103,685.41 (Alpaca last_equity Tue $103,669.43 → **+$15.98 / +0.02% overnight micro-drift**; net-flat)
+- **Phase P&L:** **+$3,685.41 (+3.69%) = NEW intra-Phase-1 EOD-adjacent HIGH** (advances Wed 8/5 EOD $103,663.70 = prior high)
+- **Settled cash:** $41,500.59 (`cash`; T+1 clean, no unsettled — **Day 9 stagnation** since 7/31)
+- **Buying power:** $340,119.86 (margin-inflated; IGNORE — use `cash` for cash-account sizing)
+- **Long market value:** $62,184.82 → **60.00% deployed** (crossed 60% mark; 15pp below 75% floor; XLK non-deploy primary drag)
+- **Positions (3 of 6):**
+  - XLB 388 @ $51.6155 (mkt $53.29, +$649.72 / +3.24%, HWM $53.595, stop $48.2355 10% — RATCHETED TUE 3rd time)
+  - XLI 115 @ $173.86 (mkt $185.96, +$1,391.50 / +6.96%, HWM $188.185, stop $169.3665 10%, 2× ratcheted Wed 8/6)
+  - XLP 238 @ $83.8515 (mkt $84.55, +$166.24 / +0.83%, HWM $86.41, stop $81.2254 6% Path-C)
+- **Open GTC trailing stops (all live):**
+  - XLB `982c5f58` stop **$48.2355** (10% trail, HWM $53.595, 9.44% cushion, exp 2026-09-23) — **NEW RATCHET Tue**
+  - XLI `4e057726` stop $169.3665 (10% trail, HWM $188.185, 8.94% cushion, exp **2026-08-24 = 12 DAYS TO EXPIRY** — renewal escalating)
+  - XLP `3036af75` stop $81.2254 (6% Path-C trail, HWM $86.41, 3.93% cushion, exp 2026-10-29)
+
+### Market Context
+- **🔴🔴🔴 CPI JUL 8:30AM ET = MACRO-MEGA-BINARY** (T-≈4hr as of run):
+  - Consensus: **Headline +0.1% MoM / 3.4% YoY** (prior -0.4% MoM / 3.5% YoY); **Core +0.2% MoM / 2.5% YoY** (prior 0.0% / 2.6%)
+  - **Cleveland Fed nowcast: 0.09% headline / 0.21% core** = CLEAN-IN-LINE
+  - **Kalshi prediction market: <55% odds YoY >3.3%; <15% odds >3.4%** = DOVISH-LEAN priced
+  - Reaction framework: <0.1% headline OR <0.1% core = melt-up rate-cut re-pricing; 0.1-0.2% = in-line/mild-bid; >0.3% headline OR >0.4% core = risk-off tech-hit
+- **Oil (WTI/Brent):** WTI **$83.68-83.86** (steady from Mon +5% shock; front-month $83.86 +0.66); Brent **$89.80-89.94** (+1.15% today); **Iran-Hormuz still closed** per Iran demands (Pakistan defense min: US-Iran "close to arrangement"); inflation-upside-risk into CPI SUSTAINED
+- **S&P 500 futures:** ES **~$7,765** (+0.2% Yahoo / +0.3% Barron's / +0.19% Investing daily); Aug 12 3:52am ET; muted-green pre-CPI
+- **NQ futures:** **+0.7% per Barron's** = tech risk-on-lean (SMCI +9.18% AH bellwether pull)
+- **VIX:** Tue close **15.28 (-1.16%)**; pre-open **15.42-15.57** (Yahoo/CBOE); **STILL sub-17** = XLK gate (d) mechanically LIVE Day 24
+- **Today's catalysts (Wed 8/12):**
+  1. **🔴 CPI JUL 8:30am ET = SINGLE-BIGGEST BINARY** (rates/FX/equities all pivot)
+  2. EIA Crude Inventories 10:30am ET (oil-move amplifier)
+  3. MBA Mortgage Apps, Treasury Budget
+  4. **SMCI Q4 blowout AH Tue +9% = AI-hardware bellwether** (XLK indirect)
+  5. Iran-Hormuz headline risk (dominant tape)
+- **Earnings BMO (Wed 8/12):** **NBIS (Nebius) PMO AI-hyperscaler** (est -$0.72 EPS); **AMCR (Amcor) BMO** (est $1.19 EPS / $6.05B rev — packaging XLP-adjacent; ~$21.79B mcap); **EAT (Brinker) BMO** (est $3.09); **FRVO/BETA** small-caps. **AMC:** CSCO (XLK top-10 3.18% — Q4 est $1.13-1.17), COHR, CBRG, CRWV, PAAS.
+- **Econ calendar week:**
+  - **🔴🔴🔴 Wed 8/12 8:30am: JULY CPI**
+  - **Thu 8/13 8:30am: July PPI + Initial Jobless Claims** (est PPI +0.1% MoM prior -0.3%)
+  - **Fri 8/14 8:30am: July Retail Sales** (est +0.2% MoM) + Michigan Sentiment prelim
+- **Sector momentum YTD (Aug 8 snapshot MarketIndicators):** XLK **+29.26%** (mega-cap leader), XLI **+19.71%** (#2), XLB **+17.40%** (+4.62% 1M = BEST 1M of 4), XLP **+9.02%** (defensive-steady)
+- **Sector rotation (Investing.com quadrant):** **LEADING = XLP + XLI + XLB + XLE** (all 3 held sleeves in Leading); **LAGGING = XLK + XLC + XLY + XLF**; Healthcare WEAKENING
+- **Held-ticker news:**
+  - **XLI:** Manufacturing PMI 4-year-high (defense + AI-capex demand); GE Vernova + RTX + CSX blowout earnings; AI-capex thesis MEGA-INTACT; XLI approaching $187 resistance
+  - **XLB:** Mott Capital's Kramer flags "extremely overextended"; XLB 52-wk high $54.14; earnings 10/13 beat but XLB fell 2% that week = single-name/sector dispersion; oil-rally = feedstock pass-through tailwind
+  - **XLP:** Consumer Staples LEADING per rotation; WMT/HD/TGT earnings next week = thesis-confirmation catalysts
+  - **XLK (not held):** Tue close $186.09; pre-mkt $187.59 (+0.81%); NQ +0.7% pre-CPI; **SMCI AH +9%** on Q4 AI-hardware beat = tailwind
+
+### XLK re-entry gate check (Wed Week 16 Day 3 = Day 24, POST-CPI 10am ET decision)
+- (a) **CPI cool** — TBD 8:30am (Cleveland nowcast + Kalshi = DOVISH-LEAN prior)
+- (b) **XLK >$185** — pre-mkt $187.59 ✅ (buffer above $185)
+- (c) **NQ risk-on (>+0.3%)** — +0.7% ✅
+- (d) **VIX <17** — 15.28 ✅ Day 24 LIVE
+- (e) **Banks 5/5 beat** ✅
+- (f) **PPI cool** ✅ (last read)
+- **MECHANICAL: 5/6 GREEN + 1/6 CPI-PENDING = strongest gate setup in Phase 1**; sits behind ONE binary print
+- **DECISION MATRIX:**
+  - **CPI ≤ consensus (0.1% MoM headline / 0.2% MoM core) OR cooler:** **DEPLOY XLK 106 sh × $187 = ~$19,822** market + 10% GTC trail at ~$168.30 (base case ~55% probability given Cleveland nowcast + Kalshi)
+  - **CPI in-line (matches consensus exactly):** DEPLOY per gate discipline (~25% probability)
+  - **CPI HOT (>0.3% headline OR >0.4% core):** DEFER Wed / re-check Thu-Fri; XLK likely gaps -2-4% providing better entry Thu (~15% probability)
+  - **CPI DISASTER (>0.4% headline AND >0.4% core = tariff-inflation shock):** DEFER + monitor sleeves (esp XLK-adjacent XLP staples) (~5%)
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: Phase 1 paper $100k baseline → max position $20,000 (20% cap). Week 16 = 0/3 trades used.
+
+1. **XLK re-entry — TOP CANDIDATE, DAY 24, POST-CPI 10am ET DEPLOY BASE CASE.**
+   - **Catalyst:** All mechanical gates GREEN (VIX 15.28 sub-17 / XLK $187.59 above $185 / NQ +0.7% / CPI nowcast dovish / SMCI AI-hardware blowout AH); Kalshi prices CPI YoY <3.4% at 85% = base case dovish; XLK YTD +29.26% mega-cap leadership intact.
+   - **Size:** floor($20,000 / XLK_open_price) shares MKT; ~106 sh × $187 = **~$19,822** ≤ 20% cap ✓; settled cash $41,500.59 → $21,678 headroom post-fill ✓
+   - **Stop:** 10% trailing GTC attached immediately → initial ~$168.30 (10% below fill); 30-day-cushion beat
+   - **Target:** $206+ (+10% from $187) minimum 2:1 R:R; hyperscaler AI-capex thesis + broad tech leadership = 3-6 month hold-through
+   - **Trigger sequence:** 8:30am CPI → 8:35am read → 9:30am gates re-verify → 10:00am DEPLOY (post first-30-min settle if CPI clean); if HOT → DEFER + Thu re-check
+
+2. **HOLD (fallback if CPI hot) — WINNING CONFIG** — 3 sleeves all green; XLB fresh 3rd ratchet posture; XLI +6.96% near Phase-1 high; XLP defensive-bid intact for CPI-week. Cash $41,500 preserves for Thu/Fri re-check if Wed deploys defer.
+
+3. **SKIP single-name earnings (NBIS/AMCR/EAT BMO + CSCO AMC)** — binary anti-strategy per Rule; XLK indirect via CSCO ~3.18% weight = diluted; NBIS AI-hyperscaler binary; PASS all.
+
+### Risk Factors
+- **🔴🔴🔴 CPI JUL 8:30AM ET = MACRO-MEGA-BINARY** — 4-6% intraday index swing possible on tail-print; XLK is the deploy-gate; **strategic-defer decision made pre-open, execute post-CPI 10am ET**
+- **🔴🔴 OIL RALLY REGIME SUSTAINED** — WTI $83-84 Brent $89-90 = inflation-upside-risk into CPI print (10-15 bp mechanical adder to hot-print probability); XLB dual-edged (feedstock pass-through UP but broader inflation risk = XLK deploy-drag)
+- **🔴 US-Iran DEAL-BREAKDOWN OVERHANG** — Iran keeps Hormuz closed pending demands; supply premium sustained; equity mildly cautious; tail-risk = deal-breakthrough Wed = oil -5-8% = XLB flip + XLK rip (aligned with CPI-cool scenario)
+- **🟡 XLB "EXTREMELY OVEREXTENDED" per Mott Capital** — 52-wk high $54.14 = 1.60% away = position at nose-bleed levels; 3rd ratchet Tue reflects; monitor for mean-reversion but framework = ratchet mechanically without discretion
+- **🟢🟢 XLB 3rd HWM RATCHET FIRED TUE** — HWM $53.20→$53.595 (+74 bps); stop $47.88→$48.2355 (+72 bps); position-life-high posture; any Wed $53.60+ = 4th ratchet
+- **🟢 XLI POSITION-LIFE-HIGH BAND (+6.96%)** — near Wed 8/6 peak +7.39%; AI-capex + manufacturing PMI 4-yr-high + defense + earnings blowouts (GE Vernova/RTX/CSX) = MEGA-INTACT
+- **🟡 XLI GTC EXP 2026-08-24 = 12 DAYS TO EXPIRY** — renewal window escalating; Mon-Wed next week (Aug 17-19) execute; NOT urgent Wed
+- **🟢 XLP DEFENSIVE-BID Consumer Staples LEADING** — +0.83% intact; WMT/HD/TGT earnings next week = thesis-confirmation
+- **🟡 CASH STAGNATION DAY 9** ($41,500.59 unchanged since 7/31); deployment 60.00% = 15pp below 75% floor; XLK deploy resolves 50% of stagnation cost if CPI clean
+- **🟢 EQUITY $103,685.41 = NEW intra-Phase-1 EOD-adjacent HIGH** advances Wed 8/5 EOD $103,663.70 prior mark
+- **🟢 SMCI Q4 BLOWOUT AH +9.18%** = AI-hardware bellwether = XLK indirect tailwind + XLI-adjacent AI-capex thesis reinforcement
+- **🟢 CLEVELAND FED NOWCAST + KALSHI DOVISH-LEAN** — model reads 0.09% headline / 0.21% core = below consensus; prediction market <15% odds >3.4% YoY
+
+### Buy-Side Gate — CONDITIONALLY INVOKED for XLK (contingent CPI ≤ consensus post-8:30am)
+- Total positions after fill: 3 → **4 (≤6 ✓)**
+- Trades placed this week incl fill: 0 → **1 (≤3 ✓)**
+- Position cost ~$19,822 (106 sh × $187) ≤ **$20,000 20% cap ✓**
+- Position cost ≤ settled cash **$41,500.59 ✓** ($21,678 headroom post-fill)
+- Specific catalyst documented ✓ (VIX gate LIVE + CPI dovish-lean + AI-capex mega-JV + SMCI blowout + XLK YTD +29.26% leader)
+- Instrument is a stock ✓ (XLK = ETF/equity)
+- **CONDITIONAL: CPI ≤ consensus (0.1% headline / 0.2% core MoM) OR cooler → DEPLOY; CPI HOT (>0.3% headline OR >0.4% core) → DEFER**
+
+### Decision: **HOLD pre-open → POST-CPI 10am ET DEPLOY DECISION on XLK re-entry**
+- **Rationale:** All mechanical gates GREEN 5/6 with 1/6 CPI-pending; Cleveland nowcast + Kalshi prediction market both dovish-lean = base-case DEPLOY ~55% probability; Week 16 fresh cap 0/3 preserved for single high-conviction trade; XLK YTD +29.26% mega-cap leadership + AI-capex thesis intact + SMCI Q4 blowout AH = tailwinds stacking; 9-day cash stagnation cost mounting but CPI-day = correct binary to trade around, NOT hold-through
+- **Execution sequence:**
+  1. **8:30am ET:** CPI print — read headline/core MoM + YoY vs consensus
+  2. **8:35am ET:** Reaction attribution (dovish/in-line/hot)
+  3. **9:30am ET cash open:** /market-open routine runs; gate re-verify (VIX / XLK / NQ)
+  4. **9:35-10:00am ET:** Post first-30-min settle to avoid CPI-fade whipsaw
+  5. **10:00am ET DEPLOY DECISION:**
+     - CPI ≤ consensus + gates hold → **BUY floor($20,000/XLK) sh MKT + attach 10% trail GTC**
+     - CPI HOT → **DEFER Wed / re-check Thu post-PPI**
+- **Mechanical GTC stops:** all 3 continue riding; XLB freshly 3rd-ratcheted Tue, XLI 2× ratcheted Wed 8/6, XLP Path-C 6% tight; **no manual stop moves today**
+- **XLI GTC expiry runway:** 12 days to Aug 24 exp; renewal window Mon-Wed next week (Aug 17-19); NOT urgent Wed
+- **Watch levels /midday (~12pm ET):**
+  - **XLK deploy execution log** if CPI clean (fill price + shares + stop attached + Alpaca order-id)
+  - **XLB HWM $53.595 fresh reclaim** → 4th ratchet (0.57% away — any $53.60+ intraday)
+  - **XLI HWM $188.185 reclaim** → auto-ratchet (1.20% away, +$2.225 needed)
+  - **XLP HWM $86.41 reclaim** → auto-ratchet (2.20% away, +$1.86 needed)
+  - **VIX 12pm ET** — hold sub-17 confirms XLK gate post-CPI intact
+  - **Oil PM** — WTI <$82 = XLB fade; WTI >$85 = CPI-hot flashback risk
+  - **CSCO AMC prep** — XLK top-10 (3.18%); post-CPI + XLK deploy-status determines watch-priority
+
+### Today's Discipline
+**CPI-DAY = SEMI-ACTIVE — pre-open HOLD, post-CPI 10am ET XLK deploy vs defer per binary print. All mechanical gates 5/6 GREEN pre-CPI (VIX 15.28 / XLK $187.59 / NQ +0.7% / SMCI AI-tailwind / XLK YTD +29.26%). Cleveland Fed + Kalshi both dovish-lean = base-case DEPLOY ~55% prob. Week 16 fresh cap 0/3 preserved for single high-conviction XLK trade. XLB 3rd HWM ratchet Tue (stop $48.2355) = position-life-high posture continues. XLI/XLP GTC riding, no manual moves. XLI GTC renewal Mon-Wed next week (Aug 17-19). Cash $41,500 = 9-day stagnation resolves if XLK deploys ($21,678 post-fill). Discipline: NEVER deploy pre-8:30am release; NEVER trade first 30 min post-CPI (whipsaw); DEPLOY 10am ET post-settle IF gates hold. Equity $103,685.41 = NEW intra-Phase-1 EOD-adjacent HIGH → correct posture, correct binary to trade around. Patience > activity; CPI-day = the ONE day where prepared-decisiveness beats hold-through.**
