@@ -7506,3 +7506,119 @@ Reminder: Phase 1 paper $100k baseline → max position $20,000 (20% cap). Week 
 
 ### Today's Discipline
 **CPI-DAY = SEMI-ACTIVE — pre-open HOLD, post-CPI 10am ET XLK deploy vs defer per binary print. All mechanical gates 5/6 GREEN pre-CPI (VIX 15.28 / XLK $187.59 / NQ +0.7% / SMCI AI-tailwind / XLK YTD +29.26%). Cleveland Fed + Kalshi both dovish-lean = base-case DEPLOY ~55% prob. Week 16 fresh cap 0/3 preserved for single high-conviction XLK trade. XLB 3rd HWM ratchet Tue (stop $48.2355) = position-life-high posture continues. XLI/XLP GTC riding, no manual moves. XLI GTC renewal Mon-Wed next week (Aug 17-19). Cash $41,500 = 9-day stagnation resolves if XLK deploys ($21,678 post-fill). Discipline: NEVER deploy pre-8:30am release; NEVER trade first 30 min post-CPI (whipsaw); DEPLOY 10am ET post-settle IF gates hold. Equity $103,685.41 = NEW intra-Phase-1 EOD-adjacent HIGH → correct posture, correct binary to trade around. Patience > activity; CPI-day = the ONE day where prepared-decisiveness beats hold-through.**
+
+---
+
+## 2026-08-13 (Thu) — Pre-Market Research — Week 16 Day 4 / PPI-Jul + Initial Jobless Claims 8:30am ET binary / AMAT AMC = XLK semi-cap bellwether binary / VIX 14.55 CPI-day close = SUB-15 FIRST TIME (RISK-ON regime) / Oil DIPPED WTI $82.04-82.39 (-1.06%) = inflation-pressure EASING / Equity $103,576.53 = flat overnight vs Wed close $103,555.16 (+$21.37 / +0.02% micro-drift) / 4/6 book stable / Week 16 1/3 trades / Deployment 79.05% INSIDE 75-85% band Day 2 / XLI GTC exp 11 days = renewal escalating
+
+### Account snapshot (pre-market Thu Aug 13, cash account, T+1)
+- **Equity:** $103,576.53 (Alpaca last_equity Wed $103,555.16 → **+$21.37 / +0.02% overnight micro-drift**; net-flat)
+- **Phase P&L:** **+$3,576.53 (+3.58%)** = holds within 11 bps of Tue fresh EOD-high +3.67% ($103,669.43)
+- **Settled cash:** $21,698.58 (`cash`; T+1 clean, no unsettled; **Day 2 post-XLK-deploy dry powder = 20.94%**)
+- **Buying power:** $316,052.59 (margin-inflated; IGNORE — use `cash` for cash-account sizing)
+- **Long market value:** $81,877.95 → **79.05% deployed** (INSIDE 75-85% target band Day 2; 9-day cash-stagnation streak Jul 31-Aug 11 remains BROKEN)
+- **Positions (4 of 6):**
+  - XLB 388 @ $51.6155 (mkt $52.58, +$374.24 / +1.87%, HWM $53.595, stop $48.2355 10%)
+  - XLI 115 @ $173.86 (mkt $185.88, +$1,382.30 / +6.91%, HWM $188.185, stop $169.3665 10%)
+  - XLK 105 @ $188.5905 (mkt $188.84, +$25.87 / +0.13%, HWM $189.47, stop $170.523 10%, Round 2 Day 2)
+  - XLP 238 @ $83.8515 (mkt $85.18, +$316.18 / +1.58%, HWM $86.41, stop $81.2254 6% Path-C)
+- **Open GTC trailing stops (all live):**
+  - XLB `982c5f58` stop **$48.2355** (10% trail, HWM $53.595, 8.26% cushion, exp 2026-09-23)
+  - XLI `4e057726` stop $169.3665 (10% trail, HWM $188.185, 8.89% cushion, exp **2026-08-24 = 11 DAYS TO EXPIRY** — renewal window Aug 17-19)
+  - XLK `ad940893` stop $170.523 (10% trail, HWM $189.47, 9.71% cushion, exp 2026-11-10, 1 auto-ratchet fired Wed midday)
+  - XLP `3036af75` stop $81.2254 (6% Path-C trail, HWM $86.41, 4.53% cushion, exp 2026-10-29)
+
+### Market Context
+- **🔴🔴 PPI-Jul 8:30am ET = MACRO BINARY** (T-~3.5hr as of run):
+  - Consensus: **Headline +0.2% MoM / YoY 4.9%** (prior -0.3% MoM / 5.5% YoY); **Core +0.3% MoM** (prior +0.2%)
+  - Reaction framework: <0.1% headline = risk-on continuation, XLK/XLI ratchets fire probable; 0.2% in-line = mild-bid, ratchets maybe; >0.4% headline = rate-cut re-pricing, defensive-flow, XLK/XLI mild-pullback
+- **🟡 Initial Jobless Claims 8:30am ET** — recent claims @ 1969-low; any spike >250k = labor-slack signal (dovish); below 220k = tight-labor persists
+- **🔴 AMAT AMC (~4:30pm ET) = XLK SEMI-CAP BELLWETHER BINARY** — Q3'26 est rev ~$8.95-9B / EPS ~$3.36; prior Q2 blowout ($7.91B / $3.51 GAAP EPS); AI-datacenter-demand thesis; XLK single-largest post-CPI catalyst; XLK held Day 2 = direct-exposure. Not a buy candidate (single-name binary anti-strategy) but tape-context Fri open.
+- **Oil (WTI/Brent):** WTI **$82.04-82.39** (-1.06% from Wed $83.68 = **DIPPED** = inflation-pressure EASING); Brent **$88.18** (-0.90%); WTI Sep contract $82.04 (Barchart 5:12am CT) = oil-rally regime cooling post-CPI-in-line = SUPPORTIVE for equities + XLK/XLI (removes rate-cut-defer overhang)
+- **S&P 500 futures:** ES **~$7,780-$7,784** (+0.18% to +0.42% depending on source; CNBC +0.42% at 9:49am / Barron's +0.2% 6:11am / Barchart +0.18% 6:08am CT); **muted-green pre-PPI** post-CPI record-adjacent
+- **NQ futures:** **fractionally red per one source; +0.1% Barron's** = **CAUTIOUS-FLAT** post-CPI + AMAT AMC binary de-risk
+- **VIX:** Wed close **14.55 (-4.78%)** = **SUB-15 FIRST TIME in weeks** (Tue 15.28 / Mon 15.46); pre-open **14.69** (Cboe 8:41am ET) = holds sub-15 = **RISK-ON REGIME CONFIRMED**; XLK gate (d) MEGA-LIVE
+- **Today's catalysts (Thu 8/13):**
+  1. **🔴 PPI Jul 8:30am ET = HEADLINE MACRO**
+  2. **🟡 Initial Jobless Claims 8:30am ET** (labor-tightness signal)
+  3. **🔴 AMAT AMC ~4:30pm ET = XLK bellwether Q3 print**
+  4. Fed speakers: Hammack + Barkin mid-morning
+  5. 30-yr Treasury auction 1pm ET (yield-sensitive)
+- **Earnings BMO (Thu 8/13):** **Deere (DE) BMO** = XLI-adjacent AG-equipment bellwether (post-earnings XLI beta); Tapestry, Alibaba, Brookfield, NetEase, JD.com, Nu Holdings. **AMC:** **AMAT** (XLK semi-cap top-catalyst).
+- **Econ calendar week remaining:**
+  - **Thu 8/13 8:30am: PPI Jul + Initial Jobless Claims** (est PPI +0.2% MoM / YoY 4.9%)
+  - **Fri 8/14 8:30am: Retail Sales Jul (est +0.2% MoM) + Michigan Sentiment prelim**
+- **Sector momentum YTD (Aug 8 MarketIndicators):**
+  - **XLE +36.50%** (#1)
+  - **XLK +31.18%** (#2, +1.49% Wed post-CPI)
+  - **XLI +19.83%** (#3, +0.10% Wed)
+  - **XLB +15.94%** (#4, -1.24% Wed = Mott overextended digest Day 2)
+  - **XLP +9.53%** (#5, +0.46% Wed)
+- **Sector rotation (QuantLake weekly):** **XLB posted STRONGEST upside rotation weekly** (+0.49); XLI + XLK rotated higher into 2nd/3rd (early-weakening); Consumer Discretionary/Retail rising from lagging; **held-sleeves ALL in top-4 rotation slots**
+- **Held-ticker news:**
+  - **XLK:** Wed +1.49% ($188.86 close) on CPI-in-line risk-on; **SMCI + CRWV Q4 blowouts AH Tue = AI-hardware bellwether tailwind persists**; AMAT AMC today = second AI-capex confirmation catalyst; XLK YTD +31.18% (advances vs prior +29.26% snapshot = accelerating leadership); NVDA/hyperscaler thesis MEGA-INTACT
+  - **XLI:** Wed +0.10% ($185.88 close) = position-life-high +6.91%; **Deere BMO today = XLI-adjacent AG-equipment print** (post-earnings XLI beta); AI-capex/reshoring/defense thesis intact; Manufacturing PMI 4-yr high
+  - **XLB:** Wed -1.24% ($52.58 close) = Mott "extremely overextended" digest Day 2; oil-rally cooling today = feedstock-pass-through tailwind slightly weaker; XLB YTD +15.94% still strong; monitor $52 test = defensive-flow-into-XLB reversal or sub-$50 pre-cut escalation
+  - **XLP:** Wed +0.46% ($85.08 close) = defensive-bid marginal; WMT/HD/TGT earnings NEXT WEEK = binary catalyst-stack
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: LIVE ~$7,500 IRA (Phase 2) — position cap $1,500. **However bot currently paper-Phase-1 $100k baseline** = cap $20,000. Week 16 = **1/3 trades used** (XLK Wed).
+
+1. **HOLD — TOP CHOICE, WINNING CONFIG.**
+   - **Rationale:** 4/6 book all green (+0.13% to +6.91%); 79% deployed inside target band Day 2; PPI 8:30am + AMAT AMC = binary-catalyst-DAY; VIX sub-15 = risk-on but PPI-print-fade risk = trade-into-known-binary = amateur; XLK Day 2 = let position settle before adding 5th slot; cash $21,698 preserved for post-PPI Fri opportunity OR next-week WMT/HD/TGT catalyst window
+   - **Sub-actions:** monitor mechanical HWM ratchets (XLK 0.32% away = imminent-next; XLI 1.22% away; XLB 1.89% away; XLP 1.54% away); XLI GTC renewal window Aug 17-19 (execute Mon-Wed next week, not urgent Thu)
+
+2. **XLE (if PPI cool + 5th slot expansion) — SPECULATIVE ADD**
+   - **Catalyst:** Energy YTD +36.50% = #1 sector leader Phase-1; XLE not held; oil dip today mild-negative but structural (Iran-Hormuz overhang + OPEC+ discipline) intact; add 4/6 → 5/6 book, deploy remaining cash bucket
+   - **Size:** ~$20,000 = floor($20,000 / XLE_price) shares MKT + 10% GTC trail
+   - **Stop:** 10% trailing GTC → initial ~10% below fill
+   - **Target:** 3-6 month energy tailwind hold-through
+   - **DEFER** — PPI + AMAT = binary-day, adding 5th slot into stacked-binaries = amateur hold-through risk; if PPI cool + XLE holds Fri = re-evaluate Mon post-Retail Sales
+   - **Gate check would be:** 4→5/6 ✓, 1→2/3 trades ✓, cost ≤ $20k ✓, cost ≤ $21,698 ✓, catalyst ✓, stock ✓ — MECHANICAL PASS but STRATEGIC DEFER
+
+3. **SKIP single-name earnings (AMAT AMC, Deere BMO)** — binary anti-strategy per Rule; XLK direct exposure captures AMAT beta via 4th-largest weight (~2-3%); XLI direct exposure captures Deere beta; **NO single-name trades**
+
+### Risk Factors
+- **🔴🔴 PPI JUL 8:30AM ET = MACRO BINARY** — consensus +0.2% MoM headline / YoY 4.9% (down from 5.5%); cool print = XLK/XLI ratchets fire probable; hot print = rate-cut-timing re-pricing risk, defensive-rotation-into-XLP
+- **🔴 AMAT AMC ~4:30PM ET = XLK SEMI-CAP BELLWETHER** — AI-datacenter-demand thesis binary; XLK Day 2 direct-exposure; post-close impact = Fri open determinant; SMCI/CRWV blowouts Tue AH = tailwind stacking
+- **🟢 CPI-JUL IN-LINE Wed = RATE-CUT RUNWAY PRESERVED** — headline +0.1% MoM / core +0.2% MoM matched consensus exactly; September Fed rate-cut probability ~99% (source: yahoo); XLK deploy validated on price action Day 1 (+$28.30 close)
+- **🟢🟢 VIX SUB-15 FIRST TIME in weeks** — Wed close 14.55 (vs Tue 15.28, Mon 15.46); pre-open 14.69; **RISK-ON REGIME CONFIRMED**; XLK gate (d) MEGA-LIVE; sub-15 sustained = XLK/XLI upside continuation base-case
+- **🟢 OIL DIPPED WTI $82.04-82.39 (-1.06%)** — inflation-pressure EASING post-CPI-in-line; removes rate-cut-defer overhang; supports XLK/XLI (rate-sensitive); mild-negative XLB (feedstock tailwind slightly weaker but not thesis-breaking)
+- **🟢 XLK YTD +31.18% = ACCELERATING LEADERSHIP** — advances vs prior +29.26% snapshot (+192 bps in ~1 wk); AI-capex/hyperscaler mega-thesis re-validated on CPI-in-line + SMCI/CRWV/AMAT catalyst-stack
+- **🟢 XLI POSITION-LIFE-HIGH BAND (+6.91%)** — near Wed 8/6 peak +7.39%; AI-capex + Manufacturing PMI 4-yr-high + defense + Deere BMO catalyst = MEGA-INTACT
+- **🟢 4/6 BOOK ALL GREEN** — winning-configuration compounding; unrealized total $2,098.58 across 4 sleeves; no -7% cut escalation risk (all cushions >7%, tightest XLK freshest at 7.14%)
+- **🟡 XLI GTC EXP 2026-08-24 = 11 DAYS TO EXPIRY** — renewal window ACTIVE; target Mon-Wed next week (Aug 17-19) execute renewal; NOT urgent Thu but critical countdown
+- **🟡 XLB "EXTREMELY OVEREXTENDED" per Mott Capital Day 3** — Wed -1.24% mean-reversion continues; unrealized retreats to +1.87%; pre-cut $50 cushion 4.91% (below 5% warning) = escalation-monitor Thu; $52 test = defensive-flow-into-XLB reversal decision-point
+- **🟢 XLK HWM RATCHET IMMINENT-NEXT** — 0.32% away ($189.48+ any Thu print = ratchet fires); Day 2 continuation on cool PPI = auto-mechanical stop advance
+- **🟡 AI-CAPEX BINARY STACK CONCENTRATION** — XLK held + AMAT AMC + Deere BMO + Fed speakers = 4 sequential Thu binaries into 1 held-book sleeve = amplified single-day variance; discipline: NO manual moves, mechanical ratchets only
+- **🟢 PHASE-1 EQUITY $103,576.53 = 3RD-HIGHEST EOD-ADJACENT STANDING** (Tue $103,669.43 fresh-high, Wed 8/5 $103,663.70 prior-high, Thu pre-open $103,576.53 3rd)
+- **🟡 RATE-CUT PROBABILITY ~99% Sep FOMC** priced in — hot PPI could shave probability = XLK/XLI/rate-sensitive-pullback risk (mild vs CPI-magnitude)
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Thu; PPI + AMAT binary-stacked)
+- Total positions after fill: 4 → hypothetical 5 (≤6 ✓ mechanically)
+- Trades placed this week incl fill: 1 → hypothetical 2 (≤3 ✓ mechanically)
+- Position cost ≤ **$20,000 20% cap ✓** for any candidate
+- Position cost ≤ settled cash **$21,698.58 ✓** (headroom exists)
+- Specific catalyst documented — **NONE with binary-catalyst-day-EV-positive frame**
+- Instrument is a stock ✓
+- **STRATEGIC OVERRIDE: Discipline > mechanical gate-pass.** PPI 8:30am + AMAT AMC = 2 sequential binaries; adding 5th slot pre-PPI = accepting +8hr hold-through-double-binary risk = expected-value-negative given already-deployed 4/6 winning-config. **DEFER any 5th-slot decision to post-PPI 10am Thu OR Fri post-AMAT-AMC-digest.**
+
+### Decision: **HOLD** (Week 16 Day 4 / PPI-day / AMAT-AMC-day)
+- **Rationale:** All 4 sleeves winners; PPI 8:30am + AMAT AMC = 2 sequential binaries on same session = amplified variance; adding 5th slot pre-binary = amateur; 79% deployed inside target band = ideal posture; cash $21,698 preserved for Fri post-AMAT-digest OR next-week WMT/HD/TGT catalyst window; **patience > activity, especially binary-day**
+- **XLK Day 2 monitor:** post-CPI-in-line deploy fully validated Day 1 (+$28.30 close, +0.13%); HWM auto-ratchet fired midday Wed ($188.51→$189.47); AMAT AMC = direct-thesis-confirmation catalyst; **NO manual moves** — mechanical ratchets only
+- **Mechanical GTC stops:** all 4 continue riding; XLK 1 auto-ratchet Wed midday, XLB 3rd ratchet Tue, XLI 2× ratcheted Wed 8/6, XLP Path-C 6%; **no manual stop moves Thu**
+- **XLI GTC expiry runway:** 11 days to Aug 24 exp; renewal window ACTIVE; **Mon-Wed next week (Aug 17-19) target for renewal**; NOT urgent Thu
+- **Watch levels /midday (~12pm ET):**
+  - **8:30am ET PPI print** — read headline/core MoM + YoY vs consensus (+0.2% / +0.3% / 4.9%)
+  - **XLK HWM $189.47 fresh reclaim** → auto-ratchet fires (0.32% away = **IMMINENT-NEXT** — any $189.48+ Thu print)
+  - **XLI HWM $188.185 reclaim** → auto-ratchet (1.22% away, +$2.305 XLI print)
+  - **XLB HWM $53.595 reclaim** → auto-ratchet (1.89% away — mean-reversion widened distance vs Wed 0.66%)
+  - **XLP HWM $86.41 reclaim** → auto-ratchet (1.54% away, +$1.33 XLP print)
+  - **VIX 12pm ET check** — hold sub-16 preserves risk-on regime; spike >17 = pre-AMAT-de-risk escalation
+  - **Oil PM check** — WTI <$80 = XLB fade extension; WTI >$85 = CPI-in-line-flashback risk
+  - **XLB pre-cut $50 escalation-monitor** — Day 3 Mott "overextended" digest; sub-$52 = flag; sub-$50 = pre-cut warning ACTIVE
+  - **Deere BMO tape read** — XLI adjacent, post-earnings XLI beta
+  - **AMAT positioning tape** — XLK direct-exposure sensitivity into AMC print
+
+### Today's Discipline
+**HOLD — 4/6 book all green + 79% deployed inside band + PPI 8:30am + AMAT AMC 4:30pm = binary-catalyst-stacked-day = ANTI-DEPLOY setup. VIX sub-15 CPI-day close (14.55) = risk-on regime CONFIRMED; XLK Day 2 mechanical ratchet imminent-next (0.32% away). Oil DIPPED (-1.06%) = inflation-pressure EASING = SUPPORTIVE. All 4 sleeves in top-4 sector-rotation slots. XLI GTC renewal window Aug 17-19 (11 days to exp). XLB Day 3 Mott-overextended-digest = pre-cut $50 escalation-monitor. NO manual moves; mechanical ratchets only. Cash $21,698 preserved for post-AMAT Fri opportunity OR next-week WMT/HD/TGT catalyst window. Patience > activity; binary-day = mechanical-discipline-day, NOT active-trading-day. Equity $103,576.53 (+3.58% Phase P&L) = winning-config compounding correctly.**
