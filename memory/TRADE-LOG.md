@@ -1856,3 +1856,45 @@ No open positions.
 **XLI GTC expiry runway:** order `4e057726` exp 2026-08-24 = **10 DAYS TO EXPIRY** — renewal window ACTIVE; target Mon-Wed next week (Aug 17-19) execute renewal.
 
 **Monday Aug 17 plan:** /pre-market opens Week 17 Day 1 with **fresh 3/3 trade cap RESET**, $21,698.58 dry powder (20.89%), **weekend AMAT-digest continuation + Housing Starts/Building Permits Tue + Existing Home Sales Wed + WMT (Tue)/HD (Tue)/TGT (Wed) Consumer-Staples earnings-stack Tue-Wed = binary XLP catalyst-week + XLI GTC expiry renewal window (Mon-Wed)**. **CRITICAL Mon priorities:** (1) Weekend AMAT-digest — hold XLK >$189 = clean-continue, sub-$188 = negative single-name transmission escalates; (2) XLP HWM $86.41 reclaim watch (**0.45% away — imminent-next Week 17 Day 1**); (3) XLI HWM $188.185 reclaim watch (1.00% away); (4) XLK HWM $191.74 reclaim watch (0.94% away); (5) XLB HWM $53.595 reclaim watch (2.14% away — mean-reversion Day 4 stabilizing); (6) 5/6 book expansion decision (fresh 3/3 trade cap available Mon); (7) XLI GTC renewal execute window (Mon-Wed target); (8) WMT/HD/TGT earnings-stack Tue-Wed = XLP defensive-thesis binary catalyst. **BEST-CASE Mon:** Clean AMAT weekend-digest + XLP HWM reclaim + XLI HWM reclaim + XLK >$191 = 2-3 ratchets fire + fresh Phase-1 EOD high extension (>+3.89%). **BASE-CASE Mon:** Mixed AMAT weekend-digest + drift + 0-1 ratchets + weekend-gap-risk absorbed = maintain 4/6 book, fresh 3/3 trade cap intact, mildly-green EOD (+0.05-0.15%). **WORST-CASE Mon:** Weekend AMAT-digest negative-transmission + XLK breaks sub-$188 + risk-off + XLB pre-cut $50 breach = defensive posture escalates, potential XLB escalation-decision Mon EOD, Week 17 opens flat-to-red. **Fri session validates fresh Phase-1 EOD HIGH +3.89% (surpasses Thu +3.84% by +5 bps), XLI/XLB modest-lead (+0.28%/+0.27%), XLK clean AMAT-shock absorption (-0.44% intraday, holds green +0.71% unrealized), XLP defensive-bid flat (+0.02%), Week 16 CLOSES +0.28% net = BEST WEEK of Phase-1 Round 2, modest outperformance vs SPY (-0.23% day = ~26 bps relative), 4/6 book stable with fresh Week 17 3/3 cap primed for Mon deployment window. Weekly-review workflow PM Aug 15 (Sharpe vs SPY, max DD, process metrics through Aug 14 close).**
+
+### Aug 17 — Midday Snapshot (Day 84, Monday — Week 17 Day 1 / light-macro-Mon / pre-catalyst-stack-Tue-Wed / 4/4 book all green unrealized / 0 cuts, 0 manual tightens, 0 thesis breaks / 1 HWM auto-ratchet fired AM XLK micro / XLP #1 intraday drag day -1.41% defensive pause / XLK #1 driver intraday +0.59% + HWM micro-ratchet / XLI day +0.46% approaches HWM (0.44% away) / XLB rebound day -0.45% mean-reversion Day 5 / equity $103,800.08 mild-red day -0.167% vs Fri $103,973.22)
+
+**No manual action taken at midday** — 0 cuts, 0 tightens, 0 thesis breaks. 1 mechanical HWM auto-ratchet fired AM (XLK micro +$0.01: HWM $191.74→$191.75, stop $172.566→$172.575, 10% trail preserved = smallest single-session XLK HWM advance Phase-1 Round 2).
+
+**Midday positions (~12pm ET, 4/6 book):**
+- **XLB:** 388 sh, +1.34% (+$267.54 unrealized), $52.305 (day -0.45% vs Fri $52.45), HWM $53.595 unchanged, stop $48.2355 (10% trail), MV $20,294.34
+- **XLI:** 115 sh, +7.77% (+$1,552.50 unrealized), $187.36 (day +0.46% vs Fri $186.31), HWM $188.185 unchanged, stop $169.3665 (10% trail), MV $21,546.40
+- **XLK:** 105 sh, +1.35% (+$266.66 unrealized), $191.1301 (day +0.59% vs Fri $189.93), HWM $191.75 (**MICRO-RATCHET FIRED AM +$0.01**), stop $172.575 (10% trail, +$0.009 vs Fri $172.566), MV $20,068.66
+- **XLP:** 238 sh, +1.23% (+$244.78 unrealized), $84.88 (day **-1.41%** vs Fri $86.02 = #1 intraday drag), HWM $86.41 unchanged, stop $81.2254 (6% Path-C), MV $20,201.44
+- **Combined MV:** $82,110.84 (-$80.82 vs Fri close $82,191.66); equity **$103,800.08** (-$173.14 / -0.167% intraday vs Fri close $103,973.22 last_equity per Alpaca); cash **$21,698.58** settled (unchanged); deployment **79.10%** (Day 4 INSIDE 75-85% target band); Phase P&L **+$3,800.08 (+3.80%)** = mildly retreats from Fri EOD HIGH +3.89% (-9 bps intraday, holds well within Phase-1 all-time band)
+
+**Sell-side gate check (all 4):** none at -7% loss trigger (XLB +1.34%, XLI +7.77%, XLK +1.35%, XLP +1.23%); none at +15%/+20% tighten trigger (XLI closest at +7.77%, needs +$13.34 more to hit $199.94 = +6.72% away); no thesis broken.
+- XLB manual -7% cut $48.00 cushion 8.24% ($4.305 abs); pre-cut $50 cushion 4.41% ($2.305 abs — inside 5% warning but still above Thu 4.32% low)
+- XLI manual -7% cut $161.69 cushion 13.71% ($25.67 abs); trail $169.3665 cushion 9.60% ($17.9935 abs)
+- XLK manual -7% cut $175.39 cushion 8.24% ($15.7401 abs); trail $172.575 cushion 9.71% ($18.5551 abs — freshly AM-ratcheted micro +1 bp)
+- XLP manual -7% cut $77.98 cushion 8.13% ($6.90 abs — TIGHTENED 122 bps vs Fri 9.35% on -1.41% intraday drop); trail $81.2254 cushion 4.31% ($3.6546 abs, above 3% floor but TIGHTENED 127 bps vs Fri 5.58%)
+
+**Thesis check pass:**
+- **XLB thesis INTACT** — day -0.45% = mean-reversion Day 5 stabilizing/mild-red; unrealized retreats Fri +1.62% → +1.34%; HWM $53.595 unchanged (2.41% below); chemicals/feedstock structural thesis INTACT. **NO CUT.**
+- **XLI thesis MEGA-INTACT + ADVANCING** — day +0.46%; +7.77% = **NEW position-life-high** (surpasses Wed 8/6 peak +7.39% by +38 bps = fresh Phase-1 all-time XLI high); AI-capex/reshoring/defense thesis MEGA-INTACT; HWM 0.44% imminent-next (needs $188.19+ PM print). **NO CUT.**
+- **XLK thesis MEGA-INTACT + RATCHET-FIRED** — day +0.59% = clean AMAT-weekend-digest hold-through; unrealized advances Fri +0.71% → +1.35%; HWM auto-ratcheted AM $191.74→$191.75 (micro +$0.01); AI-capex/hyperscaler mega-thesis MEGA-INTACT. **NO CUT.**
+- **XLP thesis INTACT + PRE-CATALYST-DIGEST** — day -1.41% #1 intraday drag = defensive-pause ahead of WMT/HD/TGT Tue-Wed binary earnings-stack (pre-earnings de-risking flow); unrealized retreats Fri +2.59% → +1.23% but HOLDS GREEN; HWM $86.41 unchanged (1.78% below, widened 133 bps vs Fri 0.45%); trail cushion 4.31% (above 3% floor, but tightened notably); defensive/rate-sensitive dual thesis INTACT — WMT (Tue AM) / HD (Tue AM) / TGT (Wed AM) binary catalyst-stack IMMINENT; pre-earnings de-risk normal, not thesis break. **NO CUT — monitor Tue AM prints closely.**
+
+**HWM ratchet check midday:** **1 mechanical auto-ratchet fired AM** on XLK (micro +$0.01: HWM $191.74→$191.75, stop $172.566→$172.575 at 15:20:16Z — smallest single-session XLK HWM advance Phase-1 Round 2). Other 3 sleeves held original HWMs midday: XLP 1.78% below HWM $86.41 (widened from Fri 0.45%), XLI 0.44% below HWM $188.185 (tightened from Fri 1.00% — closest to reclaim), XLB 2.41% below HWM $53.595 (widened from Fri 2.14%).
+
+**Macro pulse (Mon):** Light-macro Mon per schedule (no NFP/CPI/PPI/FOMC prints); catalyst-stack builds Tue-Wed (Housing Starts/Building Permits Tue, Existing Home Sales Wed, WMT/HD earnings Tue AM, TGT earnings Wed AM). XLP -1.41% intraday drag = classic pre-earnings de-risking flow into consumer-staples heavyweight prints Tue-Wed, NOT thesis-invalidation. XLK +0.59% = clean AMAT-weekend-digest = negative-transmission-shock scenario averted. **NO Perplexity addendum required** — XLP move is expected pre-catalyst positioning, not "unusually sharp move with no obvious cause."
+
+**Week 17 book state:** 4/6 slots used (XLB, XLI, XLK, XLP); **0/3 trades consumed** (fresh cap RESET Mon); cash $21,698.58 settled = 20.90% dry powder; deployment **79.10%** = Day 4 INSIDE 75-85% target band.
+
+**XLI GTC expiry runway:** order `4e057726` exp 2026-08-24 = **7 DAYS TO EXPIRY** — renewal window ACTIVE; target this week (Aug 17-19 Mon-Wed) execute renewal; NOT urgent midday Mon but escalates by Wed.
+
+**PM watch (12pm-4pm):**
+- (1) XLI HWM $188.185 reclaim = ratchet fires (**0.44% away — TIGHTEST proximity, any $188.19+ PM print = 4th XLI ratchet Phase-1**)
+- (2) XLP -1.41% intraday drag PM absorption — hold >$84.50 = defensive-thesis intact ahead Tue catalysts; sub-$84 = pre-cut escalation-monitor triggers (trail $81.2254 cushion 4.31% = 3.86% cash-out gap)
+- (3) XLK HWM $191.75 re-ratchet watch (any $191.76+ PM print = re-fires; currently at $191.13, 0.32% below)
+- (4) XLB HWM $53.595 reclaim watch (2.41% away, mean-reversion Day 5 mild-red)
+- (5) XLB pre-cut $50 escalation-monitor — cushion 4.41% (widening = risk EASING vs Thu 4.32%; below 5% warning; any sub-$52 = flag, sub-$50 = pre-cut warning ACTIVE)
+- (6) VIX PM close watch — hold sub-15 preserves risk-on regime + XLK gate integrity Day 4
+- (7) XLI GTC renewal execute window opens Mon PM if XLI HWM reclaim fires (bundle renewal with ratchet cancel/replace)
+
+**NO Discord notification (no manual action taken — 0 cuts, 0 tightens, 0 thesis breaks; XLK AM micro-ratchet was mechanical Alpaca auto, not manual action).** Week 17 trades 0/3 used, 4/6 book intact, 79.10% deployment INSIDE band, XLP pre-catalyst de-risking absorbed cleanly, XLK AMAT-weekend-digest confirmed positive, fresh Phase-1 all-time XLI unrealized high (+7.77%) set intraday.
