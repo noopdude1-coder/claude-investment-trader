@@ -7744,3 +7744,139 @@ Reminder: LIVE ~$7,500 IRA (Phase 2) — position cap $1,500. **Bot currently pa
 
 ### Today's Discipline
 **HOLD — 4/4 book all green + 79.12% deployed inside band + Retail Sales 8:30am + Michigan 10am + AMAT AH digest = 3-binary-catalyst-stacked-Fri = ANTI-DEPLOY setup. VIX sub-15 DAY 2 (14.62) = risk-on regime CONFIRMED; PPI FLAT Thu = record S&P close = rate-cut runway preserved. XLK auto-ratchet FIRED Thu (HWM $189.47→$191.74; stop $170.523→$172.566) = Round 2 Day 2 validation; Day 3 first single-name-shock stress test via AMAT AH -5.24%. Oil DIPPED WTI $79.90 Thu close (-2.22%) = inflation-pressure EASING. All 4 sleeves in top-5 sector-rotation slots. XLI GTC renewal window Aug 17-19 (10 days to exp). XLB Day 4 Mott-overextended-digest = pre-cut $50 escalation-monitor active. NO manual moves; mechanical ratchets only (XLK $191.75+ = 2nd ratchet imminent; XLP $86.42+ = 4th ratchet imminent). Cash $21,698 preserved for Mon post-catalyst digest OR next-week WMT/HD/TGT/FOMC-minutes catalyst window. Patience > activity; 3-binary-Fri = mechanical-discipline-day, NOT active-trading-day. Equity $103,943.59 (+3.94% Phase P&L) = NEW intra-Phase-1 EOD-adjacent HIGH = winning-config compounding correctly, protect posture into weekend.**
+
+---
+
+## 2026-08-17 (Mon) — Pre-Market Research — Week 17 Day 1 / Empire State Manufacturing 8:30am + NAHB Housing 10am + TIC Flows 4pm = LIGHT-MACRO Mon / VIX 14.92 = SUB-15 DAY 3 (risk-on regime SUSTAINED) / Oil WTI $82.92 Mon pre-open (+0.63% vs Fri close $82.40) / ES futures mixed 7,805-7,823 / Equity $104,016.99 = NEW Phase-1 ALL-TIME HIGH (+4.02%) / 4/4 book all green intraday / Fresh Week 17 3/3 trade cap / Deployment 79.14% inside band / XLI GTC exp 7 DAYS = URGENT renewal window Mon-Wed / WMT AMC Tue + HD Tue + TGT Wed = XLP catalyst-stack + FOMC Minutes Wed
+
+### Account snapshot (pre-market Mon Aug 17, cash account, T+1)
+- **Equity:** $104,016.99 (Alpaca last_equity Fri $103,973.22 → **+$43.77 / +0.042% overnight micro-drift**)
+- **Phase P&L:** **+$4,016.99 (+4.02%)** = **NEW Phase-1 ALL-TIME HIGH** (surpasses Fri pre-open $103,943.59 +3.94% by 8 bps; surpasses Fri close $103,890.24 +3.89% by 13 bps)
+- **Settled cash:** $21,698.58 (`cash`; Day 4 unchanged post-XLK deploy; 20.86% cash reserve)
+- **Buying power:** $317,285.87 (margin-inflated; IGNORE — use `cash` for cash-account sizing)
+- **Long market value:** $82,318.41 → **79.14% deployed** (INSIDE 75-85% target band Day 4; cash-stagnation-streak break sustained)
+- **Positions (4 of 6):**
+  - XLB 388 @ $51.6155 (mkt $52.50, +$343.20 / +1.71%, today -0.076%, HWM $53.595, stop $48.2355 10%)
+  - XLI 115 @ $173.86 (mkt $186.51, +$1,454.75 / +7.28%, today 0.00%, HWM $188.185, stop $169.3665 10%)
+  - XLK 105 @ $188.5905 (mkt $191.30, +$284.50 / +1.44%, today +0.68% intraday, HWM $191.74, stop $172.566 10%, Round 2 Day 4, 1 auto-ratchet fired 8/13)
+  - XLP 238 @ $83.8515 (mkt $85.77, +$456.60 / +2.29%, today -0.37%, HWM $86.41, stop $81.2254 6% Path-C)
+- **Open GTC trailing stops (all live):**
+  - XLB `982c5f58` stop $48.2355 (10% trail, HWM $53.595, 8.12% cushion, exp 2026-09-23)
+  - XLI `4e057726` stop $169.3665 (10% trail, HWM $188.185, 9.19% cushion, exp **2026-08-24 = 7 DAYS TO EXPIRY = URGENT** — renewal window Mon-Wed this week Aug 17-19)
+  - XLK `ad940893` stop $172.566 (10% trail, HWM $191.74, 9.79% cushion, exp 2026-11-10)
+  - XLP `3036af75` stop $81.2254 (6% Path-C trail, HWM $86.41, 5.30% cushion, exp 2026-10-29)
+
+### Market Context
+- **🟢 Empire State Manufacturing Aug 8:30am ET** — regional survey; lower-magnitude vs national Mfg PMI; recent Empire State readings have chopped between ±5 (last: -20.2 in Jul); positive print = XLI mild bid; deeply negative = mild industrials drag
+- **🟡 NAHB Housing Market Index Aug 10am ET** — homebuilder sentiment; recent readings mid-30s = weak; rate-sensitive read-through to XLK (rates), no direct XLB/XLI/XLP catalyst
+- **🟡 TIC Flows Jun 4pm ET** — Treasury International Capital; foreign Treasury demand read; matters if surprise magnitude but rarely tape-moving
+- **Oil (WTI/Brent):** WTI Mon pre-open **$82.92 (+0.63% vs Fri close $82.40)**; Brent **$89.27** (Markets Insider 8/17 6:37am); Fri close bounce +1.42% vs Thu $79.90; **oil holding $80-83 range = neutral for XLB/XLI (feedstock/industrials)**; **mild-negative XLK (rate-sensitive if oil trends higher = inflation flashback)**
+- **S&P 500 futures:** ES **~$7,805-7,823 (mixed)**; CNN premarket $7,823.50 +0.68%; Markets Insider $7,805.00 -0.22%; Yahoo ES=F $7,822.50; **near record close; wavering pre-Empire State**
+- **NQ futures:** **+0.48% at $30,285.25** (Yahoo 4am ET) = fractionally green, AI/semi supportive; broader tech continuation
+- **VIX:** Mon pre-open **14.92** (Cboe 9:29am 8/17; +4.70% vs Fri close 14.25) = **SUB-15 DAY 3 = RISK-ON REGIME SUSTAINED** (post-cool-CPI/flat-PPI structure); XLK gate (d) MEGA-LIVE; **but VIX +4.70% Mon = mild uptick from Fri close = monitor for de-risk drift**
+- **Today's catalysts (Mon 8/17):**
+  1. **🟢 Empire State Manufacturing Aug 8:30am ET** (lower-magnitude regional)
+  2. **🟡 NAHB Housing 10am ET** (rate/homebuilder sentiment)
+  3. **🟡 TIC Flows 4pm ET** (foreign Treasury demand)
+  4. Earnings BMO (Mon): HTHT, FUFU, CRGO (obscure Asian/small-cap; **none XLK/XLI/XLB/XLP adjacent**)
+  5. Earnings AMC (Mon): **PANW (Palo Alto Networks Q4 FY26 est $0.98 EPS, $3.35B rev)** — XLK ~0.3% weight (mid-tier, not top-10) = mild XLK sensitivity; **FN (Fabrinet, est $3.93 EPS $1.31B rev)** — XLK indirect (optical networking); **BHP (BHP Group)** — XLB indirect (mining)
+- **This week's econ calendar (Aug 17-21):**
+  - Mon 8/17: Empire State 8:30am, NAHB 10am, TIC 4pm
+  - **Tue 8/18: Housing Starts/Building Permits Jul 8:30am, Industrial Production Jul 9:15am, WMT AMC (XLP top-weight 11%)**
+  - **Wed 8/19: FOMC Minutes Jul 2pm ET (MACRO BINARY), HD AMC (XLP top-weight ~5%)**
+  - Thu 8/20: Jobless Claims 8:30am, Existing Home Sales 10am, **TGT AMC (XLP top-weight ~2%)**
+  - Fri 8/21: Flash PMIs (Mfg/Svcs) 9:45am
+- **Sector momentum YTD (most recent Aug 8 MarketIndicators + FIS data):**
+  - **XLE +36.50%** (#1)
+  - **XLK +31.18%** (#2 — held Round 2, Day 4)
+  - **XLI +19.83%** (#3 — held)
+  - **XLB +15.94%** (#4 — held)
+  - **XLP +9.53%** (#5 — held)
+  - **Bot holds 4 of top-5 YTD sectors** = winning-config confirmed
+- **Held-ticker news:**
+  - **XLK:** Mon pre-open $191.30 (+0.68% intraday, +$1.29 vs Fri $190.01); today's key = **PANW AMC print + FN AMC print** (both indirect XLK); AI/semi mega-thesis MEGA-INTACT per multiple sources ("blockbuster quarter" narrative continues); Equity Clock flags "upside targets in Technology (XLK)" 8/15
+  - **XLI:** Mon pre-open $186.51 (flat 0.00% vs Fri $186.51); Empire State 8:30am = mild sensitivity; Industrial Production Tue 9:15am = higher-magnitude catalyst; AI-capex/reshoring/defense/Mfg-PMI-4yr-high thesis MEGA-INTACT; Equity Clock flags "upside targets in Industrial (XLI)"
+  - **XLB:** Mon pre-open $52.50 (-0.076% intraday, -$0.04 vs Fri $52.54); **BHP AMC (major mining bellwether, XLB indirect)** = mild XLB sensitivity; Materials mixed per recent data (per some sources lagging -0.62% wk vs XLE +7.67%); Mott "overextended" digest Day 5+ continues; chemicals/feedstock structural thesis INTACT; Equity Clock flags "upside targets in Materials (XLB)"
+  - **XLP:** Mon pre-open $85.77 (-0.37% intraday, -$0.32 vs Fri $86.09); **WMT AMC Tue + HD AMC Tue + TGT AMC Wed = binary catalyst-stack week** = XLP thesis confirmation/invalidation; WMT ~11% XLP top-weight; consumer-staples defensive-flow intact but Fri Retail Sales dip = mild-neg for consumer discretionary spillover into staples
+
+### Round 2 XLK Post-Deploy Status (Day 4)
+- Entry: 8/12 Wed $188.5905 x 105 sh; cost $19,801.99; 10% GTC trail attached
+- Day 1 close (Wed): $188.84 (+$25.87 / +0.13%)
+- Day 2 close (Thu): $190.77 (+$228.61 / +1.15%) → **AUTO-RATCHET FIRED Thu midday** (HWM $189.47→$191.74)
+- Day 3 close (Fri): $189.93 (+$140.65 / +0.71%) — AMAT AH -5.24% single-name-shock ABSORBED cleanly
+- Day 4 pre-open (Mon): $191.30 (+$284.50 / +1.44%) intraday
+- HWM $191.74; stop $172.566 (10% below); cushion 9.79%
+- **Deploy fully validated Days 1-4** — trailing stop tracking record-high leadership tape; PANW/FN AMC = fresh Day-4 catalyst
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = $7,500 IRA cap $1,500 (future). Week 17 = **fresh 3/3 trade cap RESET Mon**.
+
+1. **HOLD — TOP CHOICE, WINNING CONFIG COMPOUNDING.**
+   - **Rationale:** 4/4 book all green (+1.71% to +7.28%, unrealized total $2,539.05); 79.14% deployed inside target band Day 4; fresh Phase-1 all-time HIGH +4.02%; Week 17 Day 1 = light-macro Mon (Empire State low-magnitude), catalyst-stack builds Tue-Wed (Housing Starts + WMT + HD + FOMC minutes + Industrial Production); patience > activity into 3-day binary window
+   - **Sub-actions:** monitor mechanical HWM ratchets (XLK 0.23% away = IMMINENT-NEXT off intraday +0.68%; XLP 0.75% away; XLI 0.90% away; XLB 2.04% away); **XLI GTC RENEWAL EXECUTE THIS WEEK — 7 DAYS TO EXPIRY, target Mon-Tue** (Wed OK but tightening runway)
+
+2. **XLI GTC RENEWAL — MANDATORY THIS WEEK, TARGET MON-TUE**
+   - **Action:** Cancel `4e057726` (exp 2026-08-24, HWM $188.185, stop $169.3665) + submit fresh 10% GTC trailing stop 115 sh XLI with new expiry ~90 days out (~2026-11-15)
+   - **When:** Mon-Tue best (Wed acceptable but tightens); avoid FOMC-Minutes-Wed-2pm window; **execute early session Mon or Tue**
+   - **Risk:** brief window (~30 sec) between cancel + submit where XLI is unprotected; execute during low-volatility mid-morning; verify new stop lives before end-session
+   - **Note:** This is NOT a trade against the 3/3 weekly cap — it's a maintenance renewal
+
+3. **XLE 5th-slot (if oil holds $82+ + VIX <15 sustained) — SPECULATIVE ADD (DEFER)**
+   - **Catalyst:** Energy YTD +36.50% = #1 sector Phase-1; not held; oil Fri bounce +1.42% to $82.40 Fri close, Mon $82.92 = stabilization confirming $80 floor; structural Iran-Hormuz + OPEC+ discipline intact
+   - **Size:** ~$20,000 = floor($20,000 / XLE_price) shares MKT + 10% GTC trail
+   - **Stop:** 10% trailing GTC → initial ~10% below fill
+   - **Target:** 3-6 month energy tailwind hold-through
+   - **DEFER Mon** — WMT/HD/TGT/FOMC catalyst-stack Tue-Thu = elevated variance; oil at range-mid = neutral posture (not extreme setup); re-evaluate **post-WMT AMC Tue OR post-FOMC minutes Wed**
+   - **Gate check hypothetical:** 4→5/6 ✓, 0→1/3 trades ✓, cost ≤ $20k ✓, cost ≤ $21,698 ✓, catalyst ✓, stock ✓ — MECHANICAL PASS but STRATEGIC DEFER (catalyst-stack + neutral oil setup)
+
+4. **SKIP single-name (HTHT/FUFU/CRGO BMO + PANW/FN/BHP AMC)** — binary anti-strategy per Rule; PANW/BHP/FN would be single-name earnings binary = NO
+
+### Risk Factors
+- **🟢🟢 EQUITY $104,016.99 = NEW Phase-1 ALL-TIME HIGH** (+4.02% Phase P&L; surpasses Fri close +3.89% by 13 bps); winning-config compounding correctly
+- **🟢🟢 4/4 BOOK ALL GREEN + top-5 YTD sectors held** — unrealized total $2,539.05; XLI +7.28% near position-life-high, XLP +2.29%, XLK +1.44% Round 2 Day 4, XLB +1.71% mean-reversion Day 5 stabilizing
+- **🟢🟢 VIX SUB-15 DAY 3 (14.92)** — RISK-ON REGIME SUSTAINED; but +4.70% Mon uptick from Fri 14.25 = monitor for regime-drift into catalyst-stack Tue-Wed
+- **🟢 OIL WTI $82.92 STABILIZING $80-83 RANGE** — Fri +1.42% bounce, Mon +0.63% follow-through; neutral for XLK/XLI; supportive-mild for XLB (feedstock); WTI >$85 = mild-inflation-flashback risk to XLK
+- **🟢 NQ FUTURES +0.48% PRE-OPEN** — tech continuation Mon Day 4 XLK deploy
+- **🔴🔴 XLI GTC EXP 2026-08-24 = 7 DAYS TO EXPIRY = URGENT** — renewal window ACTIVE, target Mon-Tue-Wed execute; do NOT let expire naked
+- **🟡 XLB "EXTREMELY OVEREXTENDED" per Mott Capital Day 5+** — Fri close $52.54 (+0.27%) stabilizing; Mon -0.076% intraday flat; pre-cut $50 cushion 5.00% ($2.50 abs = AT 5% warning threshold); sub-$52 = flag; sub-$50 = pre-cut warning ACTIVE
+- **🔴 WMT AMC TUE = XLP BINARY** — 11% top-weight; beat + guide-raise = XLP thesis confirmation, tighten trail eligible; miss + guide-cut = XLP defensive-thesis crack test
+- **🔴 HD AMC TUE = XLP + housing crossover** — ~5% XLP weight; consumer-discretionary/staples spillover
+- **🔴 TGT AMC WED = XLP tail-binary** — ~2% XLP weight, lower-magnitude vs WMT/HD
+- **🔴 FOMC MINUTES WED 2PM ET = MACRO BINARY** — July FOMC minutes; hawkish-tone = risk-off drift, XLK/XLI vulnerable; dovish-tone = continuation
+- **🟡 Empire State Manufacturing Mon 8:30am** — regional/lower-magnitude vs Tue Industrial Production; XLI mild sensitivity
+- **🟢 XLK HWM RATCHET IMMINENT-NEXT** — 0.23% away ($191.75+ any Mon print = 2nd Round-2 ratchet; already +$0.68 intraday pre-open)
+- **🟡 XLP HWM RATCHET NEXT** — 0.75% away ($86.42+ print = 4th ratchet since 8/6); Mon -0.37% intraday reduces near-term likelihood
+- **🟢 XLI POSITION-LIFE-HIGH BAND (+7.28%)** — near Wed 8/6 peak +7.39%; AI-capex + Mfg-PMI-4yr-high + defense = MEGA-INTACT
+- **🟢 CASH $21,698 PRESERVED** = fresh Week 17 3/3 trade cap + dry powder for post-WMT/FOMC-minutes opportunistic deploy
+- **🟡 EQUITY-COMPOSITION-RISK** — 20.86% cash headroom prevents forced-sell risk into catalyst binaries; 79.14% deployment inside target band = ideal posture
+- **🟡 WEEKEND-GAP-DIGEST** — first full trading Mon post-Fri close; monitor AM open for gap-fill vs continuation
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Mon; light-macro Mon + catalyst-stack builds Tue-Wed)
+- Total positions after fill: 4 → hypothetical 5 (≤6 ✓ mechanically)
+- Trades placed this week incl fill: 0 → hypothetical 1 (≤3 ✓ mechanically)
+- Position cost ≤ **$20,000 20% cap ✓** for any candidate
+- Position cost ≤ settled cash **$21,698.58 ✓** (headroom exists)
+- Specific catalyst documented — **NONE with light-Mon + pre-catalyst-stack-EV-positive frame**
+- Instrument is a stock ✓
+- **STRATEGIC OVERRIDE: Discipline > mechanical gate-pass.** Empire State low-magnitude Mon + WMT AMC Tue + HD AMC Tue + Industrial Production Tue + FOMC minutes Wed + TGT AMC Wed = 5-binary catalyst-stack Tue-Wed on top of Mon light-macro; adding 5th slot pre-catalyst-stack = binary-stack-day amateur play; already-deployed 4/4 winning-config Day 4 + fresh all-time-high + 79.14% band-inside posture = protect. **DEFER any 5th-slot decision to Wed post-FOMC-minutes-digest OR Thu post-WMT/HD-earnings-digest.**
+
+### Decision: **HOLD** (Week 17 Day 1 / light-macro-Mon / pre-catalyst-stack-Tue-Wed)
+- **Rationale:** All 4 sleeves winners (unrealized $2,539.05); fresh Phase-1 all-time-HIGH +4.02%; 79.14% deployed inside target band Day 4; light-macro Mon + 5-binary catalyst-stack Tue-Wed = pre-binary-stack = protect posture; XLI GTC renewal execute this week (Mon-Tue-Wed) = ONLY mandatory action; **patience > activity, especially fresh-all-time-high-day**
+- **XLK Day 4 monitor:** post-CPI-in-line + PPI-flat + AMAT-AH-shock-absorbed deploy fully validated Days 1-4 (+$284.50, +1.44% intraday +0.68%); HWM auto-ratchet imminent (0.23% away = **NEXT-IMMINENT**, any $191.75+ Mon print); PANW/FN AMC = fresh Day-4 catalyst (indirect XLK)
+- **Mechanical GTC stops:** all 4 continue riding; XLK 1 auto-ratchet 8/13 ($170.523→$172.566), XLB 3rd ratchet 8/11, XLI 2× ratcheted Wed 8/6, XLP Path-C 6%; **no manual stop moves Mon** (except XLI renewal mechanical operation)
+- **XLI GTC RENEWAL — MANDATORY THIS WEEK:** 7 days to Aug 24 exp; **execute Mon-Tue** best (Wed acceptable but avoid FOMC-Minutes-Wed-2pm window)
+- **Watch levels /midday (~12pm ET):**
+  - **8:30am ET Empire State print** — headline vs prior -20.2; positive = XLI mild bid; deeply negative = mild drag
+  - **XLK HWM $191.74 reclaim** → 2nd auto-ratchet (0.23% away = **NEXT-IMMINENT** — any $191.75+ Mon print, currently $191.30 intraday +0.68%)
+  - **XLP HWM $86.41 reclaim** → 4th auto-ratchet (0.75% away, +$0.64 XLP print; Mon -0.37% intraday reduces likelihood)
+  - **XLI HWM $188.185 reclaim** → auto-ratchet (0.90% away, +$1.675 XLI print)
+  - **XLB HWM $53.595 reclaim** → auto-ratchet (2.04% away, +$1.095 XLB print — mean-reversion Day 5+ widened distance)
+  - **10am ET NAHB Housing** — homebuilder sentiment; low-magnitude read-through
+  - **VIX 12pm ET check** — hold sub-15 preserves risk-on regime Day 3; spike >16 = pre-Tue-catalyst-stack de-risk flag
+  - **Oil PM check** — WTI $82.92 pre-open; hold $80-85 range = neutral; WTI >$85 = inflation-flashback flag; WTI <$79 = XLB fade extension
+  - **XLB pre-cut $50 escalation-monitor** — Day 5+ Mott "overextended" digest; cushion AT 5% warning threshold; sub-$52 = flag; sub-$50 = pre-cut warning ACTIVE
+  - **4pm ET TIC Flows** — foreign Treasury demand; rarely tape-moving but monitor surprise
+  - **AH PANW/FN/BHP prints** — indirect XLK/XLB read-through; PANW guide/miss = XLK Tue-open mild sensitivity
+
+### Today's Discipline
+**HOLD — 4/4 book all green + 79.14% deployed inside band + fresh Phase-1 ALL-TIME HIGH +4.02% + light-macro Mon + 5-binary catalyst-stack Tue-Wed = PROTECT POSTURE setup. VIX sub-15 DAY 3 (14.92) = risk-on regime SUSTAINED (mild +4.70% uptick from Fri 14.25 = monitor); oil WTI $82.92 stabilizing $80-83 = neutral. XLK auto-ratchet imminent-next (0.23% away, intraday $191.30 already +0.68%). XLI GTC renewal MANDATORY THIS WEEK (7 days to exp — target Mon-Tue-Wed, avoid FOMC-Minutes-Wed-2pm window). XLB Day 5+ Mott-overextended-digest = pre-cut $50 cushion AT 5% warning threshold. WMT AMC Tue + HD AMC Tue + FOMC Minutes Wed + TGT AMC Wed = XLP catalyst-stack binary week + macro binary. NO manual stop moves Mon (except mandatory XLI renewal mechanical operation). Cash $21,698 preserved for post-WMT/FOMC-digest opportunistic OR post-TGT-Thu deploy window. Patience > activity; light-macro-Mon + pre-catalyst-stack-Tue-Wed = mechanical-discipline-day + XLI-renewal-execution-day, NOT active-trading-day. Equity $104,016.99 (+4.02% Phase P&L) = NEW Phase-1 ALL-TIME HIGH = winning-config compounding correctly, protect posture into Tue-Wed catalyst-stack.**
