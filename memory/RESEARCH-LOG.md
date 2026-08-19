@@ -8014,3 +8014,122 @@ Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = 
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green, 1 mild-red XLK -0.66% first-underwater-print-Round-2-Day-5) + 78.98% deployed inside band + Phase P&L +3.25% band-held + XLK-tactical-stress + VIX-regime-shift-Mon + NQ-1.3%-pre-open + oil-flashback + TGT-Wed + FOMC-minutes-Wed + WMT-Thu = 3-binary Wed-Thu elevation = PROTECT POSTURE setup. HD Q2 BEAT-AND-REAFFIRM (adj EPS $4.92 vs est $4.71, comps +1.7% vs est +0.9%) = XLP +0.59% pre-open mid-tailwind (+5% weight) confirms consumer-staples defensive-thesis STRENGTHENING. WMT date CORRECTION: THURSDAY 8/20 8am ET pre-open (NOT Tue as prior log framed); XLP catalyst-stack is TGT-Wed-AMC + WMT-Thu-BMO (2 binaries, not 3 today). XLI GTC renewal MANDATORY THIS WEEK (6 days to exp — target Tue mid-morning window post-9:15am-Industrial-Production, pre-11:30am; avoid FOMC-Minutes-Wed-2pm window). XLK -0.66% intraday underwater but STRUCTURAL thesis MEGA-INTACT (AMAT secondary wave + oil-flashback = tactical stress); mechanical stop cushion 7.88%, -7% cut $175.39 cushion 6.39% intact; NO CUT unless -7% breaches OR NQ closes -2%+ AND VIX >17. XLB Day 6+ Mott-overextended-digest = pre-cut $50 cushion 4.68% inside 5% warning. NO manual stop moves Tue (except mandatory XLI renewal mechanical operation). Cash $21,698 preserved for post-FOMC-minutes/WMT-Thu opportunistic OR post-WMT-Thu-open deploy window. Patience > activity; XLK-underwater-day + VIX-regime-shift + 3-binary-Wed-Thu = mechanical-discipline-day + XLI-renewal-execution-day, NOT active-trading-day. Equity $103,251.69 (+3.25% Phase P&L) retreats from Fri Phase-1 EOD HIGH +3.89% (-64 bps) but holds well inside band; winning-config compounding correctly ahead of catalyst-stack, protect posture.**
+
+## 2026-08-19 (Wed, pre-market) — Week 17 Day 3 / FOMC-MINUTES-DAY 2pm ET + TGT/LOW/TJX/ADI/EL BMO retail-heavy + XLI GTC exp T-5 days = URGENT + Tue XLK/XLI/XLB red day / XLP HD-tailwind held green
+
+### Account Snapshot
+- **Equity:** $102,811.42 (portfolio_value; **pre-open ~9:20am ET**) — Tue last_equity $102,757.91 → **+$53.51 (+0.05%) overnight drift**; retreats from Tue AM $103,251.69 (-$440.27 / -0.43% on Tue Ind Prod-day sell-off)
+- **Settled cash:** $21,698.58 (**Day 6 stagnation** — cash account, T+1)
+- **Buying power:** $313,910.27 (paper-margin phantom — DO NOT USE; use settled cash)
+- **Long MV:** $81,112.84 (4 positions)
+- **Deployment:** 78.90% (Day 6 INSIDE 75-85% band; ideal posture pre-FOMC-mins)
+- **Phase P&L:** +$2,811.42 (+2.81%) — retreats from Tue AM +3.25% (-44 bps) and Fri all-time HIGH +3.89% (-108 bps); Phase-1 winning-config band-intact
+- **Positions (4/6, all long, GTC trails live):**
+  - **XLB:** 388 sh @ $51.78 (Tue -1.07% vs Mon $52.34; flat pre-open); MV $20,090.64; unrealized **+$63.84 (+0.32%)** — retreats from Tue AM +1.21% Day-6 Mott-overextended-digest continues; HWM $53.595; stop $48.2355; cushion 6.83% ($3.545 abs); pre-cut $50 cushion 3.56% = **INSIDE 5% warning DEEPER**
+  - **XLI:** 115 sh @ $183.79 (Tue -1.48% vs Mon $186.32; +0.12% pre-open); MV $21,135.85; unrealized **+$1,141.95 (+5.71%)** — retreats from Tue AM +6.73% Phase-1 all-time high (-102 bps); HWM $188.185; stop $169.3665 (10% trail); cushion 7.85% ($14.4235 abs); **GTC exp 2026-08-24 = 5 DAYS TO EXPIRY = CRITICAL RENEWAL WINDOW**
+  - **XLK:** 105 sh @ $185.39 (Tue -2.48% vs Mon $190.32; -0.12% pre-open drift); MV $19,465.95; unrealized **-$336.05 (-1.70%) = UNDERWATER DAY 2 ROUND-2** (extends Tue AM -0.66%); HWM $191.75; stop $172.575 (10% trail); cushion 6.91% ($12.815 abs); manual -7% cut $175.39 = 5.40% cushion (tightening from Tue 6.39%)
+  - **XLP:** 238 sh @ $85.80 (Tue +1.06% vs Mon $84.68 on HD-tailwind; +0.26% pre-open); MV $20,420.40; unrealized **+$463.74 (+2.32%)** — advances from Tue AM +1.58% (+74 bps) on HD-beat afterglow; HWM $86.41; stop $81.2254 (6% Path-C); cushion 5.34% ($4.5746 abs); HWM $86.41 = 0.71% away
+- **Open GTC trailing stops (all live):**
+  - XLB `982c5f58` stop $48.2355 (10%, HWM $53.595, 6.83% cushion, exp 2026-09-23)
+  - XLI `4e057726` stop $169.3665 (10%, HWM $188.185, 7.85% cushion, **exp 2026-08-24 = 5 DAYS = CRITICAL** — renewal target TODAY AM pre-FOMC-mins 2pm OR Thu pre-WMT window)
+  - XLK `ad940893` stop $172.575 (10%, HWM $191.75, 6.91% cushion, exp 2026-11-10)
+  - XLP `3036af75` stop $81.2254 (6% Path-C, HWM $86.41, 5.34% cushion, exp 2026-10-29)
+
+### Market Context
+- **🔴 FOMC MINUTES JULY 28-29 MEETING 2pm ET TODAY = MACRO BINARY** — July FOMC was hawkish-hold 9-3 (3 dissents wanted HIKE) + Warsh "won't hesitate"; minutes text likely reinforces hawkish-lean; dovish-surprise = risk-on continuation; hawkish-confirmation = mild-risk-off; **XLK most rate-sensitive → tactical stress-test into 2-3pm window**
+- **🔴 TGT Q2 BMO — CORRECTED FROM PRIOR LOG (was framed AMC Wed)** — actual: TGT reports BMO today; est EPS $2.03; XLP ~2% weight tail-catalyst; consumer-discretionary read-through
+- **🔴 LOW Q2 BMO** — est EPS $4.29; XLI/XLB adjacent-read (housing/DIY); post-HD-beat setup = expectations elevated
+- **🔴 TJX Q2 BMO** — est EPS $1.19; XLP ~2% weight; off-price retail read
+- **🔴 ADI Q2 BMO** — est EPS $3.37 / rev $3.96B; **XLK direct semi-cap catalyst pre-NVDA (~Aug 26)**; post-AMAT AH -5.24% setup = tape context negative for chips
+- **🔴 EL BMO** — Citi 90-day upside catalyst-watch pre-print; XLP weight
+- **NO US CPI/PPI TODAY** — next CPI Sep 11; no jobs data
+- **Oil (WTI/Brent):** WTI **$85.7-85.9** (+0.9% vs Tue $84.94 settle); Brent **$91.7** (+0.7%); WTI holding new $85+ band = mild-inflation-flashback headwind persists for XLK; supportive-neutral XLB feedstock; positive XLI industrial; XLE structural
+- **S&P 500 futures:** ES SEP26 **mixed $7,711-7,723**; Markets Insider premarket -0.59%; Barron's -0.03% to +0.1%; Yahoo article early-AM "S&P +0.1%, Nasdaq +0.2%, Dow +41pts" = **flat-to-mildly-positive rebound attempt** after Tue -0.7% sell-off; Dow -0.03%/Nasdaq -0.16% at 4am ET Yahoo
+- **VIX:** **15.82 (+4.15% vs Tue close ~15.19)** = **SUB-16 Day 2** but +10.4% two-day-cumulative from Fri 14.62; regime remains mild-risk-off drift; pre-FOMC-mins-2pm de-risk positioning; XLK gate borderline mechanical LIVE, thesis-questionable if VIX >17
+- **Today's catalysts (Wed 8/19):**
+  1. **🔴 TGT + LOW + TJX + ADI + EL BMO** — 5-stock retail+semi cluster pre-open
+  2. **🔴 FOMC MINUTES 2pm ET** — JULY 28-29 meeting (hawkish-hold 9-3, 3 dissents for hike, Warsh "won't hesitate")
+  3. MBA Mortgage Apps 7am ET (lower-magnitude)
+  4. **🔴 WMT BMO Thu 8/20** — XLP ~11% top-weight MAIN binary (T-1 day)
+- **Sector momentum (Aug 14 quantlake rotation):**
+  - **XLE #1 leading** (+3.99% 1W / +8.50% 1M / +42% YTD) — not held
+  - **XLK fastest recent move** (+1.09% 1W / +8.39% 1M / +36% YTD) — held ✓ but Tue -2.48%
+  - **XLI slid to 8th emerging-leader** (+0.72% 1W / weaker rotation) — held ✓
+  - **XLB fell to 10th** from early-improving (-0.61% 1W) — held ✓ weakest of sleeves
+  - **XLP defensive positive** (+1.14% 1W / +10.40% YTD) — held ✓
+  - **Bot 4/5 leaders held** (miss XLE only) = winning-config confirmed but XLB/XLI rotation-weakening flag
+- **Held-ticker news:**
+  - **XLK:** Tue closed $185.62 (-2.48%); pre-open $185.39 flat; ADI BMO = direct semi-cap read pre-NVDA; AMAT-shock secondary wave Day 3 + FOMC-mins 2pm rate-sensitivity = double-headwind stack; STRUCTURAL AI-capex/hyperscaler thesis MEGA-INTACT
+  - **XLI:** Tue closed $183.57 (-1.48% Ind-Prod-day retreat); pre-open $183.79 (+0.12%); LOW BMO adjacent-mild-read; AI-capex/reshoring/defense/Mfg-PMI-4yr-high thesis MEGA-INTACT; **GTC renewal T-5 days CRITICAL**
+  - **XLB:** Tue closed $51.78 (-1.07% mean-reversion Day 7); pre-open flat; Mott-overextended-digest continues; pre-cut $50 cushion 3.56% = INSIDE 5% warning DEEPER; chemicals/feedstock structural thesis INTACT but rotation-weakening
+  - **XLP:** Tue closed $85.58 (+1.06% HD-tailwind held); pre-open $85.80 (+0.26%); HWM $86.41 = 0.71% away (imminent-ratchet); TGT BMO today + WMT Thu = binary catalyst-stack; defensive/rate-sensitive dual thesis STRENGTHENING
+
+### Round 2 XLK Post-Deploy Status (Day 6 / UNDERWATER DAY 2 continues)
+- Entry: 8/12 Wed $188.5905 x 105 sh; cost $19,801.99; 10% GTC trail attached
+- Day 1-4 closes: +0.13% / +1.15% / +0.71% / +0.80%
+- Day 5 (Tue close): $185.62 (-$312.60 / -1.58%) — first underwater close
+- **Day 6 pre-open (Wed): $185.39 (-$336.05 / -1.70%) = UNDERWATER DAY 2** on AMAT secondary + Tue -2.48% risk-off
+- HWM $191.75; stop $172.575 (10% below); cushion 6.91%; manual -7% cut $175.39 = 5.40% cushion (Tue 6.39% → Wed 5.40% = **tightening -99 bps in one day**)
+- **Escalation posture:** underwater but well within stops; -7% cut cushion tightening but 5.40% still comfortable; MONITOR intraday for extension into FOMC-mins-2pm + ADI-BMO reaction; STRUCTURAL thesis MEGA-INTACT; **NO CUT unless -7% breaches ($175.39 close) OR NQ closes -2%+ AND VIX >17**
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = $7,500 IRA cap $1,500 (future). Week 17 = **3/3 trades intact, 0/3 consumed Days 1-3**.
+
+1. **HOLD — TOP CHOICE, PROTECT INTO FOMC-MINS + RETAIL-CLUSTER.**
+   - **Rationale:** 4/4 book (3 green, 1 red XLK -1.70% underwater Day 2); 78.90% deployed inside band Day 6; Phase P&L +2.81% held; VIX +10.4% two-day-cumulative regime-shift; FOMC-mins 2pm + TGT/LOW/TJX/ADI/EL BMO + WMT Thu = 4-binary Wed-Thu stack; **patience > activity, especially FOMC-mins-day + XLK-underwater-Day-2**
+
+2. **XLI GTC RENEWAL — MANDATORY TODAY OR THU, CRITICAL WINDOW**
+   - **Action:** Cancel `4e057726` (exp 2026-08-24, HWM $188.185, stop $169.3665) + submit fresh 10% GTC trail 115 sh XLI with new ~90-day expiry (~2026-11-17)
+   - **When:** **Wed AM 10-11:30am ET pre-FOMC-mins-2pm** = PREFERRED window; Thu AM pre-WMT-BMO acceptable; **AVOID FOMC-Mins-Wed-2pm ± 30-min window entirely**; do NOT let expire naked Mon 8/24
+   - **Risk:** ~30-sec cancel-to-submit gap where XLI unprotected; execute during lowest-volatility mid-morning slot
+   - **Note:** Maintenance renewal — NOT a trade against 3/3 weekly cap
+
+3. **XLE 5th-slot (SPECULATIVE ADD) — DEFER**
+   - **Catalyst:** Energy #1 sector week + YTD +42%; oil holding $85+ new-band = structural Iran-Hormuz + OPEC+ discipline; not held; would close 4/5 winning-sector gap
+   - **Size:** ~$20,000; ~319 sh @ $62.58 (Aug 17 close) + 10% GTC trail
+   - **DEFER:** TGT/LOW/TJX BMO + FOMC-mins 2pm + WMT Thu = 4-binary Wed-Thu window; VIX +10.4% 2-day = risk-off drift; deploy into elevated variance = amateur; **re-evaluate post-FOMC-mins-3pm OR post-WMT-Thu-open Fri**
+   - **Gate hypothetical:** 4→5/6 ✓, 0→1/3 ✓, cost $20k ≤ $20k ✓, cost ≤ $21,698 ✓, catalyst ✓, stock ✓ = MECHANICAL PASS / STRATEGIC DEFER
+
+4. **SKIP single-name earnings (TGT/LOW/TJX/ADI/EL/WMT)** — binary anti-strategy Rule; single-name earnings binary = NO
+
+### Risk Factors
+- **🔴🔴🔴 XLK UNDERWATER DAY 2 (-1.70%) — DEEPENING** — extends Tue AM -0.66% by 104 bps; AMAT secondary wave Day 3 + FOMC-mins 2pm rate-sensitivity + ADI BMO chip read + oil-flashback stacked; -7% cut cushion 5.40% (tightening -99 bps in one day); STRUCTURAL MEGA-INTACT
+- **🔴🔴 XLI GTC EXP T-5 DAYS = CRITICAL RENEWAL WINDOW** — execute Wed AM 10-11:30am pre-FOMC-mins target OR Thu AM pre-WMT; **AVOID FOMC-Mins-2pm ±30-min window**; do NOT let expire naked
+- **🔴 FOMC MINUTES 2pm ET = MACRO BINARY** — July 9-3 hawkish-hold (3 dissents for HIKE, Warsh "won't hesitate") = minutes text likely reinforces hawkish-lean; XLK direct rate-sensitivity risk
+- **🔴 TGT + LOW + TJX + ADI + EL BMO 5-stock cluster** — retail-heavy read + semi read post-AMAT-shock; XLP ~4% weight (TGT+TJX+EL); XLI/XLB adjacent (LOW); XLK direct (ADI); mixed direction unclear pre-open
+- **🔴 VIX 15.82 (+4.15% Tue / +10.4% 2-day cumulative)** — regime mild-risk-off drift; sub-16 Day 2 but sub-15 streak decisively broken; XLK gate borderline
+- **🔴 OIL WTI $85.7 (+0.9%) NEW-$85-BAND DAY 4** — mild-inflation-flashback headwind XLK; supportive-mild XLB feedstock; positive XLI industrial; XLE structural
+- **🔴🔴 XLB PRE-CUT $50 CUSHION 3.56% = INSIDE 5% WARNING DEEPER** (Tue 4.68% → Wed 3.56% = -112 bps); Mott-overextended-digest Day 7; rotation-weakening (fell 10th)
+- **🔴 WMT BMO THU 8/20 = XLP TOP-BINARY T-1** — ~11% XLP weight = MAIN staples catalyst; HD-beat setup = expectations elevated; miss = XLP thesis stress-test
+- **🟢🟢 XLP HD-TAILWIND HELD +2.32% (Tue +1.06% + Wed pre-open +0.26%)** — HWM $86.41 = 0.71% away (imminent-ratchet); defensive/rate-sensitive dual thesis STRENGTHENING pre-TGT/WMT
+- **🟢 XLI POSITION-LIFE-HIGH BAND HELD (+5.71%)** — retreats from Tue AM +6.73% Phase-1 all-time; AI-capex/reshoring/defense/Mfg-PMI-4yr-high MEGA-INTACT
+- **🟢 CASH $21,698 PRESERVED Day 6** = Week 17 3/3 trade cap intact + dry powder for post-FOMC-mins/WMT deploy
+- **🟢 4/5 TOP-YTD SECTORS HELD** = winning-config confirmed
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Wed; XLK underwater Day 2 + FOMC-mins-day + 5-stock BMO cluster + WMT-T-1)
+- Total positions after fill: 4 → 5 (≤6 ✓ mechanically)
+- Trades placed this week incl fill: 0 → 1 (≤3 ✓ mechanically)
+- Position cost ≤ **$20,000 20% cap ✓** for any candidate
+- Position cost ≤ settled cash **$21,698.58 ✓** (headroom exists)
+- Specific catalyst documented — **NONE with XLK-underwater-Day-2 + FOMC-mins-day + retail-cluster frame**
+- Instrument is a stock ✓
+- **STRATEGIC OVERRIDE: XLK underwater Day 2 + VIX regime-shift-Day-2 + oil-$85-band-Day-4 + FOMC-mins-2pm + 5-stock BMO cluster + WMT-Thu = 4-binary Wed-Thu on top of XLK-stress = adding 5th slot into elevated variance = amateur play. Already 4/4 winning-config Day 6 + 78.90% band-inside + XLP HD-tailwind = protect. DEFER any 5th-slot decision post-FOMC-mins-3pm OR post-WMT-Thu-open Fri.**
+
+### Decision: **HOLD** (Week 17 Day 3 / FOMC-mins-day / XLK-underwater-Day-2 / retail-BMO-cluster / XLI-GTC-renewal-critical)
+- **Rationale:** 4/4 book (3 green + 1 red XLK -1.70% Day 2); Phase P&L +2.81% holds band; 78.90% deployed inside target Day 6; VIX +10.4% 2-day regime-shift; FOMC-mins 2pm + TGT/LOW/TJX/ADI/EL BMO + WMT Thu = 4-binary Wed-Thu; XLI GTC renewal = mandatory action window Wed AM 10-11:30am pre-FOMC-mins; **patience > activity, especially FOMC-mins-day + XLK-underwater-Day-2 + 5-stock-BMO-cluster**
+- **XLK Day 6 monitor:** underwater Day 2 (-1.70%, tightening from -0.66% Tue); mechanical stops all intact; -7% cut $175.39 cushion 5.40% (still comfortable but -99 bps in a day); STRUCTURAL MEGA-INTACT; **NO CUT unless -7% breaches OR NQ closes -2%+ AND VIX >17**
+- **Mechanical GTC stops:** all 4 continue riding; **no manual stop moves Wed** (except XLI renewal mechanical operation)
+- **XLI GTC RENEWAL — CRITICAL EXECUTE WINDOW:** 5 days to Aug 24 exp; **execute Wed 10-11:30am ET** (pre-FOMC-mins-2pm) BEST; Thu AM pre-WMT acceptable; **AVOID FOMC-Mins-Wed-2pm ±30-min entirely**
+- **Watch levels /midday (~12pm ET):**
+  - **TGT/LOW/TJX/ADI/EL BMO tape reactions** — read for XLP/XLI/XLB/XLK sector-lift or drag
+  - **XLK -1.70% follow-through** — hold >$183 = digest posture; sub-$182 = escalation-monitor; sub-$175.39 = -7% cut ACTIVE
+  - **XLP HWM $86.41 imminent-ratchet** — 0.71% away; PM prints $86.42+ = mechanical auto-ratchet FIRES
+  - **XLI Housing/LOW-BMO/reshoring intraday** — hold $183+ = flat-to-mild digest; break $181 = escalation-monitor
+  - **XLB $52 hold vs $50 pre-cut** — cushion 3.56% INSIDE 5% warning DEEPER; sub-$51 = flag escalation; sub-$50 = pre-cut ACTIVE
+  - **VIX 12pm ET check** — hold 14-16 = tactical-drift band; spike >17 = pre-FOMC-mins de-risk flag; sustained >18 = XLK gate stress
+  - **Oil PM check** — WTI $85.7 pre-open; hold $84-86 = new-band tactical-neutral; >$87 = inflation-flashback escalation; <$83 = range re-establish
+  - **FOMC MINS 2pm ET reaction** — hawkish-confirm = XLK tactical stress + tech leg-lower risk; dovish-surprise = risk-on continuation; text-neutral = digest
+  - **ADI BMO tape action** — pre-NVDA-Aug-26 chip read; post-AMAT-shock setup
+
+### Today's Discipline
+**HOLD — 4/4 book (3 green, 1 red XLK -1.70% underwater-Day-2-deepening) + 78.90% deployed inside band + Phase P&L +2.81% band-held + XLK-tactical-stress-Day-2 + VIX-regime-shift-Day-2 + oil-$85-band-Day-4 + FOMC-Mins-Wed-2pm + TGT/LOW/TJX/ADI/EL-BMO-5-stock-cluster + WMT-Thu = 4-binary Wed-Thu elevation = PROTECT POSTURE + XLI-RENEWAL-EXECUTE-WINDOW setup. XLP HD-tailwind held (+2.32%; HWM $86.41 imminent 0.71% away, ratchet-fire watch active). XLI GTC renewal CRITICAL THIS WEEK (5 days to exp — TARGET WED 10-11:30am AM window pre-FOMC-Mins-2pm; Thu AM pre-WMT-BMO acceptable; AVOID FOMC-Mins-Wed-2pm ±30-min window). XLK underwater Day 2 but STRUCTURAL MEGA-INTACT (AMAT secondary Day 3 + FOMC-mins rate-sensitivity + ADI-BMO chip-read = triple-stack tactical stress); mechanical stop cushion 6.91%, -7% cut $175.39 cushion 5.40% still comfortable (Tue 6.39% → Wed 5.40% = -99 bps one-day tightening = watch escalation); NO CUT unless -7% breaches OR NQ closes -2%+ AND VIX >17. XLB Day 7 Mott-overextended-digest = pre-cut $50 cushion 3.56% INSIDE 5% warning DEEPER (Tue 4.68% → Wed 3.56% = -112 bps one-day = escalating flag; sub-$51 next escalation trigger). TGT+LOW+TJX+ADI+EL BMO 5-stock cluster = tape-read morning for sector-lift vs drag. NO manual stop moves Wed (except XLI renewal mechanical operation). Cash $21,698 preserved for post-FOMC-mins/WMT-Thu opportunistic OR post-WMT-Thu-open Fri deploy window. Patience > activity; FOMC-Mins-day + XLK-underwater-Day-2 + 5-BMO-cluster + WMT-T-1 = mechanical-discipline-day + XLI-renewal-execution-day, NOT active-trading-day. Equity $102,811.42 (+2.81% Phase P&L) retreats from Fri Phase-1 EOD HIGH +3.89% (-108 bps) but holds well inside band; winning-config compounding correctly through Tue tape stress, protect posture into 4-binary Wed-Thu.**
