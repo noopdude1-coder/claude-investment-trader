@@ -1998,3 +1998,36 @@ No open positions.
 **XLI GTC expiry runway:** order `4e057726` exp 2026-08-24 = **6 DAYS TO EXPIRY** — renewal window ACTIVE; NOT executed Tue (workflow scope); target Wed AM pre-FOMC-minutes-2pm window or Thu; escalates by Fri.
 
 **Wednesday Aug 19 plan:** /pre-market opens Week 17 Day 3 with **TGT AMC Wed (post-close) + FOMC-minutes Wed 2pm ET** = 2 defining catalysts; Existing Home Sales 10am ET (XLB/XLI adjacent). **CRITICAL Wed priorities:** (1) TGT AMC print prep (post-close binary — clean beat/raise = XLP defensive-thesis Round-2 confirmation stacking with HD; miss/guide-down = XLP escalation-decision, cushion 5.06% to trail); (2) FOMC-minutes 2pm ET = macro rates-path binary (hawkish surprise = tech/rate-sensitive drag XLK/XLP; dovish = broad risk-on lift); (3) XLK underwater absorption Day 6 — hold >$185 = tactical-digest posture; sub-$183 = escalation-monitor triggers (cushion to -7% cut $175.39 tightens); sub-$175.39 = -7% cut ACTIVE mechanical rule; (4) XLP HWM $86.41 reclaim watch (1.00% away — imminent-next Wed AM if HD-tailwind absorbed cleanly); (5) XLI HWM $188.185 reclaim watch (2.45% away, widened Tue); (6) XLB pre-cut $50 escalation-monitor — cushion 3.42% Day 6 (any sub-$50 = pre-cut warning ACTIVE); (7) XLI GTC renewal execute window Wed AM pre-FOMC preferred; (8) 5/6 book expansion decision paused (3/3 trade cap intact but XLK stress dictates conservative posture Wed). **BEST-CASE Wed:** TGT beat/raise AMC + dovish FOMC-minutes + XLK $187+ reclaim + XLP HWM ratchet = +0.5-1.0% Day 3 recovery. **BASE-CASE Wed:** Mixed TGT + neutral minutes + XLK holds $185-187 + XLP holds range = flat/mildly-green Day 3. **WORST-CASE Wed:** TGT miss + hawkish minutes + XLK sub-$183 breach + XLP defensive break = -0.5-1.0% Day 3, Week 17 cumulative -1.5-2%, escalation-monitor active. **Tue session validates Week 17 Day 2 closes red -0.75% (single-largest daily retreat since Week 15), XLK first underwater EOD Round-2 (-1.54%, cushion intact), XLP HD-tailwind #1 driver validates defensive-thesis (+2.03% unrealized, HWM reclaim imminent-next Wed), XLI position-life-high band retreat but MEGA-INTACT (+5.58%), XLB mean-reversion Day 6 mild-red pre-cut $50 warning tightens Day 6, 4/6 book stable, 3/3 Week 17 trade cap intact, 78.88% deployment INSIDE band, mild underperformance vs SPY (-8 bps relative). Wed TGT AMC + FOMC-minutes = 2-binary catalyst-day.**
+
+### Aug 19 — Midday Snapshot (Day 86, Wednesday — Week 17 Day 3 / TGT-AMC + FOMC-minutes-2pm binary-day / 4/4 book 3 green 1 red / 0 cuts, 0 manual tightens, 0 thesis breaks / 1 mechanical HWM ratchet on XLP / equity $103,126.46 green +0.36% vs Tue $102,757.91)
+
+**No manual action taken at midday** — 0 cuts, 0 tightens, 0 thesis breaks. XLK -2.37% underwater unrealized remains inside cushion (4.63% above -7% cut $175.39). XLP mechanical auto-ratchet fired AM (HWM $86.41 → $87.19, stop $81.2254 → $81.9586 = 6% Path-C maintained) = **first XLP Round-2 ratchet**.
+
+**Midday positions (~1pm ET, 4/6 book):**
+- **XLB:** 388 sh, +2.39% (+$479.00), $52.85 (day +2.07% vs Tue $51.78 = #2 driver), HWM $53.595 unchanged (1.39% below), stop $48.2355 (10% trail), MV $20,505.80
+- **XLI:** 115 sh, +4.94% (+$986.70), $182.44 (day -0.62% vs Tue $183.57 = sole red), HWM $188.185 unchanged (3.05% below), stop $169.3665 (10% trail), MV $20,980.60
+- **XLK:** 105 sh, -2.37% (-$468.35), $184.13 (day -0.80% vs Tue $185.62), HWM $191.75 unchanged (3.97% below), stop $172.575 (10% trail), MV $19,333.65
+- **XLP:** 238 sh, +3.30% (+$658.90), $86.62 (day +1.22% vs Tue $85.58 = #1 driver HD-tailwind Day 2), HWM **ratcheted $86.41 → $87.19** (0.66% below), stop **ratcheted $81.2254 → $81.9586** (6% Path-C), MV $20,615.56
+- **Combined MV:** $81,435.61; equity **$103,126.46** (+$368.55 / +0.359% intraday vs Tue $102,757.91); cash **$21,698.58** settled; deployment **78.97%** (Day 6 INSIDE 75-85% band); Phase P&L **+$3,126.46 (+3.13%)** = +37 bps recovery vs Tue EOD +2.76%
+
+**Sell-side gate check (all 4):** none at -7% loss trigger (XLK closest at -2.37%, cushion 4.63% to $175.39); none at +15%/+20% tighten trigger (XLI closest at +4.94%, needs +$17.50 more to hit $199.94 = +9.59% away); no thesis broken.
+- XLB manual -7% cut $48.00 cushion 9.19%; pre-cut $50 cushion 5.70% (WIDENED 228 bps vs Tue 3.42% = escalation risk RECEDES)
+- XLI manual -7% cut $161.69 cushion 11.40%; trail $169.3665 cushion 7.16%
+- XLK manual -7% cut $175.39 cushion **4.63%** (TIGHTENED 92 bps vs Tue 5.55% = closest to cut Round-2); trail $172.575 cushion **6.28%**
+- XLP manual -7% cut $77.98 cushion 9.98%; trail **$81.9586** (auto-ratcheted) cushion **5.36%** ($4.6614 abs, well above 3% floor)
+
+**Thesis check pass:**
+- **XLB thesis INTACT (strengthening)** — day +2.07% #2 driver = chemicals/feedstock bid returns Day 7; unrealized advances Tue +0.30% → +2.39%; pre-cut $50 cushion 5.70% escapes 5% warning band. **NO CUT.**
+- **XLI thesis MEGA-INTACT** — day -0.62% mild-red digest of FOMC-minutes-prep tape; unrealized retreats Tue +5.58% → +4.94% still solid position-life band. **NO CUT.**
+- **XLK thesis MEGA-INTACT (tactical stress Day 6)** — day -0.80%; unrealized reverses Tue -1.54% → -2.37% (widening but cushion intact); AI-capex/hyperscaler mega-thesis holds; -7% cut $175.39 cushion 4.63% (mechanical rule = cut only if breaches $175.39). **NO CUT — cushion active.**
+- **XLP thesis STRENGTHENING** — day +1.22% #1 driver = HD-tailwind Day 2 + TGT-AMC-prep bid; unrealized advances Tue +2.03% → +3.30%; HWM ratchet fires ($86.41 → $87.19) = first Round-2 XLP ratchet. **NO CUT — TGT AMC binary tonight + WMT Thu BMO remaining.**
+
+**HWM ratchet check midday:** **1 mechanical auto-ratchet fired Wed AM** (XLP $86.41 → $87.19, first Round-2 XLP ratchet). Other 3 sleeves held HWMs: XLB 1.39% below $53.595, XLI 3.05% below $188.185, XLK 3.97% below $191.75.
+
+**Macro pulse (Wed midday):** XLP #1 driver +1.22% = HD-tailwind Day 2 + TGT AMC prep positioning; XLB #2 driver +2.07% = chemicals bid; XLK -0.80% tech drag continues Day 6 (AMAT/NQ overhang); XLI -0.62% digests FOMC-minutes-prep tape. **TGT AMC tonight + FOMC-minutes 2pm ET = 2 remaining binaries this session.** NO Perplexity addendum required.
+
+**Week 17 book state:** 4/6 slots, 0/3 trades consumed, 78.97% deployment. **XLI GTC exp 2026-08-24 = 5 days to expiry**, renewal escalates by Fri.
+
+**PM watch (12pm-4pm):** (1) FOMC-minutes 2pm ET macro binary; (2) TGT AMC post-close binary — XLP defensive thesis validation; (3) XLK cushion monitor — sub-$175.39 = -7% cut mechanical rule; (4) XLP HWM $87.19 reclaim watch (0.66% away = imminent-next); (5) XLI GTC renewal defer to /trade helper.
+
+**NO Discord notification** — 0 manual actions taken (XLP HWM ratchet was mechanical Alpaca auto-behavior, not bot intervention).
