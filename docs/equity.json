@@ -2461,5 +2461,47 @@
         "unrealized_pct": 1.75
       }
     ]
+  },
+  {
+    "date": "2026-08-21",
+    "equity": 102866.53,
+    "spy_close": 765.58,
+    "day_pl_pct": 0.61,
+    "phase_pl_pct": 2.867,
+    "trades_today": 0,
+    "open_positions": [
+      {
+        "symbol": "XLB",
+        "shares": 388,
+        "entry": 51.6155,
+        "current": 53.46,
+        "stop": 48.3435,
+        "unrealized_pct": 3.57
+      },
+      {
+        "symbol": "XLI",
+        "shares": 115,
+        "entry": 173.86,
+        "current": 180.25,
+        "stop": 170.3656,
+        "unrealized_pct": 3.68
+      },
+      {
+        "symbol": "XLK",
+        "shares": 105,
+        "entry": 188.5905,
+        "current": 183.38,
+        "stop": 172.575,
+        "unrealized_pct": -2.76
+      },
+      {
+        "symbol": "XLP",
+        "shares": 238,
+        "entry": 83.8515,
+        "current": 85.89,
+        "stop": 81.9586,
+        "unrealized_pct": 2.43
+      }
+    ]
   }
 ]
