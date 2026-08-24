@@ -8427,3 +8427,131 @@ Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = 
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green, 1 red XLK -2.36% underwater-Day-4-MARGINAL-IMPROVEMENT +55 bps) + 78.84% deployed inside band + Phase P&L +2.53% band-held (+29 bps vs Thu EOD) + NVDA-T-3-trading-days-binary-approach + Jackson-Hole-Fri-AM-potential + WMT-tape-Day-2-stabilization + hawkish-mins-Day-3-digest + 3/3-defensive-earnings-Round-2-validation-received (HD+TGT+WMT operational beats) + XLI-GTC-renewed-Thu-runway-ALL-CLEAR + weekly-review-day-PM-workflow-scheduled + weekend-positioning = 5-priority-elevated Fri = PROTECT POSTURE. XLK underwater Day 4 FIRST STREAK-IMPROVEMENT-PRINT (+55 bps recovery + trail-cushion WIDENED +54 bps + -7%-cut-cushion WIDENED +36 bps = first Round-2 relief-print Day 4); STRUCTURAL AI-capex/hyperscaler mega-thesis MEGA-INTACT (cut only if -7% breaches OR NQ -2%+ AND VIX >17). XLP post-WMT-Day-2 stabilization (pre-open +0.15% + trail cushion WIDENED +14 bps to 4.08%); defensive-leg VALIDATED on 3/3-operations (WMT beat/beat = multiple/guidance de-rate is Q3/Q4 story, not Q2 print miss). XLI POSITION-LIFE-HIGH-BAND-HELD (+3.40%); AI-capex/reshoring/defense/Mfg-PMI-4yr-high MEGA-INTACT; PMI-Flash-9:45am adjacent read. XLB Day 9 chemicals bid confirms (+2.30%); pre-cut $50 cushion ESCAPES 5% warning-band Day 2 improvement (WIDENED +46 bps). NO manual stop moves Fri (XLI renewed Thu ✓; all 4 runway ≥33 days). Cash $21,698 preserved for post-NVDA-Aug-26-Wed opportunistic OR Mon-post-weekend-digestion deploy window. Patience > activity; NVDA-T-3 + Jackson-Hole + weekend-positioning + weekly-review-day = mechanical-discipline-day + monitor-day, NOT active-trading-day. Equity $102,531.38 (+2.53% Phase P&L) advances vs Thu EOD but retreats from Fri-two-weeks-ago Phase-1 EOD HIGH +3.89% (-136 bps) — Round-2 Day 8 stress absorbed within band. /weekly-review-workflow runs Fri PM = Sharpe vs SPY, max DD, vs RSP, process metrics = strategy-audit not tactical-trading-decision-point. Winning-config compounding through Wed-Thu 4-driver-stress-tape; protect into 5-priority-elevated Fri + NVDA-week-runway.**
+
+## 2026-08-24 — Pre-Market Research (Day 89, Monday — Week 18 Day 1 / NVDA-T-2-trading-days / Jackson-Hole-Symposium-Aug-27-29-week / XLK-Round-2-underwater-Day-9-DETERIORATION / no-marquee-BMO-held-tickers / no-major-econ-data)
+
+### Account Snapshot (pre-open ~9:20am ET, live Alpaca cash account, T+1 settle)
+- **Equity:** $102,814.07 (down $99.95 vs Alpaca last_equity $102,914.02 = **-0.097% early PM drift RED**; vs Fri EOD $102,866.53 written = -$52.46 = -0.051% mild-red)
+- **Settled cash:** $21,698.58 | Unsettled: $0
+- **Buying power:** $313,917.68 (margin — DO NOT USE, cash account discipline)
+- **Positions MV:** $81,115.49 (4 sleeves; combined -$52.46 vs Fri EOD $81,167.95 = pre-open mild-red broad)
+- **Phase P&L:** +$2,814.07 (+2.81%) — retreats -6 bps vs Fri EOD +2.867%, holds well inside band
+- **Deployment:** 78.90% (Day 9 INSIDE 75-85% target band; cash headroom sustained Day 9 above 20%)
+
+### Current Book (4/6 positions, live pre-open)
+| Ticker | Sh | Entry | Curr | Day% (vs Fri) | Unrealized | Stop | Stop-Cushion | -7% Cut | Cushion |
+|--------|----|-------|------|---------------|------------|------|--------------|---------|---------|
+| XLB | 388 | $51.6155 | $53.78 | +0.60% | +$839.84 (+4.19%) | $48.3435 (10%) | 10.13% | $48.00 | 10.75% |
+| XLI | 115 | $173.86 | $179.69 | -0.31% | +$670.45 (+3.35%) | $170.3656 (6% Path-C) | 5.19% | $161.69 | 10.02% |
+| XLK | 105 | $188.5905 | $181.4952 | -1.03% | -$745.00 (-3.76%) | $172.575 (10%) | 4.94% | $175.39 | 3.37% |
+| XLP | 238 | $83.8515 | $86.25 | +0.42% | +$570.84 (+2.86%) | $81.9586 (6% Path-C) | 4.97% | $77.98 | 9.60% |
+
+**GTC status:** All 4 stops LIVE and riding HWM ratchets. **All 4 sleeves ≥30-day runway** — XLI `c391f03e` exp 2026-11-18 (86d) ✅ renewed Aug 20; XLK `ad940893` exp 2026-11-10 (78d) ✅; XLP `3036af75` exp 2026-10-29 (66d) ✅; XLB `982c5f58` exp 2026-09-23 (30d) — **next renewal watch, escalates Sep 16 (T-23 days)**.
+
+### Market Context (pre-open)
+- **Oil:** WTI $85.14-$85.65 (Investing $85.14 -2.21% / TradingEconomics $85.69 -1.58% / MarketWatch $85.65 -1.62%) = **retreats from Fri $86.64 close** = mild-inflation-flashback UNWINDS; Iran-sanctions cross-currents processed
+- **Brent:** $91.27-$93.60 = stable-elevated, structural Iran-Hormuz + OPEC+ discipline
+- **S&P 500 futures (ES):** **mixed-lower** — Yahoo -0.11%, Bloomberg ~$7,688, WSJ ~$7,687 (settled Fri $7,691.25 = mild-red drift); Yahoo 4am ET showed ES -0.3%, NQ -0.8% (recovered mildly by session)
+- **Nasdaq futures:** $29,231.50-$29,371 = -0.06% to -0.56% = **mild-tech-drag lead pre-open Day 1 Week 18** (matches XLK -1.03% intraday hit)
+- **VIX:** **15.87-15.89** spot (Perplexity Aug 24 4:03am CT = 15.87 -0.87% from Fri close 16.01; WSJ 4:46am CT 15.89) = complacent-tone reasserts; Fri closed 16.01 per FRED = drifts back into 15-16 band pre-NVDA-week
+- **10Y yield:** elevated per rising real-rates narrative last week; Treasury doubled longer-term-buyback tailwind still active
+- **DXY:** stable
+
+### Today's Calendar (Monday 8/24) — QUIET U.S. DATA DAY
+- **8:30am ET Chicago Fed National Activity Index** (Jul, prior -0.02) = minor cyclical read, secondary
+- **11:30am ET 3-Month + 6-Month Bill Auctions** = mechanical, no market impact
+- **Jackson Hole Symposium Aug 27-29 (Thu-Sat)** — **NOT active today**; keynote Fri Aug 28 by Fed Chair (Warsh per some sources) = **T-4 days**; markets front-run over the week
+- **Scotiabank: "No Releases"** for U.S. Aug 24 = quiet macro day; Newsquawk lists only Chicago Fed NAI
+- **No marquee earnings pre-open** — PDD, XPEV, NSSC, GGR, NCTY, XYF BMO (none held); no XLK/XLI/XLB/XLP direct name in Mon BMO calendar
+
+### Fri Wrap Recap (Week 17 Day 5 close)
+- **Bot Fri +0.610% vs SPY +0.359% = mild OUTPERFORMANCE +25 bps** (2nd consecutive rel-win day Thu +19 / Fri +25)
+- Week 17 cumulative Days 1-5 = **-$1,066.65 (-1.023%)** = mild-red week, 0 trades executed (patience discipline held), 0 cuts, 0 rule-driven tightens, 0 thesis breaks
+- 3/4 sleeves green unrealized Fri close (XLB +3.57%, XLI +3.68%, XLP +2.43%), 1 underwater (XLK -2.76% Day 8 stabilization)
+- 2 mechanical HWM auto-ratchets fired Fri AM (XLB $53.595→$53.715; XLI $180.48→$181.24)
+
+### Sector Momentum (updated YTD via Perplexity)
+- **XLE #1 YTD +44.3%** (structural Iran-Hormuz + OPEC+; not held ✗ — recurring defer)
+- **XLK #2 YTD +27.6%** (held ✓ but Round-2 underwater Day 9 -3.76% pre-open DETERIORATION)
+- **XLB #3 YTD +19.0%** (held ✓ position-life-high band Day 10)
+- **XLI #4 YTD +16.8%** (held ✓ position-life band retained)
+- **XLP YTD +12.1%** (held ✓ 3/3 defensive earnings validated)
+- **Bot 4/5 top-YTD-leaders held** = winning-config sustained Day 89
+- **Last-week (Aug 18-22) sector delta:** XLK -3.53% WEAKEST-large-sector (AI-anxiety headlines: Anthropic-IPO-flags-AI-backlash risk factor + Apple-Siri-Vision-Pro layoffs); XLU -3.43%; XLV +4.40% + XLE +2.89% led (defensive rotation)
+
+### Held-Ticker News
+- **XLK:** Fri close $183.38 (+0.15%); pre-open $181.4952 (-1.03% = **UNDERWATER DAY 9 DETERIORATION** reverses Fri +55 bps recovery); Round-2 underwater streak deepens Tue -1.54% / Wed -2.48% / Thu -2.91% / Fri -2.76% / **Mon -3.76%** = fresh Round-2 underwater LOW; **NVDA earnings Wed Aug 26 AMC = T-2 TRADING DAYS = MAJOR binary approaching** (~14.34% XLK weight); consensus $91.8-$92.0B rev, $2.08-$2.09 EPS, BofA bull $94-$95B, guide $91B ±2%; XLK -7% cut $175.39 cushion **3.37%** (Fri 4.55% → Mon 3.37% = **TIGHTENED -118 bps** = first sub-4% print Round-2 underwater = escalation-monitor active; still above 3% floor); trail $172.575 cushion **4.94%** (Fri 5.89% → Mon 4.94% = TIGHTENED -95 bps); **STRUCTURAL AI-capex/hyperscaler mega-thesis MEGA-INTACT** per pre-market frame
+- **XLI:** Fri close $180.25 (+0.27%); pre-open $179.69 (-0.31% mild-red digest); HWM $181.24 (0.86% below); trail $170.3656 cushion 5.19%; -7% cut $161.69 cushion 10.02%; AI-capex/reshoring/defense/Mfg-PMI-4yr-high MEGA-INTACT; GTC RENEWED Thu Aug 20 ✓ (86 days runway)
+- **XLB:** Fri close $53.46 (+1.98%); pre-open $53.78 (+0.60% CONTINUATION) = **#1 driver continuation Day 10**; HWM $53.715 (0.12% BELOW = next HWM auto-ratchet imminent if bid persists intraday); trail $48.3435 cushion **10.13%**; -7% cut $48.00 cushion **10.75%**; pre-cut $50 cushion **7.03%** (Fri 6.47% → Mon 7.03% = **WIDENED +56 bps = ESCAPES 5% escalation-warning-band Day 3 improvement**); chemicals/feedstock structural bid confirms; oil-retreat $85 slight-headwind (feedstock-mildly-negative)
+- **XLP:** Fri close $85.89 (+0.67%); pre-open $86.25 (+0.42% CONTINUATION) = post-WMT Day-3 recovery-print continues; HWM $87.19 (1.08% below); trail $81.9586 cushion **4.97%** (Fri 4.58% → Mon 4.97% = **WIDENED +39 bps = post-WMT tightening reverses Day 3**); -7% cut $77.98 cushion 9.60%; 3/3 defensive-earnings-Round-2 (HD+TGT+WMT) operational-beats holds
+
+### Round 2 XLK Post-Deploy Status (Day 9 / UNDERWATER DAY 5 = DETERIORATION)
+- Entry: 8/12 Wed $188.5905 x 105 sh; cost $19,801.99; 10% GTC trail attached
+- Days 1-4: +0.13% / +1.15% / +0.71% / +0.80%
+- Day 5 (Tue): -1.54% first underwater EOD
+- Day 6 (Wed): -2.48% underwater Day 2 widens
+- Day 7 (Thu): -2.91% underwater Day 3 mild-widening
+- Day 8 (Fri): -2.76% underwater Day 4 first-improvement +15 bps
+- **Day 9 pre-open (Mon): -3.76% = UNDERWATER DAY 5 DETERIORATION -100 bps** on NQ-futures-drag + Apple/Anthropic AI-anxiety weekend-digest + pre-NVDA-T-2 positioning
+- HWM $191.75; stop $172.575 (10% below); cushion 4.94% (Fri 5.89% → Mon 4.94% = **TIGHTENED -95 bps**)
+- Manual -7% cut $175.39 cushion **3.37%** (Fri 4.55% → Mon 3.37% = **TIGHTENED -118 bps**; first sub-4% print; still above 3% floor)
+- **Escalation posture:** UNDERWATER DAY 5 DETERIORATION but cushion 3.37% > 3% floor + structural thesis MEGA-INTACT + NVDA Aug 26 = T-2 binary = MONITOR intraday; mechanical rule governs; **NO CUT unless -7% breaches ($175.39 close) OR NQ closes -2%+ AND VIX >17**
+
+### Trade Ideas (2-3, catalyst + entry/stop/target)
+Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = $7,500 IRA cap $1,500 (future). **Week 18 = FRESH 3/3 trades reset Mon AM.**
+
+1. **HOLD — TOP CHOICE, PROTECT INTO NVDA-T-2-TRADING-DAYS + XLK-UNDERWATER-DAY-5-DETERIORATION.**
+   - **Rationale:** 4/4 book (3 green, 1 red XLK -3.76% underwater Day 5 DETERIORATION); 78.90% deployed inside band Day 9; Phase P&L +2.81% retreats -6 bps vs Fri EOD (holds well inside band); NVDA Aug 26 = T-2 trading days = MAJOR binary; XLK -7% cut cushion 3.37% (first sub-4% print, still above 3% floor); Jackson-Hole Aug 27-29 macro-overhang builds through week; **patience > activity, especially NVDA-T-2 + XLK-cushion-tight + Week-18-Day-1-open**
+
+2. **NO XLI GTC RENEWAL NEEDED** — renewed Aug 20 ✓ (86-day runway); no mechanical action required today. Next runway watch: XLB `982c5f58` exp 2026-09-23 = T-30 days, escalates ~Sep 16 (T-23 days from today).
+
+3. **XLE 5th-slot (SPECULATIVE ADD) — DEFER CONTINUES**
+   - **Catalyst:** Energy #1 sector YTD +44.3% = structural Iran-Hormuz + OPEC+; would close 4/5 winning-sector gap
+   - **DEFER:** NVDA T-2 binary + Jackson-Hole-Aug-27-29 macro-overhang + Week-18-Day-1-open + XLK-underwater-Day-5-deterioration = 4-priority-elevated Mon = adding into elevated variance = amateur play; **re-evaluate post-NVDA-Aug-26-Wed-AH per prior plan**
+   - **Gate hypothetical:** 4→5/6 ✓, 0→1/3 ✓, cost $20k ≤ $20k ✓, cost ≤ $21,698 ✓, catalyst ✓, stock ✓ = MECHANICAL PASS / STRATEGIC DEFER
+
+4. **SKIP any single-name earnings today** — PDD/XPEV/NSSC/GGR/NCTY/XYF BMO = single-name binary anti-strategy Rule NO
+
+### Risk Factors
+- **🔴🔴🔴 NVDA EARNINGS AUG 26 WED AMC = XLK #1 BINARY T-2 TRADING DAYS** — ~14.34% XLK weight; consensus $91.8-$92B rev, $2.08-$2.09 EPS; BofA bull $94-95B; guide $91B ±2%; XLK direct exposure decisive tech-catalyst-week
+- **🔴🔴🔴 XLK UNDERWATER DAY 5 DETERIORATION (-3.76%)** — reverses Fri +15-55 bps recovery; -7% cut cushion 3.37% (Fri 4.55% → Mon 3.37% = -118 bps TIGHTEN, first sub-4% print Round-2 underwater); STILL above 3% floor + STRUCTURAL MEGA-INTACT; mechanical rule governs
+- **🔴🔴 JACKSON-HOLE SYMPOSIUM AUG 27-29 (Thu-Sat)** — theme "Financial Innovation: Payments and Policy"; Fed Chair keynote Fri Aug 28 = T-4 days; markets front-run over week; hawkish-lean = XLK/XLP rate-sensitive drag; dovish-lean = broad risk-on lift
+- **🔴 LAST-WEEK (Aug 18-22) XLK -3.53% WEAKEST-LARGE-SECTOR** — AI-anxiety headline stack (Anthropic-IPO-flags-AI-backlash risk-factor + Apple-Siri-Vision-Pro layoffs + AI-capex-hyperscaler concerns) = pre-NVDA-week sentiment headwind carrying into Mon
+- **🔴 NASDAQ FUTURES -0.06% to -0.56% PRE-OPEN** — mild-tech-drag lead Day 1 Week 18 matches XLK -1.03% intraday hit; S&P futures -0.11% to -0.15% = broader mild-red
+- **🔴 OIL WTI $85 RETREAT** — from Fri $86.64 close = -1.5% to -2.2% = inflation-flashback UNWINDS but Iran-sanctions cross-currents processed; feedstock-mildly-negative XLB (partial offset by demand-reflex)
+- **🔴 VIX 15.87-15.89 (-0.87% pre-mkt vs Fri 16.01)** — spot back inside 15-16 band; complacent-tone reasserts pre-NVDA-week but SchusterWatch flagged VIX +6.18% last week on real-rates-anxiety
+- **🔴 CHICAGO FED NAI 8:30am** — prior -0.02; minor cyclical secondary read; unlikely to move macro tape
+- **🟢 XLB DAY 10 CHEMICALS BID CONTINUATION (+4.19% unrealized)** — pre-cut $50 cushion WIDENED +56 bps to 7.03% = ESCAPES 5% warning-band Day 3 improvement; HWM $53.715 imminent next-ratchet if bid persists
+- **🟢 XLP POST-WMT DAY-3 RECOVERY-CONTINUATION (+2.86%)** — trail cushion WIDENED +39 bps to 4.97%; 3/3 defensive-earnings validated on operations
+- **🟢 XLI POSITION-LIFE-HIGH BAND HELD (+3.35%)** — mild-red digest, structural MEGA-INTACT
+- **🟢 CASH $21,698 PRESERVED Day 9** = Week 18 3/3 FRESH-CAP-RESET + dry powder for post-NVDA opportunistic deploy
+- **🟢 4/5 TOP-YTD SECTORS HELD** = winning-config sustained Day 89
+- **🟢 GTC RUNWAY ALL CLEAR** — all 4 sleeves ≥30-day expiry (XLI renewed Aug 20 ✓)
+- **🟢 2 CONSECUTIVE REL-WIN DAYS vs SPY** — Thu +19 bps / Fri +25 bps defensive-tilt outperformance
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Mon; NVDA-T-2 + XLK-deterioration + Jackson-Hole-week + Week-18-Day-1-open)
+- Total positions after fill: 4 → 5 (≤6 ✓ mechanically)
+- Trades placed this week incl fill: 0 → 1 (≤3 ✓ mechanically, FRESH Week 18 cap)
+- Position cost ≤ **$20,000 20% cap ✓** for any candidate
+- Position cost ≤ settled cash **$21,698.58 ✓** (headroom exists)
+- Specific catalyst documented — **NONE with NVDA-T-2-binary-approach + Jackson-Hole-week + XLK-cushion-tight-3.37% + Week-18-Day-1-open frame**
+- Instrument is a stock ✓
+- **STRATEGIC OVERRIDE: NVDA-T-2 + Jackson-Hole-Aug-27-29 + XLK-underwater-Day-5-deterioration (cushion 3.37% first sub-4%) + Week-18-Day-1-open = 4-priority-elevated Mon = adding 5th slot into elevated variance = amateur play. Already 4/4 winning-config Day 9 + 78.90% band-inside + protect posture into NVDA-binary + XLK-cushion-monitor active. DEFER any 5th-slot decision to post-NVDA-Aug-26-Wed-AH per prior plan.**
+
+### Decision: **HOLD** (Week 18 Day 1 / NVDA-T-2-trading-days / Jackson-Hole-week / XLK-underwater-Day-5-DETERIORATION / no-marquee-BMO)
+- **Rationale:** 4/4 book (3 green + 1 red XLK -3.76% Day 5 DETERIORATION); Phase P&L +2.81% retreats -6 bps vs Fri EOD (holds well inside band); 78.90% deployed inside target Day 9; NVDA T-2 trading days = MAJOR binary; XLK -7% cut cushion 3.37% (first sub-4% print, escalation-monitor active); Jackson-Hole Aug 27-29 macro-overhang builds through week; **patience > activity, especially NVDA-T-2 + XLK-cushion-tight + Week-18-Day-1-open**
+- **XLK Day 9 monitor:** underwater Day 5 DETERIORATION (-3.76% from Fri -2.76% = -100 bps deepen); cushion 3.37% first sub-4% Round-2; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17**; mechanical stop $172.575 (cushion 4.94%) intact; STRUCTURAL AI-capex/hyperscaler mega-thesis MEGA-INTACT
+- **XLP monitor:** post-WMT Day-3 continuation (+0.42% intraday); trail cushion WIDENED +39 bps to 4.97%; 3/3 defensive-earnings-Round-2-validation holds
+- **Mechanical GTC stops:** all 4 continue riding; **no manual stop moves Mon**; all runway ≥30 days (XLB `982c5f58` T-30 days, next renewal watch escalates ~Sep 16)
+- **Watch levels /midday (~12pm ET):**
+  - **Chicago Fed NAI 8:30am ET** — minor secondary read; unlikely to move tape
+  - **XLK $181-$183 hold** = mechanical-rule-governs; sub-$180 = escalation-monitor triggers; **sub-$175.39 = -7% cut ACTIVE mechanical rule**
+  - **NQ futures intraday** — hold >29,200 = tactical-drift band; NQ -2%+ close AND VIX >17 = XLK cut escalation trigger
+  - **XLP $86 floor watch** — sub-$85.32 = below Thu close escalation-monitor; hold $86 = post-WMT-Day-3 confirms; $87.19+ = HWM reclaim watch
+  - **XLB $53+ hold** — $53.715 HWM auto-ratchet imminent if bid persists intraday; pre-cut $50 fully ESCAPED (7.03% cushion)
+  - **XLI $179-$181 hold** — HWM $181.24 (0.86% below); trail $170.3656 cushion 5.19%
+  - **VIX 12pm ET check** — hold 14-16 = tactical-drift band; spike >17 = pre-NVDA-de-risk flag; sub-15 = complacent-tone reasserts
+  - **Oil PM check** — WTI $85 = retreat-band (feedstock-mildly-negative XLB); >$87 = flashback-escalation-return; <$84 = range re-establish
+
+### Today's Discipline
+**HOLD — 4/4 book (3 green, 1 red XLK -3.76% underwater-Day-5-DETERIORATION -100 bps) + 78.90% deployed inside band + Phase P&L +2.81% band-held (-6 bps vs Fri EOD) + NVDA-T-2-trading-days-binary-approach + Jackson-Hole-Aug-27-29-symposium-week + XLK-cushion-3.37%-first-sub-4%-print (still above 3% floor + STRUCTURAL MEGA-INTACT) + no-marquee-BMO-held-tickers + no-major-econ-data (Chicago Fed NAI minor secondary only) + Week-18-Day-1-open (fresh 3/3 trade cap) = 4-priority-elevated Mon = PROTECT POSTURE. XLK Round-2 UNDERWATER DAY 5 DETERIORATION reverses Fri +15-55 bps recovery — mechanical rule governs (cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17); NO CUT — STRUCTURAL AI-capex/hyperscaler mega-thesis MEGA-INTACT + cushion 3.37% > 3% floor + NVDA T-2 binary decisive. XLP post-WMT Day-3 recovery-continuation (+0.42% intraday, trail cushion WIDENED +39 bps to 4.97%); 3/3 defensive-earnings-Round-2 validated on operations. XLI POSITION-LIFE-BAND-HELD (+3.35%); mild-red digest, AI-capex/reshoring/defense MEGA-INTACT. XLB Day 10 chemicals bid CONTINUATION (+4.19% unrealized, +0.60% intraday); pre-cut $50 cushion WIDENED +56 bps to 7.03% = ESCAPES 5% warning-band Day 3 improvement; HWM $53.715 imminent next-ratchet. NO manual stop moves Mon (all 4 runway ≥30 days; XLB next renewal watch escalates ~Sep 16 T-23 days). Cash $21,698 preserved for post-NVDA-Aug-26-Wed-AH opportunistic deploy window. Patience > activity; NVDA-T-2 + Jackson-Hole-week + XLK-cushion-tight + Week-18-Day-1-open = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding through Fri +25 bps rel-win Day 2; protect into 4-priority-elevated Mon + NVDA-binary-Wed-AMC.**
