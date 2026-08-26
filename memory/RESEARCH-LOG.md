@@ -8694,3 +8694,102 @@ Reminder: Bot on **paper-Phase-1 $100k baseline = cap $20,000**. Live Phase 2 = 
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green, 1 red XLK -3.50% underwater-Day-6-RECOVERY-PRINT +105 bps vs Mon) + 78.97% deployed inside band + Phase P&L +3.20% Round-2-high-band-print (+43 bps vs Mon EOD) + NVDA-T-1-trading-day-binary-Wed-AMC + Jackson-Hole-Warsh-keynote-Fri-T-3 + XLK-cushion-3.75%-reclaims-above-3%-floor (escalation-monitor MODERATES vs Mon 2.63% first sub-3% print) + INTU+CRM-AMC-tech-tape-adjacent + Consumer-Confidence-10am + Barkin-2x-Fed-speak + Week-18-Day-2 (3/3 trade cap intact) = 5-priority-elevated Tue = PROTECT POSTURE. XLK Round-2 UNDERWATER DAY 6 RECOVERY-PRINT (+105 bps vs Mon's Day-5 deterioration) — mechanical rule governs (cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17); NO CUT — STRUCTURAL AI-capex/hyperscaler mega-thesis MEGA-INTACT + cushion 3.75% reclaims above 3% floor + NVDA T-1 binary decisive tomorrow. XLP post-WMT Day-4 recovery-continuation (+0.18% intraday, trail cushion WIDENED +58 bps to 6.44%); HWM $87.465 imminent-next-ratchet; 3/3 defensive-earnings-Round-2 validated on operations. XLI POSITION-LIFE-BAND-HELD (+3.90%) + recovery (+0.92% vs Mon -0.69%); HWM $181.24 imminent-next-ratchet 0.33% below; AI-capex/reshoring/defense/Mfg-PMI-4yr-high MEGA-INTACT. XLB Day 10 chemicals bid CONTINUATION (+3.85% unrealized, +0.04% mild-flat); pre-cut $50 cushion WIDENED +48 bps to 7.20% = ESCAPES 5% warning-band Day 4 improvement; materials sector CONFIRMS past-month S&P leader per Schwab. NO manual stop moves Tue (all 4 runway ≥29 days; XLB next renewal watch escalates ~Sep 16 T-22 days). Cash $21,698 preserved for post-NVDA-Aug-26-Wed-AH opportunistic deploy window. Patience > activity; NVDA-T-1 + Warsh-T-3 + XLK-recovery-not-yet-confirmed-close + INTU/CRM-AMC-adjacent + Consumer-Confidence-10am + Barkin-2x = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding through Mon +11 bps rel-win Day 3; protect into 5-priority-elevated Tue + NVDA-binary-Wed-AMC.**
+
+## 2026-08-26 — Pre-market Research (Wed / Week 18 Day 3 / NVDA-AMC-BINARY-DAY / Jackson-Hole-Warsh-T-2)
+
+### Account
+- Equity: $102,521.74 (pre-open; Tue close $102,678.08 → -$156.34 / -0.152% early quote drift)
+- Settled cash: $21,698.58 (21.16% dry powder)
+- Buying power: $313,099 (informational — cash account T+1, DO NOT SIZE against this; use settled cash)
+- Positions: 4/6 (XLB 388 / XLI 115 / XLK 105 / XLP 238) — Open orders: 4 GTC trails — Week 18 trades: 0/3 (fresh cap Day 3)
+- Deployment: ~78.83% (inside 75-85% band Day 11)
+- Phase P&L: +$2,521.74 (+2.522%) pre-open
+
+### Market Context
+- **WTI / Brent:** WTI ~$80.12 (-2.7% vs prior settle $82.36); Brent ~$86.32 (-2.55%) — oil DOWN ~2-3% overnight on profit-taking; XLE headwind but XLB/XLI unaffected
+- **S&P 500 futures:** ES ~7,683 (+0.18% pre-market, ~+13.5pts); Nasdaq +0.5% pre-market — pre-NVDA-AMC positioning bid
+- **VIX:** 15.73 (+1.81% intraday early quote; Tue close 15.45); complacent 15-16 band pre-NVDA-binary sustains
+- **Today's catalysts:** 🔴🔴🔴 **NVDA Q2 FY2027 earnings AMC ~4:20pm ET / call 5pm ET** = week's decisive tech-tape binary (~14.34% XLK weight)
+- **Earnings BMO (held-relevant):** none; BMO reported yesterday (beat); other minor names (CHWY, DKS, JWN) not held
+- **Economic calendar (all times ET):**
+  - 7:00am MBA 30Y Mortgage Rate (prior 6.77%)
+  - 8:30am **Durable Goods Orders Jul** (cons +0.4-0.5%, prior +0.3%; ex-Trans +0.3%)
+  - 8:30am **GDP Q2 2nd estimate** (cons ~1.5%, prior 2.1%)
+  - 8:30am **Core PCE Q2** (embedded in GDP)
+  - 10:30am EIA Crude Oil Inventories
+  - 5:00pm Fed Barkin speech
+  - **Warsh keynote Jackson Hole Fri Aug 28 = T-2 days** (macro-overhang builds)
+- **Sector momentum (Tue Aug 25 daily):** XLP +1.7% #1, XLF +1.29%, XLB +0.35%, XLI -0.30%, **XLK -1.78% (worst)**; Nasdaq +0.7% intraday but XLK sector-ETF finished red on chip drag; YTD leaders confirm Materials/Health/Energy past-month S&P leaders per Schwab
+
+### Held-Ticker Snapshot (pre-open)
+- **XLB $53.35** (day -0.43% intraday quote); unrealized +$673 (+3.36%); HWM $54.19; stop $48.771 (10% trail); cushion 8.58%; manual $48 cushion 10.03%; pre-cut $50 cushion **6.28%** (holds ESCAPES 5% band Day 6); chemicals-bid Day 11 mild-flat pre-open
+- **XLI $178.40** (unchanged pre-open); unrealized +$522 (+2.61%); HWM $181.24 (1.59% below); stop $170.3656 (6% Path-C); cushion 4.50%; -7% cut $161.69 cushion 9.37%; AI-capex/reshoring MEGA-INTACT
+- **XLK $181.37** (day -0.20% pre-open); unrealized -$758 (-3.83%); HWM $191.75 (5.42% below); stop $172.575 (10% trail); cushion 4.85%; **-7% cut $175.39 cushion 3.30%** (holds above 3% floor Day 11 = Round-2 underwater Day 7 stabilization); NVDA T-0 AMC decisive
+- **XLP $86.40** (day -0.14% pre-open); unrealized +$606 (+3.04%); HWM $87.465 (1.22% below); stop $82.2171 (6% Path-C); cushion 4.84%; manual $77.98 cushion 9.75%; 3/3 defensive-earnings-Round-2 (HD+TGT+WMT) validated
+
+### Round 2 XLK Status (Day 11 / UNDERWATER DAY 7 = pre-NVDA-binary stabilization)
+- Entry 8/12 Wed $188.5905 x 105; cost $19,801.99
+- Days: +0.13% / +1.15% / +0.71% / +0.80% / -1.54% / -2.48% / -2.91% / -2.76% / -4.55% (Mon deepest) / -3.81% (Tue recovery-confirmed) / **-3.83% pre-open Wed** (stable)
+- Cushion vs -7% cut: 3.30% (holds above 3% floor from Mon's 2.63% deepest print)
+- Structural AI-capex/hyperscaler thesis MEGA-INTACT
+- **Escalation posture:** NVDA T-0 AMC = binary; mechanical rule governs — NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17
+
+### Trade Ideas
+Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 18 = 0/3 trades consumed Day 3.
+
+1. **HOLD — TOP CHOICE, PROTECT INTO NVDA-AMC-BINARY DAY.**
+   - **Rationale:** 4/4 book (3 green, 1 red XLK -3.83% Day 7 stabilized) + 78.83% deployed inside band + Phase P&L +2.52% + **NVDA T-0 AMC decisive tonight** + Jackson-Hole-Warsh Fri T-2 + XLK cushion 3.30% above 3% floor + Barkin 5pm Fed-speak + Durable Goods + GDP 8:30am triple-macro = 5-priority-elevated Wed; patience > activity DAY-OF binary; **any new deploy = pure amateur play into NVDA variance**
+   - **Entry/stop:** N/A (no add)
+
+2. **NO GTC RENEWAL NEEDED TODAY** — all 4 sleeves ≥29-day runway (XLI 85d, XLK 77d, XLP 65d, XLB 29d; next renewal watch ~Sep 16 T-22 days)
+
+3. **XLE 5th-slot (SPECULATIVE ADD) — DEFER CONTINUES post-NVDA-AH per prior plan**
+   - Oil -2.7% overnight = XLE headwind adds to strategic-defer thesis; re-eval post-NVDA-Wed-AH after binary reveals asymmetric ex-ante risk
+
+4. **SKIP any single-name earnings today** (CHWY/DKS/JWN/NVDA-single-name) — anti-strategy Rule NO
+
+### Risk Factors
+- 🔴🔴🔴 **NVDA Q2 FY2027 AMC ~4:20pm ET (call 5pm ET)** — cons $91.8-92B rev / $2.08-2.09 EPS / guide $91B ±2%; 95% Polymarket beat odds priced-in = asymmetric downside if miss/weak-guide; XLK ~14.34% weight direct exposure; **Thu XLK open gap decisive (up on beat+raise / down on miss)**
+- 🔴🔴 **XLK UNDERWATER DAY 7** (-3.83% pre-open, cushion 3.30% above 3% floor; deep-print Mon 2.63% → Tue-Wed 3.30% stabilization); STRUCTURAL MEGA-INTACT; mechanical rule governs; **cut ONLY if -7% $175.39 close breach OR NQ -2%+ close AND VIX >17**
+- 🔴🔴 **JACKSON HOLE SYMPOSIUM Aug 27-29 (Thu-Sat) / Warsh keynote Fri T-2** — theme "Financial Innovation: Payments and Policy"; hawkish = XLK/XLP rate-sensitive drag; dovish = broad risk-on
+- 🔴🔴 **Durable Goods Jul 8:30am ET** — cons +0.4-0.5%; miss = risk-off; hot = rate-anxiety pre-Warsh
+- 🔴🔴 **GDP Q2 2nd estimate 8:30am ET** — cons ~1.5% (vs 2.1% prior); revision surprise = macro-tape shock
+- 🔴🔴 **Core PCE Q2 (embedded in GDP)** — inflation revision watch pre-Warsh
+- 🔴 **Barkin 5pm ET Fed-speak** — post-NVDA-close hawkish-lean = rate-anxiety flow post-print
+- 🔴 **EIA Crude Inventory 10:30am ET** — draw/build = oil-tape modulator (XLE-adjacent)
+- 🔴 **Oil -2.7% overnight WTI ~$80** — energy-sector headwind (XLE deferred stays sound); mixed effect XLB (chemicals feedstock tailwind) vs XLI (energy demand proxy)
+- 🟢 **NVDA pre-market +1.2-1.3% ($211-213)** — positioning bid into binary; not signal-only, tape-noise
+- 🟢 **XLK pre-open -0.20% (stabilized)** — reverses Mon deepest print; Tue recovery-confirmed holds Day 11
+- 🟢 **XLB DAY 11 CHEMICALS BID CONTINUATION** (+3.36% unrealized); pre-cut $50 cushion 6.28% = ESCAPES 5% band Day 6; past-month S&P leader confirms
+- 🟢 **XLP 3/3 DEFENSIVE-EARNINGS-ROUND-2 VALIDATED** (+3.04% unrealized); trail cushion 4.84%
+- 🟢 **XLI AI-CAPEX/RESHORING MEGA-INTACT** (+2.61% unrealized); trail cushion 4.50%
+- 🟢 **CASH $21,698 PRESERVED** = Week 18 3/3 fresh cap + dry powder for post-NVDA-Wed-AH opportunistic deploy window
+- 🟢 **GTC RUNWAY ALL CLEAR** — all 4 sleeves ≥29-day expiry
+- 🟢 **VIX 15.45-15.73 complacent** pre-NVDA-binary; below 17 escalation trigger
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Wed; NVDA-T-0 AMC binary + Warsh-Fri-T-2 + Durable Goods/GDP triple-macro 8:30am + XLK-underwater-Day-7-stabilized + Barkin-5pm)
+- Positions after fill: 4→5 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 18 Day 3)
+- Cost ≤ $20,000 20% cap ✓ any candidate
+- Cost ≤ settled $21,698 ✓ headroom exists
+- Catalyst — **NONE with NVDA-T-0-AMC + triple-macro-8:30 + Warsh-Fri-T-2 + XLK-cushion-3.30% + Barkin-5pm frame**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** NVDA-AMC-decisive-tonight + Warsh-keynote-Fri-T-2 + Durable-Goods/GDP/PCE-triple-macro-8:30 + XLK-underwater-Day-7-stabilized-not-yet-post-binary + Barkin-5pm-Fed-speak + Oil-2.7%-overnight = **6-priority-elevated Wed = adding into elevated variance = amateur play**. Already 4/4 winning-config Day 11 + 78.83% band-inside + Phase P&L +2.52%. **DEFER 5th-slot to post-NVDA-Wed-AH per prior plan.**
+
+### Decision: **HOLD** (Week 18 Day 3 / NVDA-AMC-BINARY-DAY / Jackson-Hole-Warsh-T-2 / Triple-macro-8:30 / XLK-Day-7-stabilized-3.30%-above-3%-floor)
+- **Rationale:** 4/4 book (3 green + XLK -3.83% Day 7 stabilized above 3% floor); Phase P&L +2.52% inside range; 78.83% deployed inside target Day 11; **NVDA T-0 AMC decisive tonight** (Thu open gap governs XLK); Warsh keynote Fri T-2; Durable Goods/GDP/PCE 8:30am triple-macro; XLK cushion 3.30% above 3% floor (mechanical rule governs); Barkin 5pm post-close Fed-speak; **patience > activity, protect posture DAY-OF-binary**
+- **XLK Day 11 monitor:** underwater Day 7 stabilized (-3.83% pre-open); cushion 3.30% > 3% floor; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17**; mechanical stop $172.575 (cushion 4.85%) intact; STRUCTURAL AI-capex/hyperscaler MEGA-INTACT
+- **XLP monitor:** trail cushion 4.84%; HWM $87.465 (1.22% below); Day-5 defensive digest normal; 3/3 earnings-validated on operations
+- **Mechanical GTC stops:** all 4 continue riding; no manual moves Wed; all runway ≥29 days
+- **Watch levels / midday (~12pm ET):**
+  - **8:30am Durable Goods / GDP / Core PCE** — hot = rate-anxiety Warsh-tilt; miss = risk-off broad
+  - **XLK $181-$183 hold** = stable pre-binary; sub-$180 = escalation re-tightens; **sub-$175.39 close = -7% cut ACTIVE mechanical rule**
+  - **NQ futures intraday** — hold >29,000 tactical-drift; NQ -2%+ close AND VIX >17 = XLK cut escalation
+  - **XLP $87.465 breach** = HWM auto-ratchet; sub-$85.50 = post-earnings fade concern
+  - **XLB $53+ hold** — HWM $54.19 (1.53% below); pre-cut $50 cushion 6.28%
+  - **XLI $178+ hold** — HWM $181.24 (1.59% below); trail 4.50%
+  - **VIX 12pm ET** — hold 14-16 tactical-drift; spike >17 = pre-NVDA-de-risk flag
+  - **NVDA 4:20pm ET AMC + 5pm call** — DEFERRED post-market (Thu pre-market handles Thu-open response); Barkin 5pm parallel Fed-speak
+
+### Today's Discipline
+**HOLD — 4/4 book (3 green + XLK -3.83% Day 7 stabilized-3.30%-above-3%-floor) + 78.83% deployed inside band + Phase P&L +2.52% + NVDA-T-0-AMC-BINARY-tonight + Jackson-Hole-Warsh-keynote-Fri-T-2 + Durable-Goods/GDP/Core-PCE-triple-macro-8:30 + XLK-cushion-3.30%-above-3%-floor + Barkin-5pm-Fed-speak + Oil--2.7%-overnight + Week-18-Day-3 (0/3 trade cap intact) = 6-priority-elevated Wed = PROTECT POSTURE. XLK Round-2 UNDERWATER DAY 7 STABILIZED-DAY-2 (Tue recovery-confirmed holds Wed pre-open -3.83% vs Mon deepest -4.55%) — mechanical rule governs (cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17); NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + cushion 3.30% > 3% floor + NVDA T-0 AMC = Thu-open gap decisive. XLP 3/3 defensive-earnings-Round-2-validated (+3.04%); HWM $87.465 (1.22% below); trail cushion 4.84%. XLI AI-capex/reshoring/defense MEGA-INTACT (+2.61%); trail 4.50%; HWM $181.24 (1.59% below). XLB Day 11 chemicals-bid CONTINUATION (+3.36% unrealized); pre-cut $50 cushion 6.28% ESCAPES 5% band Day 6; past-month S&P leader confirmed. NO manual stop moves Wed (all runway ≥29d; XLB next renewal watch ~Sep 16 T-22d). Cash $21,698 preserved for post-NVDA-Wed-AH opportunistic deploy window. Patience > activity; NVDA-T-0 + Warsh-T-2 + Durable-Goods/GDP-8:30 + Barkin-5pm + XLK-stabilized-pre-binary = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding; protect into 6-priority-elevated Wed + NVDA-binary-AMC.**
