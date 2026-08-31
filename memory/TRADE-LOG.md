@@ -2384,3 +2384,38 @@ No open positions.
 **GTC expiry runway — ALL CLEAR:** XLI `c391f03e` exp 2026-11-18 (84d) ✅; XLK `ad940893` exp 2026-11-10 (76d) ✅; XLP `3036af75` exp 2026-10-29 (64d) ✅; XLB `982c5f58` exp 2026-09-23 (28d) — next renewal watch escalates ~Sep 16 T-21 days.
 
 **Thursday Aug 27 plan:** /pre-market opens Week 18 Day 4 = **NVDA-POST-BINARY-DAY** (Thu open Gap-decisive tech-tape reaction to Wed AMC earnings + guide) + Jackson-Hole-Warsh-Fri T-1 macro-overhang final positioning. **CRITICAL Thu priorities:** (1) **NVDA reaction determines XLK path**: beat+raise = XLK gap-up $186+ reclaims comfortable positive-P&L trajectory + potential HWM $191.75 breach → auto-ratchet; miss/weak-guide = XLK gap-down could breach $175.39 -7%-cut ACTIVE → mechanical cut executes at open; (2) XLK $184 hold vs $175.39 -7%-cut (4.68% cushion widens comfortably pre-binary) = mechanical-rule-governs post-open Thu; sub-$178 open = re-tighten below 3% floor active; **sub-$175.39 close = -7% cut ACTIVE**; (3) XLP $86.55 hold vs trail $82.2171 (cushion 5.01%) + $87.465 HWM (1.05% below); (4) XLB $53.67 hold vs trail $48.771 (cushion 9.13%) + $54.19 HWM (0.97% below = imminent-next-ratchet); (5) XLI $180.44 hold vs trail $170.3656 (cushion 5.58%) + $181.24 HWM (0.44% below = imminent-next-ratchet); (6) 5/6 book expansion decision REMAINS PAUSED pending Jackson-Hole-Warsh Fri; (7) fresh Week 18 3/3 trade cap intact Day 3. **BEST-CASE Thu:** NVDA beat+raise gap-up + XLK $186+ reclaim + XLI/XLB HWM ratchet fires + Fri Warsh-dovish setup = +0.5-1.0% Day 4. **BASE-CASE Thu:** NVDA modest-beat + XLK $185-186 range hold + mixed digest ahead of Warsh = flat-to-mildly-green +0.1 to +0.3% Day 4. **WORST-CASE Thu:** NVDA miss/weak-guide + XLK gap-down $175-178 = -7%-cut ACTIVE mechanical execution + broad tech-drag + VIX >17 = -0.7 to -1.5% Day 4. **Wed session validates 2-driver recovery day: XLK #1 driver +1.24% biggest single-day recovery of Round-2 (unrealized improves +138 bps), XLI #2 driver +1.14% industrial-bid strengthens (unrealized advances +118 bps), XLB +0.17% + XLP +0.03% mild digest, 0 mechanical HWM auto-ratchets (Day 2 consecutive zero-ratchet = consolidation below HWMs), 4/6 book stable, 3/3 Week 18 trade cap intact (patience discipline Day 3), 78.97% deployment INSIDE band Day 11, mild OUTPERFORMANCE vs SPY +64 bps resumes rel-win posture. Thu = NVDA-POST-BINARY reaction Gap-decisive + Jackson-Hole-Warsh-Fri T-1 final positioning + XLK cushion 4.68% widens comfortably requires vigilant post-binary open monitor.**
+
+### Aug 31 — Midday Snapshot (Day 96, Monday — Week 19 Day 1 / POST-WARSH-HAWKISH-DIGEST / ISM-Mfg-Tue-T-1 / JOLTS-Tue-T-1 / NFP-Fri-T-4 / 4/4 book 3 green 1 red / 0 cuts, 0 rule-driven tightens, 0 thesis breaks / 0 mechanical HWM auto-ratchets / equity Fri $102,538.07 → Mon midday $101,990.54 = -0.534% / post-Warsh-hawkish digest day)
+
+**Sell-side gate check (all 4):** none at -7% cut trigger (XLK closest at -1.44%, cushion 5.64% to $175.39 = HOLDS ABOVE 3% floor); none at +15%/+20% tighten trigger (XLB closest at +2.02%, needs $59.36 = +12.72% away for +15%); no thesis broken. **0 cuts, 0 rule-driven tightens, 0 manual actions.**
+
+**Midday positions (~1pm ET, 4/6 book):**
+- **XLB:** 388 sh, +2.02% (+$405.28), $52.66 (day -0.98% vs Fri $53.18 = chemicals digest post-Warsh); HWM $54.19 unchanged (2.83% below); stop $48.771 unchanged (10% trail); MV $20,432.08
+- **XLI:** 115 sh, +0.65% (+$129.95), $174.99 (day -1.21% vs Fri $177.14 = industrial-bid drag continues Warsh-hawkish); HWM $181.24 unchanged (3.45% below); stop $170.3656 unchanged (6% Path-C); MV $20,123.85
+- **XLK:** 105 sh, -1.44% (-$284.60), $185.88 (day +0.10% vs Fri $185.69 = pre-ISM-Tue stabilization); HWM $191.75 unchanged (3.16% below); stop $172.575 unchanged (10% trail); MV $19,517.40
+- **XLP:** 238 sh, +1.27% (+$253.11), $84.915 (day -0.63% vs Fri $85.45 = defensive-rate-sensitive drag); HWM $87.465 unchanged (3.00% below); stop $82.2171 unchanged (6% Path-C); MV $20,209.77
+- **Combined MV:** $80,283.10; equity **$101,990.54** (-$547.53 / -0.534% intraday vs Fri $102,538.07); cash **$21,698.58** settled; deployment **78.72%** (Day 15 INSIDE 75-85% band); Phase P&L **+$1,990.54 (+1.99%)**
+
+**Cushion table:**
+- XLB manual -7% cut $48.00 cushion **8.85%**; pre-cut $50 cushion **5.05%** (barely holds 5% band Day 11); trail cushion **7.39%**; HWM $54.19 (2.83% below)
+- XLI manual -7% cut $161.69 cushion **7.60%**; trail $170.3656 cushion **2.64%** (**CRITICAL — sub-3% floor Day 1; mechanical trail-fire watch active**); HWM $181.24 (3.45% below)
+- XLK manual -7% cut $175.39 cushion **5.64%** (post-Warsh shave; still HOLDS ABOVE 3% floor Day 15); trail $172.575 cushion **7.16%**; HWM $191.75 (3.16% below)
+- XLP manual -7% cut $77.98 cushion **8.17%**; trail $82.2171 cushion **3.18%** (**CRITICAL — approaches 3% floor**); HWM $87.465 (3.00% below)
+
+**Thesis check pass:**
+- **XLB INTACT** — chemicals digest -0.98% intraday post-Warsh; +2.02% unrealized holds; structural chemicals/feedstock bid Day 51 minor pullback normal. **NO CUT.**
+- **XLI INTACT (mechanical-watch escalates)** — industrial-bid drag -1.21% Warsh-hawkish-amplified; +0.65% unrealized; AI-capex/reshoring/Mfg-PMI-4yr-high thesis intact but **trail cushion 2.64% sub-3% floor = mechanical GTC trail-fire watch ACTIVE**; sub-$170.37 close = trail fires. **NO CUT — mechanical rule governs.**
+- **XLK INTACT (post-Warsh consolidation Day 15)** — day +0.10% pre-ISM-Tue stabilization; unrealized Fri -1.55% → Mon -1.44% (+11 bps micro-improve); cushion 5.64% comfortable; AI-capex mega-thesis + NVDA beat+raise cleared. **NO CUT — cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17.**
+- **XLP INTACT (mechanical-watch escalates)** — defensive-rate-sensitive drag -0.63%; +1.27% unrealized; 3/3 defensive-earnings-Round-2 (HD+TGT+WMT) validated on fundamentals but **trail cushion 3.18% approaches 3% floor**; sub-$82.22 close = trail fires. **NO CUT — mechanical rule governs.**
+
+**HWM ratchet check midday:** **0 mechanical auto-ratchets fired Mon AM** — all 4 stops unchanged from Fri EOD (XLB $48.771, XLI $170.3656, XLK $172.575, XLP $82.2171); no HWM breaches.
+
+**Macro pulse (Mon midday):** Dallas Fed Mfg 10:30am absorbed; SAIC-only BMO earnings; Warsh-hawkish-macro-flip Fri Sep-hike-odds 40%→60% still digesting; **ISM Mfg Tue 10am T-1 + JOLTS Tue T-1 = Week 19 opens data-heavy tomorrow**; ADP Wed; NFP Fri T-4 DECISIVE; VIX 15.27+ post-Fri-break-below-15-complacency; oil ~$85 WTI Iran-Hormuz re-bid alive.
+
+**Week 19 book state:** 4/6 slots, **0/3 trades consumed** (fresh cap intact Day 1); settled cash $21,698.58 = 21.28% dry powder; **Day 15 INSIDE 75-85% deployment band Phase-1 Round 2**.
+
+**GTC expiry runway — ALL CLEAR:** XLI `c391f03e` exp 2026-11-18 (79d) ✅; XLK `ad940893` exp 2026-11-10 (71d) ✅; XLP `3036af75` exp 2026-10-29 (59d) ✅; XLB `982c5f58` exp 2026-09-23 (23d) — approaches T-21 renewal watch ~Sep 2 T-2 days.
+
+**PM watch (1pm-4pm):** (1) **XLI $174.99 hold vs $170.37 trail (cushion 2.64% CRITICAL sub-3%)** — sub-$172 = imminent trail-fire watch; sub-$170.37 close = **trail FIRES mechanically**; (2) **XLP $84.915 hold vs $82.22 trail (cushion 3.18% approaches 3% floor)** — sub-$83.50 = imminent trail-fire watch; sub-$82.22 close = **trail FIRES**; (3) XLK $185.88 hold vs $175.39 -7%-cut (cushion 5.64%) — sub-$180 = escalation re-monitors; (4) XLB $52.66 hold vs $48.77 trail (cushion 7.39%); HWM $54.19 (2.83% below); (5) VIX PM check — sustained >17 pre-ISM-Tue = pre-de-risk flag; (6) NQ intraday — sub-29,300 tactical-drift break = XLK escalation; (7) 10y/2y yields — 2y further-up = rate-sensitive XLP/XLK drag deepens.
+
+**NO Discord notification** — 0 manual actions taken.
