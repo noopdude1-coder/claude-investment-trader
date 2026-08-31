@@ -2419,3 +2419,17 @@ No open positions.
 **PM watch (1pm-4pm):** (1) **XLI $174.99 hold vs $170.37 trail (cushion 2.64% CRITICAL sub-3%)** — sub-$172 = imminent trail-fire watch; sub-$170.37 close = **trail FIRES mechanically**; (2) **XLP $84.915 hold vs $82.22 trail (cushion 3.18% approaches 3% floor)** — sub-$83.50 = imminent trail-fire watch; sub-$82.22 close = **trail FIRES**; (3) XLK $185.88 hold vs $175.39 -7%-cut (cushion 5.64%) — sub-$180 = escalation re-monitors; (4) XLB $52.66 hold vs $48.77 trail (cushion 7.39%); HWM $54.19 (2.83% below); (5) VIX PM check — sustained >17 pre-ISM-Tue = pre-de-risk flag; (6) NQ intraday — sub-29,300 tactical-drift break = XLK escalation; (7) 10y/2y yields — 2y further-up = rate-sensitive XLP/XLK drag deepens.
 
 **NO Discord notification** — 0 manual actions taken.
+
+### Aug 31 — EOD Snapshot (Day 96, Monday — Week 19 Day 1 close / POST-WARSH-HAWKISH-DIGEST / ISM-Mfg-Tue-T-1 / JOLTS-Tue-T-1 / NFP-Fri-T-4 / 4/4 book 3 green 1 red / 0 trades / 0 cuts, 0 rule-driven tightens, 0 thesis breaks / 0 mechanical HWM auto-ratchets / equity Fri $102,538.07 → Mon $102,072.32 = -0.454% / mild UNDERPERFORMANCE vs SPY)
+
+**Portfolio:** $102,072.32 | **Settled cash:** $21,698.58 | **Unsettled:** $0 | **Day P&L:** -$465.75 (-0.454%) | **Phase P&L:** +$2,072.32 (+2.072%)
+
+| Ticker | Shares | Entry | Close | Day Chg | Unrealized P&L | Stop |
+|--------|--------|-------|-------|---------|----------------|------|
+| XLB | 388 | $51.6155 | $52.69 | -0.92% | +$416.92 (+2.08%) | $48.771 |
+| XLI | 115 | $173.86 | $175.12 | -1.14% | +$144.90 (+0.73%) | $170.3656 |
+| XLK | 105 | $188.5905 | $186.32 | +0.34% | -$238.40 (-1.20%) | $172.575 |
+| XLP | 238 | $83.8515 | $84.99 | -0.54% | +$270.96 (+1.36%) | $82.2171 |
+
+**Notes:** Week 19 Day 1 closes **red** (-0.454%) as post-Warsh-hawkish digest bleeds across cyclicals — **XLI worst -1.14%**, XLB -0.92%, XLP -0.54%; **XLK sole green +0.34%** on pre-ISM-Tue stabilization + NVDA beat-and-raise afterglow. Alpaca last_equity $102,538.07 → today $102,072.32 = **-$465.75 (-0.454%)**. Phase cumulative **+$2,072.32 (+2.072%)** retreats from Wed +3.19% high. Combined MV **$80,373.74**; deployment **78.74%** (Day 15 INSIDE 75-85% band Phase-1 Round 2). SPY mid **$767.17** (bid $767.10 / ask $767.24 tight). **0 mechanical HWM auto-ratchets** — all 4 stops unchanged (XLB $48.771, XLI $170.3656, XLK $172.575, XLP $82.2171). **Week 19 3/3 trade cap intact Day 1**. Trail cushions: XLI 2.73% (**sub-3% floor — mechanical trail-fire watch ACTIVE**), XLP 3.37% (approaches 3% floor), XLK 8.02%, XLB 8.02%. **Tuesday Sep 1 plan:** ISM Mfg 10am + JOLTS = data-heavy Week 19 Day 2; XLI $175.12 hold vs $170.37 trail (2.73% cushion = imminent trail-fire watch); XLP $84.99 hold vs $82.22 trail (3.37% cushion); XLK $186.32 hold vs $175.39 -7%-cut (5.87% cushion); XLB $52.69 hold vs $48.77 trail (8.02% cushion). Best: ISM-beat rate-cut-hopes revive → cyclical rebound + XLI/XLP cushions re-widen. Base: mixed digest, sub-1% range trade. Worst: ISM-miss + rate-panic → XLI trail fires mechanically at open + XLP approaches trigger + 4/6 book contracts 3/6.
+
