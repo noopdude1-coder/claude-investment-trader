@@ -8894,3 +8894,105 @@ Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 18 = 0/3 t
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green + XLK -1.09% Day 8 NVDA-recovery-confirmed-cushion-6.35%-comfortable) + 78.98% deployed inside band + Phase P&L +3.22% Round-2-high-band-print + Warsh-keynote-Fri-T-1 + Jobless-Claims-8:30 + AMC-DELL/MRVL/ADSK/WDAY/PDD-stack + Kansas-Fed-11am + XLI-flow-headwind-BofA-3wk-outflow-record + Week-18-Day-4 (0/3 trade cap intact) = 5-priority-elevated Thu = PROTECT POSTURE INTO WARSH. XLK Round-2 UNDERWATER DAY 8 NVDA-RECOVERY-CONFIRMED (+134 bps improve pre-open Wed EOD -2.43% → Thu -1.09% = biggest single-session recovery of Round-2; cushion 6.35% from 3% floor = comfortable; Mon 2.63% deepest → Thu 6.35% = +372 bps recovery over 3 days) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA beat+raise Q2 FY27 validates thesis (15th consecutive beat / $46.74B rev / $1.05 EPS). XLK HWM $191.75 = 2.72% above = imminent-next-ratchet if Thu intraday $192+ breach post-NVDA-lift. XLP 3/3 defensive-earnings-Round-2-validated (+2.30% unrealized); HWM $87.465 (1.93% below); trail cushion 4.33%. XLI AI-capex/reshoring/defense MEGA-INTACT (+3.82%); trail 5.61%; HWM $181.24 (0.41% below = imminent-next-ratchet if breach); BofA 3wk-outflow-record flow-headwind acknowledged. XLB Day 47 chemicals-bid MEGA-INTACT (+3.65% unrealized); pre-cut $50 cushion 6.54% ESCAPES 5% band Day 7; HWM $54.19 (1.29% below); past-month S&P leader confirmed. NO manual stop moves Thu (all runway ≥28d; XLB next renewal watch escalates ~Sep 16 T-20d). Cash $21,698 preserved for post-Warsh-Fri opportunistic deploy window. Patience > activity; Warsh-T-1 + Jobless-Claims + AMC-stack + Kansas-Fed + XLI-flow-headwind = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding Round-2-high-band; protect into Warsh-Fri-T-1 decisive macro-catalyst.**
+
+## 2026-08-31 — Pre-market Research (Mon / Week 19 Day 1 / POST-WARSH-HAWKISH-DIGEST / NFP-Fri-T-4 / ISM-Mfg-Tue-T-1)
+
+### Account
+- Equity: $102,419.88 (pre-open; Fri close $102,538.07 → -$118.19 / -0.115% early drift)
+- Settled cash: $21,698.58 (21.19% dry powder)
+- Buying power: $312,814 (informational — cash account T+1, DO NOT SIZE against this; use settled cash)
+- Positions: 4/6 (XLB 388 / XLI 115 / XLK 105 / XLP 238) — Open orders: 4 GTC trails — Week 19 trades: 0/3 (fresh cap Day 1)
+- Deployment: ~78.81% (inside 75-85% band Day 15)
+- Phase P&L: +$2,419.88 (+2.420%) pre-open — resets below prior Round-2-high Thu +3.22% pre-open post-Warsh-hawkish Fri damage
+
+### Market Context
+- **WEEKEND DIGEST — WARSH-HAWKISH FRI RE-PRICED:** Warsh keynote Fri Aug 28 signaled Fed "have work to do" if inflation persists — Sep-hike odds 40% → **~60%** re-priced; XLK -1.55% Fri; short-yields up sharp; USD strengthens; S&P -0.2% Fri close
+- **WTI / Brent:** WTI ~$85.71 / Brent ~$90.70 (Trading Economics 8/31; both up ~2.77-2.95% D/D) — **oil SURGES ~$3-4 vs Fri levels ~$82/$87 = Iran-Hormuz tension creeps back / OPEC+ risk-premium re-bid** = XLE tailwind renewed but not held sleeve
+- **S&P 500 futures:** ES ~7,691-7,708 = **-0.35 to -0.41%** (Fri settle $7,722); NQ ~29,456-29,531 = **-0.12 to -0.69%**; Dow -0.29%; Russell -1.37% = **DEFENSIVE POSTURE Mon pre-open post-Warsh-digest**
+- **VIX:** 15.27 spot (Cboe 8/31; Fri close 14.43 = **+5.82% jump** post-Warsh); still below 17 escalation trigger but broke below-15 complacency
+- **Today's catalysts:** 🔴 **Dallas Fed Manufacturing Index 10:30am ET**; 🔴 3-mo/6-mo T-bill auctions 11:30am ET; **NO NOTEWORTHY EARNINGS** BMO (only SAIC $2.31/sh)
+- **Earnings BMO (held-relevant):** none direct; SAIC only noteworthy; AEO, NSSC minor
+- **Economic calendar Week 19 (all times ET):**
+  - **Mon 8/31:** Dallas Fed Mfg 10:30am (light day)
+  - **Tue 9/1:** 🔴🔴 **ISM Manufacturing PMI 10am** (cons 55.6) + **JOLTS Job Openings 10am** (July 2026) + Construction Spending
+  - **Wed 9/2:** 🔴 **ADP National Employment 8:15am** + Manufacturing Shipments/Orders
+  - **Thu 9/3:** 🔴 **ISM Non-Manufacturing PMI 10am** + Initial Jobless Claims 8:30am + Trade Balance
+  - **Fri 9/4:** 🔴🔴🔴 **NONFARM PAYROLLS 8:30am ET** (Aug 2026) — DECISIVE macro event
+  - **Sep 10:** PPI; **Sep 11:** CPI; **Sep 15-16:** FOMC
+- **Sector momentum (YTD per Chartrow):** 🥇 XLE +43.1%, 🥈 **XLK +25.4%**, 🥉 **XLB +19.1%**, **XLI +16.0%**, **XLP +14.0%** — all 4 held sleeves top-5 YTD; sector rotation note flags XLK/XLI/XLU under Fri pressure
+
+### Held-Ticker Snapshot (pre-open, Alpaca live)
+- **XLB $53.13** (day -0.09% pre-open); unrealized +$588 (+2.93%); HWM $54.19 (1.99% below); stop $48.771 (10% trail); cushion 8.94%; manual $48 cushion 10.68%; pre-cut $50 cushion **6.26%** (holds ESCAPES 5% band Day 10); chemicals-bid Day 16 minor-flat pre-open
+- **XLI $176.62** (day -0.29% pre-open); unrealized +$317 (+1.59%); HWM $181.24 (2.55% below); stop $170.3656 (6% Path-C); **cushion 3.54%** (WARNING — approaches 3% floor post-Warsh-hawkish; Thu was 5.61%); -7% cut $161.69 cushion 9.24%; AI-capex/reshoring under Fri-hawkish pressure
+- **XLK $185.50** (day -0.10% pre-open); unrealized -$324 (-1.64%); HWM $191.75 (3.26% below); stop $172.575 (10% trail); cushion 7.49%; **-7% cut $175.39 cushion 5.77%** (Fri Warsh-hawkish shaves Thu 6.35% → Mon 5.77%; still above 3% floor); NVDA-beat-cleared but Warsh-hawkish-macro drag
+- **XLP $85.37** (day -0.09% pre-open); unrealized +$361 (+1.81%); HWM $87.465 (2.45% below); stop $82.2171 (6% Path-C); **cushion 3.69%** (WARNING — Thu 4.33% → Mon 3.69% = 64 bps loss; approaches 3% floor); manual $77.98 cushion 9.48%; 3/3 defensive-earnings-Round-2 (HD+TGT+WMT) validated but staples under bond-yield drag
+
+### Round 2 XLK Status (Day 15 / UNDERWATER DAY 11 = WARSH-HAWKISH-RE-DAMAGE)
+- Entry 8/12 Wed $188.5905 x 105; cost $19,801.99
+- Days: +0.13% / +1.15% / +0.71% / +0.80% / -1.54% / -2.48% / -2.91% / -2.76% / -4.55% (Mon deepest) / -3.81% / -2.43% (Wed) / -1.09% (Thu NVDA-recovery) / **-1.55% Fri (Warsh-hawkish shave)** / **-1.64% pre-open Mon**
+- Cushion vs -7% cut: **5.77%** (Mon 2.63% deepest → Thu 6.35% peak-recovery → Fri Warsh-shave → Mon 5.77% = -58 bps re-shave post-Warsh-hawkish; still above 3% floor)
+- Structural AI-capex/hyperscaler thesis MEGA-INTACT + earnings-validated + NVDA-cleared BUT bond-yield/rate-hike-macro tape flips headwind
+- **Escalation posture:** Warsh-hawkish injects macro-headwind; mechanical rule governs — NO CUT (cushion 5.77% still comfortable); HWM $191.75 = +3.26% above; watch pre-NFP-Fri decay if VIX >17 breach
+
+### Trade Ideas
+Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 19 = 0/3 trades consumed Day 1 (fresh cap).
+
+1. **HOLD — TOP CHOICE, PROTECT INTO ISM-MFG-TUE-T-1 + NFP-FRI-T-4.**
+   - **Rationale:** 4/4 book (3 green + XLK -1.64% Day 11 Warsh-re-damage) + 78.81% deployed inside band + Phase P&L +2.42% below prior Round-2-high + **Warsh-hawkish macro-flip Fri 40%→60% Sep-hike-odds** + **ISM Mfg Tue + JOLTS Tue + ADP Wed + NFP Fri = MEGA macro-week** + XLI/XLP trail cushions BOTH tightened toward 3% floor (3.54% / 3.69%) + XLK cushion 5.77% + oil surge $85+ re-bids Iran-Hormuz risk + VIX +5.82% breaks below-15 complacency + Dallas Fed 10:30am; **any new deploy = amateur play into 5-priority-elevated macro-decisive week**
+   - **Entry/stop:** N/A (no add)
+
+2. **NO GTC RENEWAL NEEDED TODAY** — all 4 sleeves ≥23-day runway (XLI 79d, XLK 71d, XLP 59d, XLB 23d = **XLB approaches T-21 watch-window** — renewal watch escalates ~Sep 2 T-3 days)
+
+3. **XLE 5th-slot (SPECULATIVE ADD) — RECONSIDER but DEFER**
+   - Oil surges $85+ WTI on Iran-Hormuz re-bid + XLE YTD +43.1% #1; BUT Warsh-hawkish + NFP-Fri-T-4 + 5-priority macro-week = adding into decisive-tape variance = amateur; re-eval post-NFP Fri after macro reveals rate-path clarity
+
+4. **SKIP any single-name earnings today** (SAIC only noteworthy BMO) — anti-strategy Rule NO
+
+### Risk Factors
+- 🔴🔴🔴 **WARSH-HAWKISH MACRO-FLIP DIGEST DAY 1** — Fri Sep-hike odds 40% → **60%**; short-yields up sharp; XLK -1.55% / broader tape defensive; ES -0.35% / NQ -0.69% / Russell -1.37% Mon pre-open = rate-sensitive drag continues
+- 🔴🔴🔴 **NONFARM PAYROLLS FRI SEP 4 T-4** = DECISIVE macro event this week; miss = Warsh-hawkish position reversed; hot = XLK/XLP rate-sensitive further-drag
+- 🔴🔴 **ISM MANUFACTURING PMI TUE 10am T-1** (cons 55.6) + **JOLTS Tue T-1** = Week 19 opens on high-impact data-back-to-back
+- 🔴🔴 **XLI TRAIL CUSHION 3.54% APPROACHES 3% FLOOR** (Thu 5.61% → Mon 3.54% = -207 bps re-tighten Fri Warsh-hawkish shave); breach = mechanical GTC trail-stop fires at $170.37; BofA 3wk-outflow-record flow-headwind still valid
+- 🔴🔴 **XLP TRAIL CUSHION 3.69% APPROACHES 3% FLOOR** (Thu 4.33% → Mon 3.69% = -64 bps tighten); breach = GTC trail fires at $82.22; staples-rate-sensitive bond-yield drag
+- 🔴 **OIL SURGE WTI $85 / BRENT $90** — Iran-Hormuz tension creeps back + OPEC+ risk-premium; XLE YTD #1 +43.1% not held; NOT held sleeve = missed tailwind but consistent with defer-post-Warsh plan
+- 🔴 **VIX 15.27 BREAKS BELOW-15 COMPLACENCY** (+5.82% D/D); still below 17 escalation but no longer "calm 14-15 band"; NVDA-optionality-vol-tail alive
+- 🔴 **DALLAS FED MFG 10:30am** = single Mon macro tick; miss = XLI drag re-confirms flow-headwind
+- 🔴 **XLB EXPIRY RUNWAY 23d** = approaches T-21 renewal watch escalation window ~Sep 2 T-3 days
+- 🟢 **NVDA BEAT+RAISE Q2 FY27 CLEARED** ($46.74B rev / $1.05 EPS beat / 15th consecutive beat) — XLK structural AI-capex thesis MEGA-INTACT despite Warsh-hawkish-macro headwind
+- 🟢 **XLK cushion 5.77% ABOVE 3% FLOOR** = Mon 2.63% deepest → Thu 6.35% peak → Mon 5.77% (post-Warsh re-shave -58 bps but comfortable); mechanical rule governs
+- 🟢 **NO MAJOR EARNINGS TODAY** (SAIC only BMO) — quiet earnings tape allows macro-digest focus
+- 🟢 **CASH $21,698 PRESERVED** = Week 19 3/3 fresh cap + dry powder for post-NFP-Fri opportunistic deploy window
+- 🟢 **GTC RUNWAY ALL CLEAR** — all 4 sleeves ≥23d expiry (XLB 23d approaches T-21 watch)
+- 🟢 **SECTOR YTD LEADERSHIP** — all 4 held sleeves top-5 YTD: XLK +25.4% #2, XLB +19.1% #3, XLI +16.0%, XLP +14.0%
+- 🟢 **XLB CHEMICALS BID MEGA-INTACT** (+2.93% unrealized); pre-cut $50 cushion 6.26% ESCAPES 5% band Day 10; least-macro-sensitive sleeve
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Mon; Warsh-hawkish-digest + ISM-Mfg-Tue-T-1 + JOLTS-Tue-T-1 + ADP-Wed + NFP-Fri-T-4 + XLI/XLP-trail-cushions-tighten-toward-3%-floor + Dallas-Fed-10:30am + oil-surge-$85 + VIX-breaks-below-15-complacency)
+- Positions after fill: 4→5 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 19 Day 1 fresh cap)
+- Cost ≤ $20,000 20% cap ✓ any candidate
+- Cost ≤ settled $21,698 ✓ headroom exists
+- Catalyst — **NONE with Warsh-hawkish-digest + ISM-Mfg-Tue-T-1 + JOLTS-Tue-T-1 + ADP-Wed + NFP-Fri-T-4 + XLI/XLP-cushions-approaching-3%-floor frame**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** Warsh-hawkish-macro-flip-Fri-re-priced-Sep-hike-40%→60% + ISM-Mfg-Tue-T-1 + JOLTS-Tue-T-1 + ADP-Wed + NFP-Fri-T-4-DECISIVE + XLI-trail-cushion-3.54%-approaches-3%-floor + XLP-trail-cushion-3.69%-approaches-3%-floor + XLK-Warsh-re-shave-cushion-5.77% + oil-surge-$85-Iran-Hormuz-re-bid + VIX-+5.82%-breaks-below-15-complacency + Dallas-Fed-10:30am + XLB-runway-23d-approaches-T-21-window = **6-priority-elevated Mon = adding into Warsh-hawkish-digest + MEGA-macro-week variance = amateur play**. Already 4/4 winning-config Day 15 + 78.81% band-inside + Phase P&L +2.42% below-prior-Round-2-high. **DEFER 5th-slot to post-NFP-Fri per revised plan.**
+
+### Decision: **HOLD** (Week 19 Day 1 / POST-WARSH-HAWKISH-DIGEST / ISM-Mfg-Tue-T-1 / JOLTS-Tue-T-1 / NFP-Fri-T-4 / XLI-cushion-3.54%-XLP-cushion-3.69%-approaching-3%-floor)
+- **Rationale:** 4/4 book (3 green + XLK -1.64% Day 11 Warsh-re-damage); Phase P&L +2.42% below-prior-Round-2-high; 78.81% deployed inside target Day 15; **Warsh-hawkish-macro-flip re-priced Sep-hike 40%→60%** decisive Fri; ISM Mfg + JOLTS Tue + ADP Wed + NFP Fri = MEGA macro-week; XLI/XLP trail cushions BOTH tightened toward 3% floor; patience > activity T-1 to ISM Mfg + T-4 to NFP
+- **XLK Day 15 monitor:** underwater Day 11 Warsh-re-damage (-1.64% pre-open); cushion 5.77% still comfortable above 3% floor; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17**; HWM $191.75 = 3.26% above; STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA-beat-validated but bond-yield-tape now headwind
+- **XLI monitor:** **trail cushion 3.54% CRITICAL — approaches 3% floor**; sub-$176 = pre-tighten monitor; sub-$174 = imminent trail-stop-fire watch; HWM $181.24 (2.55% below); BofA 3wk-outflow-record flow-headwind Warsh-hawkish-amplified
+- **XLP monitor:** **trail cushion 3.69% CRITICAL — approaches 3% floor**; sub-$85 = pre-tighten monitor; sub-$83 = imminent trail-stop-fire watch; HWM $87.465 (2.45% below); Day-8 defensive-rate-sensitive drag under bond-yield spike
+- **XLB monitor:** trail cushion 8.94%; HWM $54.19 (1.99% below); pre-cut $50 cushion 6.26% ESCAPES 5% band Day 10; chemicals least-macro-sensitive; runway 23d approaches T-21 watch ~Sep 2 T-3d
+- **Mechanical GTC stops:** all 4 continue riding; no manual moves Mon; watch XLB renewal watch escalates ~Sep 2 T-3d
+- **Watch levels / midday (~12pm ET):**
+  - **10:30am Dallas Fed Mfg** — miss = XLI drag re-confirms flow-headwind
+  - **XLI $176.62 hold vs $170.37 trail** = 3.54% cushion CRITICAL; sub-$174 = imminent trail-fire watch; sub-$170.37 close = **trail-stop FIRES**
+  - **XLP $85.37 hold vs $82.22 trail** = 3.69% cushion CRITICAL; sub-$83 = imminent trail-fire watch; sub-$82.22 close = **trail-stop FIRES**
+  - **XLK $185.50 hold vs $175.39 -7%-cut** = 5.77% cushion comfortable; sub-$180 = escalation re-monitors; sub-$175.39 close = **-7% cut ACTIVE**
+  - **XLB $53.13 hold vs $48.77 trail** = 8.94% cushion comfortable; HWM $54.19 (1.99% below)
+  - **NQ futures intraday** — hold >29,300 tactical-drift band post-Warsh-hawkish; NQ -2%+ close AND VIX >17 = XLK cut escalation
+  - **VIX 12pm ET check** — hold 14-16 tactical-drift; spike >17 = pre-ISM-Tue-de-risk flag
+  - **Oil ~$85 WTI intraday** — sustained $87+ = XLE tailwind confirms but not held
+  - **Bond yields (10y / 2y intraday)** — 2y further-up = rate-hike-priced further; XLP rate-sensitive drag deepens
+  - **BMO earnings** — SAIC only noteworthy; digest quickly
+
+### Today's Discipline
+**HOLD — 4/4 book (3 green + XLK -1.64% Day 11 Warsh-re-damage) + 78.81% deployed inside band + Phase P&L +2.42% below-prior-Round-2-high + Warsh-hawkish-macro-flip-Fri-re-priced-Sep-hike-40%→60% + ISM-Mfg-Tue-T-1 + JOLTS-Tue-T-1 + ADP-Wed + NFP-Fri-T-4-DECISIVE + XLI-trail-cushion-3.54%-XLP-trail-cushion-3.69%-BOTH-approaching-3%-floor + XLK-Warsh-re-shave-cushion-5.77% + oil-surge-$85-Iran-Hormuz-re-bid + VIX-+5.82%-breaks-below-15-complacency + Dallas-Fed-10:30am + Week-19-Day-1 (0/3 trade cap intact) = 6-priority-elevated Mon = PROTECT POSTURE INTO ISM-TUE + NFP-FRI. XLK Round-2 UNDERWATER DAY 11 WARSH-RE-DAMAGE (cushion Thu 6.35% peak → Fri Warsh-shave → Mon 5.77% = -58 bps re-shave post-hawkish; still above 3% floor; Mon 2.63% deepest → Thu 6.35% peak-recovery → Mon 5.77% = post-Warsh-consolidation) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA beat+raise Q2 FY27 validated (15th consecutive beat / $46.74B rev / $1.05 EPS). XLK HWM $191.75 = 3.26% above = not-imminent-ratchet post-Warsh-shave. **XLI trail cushion 3.54% CRITICAL — approaches 3% floor; sub-$174 = imminent trail-fire watch; BofA 3wk-outflow-record flow-headwind Warsh-hawkish-amplified.** **XLP trail cushion 3.69% CRITICAL — approaches 3% floor; sub-$83 = imminent trail-fire watch; defensive-rate-sensitive bond-yield drag.** XLB Day 51 chemicals-bid MEGA-INTACT (+2.93% unrealized); pre-cut $50 cushion 6.26% ESCAPES 5% band Day 10; HWM $54.19 (1.99% below); runway 23d approaches T-21 renewal watch ~Sep 2 T-3d. NO manual stop moves Mon (all runway ≥23d; watch XLB escalates ~Sep 2). Cash $21,698 preserved for post-NFP-Fri opportunistic deploy window. Patience > activity; Warsh-hawkish-digest + ISM-Tue + JOLTS-Tue + ADP-Wed + NFP-Fri + XLI/XLP-cushions-approaching-3%-floor = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding below-prior-Round-2-high; protect into ISM-Mfg-Tue-T-1 + NFP-Fri-T-4 decisive macro-week.**
