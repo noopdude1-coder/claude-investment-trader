@@ -2433,3 +2433,38 @@ No open positions.
 
 **Notes:** Week 19 Day 1 closes **red** (-0.454%) as post-Warsh-hawkish digest bleeds across cyclicals — **XLI worst -1.14%**, XLB -0.92%, XLP -0.54%; **XLK sole green +0.34%** on pre-ISM-Tue stabilization + NVDA beat-and-raise afterglow. Alpaca last_equity $102,538.07 → today $102,072.32 = **-$465.75 (-0.454%)**. Phase cumulative **+$2,072.32 (+2.072%)** retreats from Wed +3.19% high. Combined MV **$80,373.74**; deployment **78.74%** (Day 15 INSIDE 75-85% band Phase-1 Round 2). SPY mid **$767.17** (bid $767.10 / ask $767.24 tight). **0 mechanical HWM auto-ratchets** — all 4 stops unchanged (XLB $48.771, XLI $170.3656, XLK $172.575, XLP $82.2171). **Week 19 3/3 trade cap intact Day 1**. Trail cushions: XLI 2.73% (**sub-3% floor — mechanical trail-fire watch ACTIVE**), XLP 3.37% (approaches 3% floor), XLK 8.02%, XLB 8.02%. **Tuesday Sep 1 plan:** ISM Mfg 10am + JOLTS = data-heavy Week 19 Day 2; XLI $175.12 hold vs $170.37 trail (2.73% cushion = imminent trail-fire watch); XLP $84.99 hold vs $82.22 trail (3.37% cushion); XLK $186.32 hold vs $175.39 -7%-cut (5.87% cushion); XLB $52.69 hold vs $48.77 trail (8.02% cushion). Best: ISM-beat rate-cut-hopes revive → cyclical rebound + XLI/XLP cushions re-widen. Base: mixed digest, sub-1% range trade. Worst: ISM-miss + rate-panic → XLI trail fires mechanically at open + XLP approaches trigger + 4/6 book contracts 3/6.
 
+
+### Sep 1 — Midday Snapshot (Day 97, Tuesday — Week 19 Day 2 / PERSIAN-GULF-STRIKES-RESUME + ISM-MFG+JOLTS-10AM DIGEST / XLI-TRAIL-CUSHION-1.12%-CRITICAL-SUB-3%-FLOOR-IMMINENT-MECHANICAL-TRAIL-FIRE-WATCH / 4/4 book 2 green 2 red / 0 cuts, 0 rule-driven tightens, 0 thesis breaks / equity Mon $102,072.32 → Tue midday ~$101,400.18 = -0.659% / risk-off deepens intraday post-ISM/JOLTS release)
+
+**Sell-side gate check (all 4):** none at -7% cut trigger (XLK closest at -2.51%, cushion 4.62% to $175.39 = HOLDS ABOVE 3% floor); none at +15%/+20% tighten trigger (XLP closest at +1.88%). No thesis broken. **0 cuts, 0 rule-driven tightens, 0 manual actions.**
+
+**Midday positions (~1pm ET, 4/6 book):**
+- **XLB:** 388 sh, +1.12% (+$224.86), $52.195 (day -0.94% vs Mon $52.69 = chemicals digest post-ISM); HWM $54.19 unchanged (3.68% below); stop $48.771 unchanged (10% trail); MV $20,251.66
+- **XLI:** 115 sh, -0.90% (-$180.55), $172.29 (day -1.62% vs Mon $175.13 = industrial-bid drag deepens post-ISM/JOLTS + Persian-Gulf-amplified); HWM $181.24 unchanged (4.94% below); stop $170.3656 unchanged (6% Path-C); MV $19,813.35
+- **XLK:** 105 sh, -2.51% (-$497.75), $183.85 (day -1.42% vs Mon $186.50 = Persian-Gulf-re-damage + AAPL-CEO-transition tech-tail); HWM $191.75 unchanged (4.12% below); stop $172.575 unchanged (10% trail); MV $19,304.25
+- **XLP:** 238 sh, +1.88% (+$375.68), $85.43 (day +0.53% vs Mon $84.98 = defensive-bid REVIVES on risk-off = only sleeve green); HWM $87.465 unchanged (2.33% below); stop $82.2171 unchanged (6% Path-C); MV $20,332.34
+- **Combined MV:** $79,701.60; equity **~$101,400.18** (-$672.14 / -0.66% intraday vs Mon $102,072.32); cash **$21,698.58** settled; deployment **78.60%** (Day 16 INSIDE 75-85% band); Phase P&L **+$1,400.18 (+1.40%)**
+
+**Cushion table:**
+- XLB manual -7% cut $48.00 cushion **8.03%**; pre-cut $50 cushion **4.20%** (Day 12 breaches-below 5% band); trail cushion **7.02%**; HWM $54.19 (3.68% below)
+- XLI manual -7% cut $161.69 cushion **6.15%**; trail $170.3656 cushion **1.12%** ($1.9244 abs — **CRITICAL sub-3% floor Day 2 IMMINENT MECHANICAL TRAIL-FIRE WATCH**); HWM $181.24 (4.94% below)
+- XLK manual -7% cut $175.39 cushion **4.62%** ($8.46 abs, still HOLDS ABOVE 3% floor Day 16); trail $172.575 cushion **6.53%**; HWM $191.75 (4.12% below)
+- XLP manual -7% cut $77.98 cushion **8.72%**; trail $82.2171 cushion **3.91%** (Mon 3.53% → Tue 3.91% = +38 bps improves on defensive-bid revive); HWM $87.465 (2.33% below)
+
+**Thesis check pass:**
+- **XLB INTACT** — chemicals digest -0.94% intraday post-ISM; +1.12% unrealized holds; structural chemicals/feedstock bid Day 52 minor pullback normal. **NO CUT.**
+- **XLI INTACT (mechanical-watch ESCALATES to IMMINENT)** — industrial-bid drag -1.62% ISM/JOLTS + Persian-Gulf-amplified; -0.90% unrealized flips red; AI-capex/reshoring/Mfg-PMI-4yr-high thesis intact but **trail cushion 1.12% deep sub-3% floor = mechanical GTC trail-fire IMMINENT WATCH**; sub-$170.37 close = trail fires. **NO CUT — mechanical rule governs; ~$1.92 from trail-fire.**
+- **XLK INTACT (post-Persian-Gulf compound Day 16)** — day -1.42% Persian-Gulf-re-damage + AAPL-CEO-transition tech-tail; unrealized Mon -1.10% → Tue -2.51% (-141 bps deeper); cushion 4.62% still comfortable; AI-capex mega-thesis + NVDA beat+raise validated. **NO CUT — cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17.**
+- **XLP INTACT (defensive-bid REVIVES)** — day +0.53% only sleeve green on risk-off; +1.88% unrealized; 3/3 defensive-earnings-Round-2 (HD+TGT+WMT) validated; trail cushion improves to 3.91%. **NO CUT.**
+
+**HWM ratchet check midday:** **0 mechanical auto-ratchets fired Tue AM** — all 4 stops unchanged from Mon EOD (XLB $48.771, XLI $170.3656, XLK $172.575, XLP $82.2171); no HWM breaches (all 4 below HWM by 2.33%-4.94%).
+
+**Macro pulse (Tue midday):** ISM Mfg 10am + JOLTS 10am double-header absorbed (results digest into cyclical-drag); Persian-Gulf-US-Iran-strikes-resume oil ~$87 WTI sustains risk-off; VIX +10% breaks-below-15-complacency confirmed; AAPL CEO transition Tim Cook → John Ternus today (tech-tail); 10y ~4.7% Warsh-hawkish-digest continues; NFP Fri T-3 DECISIVE; DELL/PANW/CRM/CRWD AMC tonight = Wed XLK-composite reaction.
+
+**Week 19 book state:** 4/6 slots, **0/3 trades consumed** (fresh cap intact Day 2); settled cash $21,698.58 = 21.40% dry powder; **Day 16 INSIDE 75-85% deployment band Phase-1 Round 2**.
+
+**GTC expiry runway — ALL CLEAR:** XLI `c391f03e` exp 2026-11-18 (78d) ✅; XLK `ad940893` exp 2026-11-10 (70d) ✅; XLP `3036af75` exp 2026-10-29 (58d) ✅; XLB `982c5f58` exp 2026-09-23 (22d) — renewal-watch escalates TOMORROW Wed 9/2 at T-21.
+
+**PM watch (1pm-4pm):** (1) **XLI $172.29 hold vs $170.37 trail (cushion 1.12% CRITICAL IMMINENT)** — sub-$171 = ultra-imminent trail-fire watch; sub-$170.37 close = **trail FIRES mechanically**; (2) XLP $85.43 hold vs $82.22 trail (cushion 3.91% improves) — sub-$83.50 = pre-tighten monitor; (3) XLK $183.85 hold vs $175.39 -7%-cut (cushion 4.62%) — sub-$180 = escalation re-monitors; sub-$175.39 close = -7% cut ACTIVE; (4) XLB $52.195 hold vs $48.77 trail (cushion 7.02%); (5) VIX PM check — sustained >17 pre-NFP-Fri = pre-de-risk flag; (6) NQ intraday — sub-29,200 = XLK escalation; (7) AAPL price action intraday post-CEO-transition; (8) AMC DELL/PANW/CRM/CRWD earnings positioning pre-close.
+
+**NO Discord notification** — 0 manual actions taken.
