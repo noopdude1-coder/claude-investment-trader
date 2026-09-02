@@ -9099,3 +9099,113 @@ Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 19 = 0/3 t
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green + XLK -2.43% Day 12 Persian-Gulf-re-damage) + 78.66% deployed inside band + Phase P&L +1.68% below-prior-Round-2-high + Persian-Gulf-US-Iran-strikes-resume-overnight + ISM-Mfg-10am + JOLTS-10am-double-header + XLI-trail-cushion-2.30%-CRITICAL-BREACHES-3%-floor-1st-TIME-mechanical-GTC-trail-fire-watch-ACTIVE + XLP-trail-cushion-3.53%-approaches-3%-floor + XLK-cushion-4.68%-Persian-Gulf-re-shave + AAPL-CEO-transition-today-tech-tail-risk + VIX-+10%-breaks-below-15-complacency-confirmed + 10y-yield-4.7%-Warsh-digest-continues + NFP-Fri-T-3-DECISIVE + XLB-runway-22d-T-21-tomorrow-Wed + Week-19-Day-2 (0/3 trade cap intact) = 8-priority-elevated Tue = PROTECT POSTURE INTO ISM-10AM + NFP-FRI. XLK Round-2 UNDERWATER DAY 12 PERSIAN-GULF-RE-DAMAGE (cushion Mon 5.87% → Tue 4.68% = -119 bps re-shave post-Persian-Gulf-amplified; still above 3% floor; Mon-Aug-24 2.63% deepest → Thu-Aug-27 6.35% peak-recovery → Tue-Sep-1 4.68% = post-Persian-Gulf-compound-shave) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA beat+raise Q2 FY27 validated. XLK HWM $191.75 = 4.05% above = not-imminent-ratchet post-Persian-Gulf-shave. **XLI trail cushion 2.30% CRITICAL BREACHES 3% floor 1st TIME — mechanical GTC trail-fire watch ACTIVE; sub-$174 imminent watch; sub-$172 escalation-alert; sub-$170.37 close FIRES mechanically.** **XLP trail cushion 3.53% approaches 3% floor; sub-$83 imminent trail-fire watch; defensive-bid REVIVES Tue on risk-off = only sleeve green pre-open.** XLB Day 52 chemicals-bid MEGA-INTACT (+1.46% unrealized); pre-cut $50 cushion 4.53% BREACHES-BELOW 5% band Day 11 first breach since ~Aug 22; HWM $54.19 (3.36% below); runway 22d T-21 renewal-watch escalates TOMORROW Wed 9/2. NO manual stop moves Tue (all runway ≥22d; XLB renewal-watch escalates Wed). Cash $21,698 preserved for post-NFP-Fri opportunistic deploy window. Patience > activity; Persian-Gulf-strikes-resume + ISM/JOLTS-10am + XLI-trail-fire-ACTIVE + XLP-approaching + AAPL-CEO-transition + NFP-Fri-T-3 = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding below-prior-Round-2-high; protect into ISM-Mfg-10am + JOLTS-10am + NFP-Fri-T-3 decisive macro-tape.**
+
+## 2026-09-02 — Pre-market Research
+
+### Account
+- Equity: $101,112.14 (pre-open; Tue close $101,337.39 → -$225.25 / -0.22% early drift; Alpaca last_equity)
+- Settled cash: $21,698.58 (21.46% dry powder)
+- Buying power: $309,152.30 (informational — cash account T+1, DO NOT SIZE against this; use settled cash)
+- Positions: 4/6 (XLB 388 / XLI 115 / XLK 105 / XLP 238) — Open orders: 4 GTC trails — Week 19 trades: 0/3 (fresh cap Day 3)
+- Deployment: ~78.54% (inside 75-85% band Day 17)
+- Phase P&L: +$1,112.14 (+1.11%) pre-open — slides further sub +2%; retreats deeper from Wed-Aug-27 +3.19% Round-2-high
+
+### Market Context
+- **US-IRAN STRIKES RE-ESCALATE + OIL >$90 + BOND-YIELD SPIKE + ADP-8:15AM + BEIGE-BOOK-2PM + DELL-BEAT/PANW-MIXED AMC-DIGEST MEGA-CATALYST DAY** — Tue closed sharply red (Dow -419pts / SPX -0.71% / NQ -1.03%) as US-Iran military strikes intensified overnight-into-Tue, WTI cleared $90, yields spiked multi-year highs pressuring rate-sensitive
+- **WTI / Brent:** WTI ~$90.33 / Brent ~$95.40 (Tue Brent settled $94.65 = +$4.16 / +4.6% D/D 5-week high); WTI intraday Sep 2 morning $90.22-$91.46 = **Strait-of-Hormuz-supply-fear premium sustained overnight**; **XLE tailwind renewed strongest** but not held sleeve
+- **S&P 500 futures:** ES ~7,642-7,660 = **-0.10 to +0.10%** stabilizing pre-open (Sep contract ESU26); Tue settled $7,699 → Wed pre-open $7,650-7,660 modest bounce; NQ ~29,055-29,192 = -0.6 to -1.1% weaker; Dow ~52,766-52,824 = flat-to-red = **MIXED-DEFENSIVE-STABILIZATION pre-ADP-8:15am + Beige-Book**
+- **VIX:** ~16.34 spot (Tue close +9.52% vs Mon 14.92 = +142bps single-day post-Iran-strikes); VIX-Sep futures ~17.20 = **breaks 15-complacency + approaches 17-escalation threshold**; 30d-vol re-elevates on multi-catalyst compound
+- **Today's catalysts:** 🔴🔴 **ADP National Employment 8:15am ET** (cons 48K vs prior 44K = tight-margin surprise); 🔴🔴 **Beige Book 2pm ET** (Fed regional-economy summary pre-FOMC-Sep-15-16); 🔴 **EIA Oil Inventories 10:30am ET** (post-strike supply-fear amplifier); 🔴 **US-Iran strikes overnight** = oil $90+ + yields spike sustains; 🔴 **DELL/PANW/CRM AMC digest** driving XLK-composite Wed-open reaction
+- **Tue AMC earnings reactions:**
+  - **DELL:** closed $422.54 -7.34% BEFORE report; extended +$41.42 to $463.96 = **+9.80% post-close** — Q2 FY27 beat handily = XLK-AI-infrastructure tailwind tomorrow
+  - **PANW:** closed $362.09 -5.24%; extended $358.05 = **-1.12% post-close** — Q4 FY26 in-line/slightly-mixed = neutral-to-mildly-negative XLK-security-composite
+  - **CRM:** Sep 1 AMC (Q2 FY27) — awaiting extended-print data; est $3.31 EPS / $11.43B rev
+  - **MDB:** Sep 1 AMC (results awaited)
+- **Earnings BMO (Wed 9/2, held-relevant):** none direct XLB/XLI/XLK/XLP; noteworthy: **AVGO** (Broadcom Q3 FY26 — Sep 2 catalyst per pre-report notes; AI-semiconductor XLK-adjacent), **HPE**, **NTAP**, **FIVE**, **PVH**, **AGX**, **AEVA**
+- **Earnings AMC tonight (Wed 9/2):** **AVGO** (Broadcom Q3 — $16B AI-catalyst-mentioned), **HPE**, **NTAP**, **AEO**, **CIEN**, **VZ**-adjacent — XLK-Broadcom-composite decisive Thu-open reaction
+- **Economic calendar Week 19 (all times ET):**
+  - **Tue 9/1:** ISM Manufacturing PMI + JOLTS Job Openings + Construction Spending [DONE — cyclical-drag confirmed]
+  - **Wed 9/2:** 🔴 **ADP National Employment 8:15am** (cons 48K vs prior 44K) + Manufacturing Shipments/Orders + **Beige Book 2pm** + EIA Oil Inventories 10:30am
+  - **Thu 9/3:** 🔴 **ISM Non-Manufacturing PMI 10am** + Initial Jobless Claims 8:30am + Trade Balance + Factory Orders
+  - **Fri 9/4:** 🔴🔴🔴 **NONFARM PAYROLLS 8:30am ET** (Aug 2026) — DECISIVE macro event
+  - **Sep 10:** PPI; **Sep 11:** CPI; **Sep 15-16:** FOMC
+- **Sector momentum (YTD per Chartrow / Investing.com):** 🥇 **XLE +42.3-46.9%** (Iran-strike-oil-tailwind renewed), 🥈 **XLK +27.9%** (AI-mega-thesis intact despite Sep drag), 🥉 **XLB +15.8%**, **XLI +11.9%** (post-Warsh + Iran-drag re-shave), **XLP ~9.6%** (defensive-bid revives risk-off) — all 4 held sleeves top-6 YTD; XLE #1 not held renewed-tailwind on Iran-Hormuz
+
+### Held-Ticker Snapshot (pre-open, Alpaca live)
+- **XLB $52.02** (day -0.10% pre-open); unrealized +$155 (+0.78%); HWM $54.19 (4.01% below); stop $48.771 (10% trail); cushion **6.24%** (Tue 7.02% → Wed 6.24% = -78bps normal drift); manual -7% cut $48.00 cushion **7.72%**; pre-cut $50 cushion **3.88%** (Day 12 sub 5% band); chemicals bid modestly bleeds; **runway 21d = T-21 renewal window OPEN TODAY — execute renewal if XLB holds green intraday**
+- **XLI $172.27** (day -0.27% pre-open); unrealized -$183 (-0.91%); HWM $181.24 (4.95% below); stop $170.3656 (6% Path-C); **cushion 1.11% ULTRA-CRITICAL — DEEP sub-3% floor Day 3** (Mon 2.73% → Tue 1.44% → Wed 1.11% = -33bps re-tighten) = **mechanical GTC trail-fire watch IMMINENT — $1.90 abs from trigger**; -7% cut $161.69 cushion **6.14%**; AI-capex/reshoring under triple-compound (Warsh + Iran + ADP-T-3h)
+- **XLK $182.20** (day -0.79% pre-open); unrealized -$671 (-3.39%); HWM $191.75 (4.98% below); stop $172.575 (10% trail); cushion **5.28%**; **-7% cut $175.39 cushion 3.74%** (Mon 5.87% → Tue 4.79% → Wed 3.74% = -105bps re-shave post-Iran); DELL-beat +9.8% extended = XLK-AI-tailwind offset partial; PANW-mixed neutral; approaches 3% floor if -7%-cut breaches $175.39 close
+- **XLP $85.25** (day 0.00% pre-open flat); unrealized +$333 (+1.67%); HWM $87.465 (2.53% below); stop $82.2171 (6% Path-C); **cushion 3.56% CRITICAL — approaches 3% floor** (Tue 3.84% → Wed 3.56% = -28bps drift); manual $77.98 cushion **8.53%**; 3/3 defensive-earnings-Round-2 validated; defensive-bid held Tue on risk-off
+
+### Round 2 XLK Status (Day 17 / UNDERWATER DAY 13 = IRAN-COMPOUND-RE-DAMAGE)
+- Entry 8/12 Wed $188.5905 x 105; cost $19,801.99
+- Days: +0.13% / +1.15% / +0.71% / +0.80% / -1.54% / -2.48% / -2.91% / -2.76% / -4.55% / -3.81% / -2.43% / -1.09% / -1.55% / -1.20% / -2.54% (Tue) / **-3.39% (Wed pre-open Iran-compound-re-damage)**
+- Cushion vs -7% cut: **3.74%** (Mon-Aug-24 2.63% deepest historical → Thu-Aug-27 6.35% peak-recovery → Tue-Sep-1 4.79% → **Wed-Sep-2 3.74% = -105bps re-shave post-Iran; APPROACHES 3% floor 1st time in 5 sessions**)
+- Structural AI-capex/hyperscaler thesis MEGA-INTACT + NVDA-cleared + DELL-beat-+9.8%-extended-adds-tailwind + PANW-mixed-neutral BUT Iran-strikes + Warsh-hawkish + yields-multi-year-high = triple-compound-macro-headwind
+- **Escalation posture:** cushion 3.74% approaches 3% floor 1st TIME Round-2; **NO CUT** (mechanical rule intact); HWM $191.75 = 4.98% above; watch ADP-8:15am reaction — hot = deepens rate-sensitive drag; sub-$180 = -7% cut $175.39 escalation-alert active
+
+### Trade Ideas
+Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 19 = 0/3 trades consumed Day 3 (fresh cap).
+
+1. **HOLD — TOP CHOICE, PROTECT INTO ADP-8:15AM + BEIGE-BOOK-2PM + NFP-FRI-T-2.**
+   - **Rationale:** 4/4 book (2 green + XLI -0.91% / XLK -3.39% Day 13 Iran-compound-re-damage) + 78.54% deployed inside band + Phase P&L +1.11% below-prior-Round-2-high + **US-Iran strikes overnight WTI $90+ + Brent $95+** + **ADP-8:15am + Beige-Book-2pm + EIA-oil-10:30am triple-data-day** + **XLI trail cushion 1.11% ULTRA-CRITICAL DEEP sub-3% floor Day 3 — $1.90 abs from mechanical trail-fire IMMINENT** + XLK -7% cushion 3.74% approaches 3% floor + XLP 3.56% approaches + **VIX 16.34 breaks 15-complacency approaches 17-escalation** + **DELL-beat +9.8% extended offset partial for XLK / PANW-mixed neutral** + **XLB GTC T-21 renewal WINDOW OPEN today**; any new deploy = amateur play into 7-priority-elevated macro-decisive Wed + NFP-Fri-T-2 tape
+
+2. **XLB GTC RENEWAL — T-21 WINDOW OPEN TODAY** — runway 21d today; execute renewal if XLB $52+ intraday holds green; if XLB red intraday defer to Thu
+
+3. **XLE 5th-slot (SPECULATIVE ADD) — DEFERRED per revised plan**
+   - Oil $90+ WTI on Iran-strike-escalation + XLE YTD +42-47% #1 renewed tailwind; BUT ADP-8:15am + Beige-Book-2pm + NFP-Fri-T-2 + 7-priority macro-week = adding into decisive-tape variance = amateur; re-eval post-NFP Fri after macro reveals rate-path clarity
+
+4. **SKIP any single-name earnings today** (AVGO/HPE/NTAP AMC tonight; MDT/NIO BMO not sector-sensitive) — anti-strategy Rule NO; wait for XLK-composite Thu digestion of AVGO tape
+
+### Risk Factors
+- 🔴🔴🔴 **US-IRAN STRIKES RE-ESCALATE OVERNIGHT** — Iran-US tit-for-tat continues; WTI $90.33 (+$4/bbl Tue) / Brent $95.40 (5-week high); Strait-of-Hormuz supply-fear premium sustained; ES/NQ pre-open mixed = risk-off deepens cyclical/tech sensitivity
+- 🔴🔴🔴 **ADP EMPLOYMENT 8:15AM ET** (cons 48K vs prior 44K, range 25K-53K) = tight-margin surprise-direction; ADP-hot = rate-hike re-priced further pre-NFP-Fri = XLK/XLP rate-sensitive-drag deepens; ADP-miss = rate-cut-hopes revive → cyclical rebound + XLI/XLP cushions re-widen
+- 🔴🔴🔴 **XLI TRAIL CUSHION 1.11% ULTRA-CRITICAL — DEEP SUB-3% FLOOR DAY 3** (Mon 2.73% → Tue 1.44% → Wed 1.11% = -33bps re-tighten) = **$1.90 abs from mechanical GTC trail-fire trigger $170.37**; sub-$171.50 = ultra-imminent trail-fire watch; sub-$170.37 close = **trail FIRES mechanically** = 4/6 book contracts 3/6 automatically
+- 🔴🔴🔴 **NONFARM PAYROLLS FRI SEP 4 T-2** = DECISIVE macro event this week; miss = Warsh-hawkish position reversed (rate-cut hopes revive); hot = XLK/XLP rate-sensitive further-drag + XLI-trail-fires-mechanically at close
+- 🔴🔴 **XLK -7% CUT CUSHION 3.74% APPROACHES 3% FLOOR 1st TIME ROUND-2** (Mon 5.87% → Tue 4.79% → Wed 3.74% = -105bps re-shave post-Iran); sub-$180 = escalation re-monitors; sub-$175.39 close = -7% cut ACTIVE mechanical
+- 🔴🔴 **XLP TRAIL CUSHION 3.56% APPROACHES 3% FLOOR** (Tue 3.84% → Wed 3.56% = -28bps drift); breach = GTC trail fires at $82.22; staples-rate-sensitive bond-yield drag
+- 🔴🔴 **BEIGE BOOK 2PM ET** = Fed regional-economy summary pre-FOMC-Sep-15-16; hawkish-tone = rate-cut-hopes further-defer = drag deepens; dovish-tone = cyclical rebound
+- 🔴 **VIX 16.34 BREAKS 15-COMPLACENCY + APPROACHES 17-ESCALATION** (Mon 14.92 → Tue 16.34 = +9.52%); VIX-Sep futures 17.20 = 30d-vol re-elevates; sustained >17 = XLK cut escalation
+- 🔴 **10Y YIELD MULTI-YEAR HIGH ~4.7-4.8%** = bond-yield spike Tue on Iran-strike + supply-fear; USD firm; rate-sensitive XLP/XLK/XLB drag persists; NFP-Fri-hot = yields further-up
+- 🔴 **XLB EXPIRY RUNWAY 21d = T-21 RENEWAL WINDOW OPEN TODAY** — execute renewal if XLB intraday holds green (~$52+); defer to Thu if red
+- 🔴 **PANW EARNINGS MIXED** (-1.12% extended post-report) = XLK-cybersecurity-composite neutral drag; **DELL BEAT +9.8% extended** partial offset for XLK-AI-infrastructure tomorrow
+- 🟢 **DELL Q2 FY27 BEAT HANDILY** (+9.80% after-hours; est $4.98 EPS / $45.34B rev, whisper $5.05) = AI-server-infrastructure demand validated = XLK-AI-mega-thesis re-confirmed
+- 🟢 **BROADCOM (AVGO) AMC TONIGHT + $16B-CATALYST-MENTIONED** = Thu XLK-composite decisive tape; positive = XLK cushion re-widens
+- 🟢 **XLP DEFENSIVE BID HOLDS FLAT** = only sleeve non-negative pre-open on risk-off; 3/3 defensive-earnings-Round-2 validation intact; unrealized +1.67%
+- 🟢 **CASH $21,698 PRESERVED** = Week 19 3/3 fresh cap + dry powder for post-NFP-Fri opportunistic deploy window
+- 🟢 **GTC RUNWAY MOSTLY CLEAR** — XLI 77d, XLK 69d, XLP 57d; **XLB 21d T-21 renewal WINDOW OPEN TODAY**
+- 🟢 **SECTOR YTD LEADERSHIP** — all 4 held sleeves top-6 YTD: XLK +27.9% #2, XLB +15.8% #3, XLI +11.9% #4, XLP +9.6%
+- 🟢 **NO MAJOR HELD-RELEVANT EARNINGS TODAY** (AVGO/HPE/NTAP AMC not directly held); XLK-tape reactions kick in Thu via AVGO decisive
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Wed; US-Iran-strikes-overnight-oil-$90+ + ADP-8:15am + Beige-Book-2pm + EIA-oil-10:30am + XLI-trail-cushion-1.11%-ULTRA-CRITICAL-DEEP-sub-3%-mechanical-trail-fire-IMMINENT + XLK-cushion-3.74%-approaches-3%-floor-1st-TIME + XLP-3.56%-approaches + VIX-16.34-breaks-15-approaches-17 + NFP-Fri-T-2)
+- Positions after fill: 4→5 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 19 Day 3 fresh cap)
+- Cost ≤ $20,000 20% cap ✓ any candidate
+- Cost ≤ settled $21,698 ✓ headroom exists
+- Catalyst — **NONE with Iran-strikes + ADP-8:15am + Beige-Book-2pm + XLI-trail-fire-IMMINENT + XLK-approaches-3% + NFP-Fri-T-2 frame**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** US-Iran-strikes-overnight-oil-WTI-$90.33-Brent-$95.40-5-week-high + ADP-8:15am-cons-48K-vs-prior-44K-tight-margin + Beige-Book-2pm-pre-FOMC-Sep-15-16 + EIA-oil-inventories-10:30am + **XLI-trail-cushion-1.11%-ULTRA-CRITICAL-DEEP-sub-3%-floor-Day-3-mechanical-GTC-trail-fire-IMMINENT-$1.90-abs-from-trigger** + XLK-cushion-3.74%-approaches-3%-floor-1st-TIME-Round-2 + XLP-cushion-3.56%-approaches-3%-floor + VIX-16.34-+9.52%-breaks-15-complacency-approaches-17-escalation + 10y-yield-multi-year-high-4.7-4.8% + NFP-Fri-T-2-DECISIVE + XLB-runway-21d-T-21-renewal-WINDOW-OPEN-TODAY + DELL-beat-partial-XLK-tailwind-offset + PANW-mixed-neutral-drag = **9-priority-elevated Wed = adding into Iran-oil-spike + ADP/Beige-Book-double-header + XLI-trail-fire-IMMINENT + NFP-Fri-T-2 variance = amateur play**. Already 4/4 winning-config Day 17 + 78.54% band-inside + Phase P&L +1.11% below-prior-Round-2-high. **DEFER 5th-slot to post-NFP-Fri per revised plan.**
+
+### Decision: **HOLD** (Week 19 Day 3 / US-IRAN-STRIKES-OIL-$90+ + ADP-8:15AM + BEIGE-BOOK-2PM + XLI-TRAIL-CUSHION-1.11%-ULTRA-CRITICAL-DEEP-SUB-3%-MECHANICAL-TRAIL-FIRE-IMMINENT / XLK-3.74%-APPROACHES-3%-FLOOR-1st-TIME / XLP-3.56%-APPROACHES / DELL-BEAT-PARTIAL-XLK-OFFSET / XLB-T-21-RENEWAL-WINDOW-OPEN / NFP-FRI-T-2)
+- **Rationale:** 4/4 book (2 green + XLI -0.91% / XLK -3.39% Day 13 Iran-compound-re-damage); Phase P&L +1.11% below-prior-Round-2-high; 78.54% deployed inside target Day 17; **US-Iran strikes overnight WTI $90+ Brent $95+** = supply-fear-premium sustained; **ADP-8:15am cons 48K + Beige-Book-2pm + EIA-oil-10:30am triple-data-day**; **XLI trail cushion 1.11% ULTRA-CRITICAL DEEP sub-3% floor Day 3 = $1.90 abs from mechanical GTC trail-fire IMMINENT**; XLK -7% cushion 3.74% approaches 3% floor 1st time Round-2; XLP 3.56% approaches; VIX 16.34 breaks 15-complacency; DELL-beat +9.8% extended partial XLK-tailwind-offset; PANW-mixed neutral drag; **XLB T-21 renewal WINDOW OPEN TODAY** (execute if XLB green intraday); patience > activity T-2 to NFP
+- **XLK Day 17 monitor:** underwater Day 13 Iran-compound-re-damage (-3.39% pre-open); cushion 3.74% approaches 3% floor 1st TIME Round-2 (Mon 5.87% → Tue 4.79% → Wed 3.74% = -105bps re-shave post-Iran); STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA + DELL-beat validation; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17**; HWM $191.75 = 4.98% above
+- **XLI monitor:** **trail cushion 1.11% DEEP sub-3% floor Day 3 — mechanical GTC trail-fire IMMINENT — $1.90 abs from trigger**; sub-$171.50 = ultra-imminent trail-fire watch; sub-$171 = escalation-alert; sub-$170.37 close = **trail-stop FIRES mechanically** = 4/6 book contracts 3/6; HWM $181.24 (4.95% below); AI-capex/reshoring under Iran+Warsh+ADP-T-3h compound-headwind
+- **XLP monitor:** **trail cushion 3.56% approaches 3% floor** (Tue 3.84% → Wed 3.56% = -28bps drift); sub-$84 = imminent trail-fire watch; sub-$82.22 close = **trail-stop FIRES**; HWM $87.465 (2.53% below); defensive-bid holds flat Wed pre-open on risk-off
+- **XLB monitor:** trail cushion 6.24%; HWM $54.19 (4.01% below); pre-cut $50 cushion 3.88% (Day 12 sub 5% band); chemicals least-macro-sensitive; **runway 21d = T-21 RENEWAL WINDOW OPEN TODAY** — execute renewal if XLB $52+ intraday holds green; defer to Thu if red
+- **Mechanical GTC stops:** all 4 continue riding; **XLB renewal RENEWAL WINDOW OPEN TODAY** (T-21); no other manual moves Wed
+- **Watch levels / midday (~12pm ET):**
+  - **8:15am ADP** — ADP-hot = rate-hike-re-priced-further = XLK/XLP drag deepens + XLI trail-fire-risk amplifies; ADP-miss = rate-cut-hopes revive → cyclical rebound + XLI cushion re-widens
+  - **10:30am EIA Oil Inventories** — draw = XLE tailwind confirms + risk-off deepens; build = oil-bid softens marginally
+  - **2:00pm Beige Book** — hawkish-tone = rate-drag deepens PM; dovish = cyclical rebound PM
+  - **XLI $172.27 hold vs $170.37 trail** = 1.11% cushion DEEP sub-3% floor; sub-$171.50 = ultra-imminent trail-fire watch; sub-$171 = escalation-alert; sub-$170.37 close = **trail-stop FIRES mechanically**
+  - **XLP $85.25 hold vs $82.22 trail** = 3.56% cushion approaches; sub-$84 = imminent trail-fire watch; sub-$82.22 close = **trail-stop FIRES**
+  - **XLK $182.20 hold vs $175.39 -7%-cut** = 3.74% cushion approaches 3% floor 1st TIME; sub-$180 = escalation re-monitors; sub-$175.39 close = **-7% cut ACTIVE mechanical**
+  - **XLB $52.02 hold vs $48.77 trail** = 6.24% cushion; HWM $54.19 (4.01% below); pre-cut $50 cushion 3.88% (sub 5% band Day 12); **T-21 GTC renewal window OPEN — execute if $52+ intraday holds green**
+  - **NQ futures intraday** — hold >29,000 tactical-drift band post-Iran; NQ -2%+ close AND VIX >17 = XLK cut escalation
+  - **VIX 12pm ET check** — sustained >17 = pre-NFP-de-risk flag + XLK cut escalation active
+  - **Oil ~$90 WTI intraday** — sustained $92+ = risk-off cascade deepens + XLI trail-fire amplifies; $95+ = broad de-risk
+  - **Bond yields (10y / 2y intraday)** — 2y further-up = rate-hike-priced further; XLP rate-sensitive drag deepens
+  - **AMC earnings** — AVGO Q3 FY26 = XLK-Broadcom-composite decisive Thu-open tape; HPE/NTAP secondary XLK-composite
+
+### Today's Discipline
+**HOLD — 4/4 book (2 green + XLI -0.91% / XLK -3.39% Day 13 Iran-compound-re-damage) + 78.54% deployed inside band + Phase P&L +1.11% below-prior-Round-2-high + US-Iran-strikes-overnight-WTI-$90.33-Brent-$95.40-5-week-high + ADP-8:15am-cons-48K-vs-prior-44K + Beige-Book-2pm-pre-FOMC + EIA-oil-inventories-10:30am + XLI-trail-cushion-1.11%-ULTRA-CRITICAL-DEEP-sub-3%-floor-Day-3-mechanical-GTC-trail-fire-IMMINENT-$1.90-abs-from-trigger + XLK-cushion-3.74%-approaches-3%-floor-1st-TIME-Round-2 + XLP-cushion-3.56%-approaches-3%-floor + VIX-16.34-+9.52%-breaks-15-complacency-approaches-17-escalation + 10y-yield-multi-year-high-4.7-4.8% + NFP-Fri-T-2-DECISIVE + XLB-runway-21d-T-21-renewal-WINDOW-OPEN-TODAY + DELL-beat-+9.8%-extended-partial-XLK-tailwind-offset + PANW-mixed-neutral-drag + Week-19-Day-3 (0/3 trade cap intact) = 9-priority-elevated Wed = PROTECT POSTURE INTO ADP-8:15AM + BEIGE-BOOK-2PM + NFP-FRI-T-2. XLK Round-2 UNDERWATER DAY 13 IRAN-COMPOUND-RE-DAMAGE (cushion Mon-Aug-24 2.63% deepest-historical → Thu-Aug-27 6.35% peak-recovery → Tue-Sep-1 4.79% → Wed-Sep-2 3.74% = -105bps re-shave post-Iran; APPROACHES 3% floor 1st TIME Round-2) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA + DELL-beat-+9.8%-extended validation. XLK HWM $191.75 = 4.98% above = not-imminent-ratchet post-Iran-shave. **XLI trail cushion 1.11% DEEP sub-3% floor Day 3 — mechanical GTC trail-fire IMMINENT — sub-$171.50 ultra-imminent watch; sub-$171 escalation-alert; sub-$170.37 close FIRES mechanically = 4/6 book contracts 3/6.** **XLP trail cushion 3.56% approaches 3% floor; sub-$84 imminent trail-fire watch; defensive-bid holds flat Wed pre-open on risk-off.** XLB Day 53 chemicals-bid MEGA-INTACT (+0.78% unrealized); pre-cut $50 cushion 3.88% Day 12 sub 5% band; HWM $54.19 (4.01% below); **runway 21d = T-21 RENEWAL WINDOW OPEN TODAY — execute renewal if XLB $52+ intraday holds green; defer to Thu if red.** Cash $21,698 preserved for post-NFP-Fri opportunistic deploy window. Patience > activity; Iran-strikes + ADP-8:15am + Beige-Book-2pm + XLI-trail-fire-IMMINENT + XLK-approaches-3% + NFP-Fri-T-2 = mechanical-discipline-day + monitor-day + XLB-renewal-day, NOT active-trading-day. Winning-config compounding below-prior-Round-2-high; protect into ADP-8:15am + Beige-Book-2pm + NFP-Fri-T-2 decisive macro-tape.**
