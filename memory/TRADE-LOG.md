@@ -2554,3 +2554,38 @@ No open positions.
 **GTC expiry runway — ALL CLEAR post-renewal:** XLB `be3d2a00` exp 2026-12-03 (90d) ✅ RENEWED TODAY; XLI `c391f03e` exp 2026-11-18 (75d) ✅; XLK `ad940893` exp 2026-11-10 (67d) ✅; XLP `3036af75` exp 2026-10-29 (55d) ✅. Next renewal watch: XLP escalates ~Oct 8 T-21.
 
 **Discord notification SENT** — manual action taken (XLB GTC stop renewal).
+
+### Sep 4 — Midday Snapshot (Day 100, Friday — Week 19 Day 5 / POST-NFP-8:30AM-DIGEST / XLB-HWM-AUTO-RATCHET-FIRED-$52.22→$52.67 / 4/4 book 3 green 1 red / 0 cuts, 0 rule-driven tightens, 0 thesis breaks / 1 mechanical HWM auto-ratchet / equity Thu $102,008.27 → Fri midday $102,118.43 = +0.108% / mild green intraday)
+
+**Sell-side gate check (all 4):** none at -7% cut trigger (XLK worst at -0.66%, cushion 6.38% to $175.39); none at +15%/+20% tighten trigger (XLB best at +1.89%, needs $59.36 = +12.9% away for +15%); no thesis broken. **0 cuts, 0 rule-driven tightens, 0 manual actions.**
+
+**Midday positions (~12:20pm ET, 4/6 book):**
+- **XLB:** 388 sh, +1.89% (+$378.12), $52.59 (day -0.06% flat vs Thu $52.62 = chemicals digest post-NFP); HWM $52.22 → **$52.67 (+$0.45 = mechanical auto-ratchet fired)**; stop $49.0868 → **$49.5098 (+$0.423 = UP, never down ✓)** on 6% Path-C trail; MV $20,404.92
+- **XLI:** 115 sh, +0.77% (+$152.95), $175.19 (day +0.36% vs Thu $174.56 = industrial-bid extension post-NFP); HWM $181.24 unchanged (3.34% below); stop $170.3656 unchanged (6% Path-C); MV $20,146.85
+- **XLK:** 105 sh, -0.66% (-$131.30), $187.34 (day +0.74% vs Thu $185.97 = tech-bid extension post-NFP-cool = AI-capex re-tailwind); HWM $191.75 unchanged (2.30% below); stop $172.575 unchanged (10% trail); MV $19,670.70
+- **XLP:** 238 sh, +1.23% (+$245.97), $84.885 (day -0.44% vs Thu $85.26 = defensive profit-take on risk-on rotation); HWM $87.465 unchanged (2.95% below); stop $82.2171 unchanged (6% Path-C); MV $20,202.63
+- **Combined MV:** $80,419.85 (Alpaca long_market_value $80,419.85); equity **$102,118.43** (+$110.16 / +0.108% intraday vs Thu last_equity $102,008.27; +$57.87 / +0.057% vs Thu EOD $102,060.56); cash **$21,698.58** settled; deployment **78.75%** (Day 19 INSIDE 75-85% band); Phase P&L **+$2,118.43 (+2.118%)**
+
+**Cushion table:**
+- XLB manual -7% cut $48.00 cushion **9.57%**; pre-cut $50 cushion **5.18%** (Day 15 recovers above 5% band); trail cushion (post-ratchet) **5.86%**; HWM $52.67 (0.15% below = ultra-imminent-next-ratchet if breaches $52.68+)
+- XLI manual -7% cut $161.69 cushion **7.71%**; trail $170.3656 cushion **2.75%** ($4.8244 abs — RECOVERS from Thu 2.40% = +35bps but still sub-3% floor Day 5); HWM $181.24 (3.34% below)
+- XLK manual -7% cut $175.39 cushion **6.38%** ($11.95 abs, HOLDS well above 3% floor Day 19; IMPROVES from Thu 5.73% = +65bps post-NFP-cool relief); trail $172.575 cushion **7.88%**; HWM $191.75 (2.30% below)
+- XLP manual -7% cut $77.98 cushion **8.34%**; trail $82.2171 cushion **3.13%** (Thu 3.77% → Fri 3.13% = -64bps but still ABOVE 3% floor); HWM $87.465 (2.95% below)
+
+**Thesis check pass:**
+- **XLB INTACT (mechanical HWM auto-ratchet fires Day 15)** — chemicals digest day -0.06% flat post-NFP; +1.89% unrealized; **HWM breach $52.22 → $52.67 triggered 6% trail auto-ratchet UP $49.0868 → $49.5098** (+$0.423, per Alpaca GTC engine, no manual action); structural chemicals/feedstock bid Day 55 confirms. **NO CUT.**
+- **XLI INTACT (post-NFP-cool relief)** — industrial-bid extends +0.36% post-NFP; +0.77% unrealized (Thu +0.40% → Fri +0.77% = +37bps improvement); AI-capex/reshoring/Mfg-PMI-4yr-high thesis intact; **trail cushion 2.75% recovers +35bps but still sub-3% floor Day 5 = mechanical GTC trail-fire watch continues**; sub-$170.37 close = trail fires. **NO CUT — mechanical rule governs.**
+- **XLK INTACT (post-NFP-cool tech-tailwind Day 19)** — day +0.74% AI-capex re-tailwind + AVGO/HPE-AMC-beat-continues; unrealized Thu -1.34% → Fri -0.66% (+68bps improvement); cushion 6.38% IMPROVES from Thu 5.73% = +65bps relief; AI-capex mega-thesis validated. **NO CUT — cut only if -7% breaches $175.39 close OR NQ -2%+ AND VIX >17.**
+- **XLP INTACT (defensive profit-take on risk-on rotation)** — day -0.44% defensive profit-take as post-NFP-cool triggers risk-on rotation to cyclicals; +1.23% unrealized; 3/3 defensive-earnings-Round-2 validated; trail cushion narrows to 3.13% (still ABOVE 3% floor). **NO CUT — HWM $87.465 (2.95% below).**
+
+**HWM ratchet check midday:** **1 mechanical auto-ratchet fired Fri AM — XLB** ($52.22 → $52.67 HWM breach = 6% trail auto-ratcheted stop $49.0868 → $49.5098, +$0.423 UP). Other 3 sleeves: stops unchanged (XLI $170.3656, XLK $172.575, XLP $82.2171); no HWM breaches (XLI 3.34% below, XLK 2.30% below, XLP 2.95% below).
+
+**Macro pulse (Fri midday):** NFP 8:30am absorbed (result read as cool/in-line = rate-cut hopes revive → cyclical + tech rebound, defensive profit-take); pre-FOMC-Sep-15-16 T-11 rate-path debate continues; VIX intraday moderates on NFP-cool relief; Iran-strike digest fades; Week 19 close day — 3/3 trade cap intact, 5th slot deferred to post-NFP Mon Sep 8+.
+
+**Week 19 book state:** 4/6 slots, **0/3 trades consumed** (fresh cap intact Day 5 close); settled cash $21,698.58 = 21.25% dry powder; **Day 19 INSIDE 75-85% deployment band Phase-1 Round 2**.
+
+**GTC expiry runway — ALL CLEAR:** XLB `be3d2a00` exp 2026-12-03 (90d) ✅ RENEWED TODAY AM; XLI `c391f03e` exp 2026-11-18 (75d) ✅; XLK `ad940893` exp 2026-11-10 (67d) ✅; XLP `3036af75` exp 2026-10-29 (55d) ✅. Next renewal watch: XLP escalates ~Oct 8 T-21.
+
+**PM watch (12pm-4pm):** (1) **XLB $52.59 hold vs $52.67 HWM (0.15% below = ULTRA-IMMINENT-next-ratchet if $52.68+ breaches PM)**; (2) **XLI $175.19 hold vs $170.37 trail (2.75% cushion sub-3% floor Day 5)** — sub-$172 = pre-trail-fire monitor; sub-$170.37 close = **trail FIRES mechanically**; (3) XLP $84.885 hold vs $82.22 trail (3.13% cushion narrows) — sub-$83.50 = pre-tighten monitor; (4) XLK $187.34 hold vs $175.39 -7%-cut (cushion 6.38% comfortable); (5) VIX PM check — sustained <15 = risk-on continuation; (6) NQ intraday — hold >29,500 = XLK-tailwind continues; (7) Week 19 close positioning — 4/4 sleeves' PM drift shapes Mon Sep 8 open plan.
+
+**NO Discord notification** — 0 manual actions taken (mechanical HWM auto-ratchet does not require notify per rule).
