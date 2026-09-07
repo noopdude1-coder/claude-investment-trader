@@ -9417,3 +9417,66 @@ Reminder: Paper Phase-1 $100k baseline → position cap $20,000. Week 19 = 0/3 t
 
 ### Today's Discipline
 **HOLD — 4/4 book (3 green + XLK -0.63% Day 15 NTAP-bucks-partial-relief) + 78.75% deployed inside band + Phase P&L +2.13% approaches-Round-2-high + VIX-collapse-14.17-14.85-continues-de-risk-unwound-decisively-breaks-below-15-complacency + NFP-8:30am-DECISIVE-pre-FOMC-Sep-15-16-pivot + AVGO-Q3-beat-but-AH-2.74% + HPE-beat-but-AH-4.07%-guide-light + NTAP-AH-+2.55%-bucks-XLK-drag-partial-offset + XLI-trail-cushion-2.56%-RECOVERS-+114bps-BUT-STILL-sub-3%-floor-Day-5-mechanical-trail-fire-still-live-$4.48-abs-from-trigger + XLK-cushion-6.41%-RECOVERS-+196bps-WELL-ABOVE-3%-floor + XLP-cushion-3.31%-holds-above-3%-floor + 10y-yield-4.78%-sustained + XLB-runway-19d-T-19-renewal-WINDOW-OPEN-Day-3-EXECUTE-TODAY + DELL-Tue-beat-validation-offsets-AVGO/HPE-mixed + Iran-strikes-open-geopolitical-risk + Week-19-Day-5-close-day (0/3 trade cap intact) = 9-priority-elevated Fri = PROTECT POSTURE INTO NFP-8:30AM-DECISIVE + POST-NFP-DIGEST + XLB-RENEWAL. XLK Round-2 UNDERWATER DAY 15 NTAP-BUCKS-PARTIAL-RELIEF (cushion Mon-Aug-24 2.63% deepest-historical → Thu-Aug-27 6.35% peak-recovery → Wed-Sep-2 4.42% → Thu-Sep-3 4.45% → **Fri-Sep-4 6.41% RECOVERS TO PEAK-AUG-27 ZONE** on NTAP-bucks + VIX-collapse-continues + NQ +0.48% pre-open) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA + DELL-Tue-beat + AVGO/HPE-BEAT-but-guide-light + NTAP-bucks. XLK HWM $191.75 = 2.27% above = imminent-next-ratchet if breaches. **XLI trail cushion 2.56% RECOVERS +114bps from Thu 1.42% BUT STILL sub-3% floor Day 5 — mechanical GTC trail-fire STILL LIVE — sub-$172 ultra-imminent watch; sub-$171 escalation-alert; sub-$170.37 close FIRES mechanically = 4/6 book contracts 3/6.** **XLP trail cushion 3.31% HOLDS above 3% floor; rate-sensitive-drag persists on 10y 4.78%.** XLB Day 55 chemicals-bid MEGA-INTACT (+1.93% unrealized); pre-cut $50 cushion 5.22% Day 14 holds above 5% band; HWM $54.19 (2.92% below = imminent-next-ratchet); **runway 19d = T-19 RENEWAL WINDOW OPEN Day 3 = EXECUTE renewal today market-open (XLB $52+ Thu $52.62 close satisfies pre-market condition; deferral = T-18 escalation Monday).** Cash $21,698 preserved for post-NFP-Monday-Sep-8+ opportunistic deploy window + CPI/PPI Sep 10-11 T-1. Patience > activity; VIX-collapse-continues + NFP-8:30am-DECISIVE + AVGO/HPE-mixed-NTAP-bucks + XLI-trail-fire-still-live + XLB-renewal = mechanical-discipline-day + monitor-day + XLB-renewal-day, NOT active-trading-day. Winning-config compounding approaches-Round-2-high; protect into NFP-8:30am-DECISIVE + post-NFP-digest + XLB-renewal execution.**
+
+---
+
+## 2026-09-07 (Mon, Day 101, Week 20 Day 1) — Pre-Market Research — LABOR DAY HOLIDAY / US MARKETS CLOSED / NO TRADING SESSION
+
+### 🇺🇸 MARKETS CLOSED — LABOR DAY
+- **NYSE + NASDAQ + US Bond Market ALL CLOSED** Monday Sep 7 2026 (Labor Day). Reopens Tue Sep 8 9:30am ET regular hours.
+- **NO order execution possible today.** Alpaca will queue any GTC changes for Tue open. Positions remain frozen at Fri Sep 4 close.
+- **Alpaca last_equity $101,995.79 = Fri Sep 4 EOD locked in.** No day P&L until Tue.
+
+### Account snapshot (frozen at Fri EOD)
+- **Equity:** $101,995.79 | **Last equity:** $101,995.79 | **Settled cash:** $21,698.58 | **Unsettled:** $0
+- **Long MV:** $80,297.21 | **Deployment:** 78.72% (Day 20 INSIDE 75-85% band Phase-1 Round 2)
+- **Phase P&L:** +$1,995.79 (+1.996%) | Cash account, T+1 (irrelevant today — closed)
+- **Book (4/6 slots, 2/3 trade cap intact Week 20 Day 1):**
+  - XLB 388 @ $51.6155 → $52.44 (+1.60%, +$319.92) | stop $49.5098 (6% trail, HWM $52.67)
+  - XLI 115 @ $173.86 → $175.27 (+0.81%, +$162.15) | stop $170.3656 (6% trail, HWM $181.24)
+  - XLK 105 @ $188.5905 → $187.28 (-0.70%, -$137.60) | stop $172.575 (10% trail, HWM $191.75)
+  - XLP 238 @ $83.8515 → $84.58 (+0.87%, +$173.38) | stop $82.2171 (6% trail, HWM $87.465)
+
+### Market context (weekend snapshot for Tue Sep 8 pre-open)
+- **ES futures (Sun/Mon overnight):** ESU26 ~$7,716.75 (-5.25 / -0.09%); NQ slightly lower. Mixed, small.
+- **VIX:** 14.53 (Fri close); VXU26 (Sep '26) 16.27 pricing modest event-risk premium into FOMC Sep 15-16.
+- **Oil:** WTI $91.01-91.60 / Brent $95.63-96.65 — elevated multi-week highs on renewed US-Iran military strikes (7th month of conflict); diesel record high. Structural risk-on/off swing factor.
+- **10Y yield:** ~4.78% (Fri sustained), post-NFP-digest.
+- **SPY Fri close ~$769.92** (-0.37% Fri, -0.47% Fri per some sources).
+- **NFP-Fri absorbed:** cool/in-line read triggered mixed digest, XLK re-tailwind on rate-cut hopes revive (per Sep 4 EOD entry).
+
+### Week ahead calendar (Sep 8-12)
+- **Mon Sep 7:** MARKETS CLOSED (Labor Day)
+- **Tue Sep 8:** Regular open — Consumer Credit (Jul) 3pm; NY Fed Consumer Expectations Survey 11am; light macro day; post-holiday digest
+- **Wed Sep 9:** Wholesale Inventories; light
+- **🔴 Thu Sep 10:** **PPI (Aug) 8:30am** DECISIVE T-5 pre-FOMC-Sep-15-16; Initial Jobless Claims 8:30am
+- **🔴🔴 Fri Sep 11:** **CPI (Aug) 8:30am** DECISIVE T-4 pre-FOMC-Sep-15-16; U-Mich preliminary sentiment 10am
+- **Sep 15-16:** FOMC meeting + rate decision + Powell presser Wed 2pm
+- **Barchart snippet noted "Fed rate hike chance 60% vs 52% before payroll" — anomalous vs prior narrative (rate-cut hopes). Treat as low-confidence; verify at Tue open via Fed funds futures.**
+
+### Actionable trade ideas — DEFERRED (market closed)
+No new-trade evaluation today. Week 20 3/3 trade cap intact; 5th-slot deferred to earliest Tue Sep 8 open pending post-holiday digest + PPI/CPI T-3/T-4 setup. Position cap $1,500 (Phase 2 sizing per hard rule; Phase 1 paper uses $20,000).
+
+### Sell-side / thesis check (evaluated at Fri close; no changes possible today)
+- **XLB INTACT** — +1.60%, cushion 5.61% trail, 9.24% -7%-cut. HWM $52.67 (0.44% below = imminent-next-ratchet Tue). GTC runway 87d ✅.
+- **XLI INTACT — CRITICAL sub-3% floor Day 6** — trail cushion **2.80%** ($4.90 abs from $170.37 mechanical trail-fire); sub-$172 = ultra-imminent Tue-open watch; sub-$170.37 = trail FIRES mechanically. HWM $181.24 (3.29% below). GTC runway 72d ✅.
+- **XLK INTACT** — -0.70%, cushion 6.24% -7%-cut ($175.39), 7.85% trail. AI-capex/NVDA/AVGO/HPE/NTAP thesis intact. HWM $191.75 (2.33% below). GTC runway 64d ✅.
+- **XLP INTACT — sub-3% floor Day 2** — trail cushion **2.89%** ($2.36 abs); rate-sensitive-drag on 10Y 4.78% sustained. HWM $87.465 (3.30% below). GTC runway 52d ✅.
+
+### Risk factors (Tue Sep 8 open + week)
+- 🔴🔴 **XLI mechanical trail-fire imminent** — sub-3% floor Day 6; Tue open gap-down risk = trail fires at $170.37; 4/6 book contracts 3/6.
+- 🔴🔴 **XLP mechanical trail-fire escalates** — sub-3% floor Day 2; rate-sensitive drag persists; sub-$83.50 Tue = pre-tighten monitor.
+- 🔴 **CPI Fri Sep 11 DECISIVE** — hot = rate-cut hopes evaporate = XLK/XLP re-drag + XLI trail-fire likely; cool = cyclical rebound extends + cushions re-widen.
+- 🔴 **PPI Thu Sep 10** — pre-CPI tell; hot = CPI-hot-priced-in; miss = CPI-soft-priced-in.
+- 🔴 **Oil $91-96 elevated** — Iran-strike escalation = risk-off cascade + energy-bid + XLB tailwind but XLI/XLK drag.
+- 🔴 **VXU26 16.27 vs cash VIX 14.53** — futures pricing event-risk premium into FOMC; complacency risk if hot data lands.
+- 🔴 **10Y yield 4.78% sustained** — rate-sensitive XLP/XLK/XLB drag persists.
+- 🟢 **VIX 14.53 calm** — de-risk unwound decisively; risk-on regime intact.
+- 🟡 **XLB GTC runway 87d ✅ RENEWED Fri** — no renewal action needed until Nov T-21 window.
+
+### Decision: **HOLD** (default; forced — markets closed)
+- **0 trades possible today.** No buy/sell/stop-adjust executable until Tue Sep 8 9:30am ET.
+- **All 4 sleeves within thesis; 2 sleeves (XLI, XLP) sub-3% trail-floor = imminent-mechanical-fire watch for Tue open.**
+- **Phase P&L +1.996%; deployment 78.72% inside band; Week 20 3/3 trade cap intact.**
+- **Tue Sep 8 plan:** post-holiday-digest + pre-PPI-Thu-T-2 + pre-CPI-Fri-T-3; monitor XLI/XLP gap-open for mechanical trail-fire; XLK/XLB cushions comfortable; 5th-slot decision deferred pending PPI/CPI clarity Thu-Fri; no new buys likely pre-CPI.
+- **Silent Discord** — no manual action, no urgency requiring notify.
