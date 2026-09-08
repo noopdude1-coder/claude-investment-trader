@@ -9480,3 +9480,93 @@ No new-trade evaluation today. Week 20 3/3 trade cap intact; 5th-slot deferred t
 - **Phase P&L +1.996%; deployment 78.72% inside band; Week 20 3/3 trade cap intact.**
 - **Tue Sep 8 plan:** post-holiday-digest + pre-PPI-Thu-T-2 + pre-CPI-Fri-T-3; monitor XLI/XLP gap-open for mechanical trail-fire; XLK/XLB cushions comfortable; 5th-slot decision deferred pending PPI/CPI clarity Thu-Fri; no new buys likely pre-CPI.
 - **Silent Discord** — no manual action, no urgency requiring notify.
+
+---
+
+## 2026-09-08 (Tue, Day 102, Week 20 Day 2) — Pre-Market Research — POST-LABOR-DAY REOPEN / NFP-HOT-DIGEST-DAY / PRE-CPI-FRI-T-3 / XLI-XLP-SUB-3%-TRAIL-FIRE-LIVE
+
+### Account snapshot (Alpaca pre-open)
+- **Equity:** $101,862.42 | **Last equity:** $101,995.79 (Fri EOD, frozen through Mon holiday) | **Day P&L:** -$133.37 (-0.13%) intraday early
+- **Settled cash:** $21,698.58 | **Unsettled:** $0 | **Cash account, T+1**
+- **Long MV:** $80,163.84 | **Deployment:** 78.70% (Day 21 INSIDE 75-85% band Phase-1 Round 2)
+- **Phase P&L:** +$1,862.42 (+1.862%) — retreats from Fri +1.997% on pre-open drift
+- **Book (4/6 slots, 3/3 trade cap intact Week 20 Day 2):**
+  - XLB 388 @ $51.6155 → $52.20 (-0.46% day, +1.13% total, +$226.80) | stop $49.5098 (6% trail, HWM $52.67, cushion **5.44%**) | GTC exp 2026-12-03 (86d) ✅
+  - XLI 115 @ $173.86 → $175.27 (0.00% no fresh print, +0.81% total, +$162.15) | stop $170.3656 (6% trail, HWM $181.24, cushion **2.88% SUB-3% Day 7**) | GTC exp 2026-11-18 (71d) ✅
+  - XLK 105 @ $188.5905 → $187.69 (+0.22% day, -0.48% total, -$94.55) | stop $172.575 (10% trail, HWM $191.75, cushion **8.75% trail / 7.01% -7%-cut**) | GTC exp 2026-11-10 (63d) ✅
+  - XLP 238 @ $83.8515 → $84.23 (-0.41% day, +0.45% total, +$90.08) | stop $82.2171 (6% trail, HWM $87.465, cushion **2.44% DEEPER SUB-3% Day 3**) | GTC exp 2026-10-29 (51d) ✅
+
+### Market context (Tue pre-open Sep 8)
+- **ES futures:** ESU26 ~$7,698-7,711 (-0.15% to -0.30% vs Fri $7,722 settle); NQ mixed/lower; muted risk-off tone post-holiday
+- **VIX:** 14.53 Fri close → 15.30 Yahoo pre-open (+5.3%) = event-risk premium creeping in ahead of CPI Fri T-3; VXU26 (Sep '26) still pricing FOMC-Sep-15-16
+- **Oil:** WTI $92.20-92.32 / Brent $96.99-97.38 — sustained elevated Day-8 Iran-strike escalation; front-month WBSV26 $93.85 (+1.46%); structural risk-on/off wildcard
+- **10Y yield:** ~4.78% Fri sustained
+- **SPY:** Fri close $769.92-770.19 (-0.38-0.39% Fri); no fresh Tue print yet
+- **🔴 CRITICAL — NFP Fri Sep 4 re-read HOT (not cool as prior EOD assumed):** AryaFin: "stock market declined Sep 4 after stronger-than-expected employment report increased expectations for another interest-rate increase"; Schwab: "Hot Jobs Report Hurts Stocks, Lifts Rate Hike Odds"; **rate-hike odds 60% vs 52% pre-payroll (Barchart)** — confirms hot-NFP reading. Prior log misread — CORRECTED FRAME: HOT NFP = rate-cut hopes evaporate + rate-hike risk revives → cyclical/rate-sensitive drag persists into pre-CPI T-3
+- **Sector momentum map (SPDR Sep 7):** Leading = XLP, XLI, XLB, XLE; Lagging = XLK, XLF. Confirms 3/4 held sleeves in Leading quadrant + XLK Lagging. **XLE +42.32% YTD #1** (Iran-tailwind), XLI +12.62% YTD, XLK still #2 YTD ~+29.5%
+- **NFP-hot corroborated by AH sentiment:** SMH +2.61%, XLK +0.70%, KRE +0.53% Mon pre-open (leading-strength narrative persists in tech/semis + regional banks despite HOT NFP macro)
+
+### Economic/earnings calendar this week (Sep 8-12)
+- **Tue Sep 8 (today):** 6am NFIB Small Business Optimism (Aug); 11am NY Fed Consumer Expectations Survey; 3pm Consumer Credit (Jul); **light macro; NOTE — Scotiabank calendar flags PPI Aug possible Tue 8:30 vs Econoday/traditional Thu; low-confidence advance-schedule ambiguity**. Earnings: CASY, TTAN, GME, ABM, BRZE, UNFI (non-sector-relevant to held sleeves)
+- **Wed Sep 9:** MBA Mortgage Apps; Wholesale Inventories — light
+- **🔴 Thu Sep 10:** **PPI (Aug) 8:30am** DECISIVE pre-CPI tell (traditional schedule); Initial Jobless Claims 8:30am; Existing Home Sales 10am; 30Y bond auction 1pm
+- **🔴🔴 Fri Sep 11:** **CPI (Aug) 8:30am** DECISIVE T-4 pre-FOMC; U-Mich sentiment prelim 10am
+- **Sep 15-16:** FOMC + rate decision + Powell presser Wed 2pm
+
+### Actionable trade ideas (max position $1,500 per Phase-2 hard rule; Phase-1 paper uses $20,000)
+1. **HOLD 4/4 book intact** — NO new buys pre-CPI Fri T-3; **XLI + XLP sub-3% trail-floor = mechanical trail-fire watch LIVE** (any gap-down = trail fires automatically = 4/6 → 3/6 or 2/6)
+
+2. **XLE 5th-slot (SPECULATIVE ADD) — RE-DEFER Day 2 post-holiday** — WTI $92-97 sustained + XLE YTD +42.32% #1 renewed tailwind on Iran-strike Day 8 escalation; BUT NFP-HOT-digest + pre-CPI-Fri-T-3 + XLI/XLP-trail-fire-live = adding into decisive-tape variance with 2 sleeves at mechanical-fire risk = amateur; re-eval post-CPI Fri or Mon Sep 14 pre-FOMC-T-1
+
+3. **SKIP all single-name earnings today** (CASY/TTAN/GME/ABM/BRZE/UNFI non-sector-relevant to XLB/XLI/XLK/XLP; no held-sleeve component reporting) — anti-strategy Rule NO
+
+4. **XLB GTC renewal WINDOW CLEAR** — 86d runway, next renewal watch ~Nov 12 T-21; no action today
+
+### Risk factors (Tue Sep 8 open + week into CPI/FOMC)
+- 🔴🔴🔴 **XLI mechanical GTC trail-fire IMMINENT Day 7** — cushion 2.88% ($4.90 abs from $170.37); any Tue open gap-down = trail FIRES automatically = 4/6 book → 3/6; sub-$172 = ultra-imminent; sub-$171 = escalation
+- 🔴🔴🔴 **XLP mechanical GTC trail-fire ESCALATES Day 3** — cushion **2.44% DEEPER sub-3% floor** ($2.01 abs from $82.22); rate-sensitive-drag on HOT-NFP + 10Y 4.78% sustained; sub-$83.50 Tue = pre-tighten monitor; sub-$82.22 close = trail FIRES = 4/6 → 3/6
+- 🔴🔴 **CPI Fri Sep 11 DECISIVE** — hot = rate-cut hopes evaporate confirmed + rate-hike-risk-lives → XLK/XLP re-drag + XLI trail-fire likely; cool = cyclical rebound extends + cushions re-widen above 3%
+- 🔴🔴 **PPI Thu Sep 10** — pre-CPI tell; hot PPI = CPI-hot-priced-in; miss = CPI-soft-priced-in; Scotiabank Tue-8:30 ambiguity = **watch 8:30am ET Tue-open too** just in case
+- 🔴🔴 **NFP Fri re-read HOT** (prior log misread) = rate-hike-odds-60%-vs-52%-pre-payroll = risk-off tone dominant into pre-CPI T-3
+- 🔴 **Oil $92-97 elevated Day-8 Iran-strike escalation** = risk-off cascade wildcard + energy-bid + XLB tailwind but XLI/XLK drag deepens on any sustained $95+ WTI
+- 🔴 **VIX 14.53 → 15.30 creep pre-open** = event-risk premium building into CPI Fri T-3; sustained >17 = de-risk re-flag + XLK cut escalation active
+- 🔴 **10Y yield 4.78% sustained** = rate-sensitive XLP/XLK/XLB drag persists; NFP-hot = further-up risk
+- 🔴 **Post-holiday reopen digest** = gap-open thin-liquidity risk amplifies XLI/XLP trail-fire probability
+- 🟢 **Sector momentum map confirms 3/4 held sleeves Leading** (XLP/XLI/XLB) + XLE (unheld) — structural cyclicals-defensive-materials bid intact
+- 🟢 **XLK cushion 7.01% -7%-cut / 8.75% trail HOLDS well above 3% floor** — AI-capex/hyperscaler MEGA-thesis intact; SMH +2.61% Mon pre-open + KRE +0.53% = growth-leadership-still-alive despite HOT-NFP
+- 🟢 **XLB cushion 5.44% comfortable** — chemicals/materials bid Day 56 intact; HWM $52.67 (0.90% below = imminent-next-ratchet if breaches $52.68+)
+- 🟢 **Cash $21,698 preserved** = Week 20 3/3 fresh cap + dry powder for post-CPI Fri opportunistic deploy window
+- 🟢 **GTC runway ALL CLEAR** — XLB 86d, XLI 71d, XLK 63d, XLP 51d; no renewal action needed
+- 🟢 **No held-sleeve component earnings today** (CASY/TTAN/GME/ABM/BRZE/UNFI all non-XLB/XLI/XLK/XLP-relevant)
+- 🟡 **XLI shows 0.00% day-change / current == lastday** — possible stale Alpaca quote pre-open or first-print at Fri close level; recheck at 9:35am open
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Tue; NFP-HOT-digest + pre-CPI-Fri-T-3 + XLI/XLP-sub-3%-trail-fire-live + oil-$92-elevated + VIX-15.30-creep + post-holiday-reopen-gap-risk)
+- Positions after fill: 4→5 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 20 Day 2 fresh cap)
+- Cost ≤ $20,000 20% cap ✓ any candidate
+- Cost ≤ settled $21,698 ✓ headroom exists
+- Catalyst — **NONE compelling with NFP-HOT-digest + pre-CPI-T-3 + 2-sleeves-sub-3%-trail-fire-live frame**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** post-Labor-Day-reopen + NFP-Fri-HOT-digest (prior log misread now CORRECTED) + rate-hike-odds-60%-vs-52%-pre-payroll + **XLI trail cushion 2.88% + XLP trail cushion 2.44% DEEPER-sub-3% = 2 mechanical trail-fires LIVE** + pre-CPI-Fri-T-3 + Iran-Day-8-escalation + VIX-15.30-creep + 10Y-4.78%-sustained = **7-priority-elevated Tue = adding into decisive-CPI-tape + mechanical-fire-risk = amateur**. Already 4/4 config Day 21 + 78.70% band-inside + Phase P&L +1.86% holds. **DEFER 5th-slot to post-CPI-Fri-Sep-11 or pre-FOMC-Mon-Sep-14.**
+
+### Decision: **HOLD** (Week 20 Day 2 / POST-LABOR-DAY-REOPEN / NFP-HOT-DIGEST / PRE-CPI-FRI-T-3 / XLI-XLP-SUB-3%-TRAIL-FIRE-LIVE / FOMC-SEP-15-16-T-7)
+- **Rationale:** 4/4 book (3 green + XLK -0.48% Day 22 still-underwater); Phase P&L +1.86% retreats from Fri +1.997%; 78.70% deployed inside band Day 21; **NFP Fri re-read HOT (rate-hike odds 60% vs 52% pre-payroll)**; **XLI cushion 2.88% + XLP cushion 2.44% BOTH sub-3% floor = 2 mechanical trail-fires LIVE**; XLK cushion 7.01% -7%-cut / 8.75% trail comfortable; XLB cushion 5.44% comfortable; oil $92-97 Day-8 Iran-strike + VIX 15.30 event-risk creep pre-CPI T-3; sector momentum map confirms XLP/XLI/XLB Leading + XLK Lagging (structural); patience > activity into CPI-Fri-DECISIVE tape
+- **XLK Day 22 monitor:** underwater but cushion 7.01% -7%-cut / 8.75% trail = comfortable Day 22; STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA + DELL/AVGO/HPE/NTAP thesis intact + SMH +2.61% Mon pre-open + KRE +0.53% = growth-leadership-alive; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17**; HWM $191.75 (2.16% above = imminent-next-ratchet if breaches)
+- **XLI monitor:** **trail cushion 2.88% sub-3% floor Day 7** — $4.90 abs from mechanical trail-fire $170.37; sub-$172 = ultra-imminent trail-fire; sub-$171 = escalation-alert; sub-$170.37 close = **trail FIRES mechanically** = 4/6 → 3/6; HWM $181.24 (3.30% below); Leading momentum-map + AI-capex/reshoring under NFP-hot-headwind
+- **XLP monitor:** **trail cushion 2.44% DEEPER sub-3% floor Day 3** — $2.01 abs from mechanical trail-fire $82.22; sub-$83.50 Tue = pre-tighten monitor; sub-$82.22 close = **trail FIRES** = 4/6 → 3/6; HWM $87.465 (3.79% below); rate-sensitive-drag on HOT-NFP + 10Y 4.78% + defensive-rotation-out on any risk-on relief
+- **XLB monitor:** trail cushion 5.44% comfortable; HWM $52.67 (0.90% below = imminent-next-ratchet if $52.68+ breaches); pre-cut $50 cushion 4.40% (Day 15 slips from 5.22% Fri close but still above 4% floor watch); chemicals/materials bid Day 56 intact; Leading momentum-map
+- **Mechanical GTC stops:** all 4 continue riding; **no renewal actions today** (XLB 86d clear); zero manual moves Tue
+- **Watch levels / midday (~12pm ET):**
+  - **8:30am DATA WATCH** — Scotiabank flags PPI-Aug possible Tue vs Econoday Thu; monitor tape reaction 8:30-9:00am
+  - **6am NFIB Small Business Optimism (Aug)** — medium-sensitivity; hot = hiring/capex/inflation-pressure signal = rate-sensitive drag re-amplifies
+  - **XLI $175.27 hold vs $170.37 trail** = 2.88% cushion sub-3%; sub-$172 = ultra-imminent watch; sub-$171 = escalation; sub-$170.37 close = **trail FIRES mechanically**
+  - **XLP $84.23 hold vs $82.22 trail** = 2.44% cushion DEEPER sub-3%; sub-$83.50 = imminent trail-fire watch; sub-$82.22 close = **trail FIRES**
+  - **XLK $187.69 hold vs $175.39 -7%-cut** = 7.01% cushion comfortable; sub-$180 = escalation re-monitors; sub-$175.39 close = -7% cut ACTIVE mechanical
+  - **XLB $52.20 hold vs $49.51 trail** = 5.44% cushion; HWM $52.67 (0.90% below = imminent-next-ratchet)
+  - **NQ futures intraday** — hold >29,500 tactical band; NQ -2%+ close AND VIX >17 = XLK cut escalation
+  - **VIX 12pm ET check** — sub-15 = event-premium-recedes; spike >17 = de-risk re-flag + XLK cut escalation
+  - **Oil ~$92 WTI intraday** — sustained $95+ = risk-off cascade + XLI/XLK drag amplifies + XLE-tailwind extends
+  - **10Y yield (4.78%)** — 2y further-up post-NFIB = rate-hike-priced-further; XLP rate-sensitive drag deepens
+
+### Today's Discipline
+**HOLD — 4/4 book (3 green + XLK -0.48% Day 22 comfortable-cushion) + 78.70% deployed inside band + Phase P&L +1.86% retreats-from-Fri-+1.997% + POST-LABOR-DAY-REOPEN-DAY + NFP-Fri-HOT-DIGEST (prior log CORRECTED — rate-hike-odds 60% vs 52% pre-payroll) + XLI-cushion-2.88%-sub-3%-floor-Day-7-mechanical-trail-fire-live + XLP-cushion-2.44%-DEEPER-sub-3%-floor-Day-3-mechanical-trail-fire-live-escalates + XLK-cushion-7.01%-cut/8.75%-trail-comfortable + XLB-cushion-5.44%-comfortable + oil-$92-97-Day-8-Iran-strike-escalation + VIX-15.30-creep-event-premium-pre-CPI-T-3 + 10Y-4.78%-sustained + PPI-Thu-Sep-10 (Scotiabank-Tue-8:30-ambiguity-flag) + CPI-Fri-Sep-11-DECISIVE + FOMC-Sep-15-16-T-7 + sector-momentum-map-XLP/XLI/XLB-Leading-XLK-Lagging (structural-intact) = 7-priority-elevated Tue = PROTECT POSTURE INTO PRE-CPI-T-3 + MECHANICAL-FIRE-WATCH. XLK Round-2 UNDERWATER DAY 22 CUSHION-COMFORTABLE (7.01% -7%-cut / 8.75% trail well above 3% floor; SMH +2.61% Mon + KRE +0.53% growth-leadership-alive) — mechanical rule governs; NO CUT — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + NVDA + DELL/AVGO/HPE/NTAP thesis. **XLI trail cushion 2.88% sub-3% floor Day 7 — mechanical GTC trail-fire LIVE — sub-$172 ultra-imminent watch; sub-$170.37 close FIRES = 4/6 book contracts 3/6.** **XLP trail cushion 2.44% DEEPER sub-3% floor Day 3 — mechanical GTC trail-fire LIVE-ESCALATES — sub-$83.50 imminent watch; sub-$82.22 close FIRES = 4/6 book contracts 3/6.** XLB Day 56 chemicals-bid MEGA-INTACT (+1.13% unrealized); pre-cut $50 cushion 4.40% Day 15 slips-from-Fri-5.22%-but-holds-above-4% floor; HWM $52.67 (0.90% below = imminent-next-ratchet); runway 86d clear. Cash $21,698 preserved for post-CPI-Fri opportunistic deploy window + pre-FOMC-Mon-Sep-14. Patience > activity; NFP-HOT-digest + XLI/XLP-trail-fire-live + Iran-Day-8-escalation + VIX-15.30-creep + pre-CPI-T-3 = mechanical-discipline-day + monitor-day, NOT active-trading-day. Winning-config compounding despite HOT-NFP macro-headwind; protect into pre-CPI-Fri-DECISIVE tape.**
