@@ -9859,3 +9859,89 @@ No new-trade evaluation today. Week 20 3/3 trade cap intact; 5th-slot deferred t
 
 ### Today's Discipline
 **HOLD — 3/3 book (all mild-red XLB/XLK/XLP) + 58.89% deployed sub-band Day 2 Phase-1-Round-2 (mechanical-XLI-exit-consistent) + Phase P&L +0.42% recovers-from-Thu-+0.14% on pre-CPI ES-relief-bid + CPI-AUG-FRI-8:30AM-DECISIVE-WEEK-CATALYST (consensus YoY 3.4% / M/M +0.4% / Core +0.2%) + XLP-cushion-1.47%-SUB-2%-floor-Day-7-mechanical-trail-fire-live-ULTRA-CRITICAL + XLB-cushion-2.48%-sub-3%-floor-Day-3-mechanical-trail-fire-live-ULTRA-IMMINENT + XLK-cushion-5.95%-cut/7.47%-trail-comfortable + VIX-17.84-sustained-above-17-de-risk-re-flag-active + oil-$100+-Iran-Day-11-inflation-shock-feed + 10Y-4.78%-sustained + PPI-Thu-hot-digest-D1 + FOMC-Sep-15-16-T-2 + Morgan-Stanley-50-50-hike-probability + Weekly-Review-Fri-PM = 9-priority-elevated Fri = PROTECT POSTURE INTO CPI-DECISIVE-TAPE + PRE-FOMC-T-2 + MECHANICAL-FIRE-WATCH-2-SLEEVES. XLK Round-2 UNDERWATER DAY 24 CUSHION-COMFORTABLE (5.95% -7%-cut / 7.47% trail well above 3% floor; Apple-Sep-9-passed-clean + ADBE-Thu-passed; growth-leadership-alive) — mechanical rule governs; NO CUT unless -7% breaches $175.39 close OR NQ -2%+ AND VIX >17 (VIX condition ARMED — NQ trigger not yet met) — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT thesis. **XLP trail cushion 1.47% SUB-2% floor Day 7 ULTRA-CRITICAL — mechanical GTC trail-fire LIVE-CRITICAL — sub-$83 pre-fire watch; sub-$82.22 close FIRES = 3/6 book contracts 2/6 (2nd sleeve exit in 2 days).** **XLB trail cushion 2.48% sub-3% floor Day 3 ULTRA-IMMINENT — mechanical GTC trail-fire LIVE-IMMINENT — sub-$50 pre-fire watch; sub-$49.51 close FIRES = 3/6 book contracts 2/6 (or 1/6 if XLP also fires — XLK-only tail-risk scenario).** Cash $41,286 preserved for post-CPI-Fri-close opportunistic re-band deploy + pre-FOMC-Mon-Sep-14. Weekly-review skill Fri PM per always-run spec. Patience > activity; CPI-DECISIVE-DAY + XLP/XLB-trail-fire-live-ULTRA-IMMINENT + Iran-Day-11-oil-$100 + VIX-17.84-above-17 + pre-FOMC-T-2 = mechanical-discipline-day + CPI-tape-reaction monitor-day, NOT active-trading-day. Winning-config compounding despite hot-macro-headwind stack; protect into CPI-DECISIVE + FOMC-T-2 tape.**
+
+---
+
+## 2026-09-14 (Mon, Day 106, Week 21 Day 1) — Pre-Market Research — PRE-FOMC-SEP-15-16-T-1-WINDOW-OPENS / POST-CPI-COOL-DIGEST-D1 / NQ-FUTURES-DOWN-1.23%-AI-IPO-SHAKEUP / XLK-RE-DRAG-CUSHION-NARROWS-4.73%-CUT / XLB-CUSHION-2.44%-SUB-3%-DAY-4 / XLP-CUSHION-2.29%-RELIEF-ABOVE-SUB-2% / IRAN-DAY-12-OIL-$102 / WEEK-21-FRESH-3/3-CAP-RESETS
+
+### Account snapshot (Alpaca pre-open ~7:30am ET)
+- **Equity:** $100,269.33 | **Last equity:** $100,605.11 (Fri close adj per Alpaca) | **Day P&L:** -$335.78 (-0.334%) intraday early Mon pre-FOMC de-risk
+- **Settled cash:** $41,286.72 | **Unsettled:** $0 (all XLI proceeds cleared T+1 Fri close ✓) | **Cash account, T+1**
+- **Long MV:** $58,982.61 | **Deployment:** 58.82% (Day 3 BELOW 75-85% band Phase-1 Round 2 on Thu XLI mechanical exit)
+- **Phase P&L:** +$269.33 (+0.269%) — retreats from Fri EOD +0.646% on Mon pre-FOMC-T-1 de-risk + NQ -1.23% AI-IPO-shakeup XLK-drag
+- **Book (3/6 slots, Week 21 Day 1 fresh 3/3 trade cap):**
+  - XLB 388 @ $51.6155 → $50.72 (-1.735% total, -$347.44) | stop $49.5098 (6% trail, HWM $52.67, cushion **2.44%** trail / **5.36%** -7%-cut $48.00) | GTC exp 2026-12-03 (80d) ✅
+  - XLK 105 @ $188.5905 → $183.69 (-2.598% total, -$514.55) | stop $172.575 (10% trail, HWM $191.75, cushion **6.44%** trail / **4.73%** -7%-cut $175.39 = **narrows sub-5% Day 1 escalation**) | GTC exp 2026-11-10 (57d) ✅
+  - XLP 238 @ $83.8515 → $84.10 (+0.296% total, +$59.14) | stop $82.2171 (6% trail, HWM $87.465, cushion **2.29%** trail / **7.85%** -7%-cut $77.98 = **relief above sub-2% Day 1 exits ultra-imminent**) | GTC exp 2026-10-29 (45d) ✅
+
+### Market context (Mon pre-open Sep 14 — PRE-FOMC-T-1-WINDOW-OPENS)
+- **ES futures:** ESU26 ~$7,600-7,690 wide range = **mixed pre-FOMC** (CNBC reports -0.8% early Mon; some sources +0.02% flat); NQ futures **$29,024 (-1.23%)** = tech risk-off leads on **AI IPO shakeup safety-concerns news** + oil-$102 sustained; Dow futures ~$52,495 (-0.15%)
+- **VIX:** **Fri close 15.84 (-11.21% from Thu $17.84)** = **event-premium collapse on CPI-cool relief** (below-17 handle returns); pre-open Mon spot 17.48-18.00 (Marketwatch) suggesting mild re-elevation on NQ-drag + pre-FOMC caution; VIX Sep futures 17.30; **de-risk re-flag DEACTIVATED spot but re-arming intraday on NQ-drag**
+- **Oil:** WTI **$102.44-102.77 sustained above $100** (Iran Day 12) / Brent $107.20-107.66; **GCC foreign ministers meet Iran FM in Salalah, Oman Mon = KEY OIL CATALYST** (framework deal = WTI pullback + risk-on; collapse = WTI $105+ risk-off extends); $100+ sustained = inflation-shock feed pre-FOMC
+- **10Y yield:** ~4.75-4.80% sustained elevated pre-FOMC-T-1 (post-PPI-hot/CPI-cool mixed print digest)
+- **SPY:** Fri close $764.40 mid; ES pre-open mixed suggests $758-763 open range Mon
+- **CPI-Aug-Fri-cool DIGEST D1:** print in-line/slightly-cool → CPI YoY 3.4% M/M +0.4% Core +0.2% consensus met; rate-hike odds Sep FOMC dropped Fri PM
+- **FOMC-Sep-15-16 T-1:** Wed decision 2pm ET + Powell presser 2:30pm; **rate-hike pricing 85-90% per futures per RioTimes** vs **most polled economists still expect hold at 3.50-3.75%** = KEY MARKET UNCERTAINTY; hot hike = risk-off broad; hold surprise = relief-rally
+- **Sector momentum map (YTD post-Fri):** **XLE +45.7-47.7% #1** (Iran-oil-$100+ Day 12 boost), **XLK +29%+ #2** (structural AI-capex mega despite pre-FOMC re-drag), **XLB +12.8% #3**, **XLI +10.5% #4 (exited Thu)**, **XLP +9.6% #5** — RRG: XLK/XLC/XLY/XLF Lagging (rebound alive), Leading quadrant XLB/XLP/XLI/XLE
+- **AI IPO shakeup catalyst:** CNBC reports major shakeup in AI IPO pipeline amid safety concerns = NQ -1.23% + XLK-drag pre-open Mon (single-name idiosyncratic but sector-level contagion tell)
+
+### Economic/earnings calendar today (Mon Sep 14 — QUIET)
+- **US Econ:** **NO US EVENTS SCHEDULED MONDAY** per LiveMint calendar (rare quiet day pre-FOMC)
+- **International:** Canada Aug CPI 8:30am ET (Canadian-only relevance); Oman GCC-Iran FM meeting (oil catalyst)
+- **🔴🔴🔴 Wed Sep 16 2pm ET:** **FOMC decision + 2:30pm Powell presser** — 85-90% hike-priced vs econ-consensus-hold = binary event
+- **🔴 Tue Sep 15 8:30am:** possible NY Empire Manufacturing / Retail Sales Aug (Wed 8:30 per Fed Rate Calc source)
+- **Earnings today:** no major XLB/XLK/XLP-relevant single-names BMO Mon
+
+### Actionable trade ideas (max position $20,000 per Phase-1 paper $100k rule per TRADING-STRATEGY.md; NOT $1,500 despite scheduled prompt — CLAUDE.md/TRADING-STRATEGY.md overrides prompt Phase-1 vs Phase-2 conflict)
+1. **HOLD 3/3 book intact** — NO new buys pre-FOMC-T-1 window opens Mon Day 1; **XLK cushion 4.73% -7%-cut narrows sub-5% Day 1 escalation** on NQ -1.23% AI-IPO-shakeup pre-open; **XLB cushion 2.44% sub-3% Day 4 continues**; XLP cushion 2.29% relief above sub-2% Day 1 exits ultra-imminent
+
+2. **XLE 4th-slot (SPECULATIVE ADD) — RE-DEFER Day 6 post-FOMC-Wed clarity** — WTI $102+ sustained + XLE YTD +45.7% #1 momentum-map + Iran-Day-12-tailwind + GCC/Iran-Oman-Mon oil catalyst; BUT pre-FOMC-T-1 + XLK-cushion-narrows + NQ -1.23% pre-open + FOMC-binary Wed = adding into event-tape amateur; re-eval post-FOMC-Wed 2:30pm reaction window Thu-Fri or opportunistic post-hike-priced-in relief rally
+
+3. **All GTC renewals CLEAR** — XLB 80d, XLK 57d, XLP 45d; next escalation ~Oct 8 (XLP T-21, 24d out); no action today
+
+### Risk factors (Mon Sep 14 open + PRE-FOMC-T-1)
+- 🔴🔴🔴 **FOMC-Sep-15-16 T-1 WINDOW OPENS** — Wed decision 2pm binary 85-90% hike-priced vs econ-consensus-hold = major uncertainty; hot-hike = XLK/XLB/XLP-drag cascade + trail-fire escalation risk; hold-surprise = relief-rally
+- 🔴🔴 **NQ futures -1.23% pre-open + AI IPO shakeup CNBC-reported** = XLK re-drag intraday risk; **XLK cushion 4.73% -7%-cut narrows sub-5% Day 1 escalation** (was 6.60% Fri EOD); sub-$180 = pre-cut watch; sub-$175.39 close = **-7% cut ACTIVE mechanical**
+- 🔴🔴 **XLK trail cushion 6.44% Day 1 narrows** (Fri 8.13% → Mon pre-open 6.44% = -169bps sharp narrowing on pre-open sell-off); sub-$172.58 close = **trail FIRES mechanically** (2nd sleeve exit)
+- 🔴🔴 **XLB mechanical GTC trail-fire ESCALATING Day 4** — cushion **2.44% sub-3% floor** ($1.2102 abs from $49.51); chemicals pre-FOMC-de-risk + PPI-hot cascade Day 4 continues; sub-$50 = pre-fire watch; sub-$49.51 close = trail FIRES
+- 🔴🔴 **Oil WTI $102+ Iran Day 12 sustained** = Strait of Hormuz shipping risk continues; sustained $105+ = inflation-shock cascade + XLK/XLB drag amplifies + XLE-tailwind extends; **GCC/Iran-Oman-Mon FM meeting binary** — framework-deal = WTI pullback relief; collapse = risk-off extension
+- 🔴 **10Y yield 4.75-4.80% sustained pre-FOMC-T-1** = rate-sensitive XLP/XLK/XLB drag persists; hot-hike-Wed = further-up-yield risk 5%+ handle
+- 🔴 **VIX pre-open re-elevating 17.48-18.00 spot** despite Fri close 15.84 = event-premium re-arming pre-FOMC; sustained >18 = de-risk re-flag re-active + XLK cut escalation
+- 🟡 **AI IPO safety-shakeup CNBC** = idiosyncratic single-name news but sector-level XLK contagion tell (NQ -1.23% confirms broad-tech drag)
+- 🟡 **Canada CPI 8:30am** = non-US-direct-impact but cross-market rate-tell
+- 🟢 **XLP cushion 2.29% trail Day 1 relief ABOVE-sub-2%** — Fri close $83.44 → Mon pre-open $84.10 (+0.79%) = **exits ultra-imminent territory**; HWM $87.465 (3.96% above); defensive-bid catches pre-FOMC flight-to-safety
+- 🟢 **XLK -7% cushion 4.73% still ABOVE 3% floor** — comfortable buffer for AI-capex/hyperscaler MEGA-thesis intact; AAPL/ADBE-passed-clean; NVDA/DELL/AVGO/HPE/NTAP thesis; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (both conditions ARMED but not triggered)**
+- 🟢 **Cash $41,286.72 preserved + fully settled T+1** = Week 21 fresh 3/3 trade cap resets Mon + 41.15% dry powder for post-FOMC-Wed opportunistic re-band deploy window
+- 🟢 **GTC runway ALL CLEAR** — XLB 80d, XLK 57d, XLP 45d; no renewal action needed; next escalation Oct 8 (XLP T-21)
+- 🟢 **No US econ events Mon** = quiet pre-FOMC-T-1 tape (rare); reaction-only day
+- 🟢 **CPI-Fri-cool digest D1** = rate-hike odds moderated post-Fri (though futures still price 85-90%); base-case = FOMC-hold-Wed surprise = relief rally
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Mon; PRE-FOMC-T-1 window opens + XLK-cushion-narrows-4.73% + XLB-sub-3% + NQ-1.23%-pre-open + AI-IPO-shakeup + Oman-GCC-Iran-oil-binary + VIX-re-elevating-17.48-18)
+- Positions after fill: 3→4 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 21 fresh cap)
+- Cost ≤ $20,000 20% cap ✓ any candidate (Phase-1 paper)
+- Cost ≤ settled $41,286 ✓ ample headroom
+- Catalyst — **NONE compelling with FOMC-Wed-T-1 event window + XLK-cushion-narrows + AI-IPO-shakeup + Oman-oil-binary**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** FOMC-Sep-15-16-T-1-window-opens + **XLK trail cushion 6.44% Day 1 narrows -169bps + XLK -7%-cut cushion 4.73% narrows sub-5% Day 1 escalation** + XLB trail cushion 2.44% sub-3% Day 4 continues + NQ -1.23% pre-open AI-IPO-shakeup + Oman-GCC-Iran-FM oil binary + VIX pre-open re-elevating 17.48-18 + oil WTI $102+ Iran Day 12 + 10Y 4.75-4.80% sustained + Morgan-Stanley-50-50-hike + futures 85-90%-hike-priced-vs-econ-consensus-hold-binary = **9-priority-elevated Mon = adding into pre-FOMC-Wed-binary tape + XLK-cushion-narrows-risk + Oman-oil-binary = amateur**. Already 3/3 config Day 27 (post-XLI exit) + 58.82% band-below Day 3 (mechanical-exit-consistent) + Phase P&L +0.27% holds. **DEFER 4th-slot to post-FOMC-Wed 2:30pm reaction window Thu-Fri** — clarity on rate-path + XLK-cushion-repair (or fire) resolves event-tape ambiguity.
+
+### Decision: **HOLD** (Week 21 Day 1 / PRE-FOMC-SEP-15-16-T-1-WINDOW-OPENS / XLK-CUSHION-4.73%-CUT-NARROWS-SUB-5%-DAY-1 / XLB-CUSHION-2.44%-SUB-3%-DAY-4 / XLP-CUSHION-2.29%-RELIEF / NQ-1.23%-AI-IPO-SHAKEUP / IRAN-DAY-12-OIL-$102-OMAN-BINARY / CANADA-CPI-8:30 / QUIET-US-CALENDAR)
+- **Rationale:** 3/3 book (2 mild-red XLB/XLK, 1 flat-green XLP); Phase P&L +0.27% retreats from Fri EOD +0.65% (-38bps drag on Mon pre-FOMC-T-1 de-risk + NQ-AI-IPO-shakeup); 58.82% deployed sub-band Day 3 (mechanical-XLI-exit-consistent); **XLK cushion 6.44% trail / 4.73% -7%-cut narrows sub-5% Day 1 escalation on NQ -1.23% pre-open + AI-IPO-shakeup**; **XLB cushion 2.44% sub-3% Day 4 continues**; **XLP cushion 2.29% Day 1 relief exits ultra-imminent sub-2% territory** (Fri $83.44 → Mon pre-open $84.10 +0.79%); patience > activity into FOMC-Wed binary tape; post-Wed 2:30pm reaction window = re-band deploy candidate
+- **XLK Day 27 monitor:** underwater -2.60% cushion 6.44% trail / 4.73% -7%-cut **narrows sub-5% Day 1 escalation** on pre-open NQ-drag; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (both conditions ARMED — VIX 15.84 spot Fri but re-elevating 17.48-18 pre-open Mon = imminent-re-active; NQ pre-open -1.23% approaches -2% trigger)** — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + AAPL-Sep-9-passed-clean + ADBE-Thu-passed + NVDA + DELL/AVGO/HPE/NTAP thesis intact; HWM $191.75 (4.20% above)
+- **XLB monitor:** **trail cushion 2.44% sub-3% Day 4 ESCALATING** — $1.21 abs from mechanical trail-fire $49.51; chemicals PPI-hot-cascade Day 4 + pre-FOMC-de-risk; sub-$50 = pre-fire watch; sub-$49.51 close = **trail FIRES** = 3/6 → 2/6; HWM $52.67 (3.72% above); intraday -0.45% pre-open
+- **XLP monitor:** **trail cushion 2.29% Day 1 relief above sub-2%** — $1.88 abs from mechanical trail-fire $82.22; Fri close $83.44 → Mon pre-open $84.10 (+0.79%); HWM $87.465 (3.96% above); defensive-bid catches pre-FOMC flight-to-safety mild-relief-rally; **exits ultra-imminent trail-fire watch** (still monitor); -7%-cut cushion 7.85% comfortable
+- **Mechanical GTC stops:** all 3 continue riding; **no renewal actions today** (XLB 80d, XLK 57d, XLP 45d); zero manual moves Mon
+- **Watch levels / midday (~12pm ET):**
+  - **🔴 XLK $183.69 hold vs $175.39 -7%-cut** = 4.73% cushion sub-5% Day 1 escalation; sub-$180 = pre-cut watch; sub-$175.39 close = **-7% cut ACTIVE mechanical**
+  - **🔴 XLK $183.69 hold vs $172.575 trail** = 6.44% cushion; sub-$177 = escalation-alert; sub-$172.58 close = **trail FIRES**
+  - **🔴 XLB $50.72 hold vs $49.51 trail** = 2.44% cushion sub-3%; sub-$50 = pre-fire watch; sub-$49.51 close = **trail FIRES**
+  - **XLP $84.10 hold vs $82.22 trail** = 2.29% cushion Day 1 relief; sub-$83 = escalation re-monitors; sub-$82.22 close = trail FIRES
+  - **NQ futures intraday** — hold >29,000 tactical band; NQ -2%+ close AND VIX >17 = XLK cut escalation (both conditions ARMED — VIX re-elevating; NQ approaching -2%)
+  - **VIX 12pm ET check** — sustained >18 = de-risk re-flag re-active + XLK cut escalation intensifies; sub-16 = event-premium recedes despite pre-FOMC
+  - **Oil WTI $102 intraday** — Oman GCC-Iran FM meeting binary: framework-deal = WTI pullback + XLE-drag + XLB/XLK relief; collapse = WTI $105+ risk-off extends
+  - **10Y yield PM** — sustained above 4.85% = XLP/XLK/XLB drag amplifies pre-FOMC-Wed; sub-4.70% = cushion-repair rally
+  - **AI IPO shakeup PM news** — additional safety-concerns headlines = NQ-drag intensifies + XLK cut escalation
+  - **Tue Sep 15 pre-market prep** — NY Empire Manufacturing / Retail Sales Aug preview; pre-FOMC-Wed final-day catalyst
+
+### Today's Discipline
+**HOLD — 3/3 book (2 mild-red XLB/XLK + 1 flat-green XLP) + 58.82% deployed sub-band Day 3 Phase-1-Round-2 (mechanical-XLI-exit-consistent) + Phase P&L +0.27% retreats-from-Fri-EOD-+0.65% on Mon pre-FOMC-T-1-de-risk + NQ-1.23%-AI-IPO-shakeup XLK-drag + PRE-FOMC-SEP-15-16-T-1-WINDOW-OPENS (Wed decision 2pm binary 85-90% hike-priced vs econ-consensus-hold) + XLK-cushion-6.44%-trail/4.73%-cut-narrows-sub-5%-Day-1-escalation + XLB-cushion-2.44%-sub-3%-Day-4-escalating + XLP-cushion-2.29%-Day-1-relief-above-sub-2% + oil-$102-Iran-Day-12-Oman-GCC-Iran-FM-meeting-binary + VIX-pre-open-re-elevating-17.48-18-spot-Fri-close-15.84 + 10Y-4.75-4.80%-sustained + AI-IPO-safety-shakeup-CNBC-reported = 8-priority-elevated Mon = PROTECT POSTURE INTO FOMC-BINARY-WINDOW + XLK-CUT-WATCH + OMAN-OIL-BINARY. XLK Round-2 UNDERWATER DAY 27 CUSHION-NARROWS (4.73% -7%-cut / 6.44% trail = sub-5% Day 1 escalation on NQ-1.23%-AI-IPO-shakeup) — mechanical rule governs; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (both conditions ARMED — VIX 15.84 spot but re-elevating 17.48-18 pre-open Mon = imminent-re-active; NQ pre-open -1.23% approaches -2% trigger)** — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + AAPL-event-passed-clean + ADBE-Thu-passed + NVDA + DELL/AVGO/HPE/NTAP thesis intact. **XLB trail cushion 2.44% sub-3% floor Day 4 ULTRA-IMMINENT — mechanical GTC trail-fire LIVE-IMMINENT — sub-$50 pre-fire watch; sub-$49.51 close FIRES = 3/6 book contracts 2/6.** **XLP trail cushion 2.29% Day 1 relief above sub-2%** — exits ultra-imminent territory; defensive-bid catches pre-FOMC flight-to-safety; HWM $87.465 (3.96% above). Cash $41,286 preserved fully settled T+1 for post-FOMC-Wed 2:30pm opportunistic re-band deploy window + Week 21 fresh 3/3 trade cap. Patience > activity; PRE-FOMC-T-1-window + XLK-cushion-narrows-sub-5% + AI-IPO-shakeup-NQ-drag + Oman-oil-binary + XLB-sub-3%-fire-imminent = mechanical-discipline-day + FOMC-tape-reaction monitor-day, NOT active-trading-day. Winning-config compounding despite pre-FOMC-headwind stack; protect into FOMC-BINARY Wed decision + reaction window Thu-Fri.**
