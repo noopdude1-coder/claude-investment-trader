@@ -10031,3 +10031,88 @@ No new-trade evaluation today. Week 20 3/3 trade cap intact; 5th-slot deferred t
 
 ### Today's Discipline
 **HOLD — 3/3 book (2 red XLB/XLK + 1 green XLP defensive-lead) + 58.83% deployed sub-band Day 4 Phase-1-Round-2 (mechanical-XLI-exit-consistent) + Phase P&L +0.26% holds-pre-FOMC-Day-1 + FOMC-Sep-15-16-BINARY-T-1 (Wed decision 2pm hike-odds 60-86% varied) + XLB-cushion-1.94%-SUB-2%-Day-5-ULTRA-IMMINENT-mechanical-trail-fire-live-CRITICAL + XLK-cut-cushion-4.85%-sub-5%-Day-2-continues + XLP-cushion-2.32%-Day-2-stable + VIX-17.10-Mon-close-SPIKE-+7.95%-sustained-Tue-17.40-17.61 + oil-$103-Iran-Day-13-Strait-Hormuz-persists + 10Y-4.75-4.85%-sustained + Empire-State-Manufacturing-8:30 + Dreamforce-kickoff-1-3pm-Benioff + Wed-triple-catalyst-Retail-Sales+MU/GIS/LEN+FOMC = 9-priority-elevated Tue = PROTECT POSTURE INTO FOMC-BINARY-WED + XLB-FIRE-WATCH-LIVE-CRITICAL + XLK-CUT-WATCH-SUB-5%. XLK Round-2 UNDERWATER DAY 28 CUSHION-NARROWS (4.85% -7%-cut / 6.37% trail = sub-5% Day 2 continues on NQ-drag Mon + AI-narrative-sensitivity) — mechanical rule governs; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (VIX condition ARMED Mon-close-17.10 + Tue-pre-open-17.40-17.61 sustained; NQ Tue-pre-open mixed-red Barrons -0.6% approaches -2% trigger)** — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + Dreamforce-Benioff-1-3pm-catalyst-Tue + NVDA/DELL/AVGO/HPE/NTAP thesis intact. **XLB trail cushion 1.94% SUB-2% floor Day 5 ULTRA-IMMINENT — mechanical GTC trail-fire LIVE-CRITICAL — sub-$50 pre-fire watch; sub-$49.51 close FIRES = 3/6 book contracts 2/6 pre-FOMC-Wed = 2nd sleeve exit in 6 trading days.** **XLP trail cushion 2.32% Day 2 stable** — Mon +1.25% defensive-bid leadership; HWM $87.465 (3.77% above); -7%-cut cushion 7.94% comfortable. Cash $41,286 preserved fully settled T+1 for post-FOMC-Wed 2:30pm opportunistic re-band deploy window + Week 21 fresh 3/3 trade cap 0 consumed. Patience > activity; FOMC-Day-1-binary-T-1 + XLB-cushion-sub-2%-fire-imminent + XLK-cut-sub-5% + VIX-spike-Mon + oil-$103 + Empire-State-8:30 + Dreamforce-Tue + Wed-triple-catalyst = mechanical-discipline-day + FOMC-tape-reaction monitor-day, NOT active-trading-day. Winning-config compounding despite FOMC-binary-headwind stack; protect into FOMC-BINARY Wed decision + reaction window Thu-Fri.**
+
+---
+
+## 2026-09-16 (Wed) — Pre-Market Research — Day 108, Week 21 Day 3 / FOMC-DECISION-DAY-2PM-ET / POWELL-PRESSER-2:30 / RETAIL-SALES-8:30 / 3/3 book / XLP-CUSHION-1.76%-SUB-2%-ULTRA-IMMINENT / XLB-CUSHION-2.50%-SUB-3%-DAY-5
+
+### Account snapshot (Wed pre-open ~7:30am ET Sep 16 — FOMC-DECISION-DAY)
+- **Equity:** $100,332.58 | **Last equity:** $100,190.40 (Alpaca Tue close) | **Day P&L:** +$142.18 (+0.14%) early Wed pre-FOMC-decision
+- **Settled cash:** $41,286.72 | **Unsettled:** $0 | **Cash account, T+1**
+- **Long MV:** $59,045.86 | **Deployment:** 58.85% (Day 5 BELOW 75-85% band Phase-1 Round 2, mechanical-XLI-exit-consistent)
+- **Phase P&L:** +$332.58 (+0.33%) — rebuilds from Tue EOD +0.22% on pre-FOMC-decision mild-relief-bid
+- **Book (3/6 slots, Week 21 Day 3 fresh 0/3 trade cap consumed):**
+  - XLB 388 @ $51.6155 → $50.78 (-1.62% total, -$324.16) | stop $49.5098 (6% trail, HWM $52.67, cushion **2.50%** trail SUB-3% Day 5 / **5.79%** -7%-cut $48.00) | GTC exp 2026-12-03 (78d) ✅
+  - XLK 105 @ $188.5905 → $185.00 (-1.90% total, -$377.00) | stop $172.575 (10% trail, HWM $191.75, cushion **6.72%** trail / **5.19%** -7%-cut $175.39 sub-6% Day 3 mild-repair) | GTC exp 2026-11-10 (55d) ✅
+  - XLP 238 @ $83.8515 → $83.69 (-0.19% total, -$38.44) | stop $82.2171 (6% trail, HWM $87.465, cushion **1.76%** trail SUB-2% ULTRA-IMMINENT / **7.32%** -7%-cut $77.98) | GTC exp 2026-10-29 (43d) ✅
+
+### Market context (Wed pre-open Sep 16 — FOMC-DECISION-DAY)
+- **ES futures:** ES ~$7,604-7,673 = **+0.15-0.21% pre-open Wed** (Sep contract 7,604.75 +15.50 / continuous 7,673.00 vs settle 7,656.00 / Sep 7,672.50 investing) = **mild-green pre-decision de-risk-partial-unwind**; NQ futures **+0.4%** pre-open (tech-bid revives)
+- **VIX:** **Cboe spot 16.90 (-1.74% -0.30)** 7:31am ET (retreats from Tue 17.20 close +0.58%; Mon 17.10 spike +7.95% event-premium recedes as decision-priced-in); Sep VIX futures 16.85 (-1.07%)
+- **Oil:** WTI **$104.70** front-month Oct 2026 futures (spot data mixed $98-105; energyriskiq $105.11 +2.09%) / Brent **$107.99**; **WTI $103-105 sustained Iran-Day-14 Strait-of-Hormuz risk = 4-month high inflation-shock feed FOMC-day**
+- **10Y yield:** Sustained elevated 4.75-5%+ range pre-FOMC-decision (Korean market source cites "10Y breaking above 5%" — hike-hawkish-priced)
+- **SPY:** Tue close $757.70 mid (spec) / ES pre-open +0.20% suggests $758-762 open range Wed
+- **FOMC DECISION DAY:** Wed 2pm ET decision + Powell presser 2:30pm ET + **SEP dot-plot** (median year-end 2026 fed-funds currently 3.8%); **hike odds 92.5% per CME FedWatch (CNBC pre-open cite)** — quarter-point hike heavily priced in; "beginning of new hiking cycle" narrative
+- **Sector YTD:** XLE #1 **+47.5%**, XLK #2 **+27.6%**, XLB **+11.9-15.86%** (source-varied), XLP **+9.59%**; XLK bullish reversal $182 last week +5.46% (Dorsey Wright); XLK 5.5% WTD leader-narrative pre-FOMC
+
+### Economic/earnings calendar today (Wed Sep 16 — FOMC-DECISION-DAY)
+- **🔴🔴🔴 8:30am ET Advance Retail Sales Aug** — consensus **+0.8% MoM** vs -0.6% prior (control group +0.4% vs -0.4% prior); hot = rate-hike-hawkish-priced-further amplifies FOMC-hike; cold = growth-slowdown pre-FOMC-decision
+- **🔴 8:30am ET Import Price Index Aug** — consensus TBD vs -0.4% prior
+- **🔴 10:00am ET Business Inventories July / NAHB Housing Market Index Sep** — consensus 34 vs 35 prior
+- **🔴 10:30am ET EIA Crude Oil Inventories** — Iran-Day-14 supply-shock context
+- **🔴🔴🔴 2:00pm ET FOMC Rate Decision + Statement + SEP dot-plot** — hike-odds 92.5% CME (heavily-priced quarter-point hike); SEP median-2026 fed-funds vs current 3.8% = cut-window verdict
+- **🔴🔴🔴 2:30pm ET Powell press conference** — dovish-guidance-tone = relief-rally; hawkish-hiking-cycle-signal = de-risk cascade
+- **Earnings today (Wed):** GIS BMO + LEN AMC (XLP-tell/XLY-tell); **MU AMC = NOT today (Sep-30 fiscal-Q4)** — earlier scheduled prompt Tue was incorrect on MU-Wed timing per source verification
+
+### Actionable trade ideas (max position $20,000 per Phase-1 paper $100k rule per TRADING-STRATEGY.md; scheduled prompt Phase-2 $1,500 conflict — CLAUDE.md/TRADING-STRATEGY.md overrides)
+1. **HOLD 3/3 book intact** — NO new buys FOMC-DECISION-DAY pre-2pm; **XLP cushion 1.76% trail SUB-2% ULTRA-IMMINENT trail-fire watch LIVE-CRITICAL**; sub-$82.22 close = mechanical trail FIRES = 3/6 → 2/6 intra-FOMC-Wed
+2. **XLE 4th-slot (SPECULATIVE ADD) — RE-DEFER Day 8 post-FOMC-Wed 2:30pm clarity** — WTI $104.70 sustained 4-month-high + XLE YTD #1 +47.5% momentum + Iran-Day-14; BUT FOMC-decision-binary-Wed + XLP-cushion-1.76%-sub-2% + XLB-cushion-2.50%-sub-3% = adding pre-decision-2pm amateur; re-eval post-FOMC-Wed 2:30pm reaction window Thu-Fri
+3. **All GTC renewals CLEAR** — XLB 78d, XLK 55d, XLP 43d; next renewal watch XLP ~Oct 8 T-21 (22d out); no action today
+
+### Risk factors (Wed Sep 16 open + FOMC-DECISION-DAY-BINARY)
+- 🔴🔴🔴🔴 **FOMC-Sep-16 2PM DECISION + POWELL 2:30 + SEP DOT-PLOT = KEY BINARY EVENT** — hike-odds 92.5% CME quarter-point heavily-priced; hot-hike-25bp+hawkish-Powell = XLK/XLB/XLP-drag cascade + XLP-trail-fire mechanical + de-risk broad; hold-surprise-dovish-Powell = relief-rally cushion-repair
+- 🔴🔴🔴 **XLP mechanical GTC trail-fire ULTRA-IMMINENT Day 1 sub-2%** — cushion **1.76% SUB-2% floor** ($1.47 abs from $82.22); Tue -0.88% defensive-bid partial-unwind on VIX-digest; sub-$83 = pre-fire watch; **sub-$82.22 close = trail FIRES mechanically = 3/6 → 2/6 intra-FOMC-Wed = 2nd sleeve exit in 7 trading days**
+- 🔴🔴🔴 **XLB trail cushion 2.50% SUB-3% Day 5 continues** — Tue $50.74 close +0.50% mild-repair pre-FOMC; sub-$50 = escalation-alert; sub-$49.51 close = **mechanical trail FIRES**
+- 🔴🔴 **XLK -7%-cut cushion 5.19% sub-6% Day 3 mild-repair** — Tue $184.07 close (-0.11%); Wed pre-open NQ +0.4% + tech-relief-bid revives; sub-$180 = pre-cut watch; sub-$175.39 close = -7% cut ACTIVE mechanical; XLK trail cushion 6.72% comfortable
+- 🔴🔴 **10Y yield 4.75-5%+ sustained pre-FOMC-Wed = rate-sensitive drag** — hot-hike-hawkish-Wed = further-up-yield risk 5.25%+ handle; sustained 5%+ = XLP/XLK/XLB drag persists
+- 🔴🔴 **Oil WTI $104.70 Iran Day 14 4-month-high** = Strait of Hormuz risk continues; sustained $105+ = inflation-shock cascade amplifies + XLK/XLB drag + XLE-tailwind extends
+- 🔴 **Retail Sales 8:30am consensus +0.8%** — hot = rate-hike-priced-further pre-FOMC = XLK/XLB/XLP-drag Wed AM; cold = growth-slowdown pre-decision
+- 🔴 **Powell presser 2:30pm tone-tell** — "new hiking cycle" signal = de-risk cascade + XLP-trail-fire imminent; "one-off hike + pause" = relief-rally + cushion-repair
+- 🟡 **VIX 16.90 pre-open receding (-1.74% from 17.20 Tue close)** — event-premium recedes as decision-priced-in; sustained sub-17 open = de-risk-partial-unwind pre-decision; post-Powell 2:30 = binary volatility spike expected either direction
+- 🟢 **NQ futures +0.4% pre-open** = tech-relief-bid revives pre-FOMC + XLK-cushion-partial-repair support (Tue -0.11% flat)
+- 🟢 **XLK trail cushion 6.72% comfortable** — well above 3% floor; STRUCTURAL AI-capex/hyperscaler MEGA-thesis intact + Dorsey-Wright bullish-reversal $182 + XLK +5.46% WTD momentum; NO CUT unless -7% breaches $175.39 close OR NQ -2%+ AND VIX >17
+- 🟢 **Cash $41,286.72 preserved + fully settled T+1** = Week 21 fresh 3/3 trade cap 0 consumed Day 3 + 41.15% dry powder for post-FOMC-Wed 2:30pm opportunistic re-band deploy window
+- 🟢 **GTC runway ALL CLEAR** — XLB 78d, XLK 55d, XLP 43d; no renewal action needed today
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Wed; FOMC-DECISION-DAY-2PM-BINARY + XLP-cushion-sub-2%-ultra-imminent + XLB-cushion-sub-3%-Day-5 + retail-sales-8:30 + Powell-2:30 + oil-$104-Iran-Day-14 + hike-odds-92.5%)
+- Positions after fill: 3→4 (≤6 ✓ mechanically)
+- Trades this week: 0→1 (≤3 ✓ mechanically, Week 21 fresh cap Day 3)
+- Cost ≤ $20,000 20% cap ✓ any candidate (Phase-1 paper)
+- Cost ≤ settled $41,286 ✓ ample headroom
+- Catalyst — **NONE compelling with FOMC-decision-Wed-2pm-binary + XLP-sub-2%-fire-imminent + XLB-sub-3%-Day-5**
+- Instrument stock ✓
+- **STRATEGIC OVERRIDE:** FOMC-DECISION-DAY-Sep-16 (Wed 2pm binary hike-odds 92.5% quarter-point heavily-priced + Powell presser 2:30pm + SEP dot-plot) + **XLP trail cushion 1.76% SUB-2% Day 1 ULTRA-IMMINENT mechanical trail-fire live-critical** + XLB trail cushion 2.50% sub-3% Day 5 continues + XLK -7%-cut cushion 5.19% sub-6% Day 3 + Retail-Sales-8:30-consensus-+0.8% + oil-$104-Iran-Day-14-4mo-high + 10Y-4.75-5%+ = **10-priority-elevated Wed = adding pre-FOMC-2pm-decision-binary + XLP-fire-imminent + XLB-fire-Day-5 = amateur**. Already 3/3 config Day 29 (post-XLI-exit) + 58.85% band-below Day 5 (mechanical-consistent) + Phase P&L +0.33% intraday-holds. **DEFER 4th-slot to post-FOMC-Wed 2:30pm reaction window Thu-Fri** — clarity on rate-path decision + SEP-dot-plot + Powell-tone + XLP-fire (or repair) + XLB-fire (or repair) resolves event-tape ambiguity.
+
+### Decision: **HOLD** (Week 21 Day 3 / FOMC-DECISION-DAY-Sep-16-2PM-BINARY / POWELL-PRESSER-2:30 / RETAIL-SALES-8:30 / XLP-CUSHION-1.76%-SUB-2%-ULTRA-IMMINENT / XLB-CUSHION-2.50%-SUB-3%-DAY-5 / XLK-CUT-5.19%-SUB-6%-DAY-3 / VIX-16.90-PRE-OPEN-RECEDING / OIL-$104-IRAN-DAY-14 / HIKE-ODDS-92.5%)
+- **Rationale:** 3/3 book (2 red XLB/XLK, 1 near-flat XLP); Phase P&L +0.33% intraday-holds pre-FOMC-decision; 58.85% deployed sub-band Day 5 (mechanical-XLI-exit-consistent); **XLP cushion 1.76% SUB-2% Day 1 ULTRA-IMMINENT trail-fire watch LIVE-CRITICAL** — sub-$82.22 close = mechanical FIRES = 3/6 → 2/6 intra-FOMC-Wed; **XLB cushion 2.50% sub-3% Day 5 continues** — sub-$49.51 close = mechanical FIRES; XLK cut cushion 5.19% sub-6% Day 3 mild-repair; patience > activity into FOMC-decision-binary; post-Wed 2:30pm reaction window = re-band deploy candidate Thu-Fri
+- **XLK Day 29 monitor:** underwater -1.90% cushion 6.72% trail / 5.19% -7%-cut sub-6% Day 3 mild-repair; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (VIX condition receding pre-open 16.90 -1.74%; NQ Wed pre-open +0.4% = tech-bid-relief)** — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + Dorsey-Wright-bullish-reversal + NVDA/DELL/AVGO/HPE/NTAP thesis intact; HWM $191.75 (3.65% above)
+- **XLB monitor:** trail cushion 2.50% SUB-3% Day 5 continues; $1.27 abs from mechanical trail-fire $49.51; Tue +0.50% mild-repair chemicals/materials; sub-$50 = pre-fire watch; sub-$49.51 close = **trail FIRES** = 3/6 → 2/6 intra-FOMC-Wed; HWM $52.67 (3.59% above)
+- **XLP monitor:** **trail cushion 1.76% SUB-2% Day 1 ULTRA-IMMINENT-MECHANICAL** — $1.47 abs from mechanical trail-fire $82.22; Tue -0.88% defensive-bid partial-unwind on VIX-digest; HWM $87.465 (4.31% above); -7%-cut cushion 7.32% comfortable
+- **Mechanical GTC stops:** all 3 continue riding; **no renewal actions today** (XLB 78d, XLK 55d, XLP 43d); zero manual moves Wed
+- **Watch levels / midday (~12pm ET pre-FOMC-2pm):**
+  - **🔴🔴 XLP $83.69 hold vs $82.22 trail** = 1.76% cushion SUB-2% Day 1 ULTRA-IMMINENT; sub-$83 = pre-fire watch; sub-$82.22 close = **trail FIRES**
+  - **🔴 XLB $50.78 hold vs $49.51 trail** = 2.50% cushion sub-3% Day 5; sub-$50 = pre-fire watch; sub-$49.51 close = **trail FIRES**
+  - **XLK $185.00 hold vs $175.39 -7%-cut** = 5.19% cushion sub-6% Day 3; sub-$180 = pre-cut watch; sub-$175.39 close = **-7% cut ACTIVE mechanical**
+  - **XLK $185.00 hold vs $172.575 trail** = 6.72% cushion; sub-$177 = escalation-alert; sub-$172.58 close = trail FIRES
+  - **8:30am Retail Sales Aug** — hot +0.8%+ = rate-hike-priced-further + XLB/XLK-drag; cold sub-0% = growth-slowdown signal
+  - **8:30am Import Price Index Aug** — hot = inflation-shock feed
+  - **10:30am EIA Crude Oil Inventories** — Iran-Day-14 context
+  - **2:00pm FOMC decision + statement + SEP dot-plot** — hike-odds 92.5% quarter-point heavily-priced; hold-surprise = dovish-relief-rally; hawkish-hike-cycle = de-risk cascade + XLP-fire-Wed
+  - **2:30pm Powell presser** — "new hiking cycle" = XLP/XLB-fire imminent; "one-off + pause" = cushion-repair rally
+  - **VIX PM check** — sub-16 = event-premium receded / above-18 post-decision = de-risk cascade
+  - **10Y yield PM** — sustained above 5% = XLP/XLK/XLB drag amplifies post-hike; sub-4.70% = dovish-relief cushion-repair
+  - **NQ futures intraday** — hold >29,000 tactical band; NQ -2%+ close AND VIX >17 = XLK cut escalation (VIX condition may reset post-Powell)
+  - **Thu-Fri reaction window** = post-FOMC opportunistic 4th-slot re-band deploy candidate (dependent Wed-decision outcome)
+
+### Today's Discipline
+**HOLD — 3/3 book (2 red XLB/XLK + 1 near-flat XLP) + 58.85% deployed sub-band Day 5 Phase-1-Round-2 (mechanical-XLI-exit-consistent) + Phase P&L +0.33% intraday-holds-pre-FOMC-decision + FOMC-DECISION-DAY-Sep-16-2PM-BINARY (Wed decision 2pm hike-odds 92.5% quarter-point heavily-priced + Powell presser 2:30pm + SEP dot-plot) + XLP-cushion-1.76%-SUB-2%-Day-1-ULTRA-IMMINENT-mechanical-trail-fire-live-CRITICAL + XLB-cushion-2.50%-sub-3%-Day-5-continues + XLK-cut-cushion-5.19%-sub-6%-Day-3-mild-repair + VIX-16.90-pre-open-receding-(-1.74%-from-Tue-17.20) + oil-$104.70-Iran-Day-14-4mo-high-Strait-Hormuz + 10Y-4.75-5%+-sustained + Retail-Sales-8:30-consensus-+0.8% + Powell-presser-2:30 = 10-priority-elevated Wed = PROTECT POSTURE INTO FOMC-BINARY-DECISION + XLP-FIRE-WATCH-LIVE-CRITICAL + XLB-FIRE-WATCH-DAY-5. XLK Round-2 UNDERWATER DAY 29 CUSHION-MILD-REPAIR (5.19% -7%-cut / 6.72% trail = sub-6% Day 3 mild-repair on NQ-pre-open-+0.4% tech-relief-bid) — mechanical rule governs; **NO CUT unless -7% breaches $175.39 close OR NQ closes -2%+ AND VIX >17 (VIX condition receding pre-open 16.90 -1.74%; NQ Wed pre-open +0.4% = tech-relief-bid revives)** — STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + Dorsey-Wright-bullish-reversal-$182-XLK-+5.46%-WTD + NVDA/DELL/AVGO/HPE/NTAP thesis intact. **XLP trail cushion 1.76% SUB-2% floor Day 1 ULTRA-IMMINENT — mechanical GTC trail-fire LIVE-CRITICAL — sub-$83 pre-fire watch; sub-$82.22 close FIRES = 3/6 book contracts 2/6 intra-FOMC-Wed = 2nd sleeve exit in 7 trading days.** **XLB trail cushion 2.50% sub-3% Day 5 continues** — Tue $50.74 +0.50% mild-repair; sub-$49.51 close = trail FIRES. Cash $41,286 preserved fully settled T+1 for post-FOMC-Wed 2:30pm opportunistic re-band deploy window + Week 21 fresh 3/3 trade cap 0 consumed Day 3. Patience > activity; FOMC-DECISION-2PM-BINARY-Wed + XLP-cushion-sub-2%-fire-imminent + XLB-cushion-sub-3%-Day-5 + Retail-Sales-8:30 + Powell-presser-2:30-tone-tell + oil-$104-Iran-Day-14 + hike-odds-92.5%-priced = mechanical-discipline-day + FOMC-tape-reaction monitor-day, NOT active-trading-day. Winning-config compounding despite FOMC-binary-headwind stack; protect into FOMC-BINARY Wed 2pm + Powell 2:30 + reaction window Thu-Fri.**
