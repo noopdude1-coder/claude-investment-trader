@@ -10358,3 +10358,51 @@ No new-trade evaluation today. Week 20 3/3 trade cap intact; 5th-slot deferred t
 
 ### Today's Discipline
 **HOLD — 3/3 book (1 red XLB + 1 red-narrow XLP + 1 GREEN XLK) + 58.87% deployed sub-band Day 8 Phase-1-Round-2 + Phase P&L +0.39% pre-open + POST-FOMC-REACTION-DAY-3 + WEEK-22-OPEN + XLP-cushion-0.04%-AT-STOP-ULTRA-CRITICAL-FIRE-IMMINENT + XLB-cushion-0.98%-sub-1%-Day-1 + XLB-EX-DIV-$0.22859-mechanical-open-drop-narrows-further + XLK-HWM-ratchet-imminent-0.02%-below-$191.76 + VIX-14.97-low-vol-bull-Day-3 + oil-$93-95-sub-$100-Day-5-disinflation-tailwind + Goolsbee-10:30-Fed-speaker + Chicago-Fed-12:30-NAI + Trump-Xi-UNGA-summit + Houthis-Saudi-oil-supply-risk = 11-priority-elevated Mon = TRIPLE-MECHANICAL-EVENT-DAY protect-posture. XLK Day 33 GREEN cushion-comfortable + HWM-ratchet-imminent mechanical GTC-AUTO. XLP cushion-AT-STOP fire-imminent-Mon-open-most-critical. XLB cushion-sub-1%-plus-ex-div fire-imminent-narrows-further. Cash $41,286 preserved + Week 22 fresh 3/3 trade cap = Tue post-fire-resolution deploy-window candidate. Patience > activity; mechanical-discipline-day, NOT active-trading-day.**
+
+## 2026-09-22 — Pre-market Research (Tue, Week 22 Day 2 / POST-FOMC-DAY-4 / XLP-EXIT-DAY-2)
+
+### Account
+- Equity: $100,588.63 (Alpaca last_equity $100,590.73 → -$2.10 mild-drift overnight)
+- Settled cash: $41,286.72 (immediate deployable) + $19,557.28 unsettled XLP T+1 to Wed 9/23 = $60,844 total cash
+- Buying power: $354,660.96 (informational only — cash account, T+1, DO NOT SIZE against this)
+- Positions: 2 / 6 (XLB + XLK) — Open orders: 2 GTC trailing-stops — Trades this week: 0 / 3
+
+### Positions Snapshot
+- **XLB:** 388 sh, entry $51.615, close Mon $49.71, -3.69% (-$739.32); GTC trail-stop $49.5098 6% (HWM $52.67); cushion **0.40% CRITICAL sub-1% Day 2 = MECHANICAL-FIRE-IMMINENT**; MV $19,287.48
+- **XLK:** 105 sh, entry $188.59, close Mon $194.83, +3.31% (+$655.15); GTC trail-stop $175.581 10% (HWM $195.09 dual-ratcheted Mon $191.75→$194.065→$195.09); cushion 9.87% trail / 10.51% -7%-cut comfortable; MV $20,457.15
+- **Combined MV:** $39,744.63 = **deployment 39.51%** (Day 8 WELL BELOW 75-85% band Round-2 post-XLI + post-XLP contraction)
+
+### Market Context
+- **WTI / Brent:** WTI ~$93/bbl, Brent ~$101/bbl (data-source spread $89-$97 WTI; oil unwound geopolitical premium Mon -3-5% but modestly bid pre-open Tue on Brent +1.7% ~$101.7 = mild-reverse; disinflation-tailwind Day 6 for XLK/XLB but XLE-tailwind fading)
+- **S&P 500 futures:** ES ~7,826-7,828 = little-changed / fractionally-higher pre-open after Mon Nasdaq record-high close; SPY $774.03 pre-open ($773.225 Mon close +0.10%); Dow futures +0.2%
+- **VIX:** 14.81 spot (Mon close 14.87; sub-15 Day 4 low-vol-bull post-FOMC-relief holds; risk of re-spike on hawkish Fed-speak)
+- **Today's catalysts:** (1) **Fed Williams speech + Fed Jefferson speech** (post-FOMC first-week tone-tell = XLK/XLB direction); (2) AI-momentum continuation (Meta +11% Mon on Muse AI agent, AMD >$1T market cap first-time, Nasdaq record); (3) Trump-Xi summit optimism = risk-on tone; (4) 10Y yield sub-5% dovish-repair Day 3
+- **Earnings before open (thin docket):** AZO (AutoZone, $6.8B cap, expected-move ±5.6%), THO (Thor Industries, $2.2B), MLKN (MillerKnoll, $1.6B), HERE (Here Group). Micron MU reports AMC (Q4 FY26, $50B revenue est — major AI-chip read-through XLK)
+- **Economic calendar this week:** Tue THIN (Fed speakers only); **Wed: Flash Mfg + Services PMI 9:45am**; Thu: Jobless Claims + New Home Sales; **Fri: PCE Core (major Fed watch)**; next CPI Oct 14
+- **Sector momentum YTD:** XLE +42% (leader), **XLK +35% (held #2)**, **XLB +10% (held #3)**, XLY -6% / XLU -5% / XLC -3% laggards; Mon rotation Tech leader, energy lagged; last-week ETF outflows XLK/XLB/XLY largest
+
+### Trade Ideas
+Default HOLD posture Day 8 sub-75% band ONLY appropriate to break with high-conviction post-XLB-fire-resolution + Wed T+1 settlement. Candidates for post-fire redeploy window (Tue PM / Wed / Thu):
+1. **XLE re-entry** — energy #1 YTD +42%; oil bid $101 Brent + Trump-Xi risk-on + XLE-tailwind if oil holds; entry $95-96 zone on pullback, stop -7% $88.50, target $105 (R:R 1.7:1); MAX $1,500 Phase-2 equivalent / $20K paper; **cost-basis ~$19,500 = fits Wednesday settled cash**
+2. **SMH semis** — AMD >$1T + Nvidia +5.36% Mon + AI-chip MEGA-thesis continuation Day-N; entry $310-315 zone, stop -7% $290, target $340 (R:R 2.0:1); AI-capex/hyperscaler tailwind XLK-overlap high correlation risk
+3. **XLI industrials re-entry** — Round-1 XLI exited Thu mechanical trail; if XLI re-basing above $155 with volume-weighted-average-reclaim on Trump-Xi trade-deal read-through, entry $155-157 zone, stop -7% $145, target $170 (R:R 2.0:1); prior sector — proceed cautious per 2-consecutive-fail rule Round-2 clean
+
+### Risk Factors
+- **🔴🔴🔴 XLB CRITICAL FIRE-IMMINENT** — trail cushion 0.40% Day 2 sub-1%; sub-$49.51 gap or first-hour close = MECHANICAL trail-fires GTC engine = book contracts 2/6 → 1/6 (XLK-only); expected loss $739+ realized (388 sh × ($49.5098-$51.615) = -$816.44 total realized)
+- 🔴🔴 Fed Williams + Jefferson tone-tell today first post-FOMC week — hawkish-continuation = XLK-drag re-emerges + VIX-spike + XLB-cascade-fire; dovish = XLK ratchets HWM further + cushion-repair XLB
+- 🔴🔴 Deployment 39.51% Day 8 = major benchmark-drag risk if broad-market rallies (Mon underperformed SPY by -152bps on XLP-mech-exit; today XLK-only leadership insufficient offset if broad-index continues)
+- 🔴 Oil price whiplash Mon -5% → Tue Brent +1.7% = mixed disinflation-signal noise for XLK/XLB direction
+- 🔴 AI-momentum extended (Nasdaq record, AMD >$1T, Meta +11%) = pullback risk if MU misses AMC or Fed-speak hawkish
+- 🟡 Thin economic calendar Tue = macro-quiet = single-name / Fed-speech dominates tape
+- 🟢 XLK dual-HWM-ratchet Mon (stop $172.575 → $174.6585 → $175.581) = mechanical profit-protection engaged; cushion 9.87% comfortable
+- 🟢 VIX 14.81 low-vol-bull Day 4 = event-premium-gone continues
+- 🟢 GTC runway ALL-CLEAR — XLB `be3d2a00` exp 12/3 (73d), XLK `ad940893` exp 11/10 (50d); next renewal watch XLK T-21 ~Oct 20 (29d out)
+- 🟢 Trump-Xi summit optimism + Meta AI-agent Muse + AMD $1T = risk-on tape supports XLK held position
+
+### Decision
+**HOLD** — no manual trades Tue. Mechanical XLB trail-stop governs (fire-imminent-watch Day 2 sub-1% cushion). Redeploy window defer to **post-fire-resolution Tue PM / Wed post-T+1-settlement** per pre-market Decision framework. Rationale:
+- (1) XLB sub-1% cushion = new-buy Tue would compound mechanical-fire risk if fires plus new-position drawdown
+- (2) T+1 constraint: $41,286.72 immediate-settled only; XLP $19,557.28 unsettled Wed 9/23 = full $60,844 available Wed
+- (3) Fed Williams + Jefferson tone-tell Tue = binary macro-signal — post-signal + post-XLB-resolution provides cleaner Tuesday-PM/Wed-AM entry
+- (4) Week 22 3/3 fresh cap unconsumed = defer 1 or 2 slots to post-fire-resolution; NO high-conviction catalyst forces buy Tue AM
+- (5) Patience > activity per rule; deployment 39.51% Day 8 defensive-hold sub-band expected/rule-consistent while book-restructures post-XLI + post-XLP double-exit
