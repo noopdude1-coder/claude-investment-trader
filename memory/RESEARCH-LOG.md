@@ -10481,3 +10481,75 @@ Default HOLD posture Day 8 sub-75% band ONLY appropriate to break with high-conv
 
 ### Today's Discipline
 **HOLD — 2/2 book (1 red-narrowing XLB IMMINENT-WATCH + 1 GREEN XLK-leader-strengthening) + 39.78% deployed sub-band Day 9 Phase-1-Round-2 (post-XLI + post-XLP contraction-consistent) + Phase P&L +1.036% HOLDS-above-milestone + POST-FOMC-DAY-5 + XLB-cushion-1.96%-at-2%-threshold-Day-2-IMMINENT-WATCH + XLK-dual-HWM-ratchet-Tue-mechanical-profit-protection-engaged + XLK-EX-DIV-PAY-$23.17-cash-credit + VIX-14.21-low-vol-bull-Day-5 + oil-$89-90-sub-$90-Day-6-DEEP-disinflation-tailwind + Flash-PMI-9:45-FIRST-post-FOMC-macro-read + 4-Fed-speakers-Williams-Jefferson-Barkin-Barr + Meta-Connect-keynote-7pm-AI-metaverse-referendum + Nasdaq-record-close-continuation + Trump-Xi-summit-optimism = triple-catalyst-day = PROTECT POSTURE INTO PMI + FED-SPEAK + META-CONNECT-KEYNOTE + XLB-FIRE-WATCH-DAY-2. XLK Day 37 GREEN cushion-comfortable + HWM-auto-ratchet-mechanical-GTC + STRUCTURAL AI-capex MEGA-INTACT. XLB cushion-repair-Day-2 continues but at-threshold monitor. Cash $60,844 fully-settled + Week 22 fresh 3/3 trade cap = post-macro-signal Wed PM / Thu AM deploy window. Patience > activity; mechanical-discipline-day + macro-signal-day, NOT active-trading-day. Winning-config compounding + Phase +1.036% holds first +1% milestone Day 9.**
+
+
+## 2026-09-24 — Pre-market Research (Thu, Week 22 Day 4 / POST-FOMC-DAY-6 / XLP-EXIT-DAY-4 / XLB-CUSHION-ULTRA-IMMINENT-DAY-1 / XLK-PULLBACK-DAY-2 / TRUMP-XI-SUMMIT-DAY / JOBLESS-CLAIMS-8:30 / OIL-RE-SPIKE-DAY-1)
+
+### Account (Thu pre-open ~8am ET Sep 24 — POST-FOMC-DAY-6)
+- **Equity:** $100,476.18 | **Last equity:** $100,863.34 (Alpaca Wed-close-adj) | **Overnight drift:** -$387.16 (-0.384%)
+- **Settled cash:** $60,844.00 (fully settled Tue EOD) | **Unsettled:** $0 | **Cash account, T+1**
+- **Buying power:** $354,346.10 (informational only — DO NOT SIZE against)
+- **Long MV:** $39,632.18 | **Deployment:** 39.44% (Day 11 WELL BELOW 75-85% band Round-2 post-XLI + post-XLP contraction — mechanical-consistent)
+- **Phase P&L:** +$476.18 (+0.476%) — RETREATS from Wed EOD +0.813% (-34bps overnight); below Tue +1.051% first-milestone
+- **Book (2/6 slots, Week 22 Day 4 fresh 0/3 trade cap):**
+  - XLB 388 sh @ $51.6155 → $49.91 (-3.30%, -$661.72) | stop $49.5098 (6% trail, HWM $52.67, cushion **0.80%** trail ULTRA-IMMINENT sub-1% Day 1 / **3.98%** -7%-cut $48.00 IMMINENT-approach) | GTC `be3d2a00` exp 2026-12-03 (70d) ✅
+  - XLK 105 sh @ $188.5905 → $193.02 (+2.35%, +$465.10) | stop $177.012 (10% trail, HWM $196.68 dual-ratcheted Tue+Wed $195.09→$195.67→$196.505→$196.68), cushion **8.29%** trail comfortable / **10.04%** -7%-cut $175.39 comfortable) | GTC `ad940893` exp 2026-11-10 (47d) ✅
+- **Trades this week:** 0 / 3 (Week 22 fresh cap intact Day 4)
+
+### Market Context (Thu pre-open Sep 24 — POST-FOMC-DAY-6 + TRUMP-XI-SUMMIT-DAY)
+- **WTI / Brent:** WTI **~$97-98/bbl** (FXEmpire real-time $97.58; investing.com day range $88.72-$92.88; Fortune $89.84 Sep 22); **oil-re-spike Day 1 REVERSES Wed sub-$90 disinflation-tailwind = XLB feedstock-cost pressure re-engages + XLK relief-Day-6 fades**; Brent ~$88-98 (data conflicts, Riotimes $88.88); Polymarket 100% WTI-above-$95 week-of-Sep-21 = re-spike confirmed
+- **S&P 500 futures:** ES ~**7,826** (CNN -5.75 / -0.07%); mixed 7,720-7,840 timing-variance; Wed SPY closed $767.735 (-0.761% pullback Day 1); pre-open flat / fractionally-lower Trump-Xi-day
+- **VIX:** **15.18 spot** (Tue 14.21 → Wed close 15.18 = **+6.83% Day 1 spike** — event-drag re-emerges but still sub-16 = low-vol regime holds; sub-15 = full-relief / above-16 = event-drag re-arms)
+- **Today's catalysts:**
+  - **8:30am ET Initial Jobless Claims (est 201K vs prior 196K)** = FIRST post-FOMC-Fed-speak macro read = jobs-cooling signal (mild-loosening); hot = risk-on / cold = growth-slowdown-cascade
+  - **8:30am ET Continuing Claims (est 1,750K vs prior 1,730K)** = labor-slack read
+  - **10:00am ET New Home Sales August (est 0.62M vs prior 0.607M)** = housing-signal
+  - **1:00pm ET Treasury 7-Year Note auction $44B** (yield-signal)
+  - **2:00-2:30pm ET Trump-Xi Summit at White House** = MAJOR geopolitical/trade catalyst (consensus: quiet trade-truce extension = mildly-supportive risk; failure = massive volatility injection global markets; rare earths / aircraft / agriculture concrete announcements watched)
+  - Fed Williams speech (post-FOMC first-week continuation)
+- **Earnings BMO (thin, no XLK/XLB sleeve-tell):** DRI (Darden $23.8B Q1 FY27 EPS est $2.08), SNX (TD SYNNEX $19.1B Q3 FY26 EPS est TBD), BXMT (Blackstone Mortgage $9.8B Q3 EPS est $0.27). AMC: COST (Costco $401B Q4 FY26 EPS est $6.55, mega-cap staples), BB (BlackBerry). Micron (MU) reports Sep 30 AMC (major AI-chip read-through TBD)
+- **Sector momentum YTD (Sep 23 data):** **XLK #2 YTD +35.7%** (chartrow; Fidelity +29.49%; State Street momentum-composite **+1.28 leader**), Energy #1 +39.5% (WTI re-spike Day 1 = XLE-momentum-re-engages), **XLB +10.9% YTD** (Fidelity +10.74%; State Street momentum **-0.58 weakening** 1M -3.15%); rotation-map XLK leading + XLB weakening + XLE re-engaging tail-risk
+
+### Trade Ideas
+1. **HOLD 2/2 book intact + XLB TRAIL-FIRE-CRITICAL** — post-FOMC-Day-6 + XLK-pullback-Day-2 + oil-re-spike-Day-1 + VIX-15.18-event-drag-Day-1 + Trump-Xi-summit-2pm; **XLB ULTRA-IMMINENT cushion 0.80%** ($0.40 abs from $49.51) — mechanical-fire risk RE-ESCALATES from Wed 1.37% → Thu pre-open 0.80% (-57bps overnight); **NO buys pre-open** — Jobless Claims 8:30am + Trump-Xi 2pm = binary macro-signal-day; defer any 4th-slot deploy to post-summit Thu PM / Fri AM per pre-market Decision framework; entry $N/A, stop $N/A, target $N/A
+2. **XLE 4th-slot re-eval Day 14 CONDITIONAL** — WTI re-spikes $97-98/bbl Day 1 = XLE-tailwind RE-ENGAGES; Energy #1 YTD +39.5% momentum-leader but +40%+-priced-in tail-risk; re-eval post-Trump-Xi + oil-trend-confirm 3+ days; entry defer $N/A, stop $N/A, target $N/A
+3. **SMH semis re-eval** — Meta Connect keynote Wed absorbed (AI-metaverse referendum); AMD >$1T + Nvidia AI-chip momentum; Micron Sep 30 catalyst; HIGH XLK-overlap correlation-risk = defer to post-Micron Oct 1 if separate-momentum signal warrants; entry defer $N/A, stop $N/A, target $N/A
+
+### Risk Factors (Thu Sep 24 pre-open + POST-FOMC-DAY-6 + TRUMP-XI-SUMMIT-DAY + JOBLESS-CLAIMS + OIL-RE-SPIKE-DAY-1)
+- 🔴🔴🔴 **XLB mechanical GTC trail-fire ULTRA-IMMINENT Day 1** — cushion **0.80% sub-1%** ($0.40 abs from $49.51); Wed close $50.19 → Thu pre-open $49.91 = -0.56% overnight; **sub-$49.51 close = trail FIRES mechanically = 2/6 → 1/6 XLK-only book**; State Street XLB momentum -0.58 weakening + 1M -3.15% Fidelity tail-risk; Seeking Alpha Sep 22: chemicals "overvalued with limited upside"
+- 🔴🔴 **Trump-Xi Summit 2:00-2:30pm ET** = binary macro-signal (consensus: quiet trade-truce extension = mildly-supportive risk-on / failure = massive volatility injection global markets; deep tech/tariff/geopolitical disputes unresolved; rare earths / aircraft / agriculture concrete-announcements watched; markets treating as "stability event" not "breakthrough event")
+- 🔴🔴 **8:30am ET Initial Jobless Claims (est 201K vs prior 196K)** = jobs-cooling read; hot = risk-on continuation / cold = growth-slowdown-signal = XLB cushion-cascade + trail-fire mechanical
+- 🔴 **Oil WTI re-spike Day 1 $89 Wed → $97-98/bbl Thu** = disinflation-tailwind Day 6 REVERSES; XLB feedstock-cost pressure re-engages; XLK relief-fade; XLE momentum-re-engages tail-risk
+- 🔴 **VIX 15.18 +6.83% Day 1 spike** — event-drag re-emerges; sub-15 = full-relief / above-16 = event-drag re-arms + panic-cascade; today Trump-Xi + jobless-claims = spike-risk
+- 🔴 Deployment 39.44% Day 11 = major benchmark-drag risk if broad-market rallies (Wed bot -0.236% vs SPY -0.761% = +52bps outperform; today Trump-Xi-success = SPY-rally-catch-up-risk)
+- 🔴 XLK -1.19% overnight ($195.34 Wed close → $193.02 Thu pre-open) = pullback-Day-2 continuation post-Nasdaq-record profit-taking + Meta-Connect-absorbed; +2.35% unrealized retreats from Wed +3.50% (-115bps overnight drift)
+- 🟡 XLB State Street momentum -0.58 weakening + 1M -3.15% Fidelity tail-risk = sector-rotation-warning-flag Round-2 monitor; chemicals overvalued warning
+- 🟡 Trump-Xi Taiwan-arms-sale-threat looming = escalation-tail-risk
+- 🟢 **XLK Round-2 STRENGTHENING Day 38** — +$465.10 profit; State Street momentum +1.28 leader; AI-capex/hyperscaler MEGA-thesis intact + Meta Muse AI-agent + AMD >$1T + Nvidia momentum; cushion 8.29% trail / 10.04% -7%-cut comfortable well above 3% floor; HWM $196.68 (1.86% above current = ratchet-runway)
+- 🟢 VIX 15.18 still sub-16 = low-vol-bull regime holds despite +6.83% Day 1 spike
+- 🟢 Cash $60,844 fully-settled = 60.55% dry powder + Week 22 fresh 3/3 trade cap = post-summit + post-jobless-claims deploy window Thu PM / Fri AM candidate
+- 🟢 GTC runway ALL-CLEAR — XLB `be3d2a00` exp 2026-12-03 (70d), XLK `ad940893` exp 2026-11-10 (47d); next renewal watch XLK T-21 ~Oct 20 (26d out)
+- 🟢 Nasdaq YTD +20.9% + SPY YTD +13.2% + Trump-Xi truce-extension-consensus + AI-momentum = risk-on tape supports XLK held position
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Thu; POST-FOMC-Day-6 + XLB-ULTRA-IMMINENT-cushion-0.80% + Trump-Xi-summit-2pm + Jobless-Claims-8:30 + Oil-re-spike-Day-1 + VIX-15.18-event-drag-Day-1 + XLK-pullback-Day-2)
+- **STRATEGIC OVERRIDE:** Thu open = **binary-catalyst-day** (8:30am Jobless Claims + 2:00pm Trump-Xi Summit + 10:00am New Home Sales + 1:00pm 7Y Treasury auction + WTI-re-spike-Day-1 reversal) + XLB cushion-sub-1%-ULTRA-IMMINENT + Nasdaq-record-pullback-Day-2 = **NO-high-conviction-catalyst pre-open forces buy**. DEFER any 4th-slot deploy to post-summit Thu PM / Fri AM when Trump-Xi outcome + XLB-fire-resolution + jobless-claims-signal clarified. Cash $60,844 fully settled + Week 22 3/3 fresh cap = ample runway.
+
+### Decision: **HOLD** (Thu Sep 24 / POST-FOMC-DAY-6 / WEEK-22-DAY-4 / XLP-EXIT-DAY-4 / XLB-CUSHION-ULTRA-IMMINENT-DAY-1 / XLK-PULLBACK-DAY-2 / TRUMP-XI-SUMMIT-2PM / JOBLESS-CLAIMS-8:30 / NEW-HOME-SALES-10:00 / 7Y-TREASURY-AUCTION-1:00 / OIL-RE-SPIKE-DAY-1-$97-98 / VIX-15.18-EVENT-DRAG-DAY-1)
+- **Rationale:** 2/2 book (1 red-CRITICAL XLB ULTRA-IMMINENT + 1 GREEN XLK-leader-pullback-Day-2); Phase P&L +0.476% retreats -34bps overnight below +1% milestone; 39.44% deployed sub-band Day 11 (mechanical-post-XLI+XLP-consistent); **XLB cushion 0.80% ULTRA-IMMINENT Day 1** — sub-$49.51 close = trail FIRES mechanically = 2/6 → 1/6; XLK dual-HWM-ratchet Tue+Wed mechanical profit-protection engaged + AI-momentum leader intact but pullback-Day-2; patience > activity into binary-catalyst-day (Trump-Xi + jobless-claims + oil-re-spike); Thu PM / Fri AM = post-summit deploy-window candidate
+- **XLK Day 38 monitor:** GREEN +2.35% (Wed +3.50% → Thu -1.19% overnight = pullback-Day-2 continuation); cushion 8.29% trail / 10.04% -7%-cut comfortable; **NO CUT unless -7% breaches $175.39 close OR NQ -2%+ AND VIX >17 (VIX 15.18 sub-16; NQ pullback-Day-2 but no cascade-signal)**; STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + Meta Muse AI-agent + AMD >$1T + Nvidia; HWM $196.68 = further gains >$196.69 close = additional HWM auto-ratchet mechanical GTC-shift AUTO
+- **XLB monitor:** trail cushion **0.80% ULTRA-IMMINENT Day 1** (Mon 0.40% CRITICAL → Tue 2.02% repair → Wed 1.37% mild-drift → Thu pre-open 0.80% RE-CRITICAL); $0.40 abs from mechanical trail-fire $49.51; HWM $52.67 (5.53% above); -7%-cut cushion 3.98% approaching-IMMINENT; State Street momentum -0.58 weakening + 1M -3.15% Fidelity + chemicals-overvalued flag = sector-rotation-warning; **sub-$49.51 close = trail FIRES**
+- **Mechanical GTC stops:** both continue riding; **no renewal actions today** (XLB 70d, XLK 47d); zero manual moves Thu; XLK escalate ~Oct 20 T-21 (26d out)
+- **Watch levels / midday (~12pm ET):**
+  - **🔴🔴🔴 XLB $49.91 hold vs $49.51 trail** = 0.80% cushion ULTRA-IMMINENT sub-1% Day 1; sub-$49.75 = pre-fire watch; sub-$49.51 close = **trail FIRES mechanically = 2/6 → 1/6**
+  - **🟢 XLK $193.02 vs $196.68 HWM** = 1.86% below (post-ratchet); recovery close >$196.69 = additional HWM auto-ratchet mechanical GTC-shift AUTO
+  - **8:30am Jobless Claims (est 201K vs prior 196K)** — hot = XLB relief-continuation / cold = growth-slowdown-cascade + XLB fire-cascade
+  - **10:00am New Home Sales** — housing-signal
+  - **1:00pm 7Y Treasury auction $44B** — yield-signal
+  - **2:00-2:30pm Trump-Xi Summit** — truce-extension = risk-on / failure = massive volatility injection + XLB fire-cascade
+  - **VIX PM** — sub-15 = full-relief return / above-16 = event-drag re-arms + panic-cascade
+  - **10Y yield PM** — sustained sub-4.75% = further XLB/XLK repair / above 5% = drag re-emerges + XLB fire-cascade
+  - **Oil WTI intraday** — sub-$95 = disinflation-Day-6 re-engages / above $100 = re-spike inflation-cascade re-arms + XLB feedstock-pressure
+  - **Fri Sep 25 pre-market prep** — no data (per CNBC), post-summit + post-XLB-fire-resolution + post-jobless-claims deploy-window candidate
+
+### Today's Discipline
+**HOLD — 2/2 book (1 red-CRITICAL XLB ULTRA-IMMINENT-cushion-0.80%-sub-1%-Day-1 + 1 GREEN XLK-leader-pullback-Day-2) + 39.44% deployed sub-band Day 11 Phase-1-Round-2 (post-XLI + post-XLP contraction-consistent) + Phase P&L +0.476% RETREATS-below-milestone + POST-FOMC-DAY-6 + XLB-cushion-0.80%-ULTRA-IMMINENT-DAY-1 + XLK-pullback-Day-2 (Wed +3.50% → Thu +2.35% -115bps overnight) + VIX-15.18-event-drag-Day-1-+6.83%-spike + oil-WTI-re-spike-Day-1-$97-98-reverses-Wed-sub-$90-disinflation-tailwind + Jobless-Claims-8:30-est-201K-vs-prior-196K + New-Home-Sales-10:00 + 7Y-Treasury-auction-1:00 + Trump-Xi-Summit-2:00-2:30pm-binary-macro-catalyst + Nasdaq-record-pullback-Day-1-consolidation + XLE-tailwind-re-engages-oil-re-spike = binary-catalyst-day = PROTECT POSTURE INTO JOBLESS-CLAIMS + TRUMP-XI-SUMMIT + XLB-FIRE-CRITICAL-WATCH-DAY-1. XLK Day 38 GREEN cushion-comfortable + HWM-auto-ratchet-mechanical-GTC + STRUCTURAL AI-capex MEGA-INTACT + pullback-Day-2-continuation. XLB cushion-collapse-Day-1-post-repair sub-1% ULTRA-IMMINENT + State Street -0.58 weakening + chemicals-overvalued-warning. Cash $60,844 fully-settled + Week 22 fresh 3/3 trade cap = post-Trump-Xi + post-XLB-fire-resolution Thu PM / Fri AM deploy window. Patience > activity; mechanical-discipline-day + binary-macro-signal-day + XLB-fire-critical-day, NOT active-trading-day. Winning-config compounding + Phase +0.476% Day 11 below-milestone requires fire-resolution + summit-outcome to reset.**
