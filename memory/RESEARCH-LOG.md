@@ -10716,3 +10716,82 @@ Default HOLD posture Day 8 sub-75% band ONLY appropriate to break with high-conv
 - (3) XLK sole-sleeve Day 1 approaches HWM $196.94 (0.11% above Fri after-hours $196.79) = close >$196.95 = mechanical HWM auto-ratchet AUTO
 - (4) Fed Bowman 8:15am + Cook 1:25pm AI-thematic + Barkin + Dallas Fed Mfg 2:30pm = binary Fed-tone Mon-day; post-signals + Tue-Wed-Fri-mega-events + Week-23-fresh-3/3-cap-preserved = cleaner deploy-window post-Micron Wed-Thu
 - (5) XLB sector exit CONFIRMED per Strategy Rule 10 (2 consecutive Round-2 failures Aug 12 + Sep 25) = materials-sector no-re-entry Round-2; alternative sectors (XLI industrials Round-3? XLC comm-services? XLE energy already +42% mature? SMH semis post-Micron?) all defer post-Micron / post-Jobs; NO high-conviction catalyst forces buy Mon AM; patience > activity per rule; deployment 20.33% Day 13 defensive-hold sub-band expected/rule-consistent while book-restructures pre-Micron-Sep-30 + pre-Jobs-Oct-2
+
+
+## 2026-09-29 — Pre-market Research (Tue, Week 23 Day 2 / POST-FOMC-DAY-11 / PRE-PCE-WED-T-1 / PRE-MICRON-WED-T-1 / PRE-JOBS-FRI-T-3 / XLK-SOLE-SLEEVE-DAY-2 / OIL-DE-ESCALATION-DAY-4 / VIX-16.07-EVENT-DRAG-RE-ARMS-DAY-1 / CONSUMER-CONFIDENCE + JOLTS + CASE-SHILLER + DALLAS-FED-SVC-DAY)
+
+### Account (Tue pre-open ~7:22am ET Sep 29 — POST-FOMC-DAY-11 / WEEK-23-DAY-2)
+- **Equity:** $100,549.81 | **Last equity:** $100,474.50 (Alpaca Mon-close-adj) | **Overnight drift:** +$75.31 (+0.075%) — XLK pre-market $195.25 vs Mon close $194.53 = +0.37% mild-recovery Day-1
+- **Settled cash:** $80,048.85 (XLB proceeds cleared T+1 Mon Sep 28) | **Unsettled:** $0 | **Cash account, T+1**
+- **Buying power:** $377,598.08 (informational only — DO NOT SIZE against)
+- **Long MV:** $20,500.96 | **Deployment:** 20.39% (Day 14 WELL BELOW 75-85% band Round-2 post-XLI + post-XLP + post-XLB-fire contraction — mechanical-consistent; sole-sleeve XLK-only)
+- **Phase P&L:** +$549.81 (+0.550%) — RECOVERS from Mon EOD +0.475% (+7bps overnight); still below Tue Sep 22 +1.051% first-milestone
+- **Book (1/6 slots, Week 23 Day 2 fresh 3/3 trade cap):**
+  - XLK 105 sh @ $188.5905 → $195.2472 (+3.53%, +$698.96) | stop $177.246 (10% trail, HWM $196.94), cushion **9.22%** trail / **10.18%** -7%-cut $175.39 | GTC `ad940893` exp 2026-11-10 (42d) ✅
+- **Trades this week:** 0 / 3 (Week 23 fresh cap intact Day 2 Tue)
+
+### Market Context (Tue pre-open Sep 29 — POST-FOMC-DAY-11 / WEEK-23-DAY-2 / PRE-PCE-WED / PRE-MICRON-WED / PRE-JOBS-FRI)
+- **WTI / Brent:** WTI **~$92-96/bbl** (Buckhead $92.83 spot Sep 29 dated; twelvedata $93.98; APA $94.31 Nov contract; FXEmpire $96.89; Simply Wall St warns >$108 Hormuz-spike headline); WTI **DE-ESCALATION Day 4** from Sep 22-24 $97-98 spike but Hormuz-latent risk resurfacing intraday; Brent **~$99.51/bbl** (Robinhood prediction market Sep 29 5pm EDT); WTI-Brent spread narrows ~$6-7; **Trump-Iran-Hormuz overhang persists** = geopolitical risk latent
+- **S&P 500 futures:** ES ~**7,735-7,762** ranged (Regards-of-Wall Street $7,746 -0.05%; Investing $7,746.25; Business Insider $7,735 -0.15%; CNN $7,762.50 +0.53%; strongbuyanalytics $7,742.25 -0.06%); **mildly-mixed fractionally-lower pre-open**; Mon SPY closed **-0.77%** (yield-spike-drag), Nasdaq futures $30,574 +0.03%, Dow futures $51,779 -0.11%, Russell $2,837 -0.11%
+- **VIX:** **16.07 spot** (Mon close 16.07 **+8.07%** = event-drag Day 1 RE-ARMS from Fri 14.87 full-relief; **above 16 = event-drag RE-ARMS + panic-cascade watch**); sub-15 relief lost; term-structure watch; skew elevated
+- **10Y Treasury yield:** persistent rise pressure (Mon session yield-spike drove -0.77% SPY sell-off + XLK -0.89%); 5.24% invalidation level cited by strongbuyanalytics = XLK-drag threshold; sustained above 5% = drag re-emerges (Trump-Iran-Hormuz-latent-inflation-cascade)
+- **Today's catalysts:**
+  - **9:00am ET S&P/Case-Shiller Home Price Index YoY (Jul)** — consensus **+2.0%** = housing-tone-tell
+  - **10:00am ET Conference Board Consumer Confidence (Sep)** — consensus **90.1** vs prior 89.4 = **HIGH-sensitivity** consumer-tone
+  - **10:00am ET JOLTS Job Openings (Aug)** — consensus **7.23M** vs prior 7.271M = **HIGH-sensitivity** labor-cool-tell + Fed-rate-path
+  - **10:30am ET Dallas Fed Services / Texas Services Survey** = regional-svc tone
+  - **11:30am ET 3-Month + 6-Month Treasury Bill auctions** = yield-signal
+  - **Fed speaker(s) — Bowman-Cook-Barkin cascade post-Mon absorbed; no scheduled Tue high-tier Fed speeches confirmed**
+- **Earnings BMO (no XLK-sleeve-tell major):** **CCL (Carnival Q3 10:00am ET)**, **KMX (CarMax Q2)**, AIR (AAR Corp); AMC: PAYX (Paychex), CALM (Cal-Maine Foods), NKE-adjacent
+- **Week ahead catalysts:** **Wed Sep 30 = MEGA-EVENT-DAY** PCE Price Index 8:30am (**+3.2% YoY forecast**) + ADP Employment + GDP Final Q2 + **Micron (MU) AMC = XLK-major-catalyst**; **Thu Oct 1** Jobless Claims + ISM Manufacturing PMI + ISM Prices; **Fri Oct 2 = MEGA-EVENT-DAY** Nonfarm Payrolls (est **~90-100K vs prior 162K**) + Unemployment Rate + AHE
+- **Sector momentum:** **Energy #1 XLE +42% YTD**; **S&P 500 IT #2 XLK ~+27% YTD** (+9% 3M momentum); AI-momentum leader with Micron-Wed-catalyst = binary sole-sleeve read-through; Nvidia $150B buyback expanded + MSFT Copilot/AI momentum + AMD +37% Sep alone; JP Morgan says Mag-7 valuation reset "may already be done"
+
+### Trade Ideas
+1. **HOLD 1/6 book (XLK sole-sleeve) + PRE-MEGA-EVENT-WEEK-T-1** — Day 2 Week 23 + XLK Day 43 sole-sleeve +3.53% + VIX-16.07-event-drag-Day-1 + Consumer-Confidence/JOLTS-10am + pre-Micron-Wed + pre-PCE-Wed + pre-Jobs-Fri; **NO buys pre-open Tue** — deploy window candidate = post-Micron Wed-Thu / post-PCE Wed / post-Jobs Fri per pre-market Decision framework; Week 23 fresh 3/3 cap preserved for post-macro-signal deploy; entry $N/A, stop $N/A, target $N/A
+2. **SMH semis 2nd-slot pre-Micron re-eval CONDITIONAL** — Micron Sep 30 AMC = major AI-chip catalyst Wed; HIGH XLK-overlap correlation-risk (SMH ≥60% XLK-overlap NVDA/AMD/AVGO/MU top-4) = **DEFER** to post-Micron Oct 1 if separate-momentum signal warrants; entry defer $N/A, stop $N/A, target $N/A
+3. **XLC 2nd-slot 4th-slot candidate CONDITIONAL** — Communication Services non-Tech-overlap diversifier vs XLK-concentration-risk; re-eval post-macro-signal Wed-Fri; entry defer $N/A, stop $N/A, target $N/A
+4. **XLB non-recycle** — sector exit CONFIRMED per 2-consecutive-fails rule (Aug 12 + Sep 25); NO XLB re-entry Round-2
+
+### Risk Factors (Tue Sep 29 pre-open + POST-FOMC-DAY-11 + WEEK-23-DAY-2 + PRE-PCE-WED + PRE-MICRON-WED + PRE-JOBS-FRI + CONSUMER-CONFIDENCE-JOLTS-10AM + VIX-16.07-EVENT-DRAG-RE-ARMS)
+- 🔴🔴 **VIX 16.07 = event-drag Day 1 RE-ARMS** (Fri 14.87 sub-15 relief LOST; +8.07% Mon spike); above 16 = panic-cascade watch; sustained VIX >17 = XLK-drag intensifies pre-Micron-Wed catalyst
+- 🔴🔴 **XLK sole-sleeve concentration risk Day 2** — 1/6 book with XLK 20.39% deployment; single-sector drawdown = full-book drawdown; Micron Wed AMC binary = miss cascades XLK -3-5% intraday risk
+- 🔴🔴 **Wed Sep 30 = TRIPLE MEGA-EVENT-DAY T-1** — PCE (+3.2% YoY forecast) 8:30am + Micron AMC + ADP + GDP Final Q2 = binary macro-day; hot PCE = Fed-hawkish-repricing + XLK-drag / cold PCE = risk-on / Micron beat = AI-capex-confirmation + XLK-rally / Micron miss = AI-narrative-crack + XLK-cascade
+- 🔴🔴 **Fri Oct 2 MEGA-EVENT-DAY T-3** — Nonfarm Payrolls ~90-100K vs 162K prior (est slowdown) + Unemployment + AHE = jobs-day; weak jobs = growth-slowdown-signal + XLK-cascade
+- 🔴 **10:00am Consumer Confidence 90.1 forecast + JOLTS 7.23M forecast** — dual HIGH-sensitivity 10am release; cold Confidence + cold JOLTS = consumer/labor-cool cascade / hot = risk-on relief
+- 🔴 **10Y yield persistent rise** — Mon session yield-spike drove SPY -0.77% + XLK -0.89%; sustained above 5% = XLK-drag re-emerges; 5.24% strongbuyanalytics invalidation level = XLK-cascade threshold
+- 🔴 **Trump-Iran Hormuz-supply overhang** — persistent geopolitical risk; Simply Wall St flags WTI >$108 Hormuz-spike scenario intraday; oil-spike = inflation-cascade + XLK-drag
+- 🔴 **Deployment 20.39% Day 14 = MAJOR benchmark-drag risk** if broad-market rallies Wed-Fri post-catalyst (Fri bot +0.118% vs SPY +0.550% = -43bps underperform sole-sleeve state); +80% cash uninvested during risk-on window = severe opportunity-cost
+- 🔴 **XLB SECTOR EXIT CONFIRMED per rule** — no-re-entry Round-2; XLI industrials (Round-3?) / XLC comm-services / SMH semis (post-Micron) candidates for 2nd-slot; all defer post-macro-signal
+- 🟢 **XLK Round-2 STRENGTHENING Day 43 sole-sleeve** — +$698.96 profit (+3.53%); State Street momentum leader; AI-capex/hyperscaler MEGA-thesis intact + Nvidia $150B buyback expanded + MSFT Copilot/AI momentum + AMD +37% Sep + Micron-Wed-catalyst; cushion 9.22% trail / 10.18% -7%-cut comfortable well above 3% floor; HWM $196.94 (0.86% below at-current $195.25)
+- 🟢 **Cash $80,048.85 fully-settled** = 79.61% dry powder + Week 23 fresh 3/3 trade cap = full runway for post-Micron + post-PCE + post-Jobs deploy Wed-Fri window
+- 🟢 **Oil WTI de-escalation Day 4** ($92-96 range base, Buckhead $92.83 Sep 29 dated most reliable) = inflation-cascade risk eases relative to Sep 22-24 spike; consumer + chemicals + tech-capex relief-Day-2
+- 🟢 **GTC runway ALL-CLEAR** — XLK `ad940893` exp 2026-11-10 (42d, HWM $196.94); next renewal watch XLK T-21 ~Oct 20 (21d out)
+- 🟢 **AI-momentum leadership continues** — Meta/AMD/MSFT/NVDA rally + Micron-Wed-catalyst; XLK premarket $195.14-195.25 (+0.31%) = mild-recovery Day-1 post-Mon-pullback
+
+### Buy-Side Gate — NOT INVOKED (default HOLD Tue; POST-FOMC-Day-11 + Week-23-Day-2 + Consumer-Confidence-JOLTS-Case-Shiller-10am + Dallas-Fed-Svc-10:30 + PCE-Wed-T-1 + Micron-Wed-AMC-T-1 + Jobs-Fri-T-3 + Oil-de-escalation-Day-4 + VIX-16.07-event-drag-Day-1 + XLK-sole-sleeve-Day-2)
+- **STRATEGIC OVERRIDE:** Tue open = **Pre-mega-event-day T-1** (Wed PCE + Micron + Fri Jobs) + XLK-approaches-HWM $196.94 (0.86% below) + VIX-16.07-event-drag-Day-1 = **NO-high-conviction-catalyst pre-open forces buy**. DEFER 2nd-slot / 4th-slot deploy to post-Micron Wed-Thu + post-PCE Wed + post-Jobs Fri per pre-market Decision framework. Cash $80,048.85 fully settled + Week 23 3/3 fresh cap = maximum runway; deferring to post-mega-event-signal window Wed-Fri.
+
+### Decision: **HOLD** (Tue Sep 29 / POST-FOMC-DAY-11 / WEEK-23-DAY-2 / PRE-PCE-WED-T-1 / PRE-MICRON-WED-T-1 / PRE-JOBS-FRI-T-3 / CONSUMER-CONFIDENCE-JOLTS-CASE-SHILLER-10AM / DALLAS-FED-SVC-10:30 / OIL-DE-ESCALATION-DAY-4 / VIX-16.07-EVENT-DRAG-RE-ARMS-DAY-1 / XLK-SOLE-SLEEVE-DAY-2)
+- **Rationale:** 1/6 book (XLK sole-sleeve +3.53%); Phase P&L +0.550% recovers +7bps overnight from Mon EOD +0.475%; 20.39% deployed sub-band Day 14 (mechanical-post-XLI+XLP+XLB-consistent); pre-mega-event-day T-1 (Wed PCE + Micron AMC + Fri Jobs) = binary-macro-day tomorrow; Week 23 fresh 3/3 trade cap preserved for post-macro-signal deploy Wed-Fri per pre-market Decision framework; patience > activity into pre-Micron pre-PCE pre-Jobs binary-week
+- **XLK Day 43 monitor sole-sleeve:** +3.53% (Mon EOD +3.149% → Tue pre-open +3.53% = +38bps overnight mild-recovery); cushion 9.22% trail / 10.18% -7%-cut comfortable; **NO CUT unless -7% breaches $175.39 close OR NQ -2%+ AND VIX >17 (VIX 16.07 above-16 = watch)**; STRUCTURAL AI-capex/hyperscaler MEGA-INTACT + Nvidia $150B buyback + MSFT AI + AMD +37% Sep + Micron-Wed-catalyst-major; HWM $196.94 = further close >$196.95 = additional HWM auto-ratchet mechanical GTC-shift AUTO
+- **Mechanical GTC stops:** XLK GTC continues riding; **no renewal actions today** (42d runway); zero manual moves Tue; XLK escalate ~Oct 20 T-21 (21d out)
+- **Watch levels / midday (~12pm ET):**
+  - **🟢 XLK $195.25 vs $196.94 HWM** = 0.86% below; recovery close >$196.95 = additional HWM auto-ratchet mechanical GTC-shift AUTO; $177.246 trail cushion 9.22% comfortable no-fire-zone
+  - **9:00am Case-Shiller HPI** — housing-tone tell
+  - **10:00am Consumer Confidence** — 90.1 forecast; cold = consumer-cool-cascade / hot = risk-on
+  - **10:00am JOLTS** — 7.23M forecast; cold = labor-cool + Fed-dovish-repricing / hot = Fed-hawk-repricing + yield-spike-drag
+  - **10:30am Dallas Fed Services / Texas Services** — regional-svc tone
+  - **VIX PM** — sustained above 16 = event-drag re-arms into Wed / sub-15 return = full-relief
+  - **10Y yield PM** — sub-4.75% sustained = risk-on / above 5% = drag re-emerges (Trump-Iran-Hormuz-latent-catalyst); 5.24% strongbuyanalytics invalidation
+  - **Oil WTI intraday** — sub-$92 = de-escalation-Day-4 accelerates / above $95 = re-spike inflation-cascade re-arms
+  - **Wed Sep 30 MEGA-EVENT-DAY prep** — PCE 8:30am + ADP + GDP Final + Micron AMC = binary-macro-day for XLK held-position + 2nd-slot deploy candidate post-Micron
+  - **Fri Oct 2 MEGA-EVENT-DAY** — Nonfarm Payrolls (est ~90-100K) + Unemployment + AHE = jobs-day binary
+
+### Today's Discipline
+**HOLD — 1/6 book (XLK GREEN sole-sleeve +3.53%) + 20.39% deployed sub-band Day 14 Phase-1-Round-2 (post-XLI + post-XLP + post-XLB-fire contraction-consistent) + Phase P&L +0.550% RECOVERS-toward-milestone +7bps overnight + POST-FOMC-DAY-11 + WEEK-23-DAY-2 + PRE-MEGA-EVENT-WEEK T-1 (Wed PCE + Micron AMC + Fri Jobs) + XLK-pre-market-mild-recovery-Day-1 (Mon $194.53 → Tue $195.25 +0.37% from Mon -0.887% pullback) + VIX-16.07-event-drag-RE-ARMS-Day-1 (Fri 14.87 sub-15 relief LOST +8.07% Mon spike) + oil-WTI-de-escalation-Day-4-$92-96-from-Sep-22-24-$97-98-spike + Brent-$99-104-narrowing-spread + Trump-Iran-Hormuz-latent-catalyst + Consumer-Confidence-10am-90.1-forecast + JOLTS-10am-7.23M-forecast + Case-Shiller-9am + Dallas-Fed-Svc-10:30 + light-Fed-speaker-Tue-day + XLB-sector-exit-CONFIRMED-2-consecutive-fails-rule + XLK-HWM-$196.94-0.86%-below + Meta/AMD/MSFT/NVDA-AI-momentum + Nvidia-$150B-buyback + Micron-Wed-AI-chip-major-catalyst-T-1 = pre-mega-event-week + defensive-hold-Tue + Week-23-fresh-3/3-cap-preserved-for-post-macro-signal-deploy. XLK Day 43 GREEN cushion-comfortable + STRUCTURAL AI-capex MEGA-INTACT + sole-sleeve-concentration-risk-Day-2. Cash $80,048.85 fully-settled + Week 23 fresh 3/3 trade cap = maximum runway; deploy window candidate = post-Micron Wed-Thu / post-PCE Wed / post-Jobs Fri per pre-market Decision framework. Patience > activity; pre-mega-event-day-T-1 + mechanical-discipline-day + XLK-sole-sleeve-monitor-day + Consumer-Confidence/JOLTS-binary-signal-day, NOT active-trading-day. Winning-config compounding + Phase +0.550% Day 14 below-milestone requires post-Micron 2nd-slot-deploy + XLK-HWM-ratchet-continuation to reset toward +1% + eventually band-target 75-85%.**
+
+- (1) Tue = Week 23 Day 2 defensive-hold + pre-mega-event-day T-1 (Wed PCE + Micron + Fri Jobs) = process-heavy defensive-discipline-day not active-trading-day
+- (2) Cash $80,048.85 fully-settled + Week 23 fresh 3/3 cap = maximum runway preserved for post-macro-signal deploy Wed-Fri
+- (3) XLK sole-sleeve Day 2 mild-recovery $195.25 vs HWM $196.94 (0.86% below) = close >$196.95 = mechanical HWM auto-ratchet AUTO
+- (4) VIX 16.07 event-drag-RE-ARMS Day 1 (Fri 14.87 sub-15 relief LOST +8.07% Mon spike) = watch above-16 threshold pre-Wed-Micron catalyst
+- (5) 10:00am Consumer-Confidence (90.1) + JOLTS (7.23M) dual-HIGH-sensitivity = binary consumer/labor Tue-catalyst-day; post-signals + Wed-Thu-Fri-mega-events + Week-23-fresh-3/3-cap-preserved = cleaner deploy-window post-Micron Wed-Thu; NO high-conviction catalyst forces buy Tue AM; patience > activity per rule; deployment 20.39% Day 14 defensive-hold sub-band expected/rule-consistent while book-restructures pre-Micron-Sep-30 + pre-Jobs-Oct-2
